@@ -1,4 +1,4 @@
-# Busca 365
+# 365prints
 
 Índice pesquisável dos vídeos do quadro "365 dias de impressão 3D" do [@unipedia3d](https://www.instagram.com/unipedia3d/). Projeto de fã, sem fins lucrativos: o site mostra título, resumo, transcrição e links; os vídeos continuam no TikTok e no Instagram.
 

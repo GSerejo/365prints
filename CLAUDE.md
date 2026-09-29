@@ -1,4 +1,4 @@
-# Busca 365
+# 365prints
 
 Índice pesquisável (projeto de fã, sem fins lucrativos) dos vídeos do quadro "365 dias de impressão 3D" do @unipedia3d (TikTok + Instagram).
 

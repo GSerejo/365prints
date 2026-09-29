@@ -67,7 +67,7 @@ export function formatDuration(seconds: number) {
   return `${m}:${String(s).padStart(2, "0")}`;
 }
 
-export const SITE_NAME = "Busca 365";
+export const SITE_NAME = "365prints";
 export const CREATOR = "@unipedia3d";
 export const CREATOR_LINKS = {
   tiktok: "https://www.tiktok.com/@unipedia3d",

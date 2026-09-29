@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Image from "next/image";
 import Link from "next/link";
+import { Logo365prints } from "@/components/Logo365prints";
 import { CREATOR, CREATOR_LINKS, SITE_NAME } from "@/lib/videos";
 import "./globals.css";
 
@@ -32,20 +34,35 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
     <html lang="pt-BR" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col font-sans">
         <header className="border-b border-line">
-          <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-            <Link href="/" className="flex items-center gap-2 font-semibold tracking-tight">
-              <span aria-hidden className="grid size-7 place-items-center rounded-md bg-accent text-xs font-bold text-accent-ink">
-                365
-              </span>
-              {SITE_NAME}
+          {/* As duas marcas lado a lado: 365prints leva à busca, unipedia3D leva ao Instagram dele. */}
+          <div className="mx-auto flex max-w-6xl items-center gap-3 px-4 py-3 sm:gap-4">
+            <Link href="/" aria-label={`${SITE_NAME}: página inicial`} className="text-ink">
+              <Logo365prints id="logo-header" className="h-9 w-auto sm:h-10" />
             </Link>
+            <span aria-hidden className="h-7 w-px bg-line" />
             <a
               href={CREATOR_LINKS.instagram}
               target="_blank"
               rel="noopener"
-              className="text-sm text-muted hover:text-ink"
+              aria-label={`${CREATOR} no Instagram`}
+              className="transition-opacity hover:opacity-80"
             >
-              {CREATOR}
+              <Image
+                src="/brand/unipedia-escuro.png"
+                alt="unipedia 3D"
+                width={387}
+                height={95}
+                priority
+                className="h-5 w-auto dark:hidden sm:h-6"
+              />
+              <Image
+                src="/brand/unipedia-branco.png"
+                alt="unipedia 3D"
+                width={387}
+                height={95}
+                priority
+                className="hidden h-5 w-auto dark:block sm:h-6"
+              />
             </a>
           </div>
         </header>
