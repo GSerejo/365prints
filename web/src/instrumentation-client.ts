@@ -12,5 +12,8 @@ if (key) {
         : "https://us.posthog.com",
     defaults: "2026-08-30",
     person_profiles: "identified_only",
+    // Só estatísticas de uso: nada de gravar a tela de quem visita (e o site não usa pesquisas).
+    disable_session_recording: true,
+    disable_surveys: true,
   });
 }
