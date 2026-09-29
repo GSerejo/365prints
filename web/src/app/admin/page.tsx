@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { ActivityChart } from "@/components/admin/ActivityChart";
 import { BarList, Card, EmptyState, SplitBar, StatTile } from "@/components/admin/parts";
-import { requireAdmin } from "@/lib/admin/session";
+import { adminLabel, requireAdmin } from "@/lib/admin/session";
 import { getDashboard, RANGES, type DashboardData, type Range } from "@/lib/admin/stats";
 import { videos } from "@/lib/videos";
 import { logout } from "./actions";
@@ -21,7 +21,7 @@ const dateTime = new Intl.DateTimeFormat("pt-BR", {
 });
 
 export default async function AdminPage({ searchParams }: PageProps<"/admin">) {
-  await requireAdmin();
+  const user = await requireAdmin();
 
   const requested = Number((await searchParams).periodo);
   const range: Range = RANGES.find((r) => r === requested) ?? 30;
@@ -57,7 +57,8 @@ export default async function AdminPage({ searchParams }: PageProps<"/admin">) {
           <h1 className="text-2xl font-bold tracking-tight">Painel de uso</h1>
           <p className="text-sm text-muted">O que as pessoas procuram e assistem no site.</p>
         </div>
-        <form action={logout}>
+        <form action={logout} className="flex items-center gap-3">
+          <span className="text-sm text-muted">Entrou como {adminLabel(user)}</span>
           <button className="rounded-lg border border-line px-3 py-1.5 text-sm hover:border-accent">Sair</button>
         </form>
       </div>
