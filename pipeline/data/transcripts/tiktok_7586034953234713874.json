@@ -1,0 +1,62 @@
+{
+  "text": "Pare tudo o que você estiver fazendo, o Maker Lab acabou de liberar isso. Bem-vindo ao dia 145 e essa ferramenta é oficial e gratuita que faz quadros no estilo Rio Forge direto no navegador. Esqueça configurações complicadas, é só o parafoto e ele automaticamente calcula as camadas e a troca de cor. Ele ainda te dá a opção de escolher diversas paletas diferentes, mas você ainda pode fazer um ajuste fino e escolher a cor que você quiser. E depois de pronto é só exportar o 3MF O arquivo vem prontinho com todas as trocas de cores Eu utilizei um bico 0.4 e os detalhes ainda assim ficam incríveis E só gastando 32 gramas de filamento É uma ótima pedida pra presentear alguém nesse fim de ano Eu tô usando aqui pra fazer o álbum do meu casamento Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Pare tudo o que você estiver fazendo, o Maker Lab acabou de liberar isso."
+    },
+    {
+      "start": 5.1,
+      "end": 12.3,
+      "text": "Bem-vindo ao dia 145 e essa ferramenta é oficial e gratuita que faz quadros no estilo Rio Forge direto no navegador."
+    },
+    {
+      "start": 12.5,
+      "end": 19.3,
+      "text": "Esqueça configurações complicadas, é só o parafoto e ele automaticamente calcula as camadas e a troca de cor."
+    },
+    {
+      "start": 19.5,
+      "end": 25.9,
+      "text": "Ele ainda te dá a opção de escolher diversas paletas diferentes, mas você ainda pode fazer um ajuste fino e escolher a cor que você quiser."
+    },
+    {
+      "start": 25.9,
+      "end": 28.4,
+      "text": "E depois de pronto é só exportar o 3MF"
+    },
+    {
+      "start": 28.4,
+      "end": 31.0,
+      "text": "O arquivo vem prontinho com todas as trocas de cores"
+    },
+    {
+      "start": 31.0,
+      "end": 34.6,
+      "text": "Eu utilizei um bico 0.4 e os detalhes ainda assim ficam incríveis"
+    },
+    {
+      "start": 34.6,
+      "end": 37.0,
+      "text": "E só gastando 32 gramas de filamento"
+    },
+    {
+      "start": 37.0,
+      "end": 39.9,
+      "text": "É uma ótima pedida pra presentear alguém nesse fim de ano"
+    },
+    {
+      "start": 39.9,
+      "end": 42.3,
+      "text": "Eu tô usando aqui pra fazer o álbum do meu casamento"
+    },
+    {
+      "start": 42.3,
+      "end": 46.2,
+      "text": "Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 46.7,
+  "model": "large-v3-turbo"
+}

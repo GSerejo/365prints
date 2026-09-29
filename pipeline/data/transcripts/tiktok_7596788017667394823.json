@@ -1,0 +1,72 @@
+{
+  "text": "Impressão 3D não precisa ser difícil. Aqui vão 3 dicas rápidas para você melhorar a qualidade das suas impressões. Bem-vindo ao dia 157. Eu estou utilizando um perfil genérico de filamento e um perfil padrão de 0.2 de altura de camada. Primeiro eu reduzi as velocidades de impressão. A principal alteração é na parede externa, que é a parede que é visível aos nossos olhos. E o resultado é esse brilho de metal no filamento silk. Aproveitamos para reduzir também a velocidade de deslocamento. E ainda na aba velocidade, reduzimos a aceleração. Isso reduz o pico de impressão no bico e torna a impressão mais suave. E por último, na aba qualidade, o pulo do gato. Ativamos o recurso de parede precisa. E isso eu expliquei lá no dia 154. Esse parâmetro dá mais estabilidade dimensional e evita aquelas micro variações das paredes. O resultado é essa peça lisa direto da impressora. E para esse projeto, eu utilizei o PLA Silk Cobre da Multifila. E para ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Impressão 3D não precisa ser difícil. Aqui vão 3 dicas rápidas para você melhorar a qualidade das suas impressões."
+    },
+    {
+      "start": 8.4,
+      "end": 16.0,
+      "text": "Bem-vindo ao dia 157. Eu estou utilizando um perfil genérico de filamento e um perfil padrão de 0.2 de altura de camada."
+    },
+    {
+      "start": 16.1,
+      "end": 22.5,
+      "text": "Primeiro eu reduzi as velocidades de impressão. A principal alteração é na parede externa, que é a parede que é visível aos nossos olhos."
+    },
+    {
+      "start": 22.7,
+      "end": 28.6,
+      "text": "E o resultado é esse brilho de metal no filamento silk. Aproveitamos para reduzir também a velocidade de deslocamento."
+    },
+    {
+      "start": 28.6,
+      "end": 32.0,
+      "text": "E ainda na aba velocidade, reduzimos a aceleração."
+    },
+    {
+      "start": 32.1,
+      "end": 35.6,
+      "text": "Isso reduz o pico de impressão no bico e torna a impressão mais suave."
+    },
+    {
+      "start": 35.7,
+      "end": 38.3,
+      "text": "E por último, na aba qualidade, o pulo do gato."
+    },
+    {
+      "start": 38.4,
+      "end": 40.5,
+      "text": "Ativamos o recurso de parede precisa."
+    },
+    {
+      "start": 40.6,
+      "end": 42.7,
+      "text": "E isso eu expliquei lá no dia 154."
+    },
+    {
+      "start": 42.8,
+      "end": 47.5,
+      "text": "Esse parâmetro dá mais estabilidade dimensional e evita aquelas micro variações das paredes."
+    },
+    {
+      "start": 47.5,
+      "end": 50.4,
+      "text": "O resultado é essa peça lisa direto da impressora."
+    },
+    {
+      "start": 50.5,
+      "end": 54.0,
+      "text": "E para esse projeto, eu utilizei o PLA Silk Cobre da Multifila."
+    },
+    {
+      "start": 54.1,
+      "end": 56.8,
+      "text": "E para ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 57.1,
+  "model": "large-v3-turbo"
+}

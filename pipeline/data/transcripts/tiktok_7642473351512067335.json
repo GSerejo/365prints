@@ -1,0 +1,67 @@
+{
+  "text": "Essa função do fatiador torna pequenas saliências imprimíveis e diminui o uso de suportes. Bem-vindo ao dia 210. Eu testei com essa letra em alto relevo. Sem a função, o fatiador pedia suporte. E ao ativar a função Tornar Saliências Imprimíveis, ele redesenhou a base da letra com uma microinclinação, criando uma transição suave entre a saliência e a camada de baixo. Mas cuidado com peças que exigem precisão. Se reduzirmos muito o ângulo máximo, Essa função vai deformar a peça Comprometendo até os encaixes Ela está disponível no Orc Slicer E seus derivados como Snapmaker Orca E no Flash Forge Studio Aguardamos uma atualização do Bambu Studio Enquanto isso me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "text": "Essa função do fatiador torna pequenas saliências imprimíveis e diminui o uso de suportes."
+    },
+    {
+      "start": 6.2,
+      "end": 13.2,
+      "text": "Bem-vindo ao dia 210. Eu testei com essa letra em alto relevo. Sem a função, o fatiador pedia suporte."
+    },
+    {
+      "start": 13.3,
+      "end": 19.8,
+      "text": "E ao ativar a função Tornar Saliências Imprimíveis, ele redesenhou a base da letra com uma microinclinação,"
+    },
+    {
+      "start": 20.0,
+      "end": 23.6,
+      "text": "criando uma transição suave entre a saliência e a camada de baixo."
+    },
+    {
+      "start": 23.6,
+      "end": 28.3,
+      "text": "Mas cuidado com peças que exigem precisão. Se reduzirmos muito o ângulo máximo,"
+    },
+    {
+      "start": 28.3,
+      "end": 30.6,
+      "text": "Essa função vai deformar a peça"
+    },
+    {
+      "start": 30.6,
+      "end": 32.6,
+      "text": "Comprometendo até os encaixes"
+    },
+    {
+      "start": 32.6,
+      "end": 34.5,
+      "text": "Ela está disponível no Orc Slicer"
+    },
+    {
+      "start": 34.5,
+      "end": 36.5,
+      "text": "E seus derivados como Snapmaker Orca"
+    },
+    {
+      "start": 36.5,
+      "end": 37.9,
+      "text": "E no Flash Forge Studio"
+    },
+    {
+      "start": 37.9,
+      "end": 40.2,
+      "text": "Aguardamos uma atualização do Bambu Studio"
+    },
+    {
+      "start": 40.2,
+      "end": 43.4,
+      "text": "Enquanto isso me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 43.6,
+  "model": "large-v3-turbo"
+}

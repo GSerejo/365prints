@@ -1,0 +1,112 @@
+{
+  "text": "Uma mudança simples no olho do Vedita fez muita diferença na qualidade final. Bem-vindo ao dia 149. Essa é a orientação sugerida pelo autor do modelo. Ela economiza a troca de cor, pois as camadas iniciais são brancas. Mas é impossível evitar as linhas de impressão na frente do modelo, pois tudo é tratado como uma superfície de topo, mesmo com uma altura de camada de 0,08. Então depois de dividir os olhos, vamos alterar a orientação para que a frente seja tratada como uma parede. E isso já melhora muito com o custo de mais tempo de impressão e mais gasto de filamento. No entanto, eu tô preocupado com a qualidade. E por isso a gente vai fazer mais uma alteração nessa borda que tá um pouco misturada de branco e preto. Como a troca de cor já está acontecendo em todas as camadas, a gente vai pintar a borda de trás também. Pra ganhar um pouco de tempo e evitar a troca de cor nas camadas finais e iniciais, eu pintei atrás toda de preto. E o resultado final é muito melhor, sem mais aqueles degraus na parte da frente do modelo. E mesmo com suportes automáticos habilitados, ele não coloca, pois as aliências são pequenas. E como a superfície de contato entre o modelo e a placa é pequena, eu indicaria lavá-la bem antes de imprimir. Ou até mesmo utilizar uma placa fria para ter mais aderência. Também sugiro diminuir a velocidade de impressão da primeira camada. E se você quiser ainda mais resolução, pode diminuir a altura de camada. Esse resultado eu obtive com bico 0.4 e 0.08 de altura de camada. A impressão dos olhos demorou uma hora a mais, mas valeu a pena. O link desse modelo está na descrição do vídeo, agora se puder compartilhar e curtir eu agradeço.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Uma mudança simples no olho do Vedita fez muita diferença na qualidade final."
+    },
+    {
+      "start": 5.6,
+      "end": 7.7,
+      "text": "Bem-vindo ao dia 149."
+    },
+    {
+      "start": 7.8,
+      "end": 10.3,
+      "text": "Essa é a orientação sugerida pelo autor do modelo."
+    },
+    {
+      "start": 10.4,
+      "end": 13.7,
+      "text": "Ela economiza a troca de cor, pois as camadas iniciais são brancas."
+    },
+    {
+      "start": 13.7,
+      "end": 19.9,
+      "text": "Mas é impossível evitar as linhas de impressão na frente do modelo, pois tudo é tratado como uma superfície de topo,"
+    },
+    {
+      "start": 20.0,
+      "end": 22.8,
+      "text": "mesmo com uma altura de camada de 0,08."
+    },
+    {
+      "start": 22.9,
+      "end": 28.3,
+      "text": "Então depois de dividir os olhos, vamos alterar a orientação para que a frente seja tratada como uma parede."
+    },
+    {
+      "start": 28.3,
+      "end": 33.3,
+      "text": "E isso já melhora muito com o custo de mais tempo de impressão e mais gasto de filamento."
+    },
+    {
+      "start": 33.3,
+      "end": 35.4,
+      "text": "No entanto, eu tô preocupado com a qualidade."
+    },
+    {
+      "start": 35.8,
+      "end": 40.6,
+      "text": "E por isso a gente vai fazer mais uma alteração nessa borda que tá um pouco misturada de branco e preto."
+    },
+    {
+      "start": 40.6,
+      "end": 45.5,
+      "text": "Como a troca de cor já está acontecendo em todas as camadas, a gente vai pintar a borda de trás também."
+    },
+    {
+      "start": 45.6,
+      "end": 50.3,
+      "text": "Pra ganhar um pouco de tempo e evitar a troca de cor nas camadas finais e iniciais, eu pintei atrás toda de preto."
+    },
+    {
+      "start": 50.9,
+      "end": 55.7,
+      "text": "E o resultado final é muito melhor, sem mais aqueles degraus na parte da frente do modelo."
+    },
+    {
+      "start": 55.7,
+      "end": 59.8,
+      "text": "E mesmo com suportes automáticos habilitados, ele não coloca, pois as aliências são pequenas."
+    },
+    {
+      "start": 59.9,
+      "end": 65.0,
+      "text": "E como a superfície de contato entre o modelo e a placa é pequena, eu indicaria lavá-la bem antes de imprimir."
+    },
+    {
+      "start": 65.1,
+      "end": 68.0,
+      "text": "Ou até mesmo utilizar uma placa fria para ter mais aderência."
+    },
+    {
+      "start": 68.1,
+      "end": 71.2,
+      "text": "Também sugiro diminuir a velocidade de impressão da primeira camada."
+    },
+    {
+      "start": 71.3,
+      "end": 74.5,
+      "text": "E se você quiser ainda mais resolução, pode diminuir a altura de camada."
+    },
+    {
+      "start": 74.6,
+      "end": 79.2,
+      "text": "Esse resultado eu obtive com bico 0.4 e 0.08 de altura de camada."
+    },
+    {
+      "start": 79.2,
+      "end": 82.3,
+      "text": "A impressão dos olhos demorou uma hora a mais, mas valeu a pena."
+    },
+    {
+      "start": 82.3,
+      "end": 86.7,
+      "text": "O link desse modelo está na descrição do vídeo, agora se puder compartilhar e curtir eu agradeço."
+    }
+  ],
+  "duration": 87.0,
+  "model": "large-v3-turbo"
+}

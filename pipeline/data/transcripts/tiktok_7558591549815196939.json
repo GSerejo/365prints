@@ -1,0 +1,97 @@
+{
+  "text": "Como fazer a troca de cor por camada sem OMS? Bem-vindo ao dia 103 e nesse projeto aqui as duas últimas camadas são em branco. Depois de fatiar, na barra da direita encontre a primeira camada que ocorre a troca. Nesse caso a 16, botão direito e adicionar um pause. Assim, depois de imprimir toda a parte em laranja, a impressora vai pausar. Feche a mensagem, volte, vá na aba filamentos e vamos descarregar o carretel laranja. Depois de aquecer o bico e cortar o filamento, você pode retirá-lo. Aproveite e já coloque o novo filamento. Fique ligado porque a mensagem do pause fica aparecendo, então é só fechar, voltar e fazer o processo de carregar o novo filamento. Quando chegar no item 5 é só empurrar um pouquinho mais de filamento. Nessa mensagem avalia se saiu o filamento pelo bico. Na dúvida você pode clicar em não extrudado ainda. Ele vai purgar um pouquinho mais de material e você pode finalizar o carregamento na segunda opção. Ele vai purgar o restante do laranja e vai começar a aparecer o branco. Agora na mensagem é só resumir a impressão. E pronto, procedimento concluído com sucesso, agora é só aguardar o final da impressão Fique ligado que amanhã eu vou mostrar como fazer essa plaquinha com Pix E você já sabe né, pra ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Como fazer a troca de cor por camada sem OMS?"
+    },
+    {
+      "start": 3.7,
+      "end": 8.3,
+      "text": "Bem-vindo ao dia 103 e nesse projeto aqui as duas últimas camadas são em branco."
+    },
+    {
+      "start": 8.4,
+      "end": 12.0,
+      "text": "Depois de fatiar, na barra da direita encontre a primeira camada que ocorre a troca."
+    },
+    {
+      "start": 12.0,
+      "end": 14.9,
+      "text": "Nesse caso a 16, botão direito e adicionar um pause."
+    },
+    {
+      "start": 15.1,
+      "end": 18.4,
+      "text": "Assim, depois de imprimir toda a parte em laranja, a impressora vai pausar."
+    },
+    {
+      "start": 18.6,
+      "end": 23.5,
+      "text": "Feche a mensagem, volte, vá na aba filamentos e vamos descarregar o carretel laranja."
+    },
+    {
+      "start": 23.6,
+      "end": 26.9,
+      "text": "Depois de aquecer o bico e cortar o filamento, você pode retirá-lo."
+    },
+    {
+      "start": 27.9,
+      "end": 29.8,
+      "text": "Aproveite e já coloque o novo filamento."
+    },
+    {
+      "start": 30.0,
+      "end": 37.0,
+      "text": "Fique ligado porque a mensagem do pause fica aparecendo, então é só fechar, voltar e fazer o processo de carregar o novo filamento."
+    },
+    {
+      "start": 37.2,
+      "end": 40.1,
+      "text": "Quando chegar no item 5 é só empurrar um pouquinho mais de filamento."
+    },
+    {
+      "start": 40.3,
+      "end": 42.8,
+      "text": "Nessa mensagem avalia se saiu o filamento pelo bico."
+    },
+    {
+      "start": 43.0,
+      "end": 45.9,
+      "text": "Na dúvida você pode clicar em não extrudado ainda."
+    },
+    {
+      "start": 46.1,
+      "end": 50.5,
+      "text": "Ele vai purgar um pouquinho mais de material e você pode finalizar o carregamento na segunda opção."
+    },
+    {
+      "start": 51.0,
+      "end": 54.5,
+      "text": "Ele vai purgar o restante do laranja e vai começar a aparecer o branco."
+    },
+    {
+      "start": 54.8,
+      "end": 57.0,
+      "text": "Agora na mensagem é só resumir a impressão."
+    },
+    {
+      "start": 57.0,
+      "end": 61.8,
+      "text": "E pronto, procedimento concluído com sucesso, agora é só aguardar o final da impressão"
+    },
+    {
+      "start": 61.8,
+      "end": 66.2,
+      "text": "Fique ligado que amanhã eu vou mostrar como fazer essa plaquinha com Pix"
+    },
+    {
+      "start": 66.2,
+      "end": 70.3,
+      "text": "E você já sabe né, pra ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 71.2,
+  "model": "large-v3-turbo"
+}

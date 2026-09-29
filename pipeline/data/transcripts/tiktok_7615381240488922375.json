@@ -1,0 +1,147 @@
+{
+  "text": "Como minimizar essas lacunas na superfície superior utilizando um bico 0.4? Bem-vindo ao dia 180. Eu cheguei nesse resultado, agora vou te mostrar o raciocínio por trás disso. A primeira e clássica mudança é utilizar o gerador de parede aracne para ter larguras de linhas variáveis. Mas infelizmente essa mudança não foi significativa, essa geometria tinha muitas curvas. Agora com o gerador de parede aracne eu reduzi a largura da superfície superior e da parede externa. E isso deixou as linhas mais finas e ainda com largura variável para aumentar o preenchimento da camada de topo. E na prática essa alteração melhorou os resultados. Mas algumas lacunas ainda estavam lá. E o próximo passo foi testar um aumento da sobreposição da superfície superior com as paredes. E o melhor resultado que eu obtive foi com 40%. Melhorou um pouco, mas não 100%. E para preencher um pouco mais essas lacunas eu resolvi aumentar a vazão na superfície superior em 5%. A ideia era extrudar um pouco mais de material pra preencher as lacunas Mas infelizmente essa alteração mudou pouca coisa E ainda começou a aparecer alguns sinais de sobre-extrusão, ou seja, excesso de material Então eu resolvi passar ferro apenas na superfície superior, alterando a velocidade pra 60mm por segundo E esse foi o melhor resultado, apesar de alguns pontos ainda apresentarem excesso de material Alguém pode falar que era só passar ferro lá no início, eu fiz isso, mas ainda apresenta algumas lacunas Com todas as alterações que eu fiz, foi o melhor resultado na questão de fechamento dos buracos Mas veja bem, é necessário mais testes devido ao excesso de material em alguns pontos Outra observação importante é que na minha opinião a função passar ferro funciona em peças pequenas Como essa aqui E eu fiz um montão de outros testes, mas o que mais funcionou eu apresentei de forma simplificada A ideia aqui foi mostrar o raciocínio para vocês terem um ponto de partida A impressão 3D não é exata e depende muito da geometria do material Não esquece de me seguir e até o próximo vídeo Tchau.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Como minimizar essas lacunas na superfície superior utilizando um bico 0.4?"
+    },
+    {
+      "start": 5.4,
+      "end": 6.9,
+      "text": "Bem-vindo ao dia 180."
+    },
+    {
+      "start": 7.2,
+      "end": 10.7,
+      "text": "Eu cheguei nesse resultado, agora vou te mostrar o raciocínio por trás disso."
+    },
+    {
+      "start": 10.7,
+      "end": 16.0,
+      "text": "A primeira e clássica mudança é utilizar o gerador de parede aracne para ter larguras de linhas variáveis."
+    },
+    {
+      "start": 16.2,
+      "end": 21.2,
+      "text": "Mas infelizmente essa mudança não foi significativa, essa geometria tinha muitas curvas."
+    },
+    {
+      "start": 21.3,
+      "end": 25.6,
+      "text": "Agora com o gerador de parede aracne eu reduzi a largura da superfície superior e da parede externa."
+    },
+    {
+      "start": 25.6,
+      "end": 30.6,
+      "text": "E isso deixou as linhas mais finas e ainda com largura variável para aumentar o preenchimento da camada de topo."
+    },
+    {
+      "start": 30.7,
+      "end": 33.2,
+      "text": "E na prática essa alteração melhorou os resultados."
+    },
+    {
+      "start": 34.1,
+      "end": 36.3,
+      "text": "Mas algumas lacunas ainda estavam lá."
+    },
+    {
+      "start": 36.4,
+      "end": 41.0,
+      "text": "E o próximo passo foi testar um aumento da sobreposição da superfície superior com as paredes."
+    },
+    {
+      "start": 41.1,
+      "end": 43.5,
+      "text": "E o melhor resultado que eu obtive foi com 40%."
+    },
+    {
+      "start": 43.5,
+      "end": 45.7,
+      "text": "Melhorou um pouco, mas não 100%."
+    },
+    {
+      "start": 45.7,
+      "end": 52.6,
+      "text": "E para preencher um pouco mais essas lacunas eu resolvi aumentar a vazão na superfície superior em 5%."
+    },
+    {
+      "start": 52.6,
+      "end": 56.1,
+      "text": "A ideia era extrudar um pouco mais de material pra preencher as lacunas"
+    },
+    {
+      "start": 56.1,
+      "end": 59.2,
+      "text": "Mas infelizmente essa alteração mudou pouca coisa"
+    },
+    {
+      "start": 59.2,
+      "end": 63.5,
+      "text": "E ainda começou a aparecer alguns sinais de sobre-extrusão, ou seja, excesso de material"
+    },
+    {
+      "start": 63.5,
+      "end": 69.3,
+      "text": "Então eu resolvi passar ferro apenas na superfície superior, alterando a velocidade pra 60mm por segundo"
+    },
+    {
+      "start": 69.3,
+      "end": 74.0,
+      "text": "E esse foi o melhor resultado, apesar de alguns pontos ainda apresentarem excesso de material"
+    },
+    {
+      "start": 74.0,
+      "end": 79.0,
+      "text": "Alguém pode falar que era só passar ferro lá no início, eu fiz isso, mas ainda apresenta algumas lacunas"
+    },
+    {
+      "start": 79.0,
+      "end": 83.4,
+      "text": "Com todas as alterações que eu fiz, foi o melhor resultado na questão de fechamento dos buracos"
+    },
+    {
+      "start": 83.4,
+      "end": 88.1,
+      "text": "Mas veja bem, é necessário mais testes devido ao excesso de material em alguns pontos"
+    },
+    {
+      "start": 88.1,
+      "end": 93.2,
+      "text": "Outra observação importante é que na minha opinião a função passar ferro funciona em peças pequenas"
+    },
+    {
+      "start": 93.2,
+      "end": 94.1,
+      "text": "Como essa aqui"
+    },
+    {
+      "start": 94.1,
+      "end": 98.0,
+      "text": "E eu fiz um montão de outros testes, mas o que mais funcionou eu apresentei de forma simplificada"
+    },
+    {
+      "start": 98.6,
+      "end": 102.3,
+      "text": "A ideia aqui foi mostrar o raciocínio para vocês terem um ponto de partida"
+    },
+    {
+      "start": 102.3,
+      "end": 106.1,
+      "text": "A impressão 3D não é exata e depende muito da geometria do material"
+    },
+    {
+      "start": 106.1,
+      "end": 108.6,
+      "text": "Não esquece de me seguir e até o próximo vídeo"
+    },
+    {
+      "start": 109.0,
+      "end": 110.0,
+      "text": "Tchau."
+    }
+  ],
+  "duration": 109.1,
+  "model": "large-v3-turbo"
+}

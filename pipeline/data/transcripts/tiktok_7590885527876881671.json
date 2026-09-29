@@ -1,0 +1,132 @@
+{
+  "text": "Dicas para imprimir a Action Figures com mais qualidade. Bem-vindo ao dia 150. O que eu vou mostrar aqui não é uma verdade absoluta, é como eu faço. Então vamos lá. A primeira coisa é a redução das velocidades. E depois eu gosto de dar uma reduzida nessas acelerações. E isso também é uma recomendação da Bambu se você quiser mais qualidade. Agora na aba força eu troco um fio para 5% ou 8% e mudo para giroide. E normalmente esses modelos tem bastante curva, como a bota do Ciclope. Com uma altura de camada de 0.2 aparece esses degraus. E pra minimizá-los eu vou lá na aba qualidade e mudo para não aplicar esse parâmetro. E lá na aba força eu mudo o padrão de superfície superior para concentro. E isso melhora muito o resultado sem sacrificar o tempo. Mas agora se você quiser mais qualidade você pode utilizar a altura de camada variável. Mas isso aumenta o tempo em quase uma hora pra apenas uma bota. E eu só uso se eu tiver tempo sobrando. Pra evitar essas linhas de impressão na face eu rotaciono ela. E como é uma peça muito pequena aqui eu acho que compensa colocar 0.08 de altura de camada para dar mais detalhamento O resultado é uma face bem suave, eu só esqueci de fazer isso para o óculos também E como é uma peça pequena não sacrificamos muito tempo Para essas peças da base com uma superfície plana eu volto o padrão de superfície superior para a linha monotônica E utilizo um preset de altura de camada de 0.24 para ganhar tempo Portanto a ideia aqui é utilizar no corpo a altura de camada de 0.2 com as alterações que eu falei no vídeo E a altura de camada variável ou uma altura de camada de 0.08 nas regiões menores, como a face, a luva, o óculos, enfim. E nas regiões maiores com seção transversal constante, como a base por exemplo, eu aumento a altura de camada para ganhar tempo. E o resultado dessas alterações dão essa superfície bem bonita, texturizada. Gostar desse vídeo? Então me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Dicas para imprimir a Action Figures com mais qualidade."
+    },
+    {
+      "start": 4.2,
+      "end": 9.9,
+      "text": "Bem-vindo ao dia 150. O que eu vou mostrar aqui não é uma verdade absoluta, é como eu faço."
+    },
+    {
+      "start": 10.0,
+      "end": 12.6,
+      "text": "Então vamos lá. A primeira coisa é a redução das velocidades."
+    },
+    {
+      "start": 12.7,
+      "end": 15.7,
+      "text": "E depois eu gosto de dar uma reduzida nessas acelerações."
+    },
+    {
+      "start": 15.9,
+      "end": 19.2,
+      "text": "E isso também é uma recomendação da Bambu se você quiser mais qualidade."
+    },
+    {
+      "start": 19.6,
+      "end": 24.0,
+      "text": "Agora na aba força eu troco um fio para 5% ou 8% e mudo para giroide."
+    },
+    {
+      "start": 24.0,
+      "end": 27.6,
+      "text": "E normalmente esses modelos tem bastante curva, como a bota do Ciclope."
+    },
+    {
+      "start": 27.6,
+      "end": 30.7,
+      "text": "Com uma altura de camada de 0.2 aparece esses degraus."
+    },
+    {
+      "start": 30.8,
+      "end": 34.8,
+      "text": "E pra minimizá-los eu vou lá na aba qualidade e mudo para não aplicar esse parâmetro."
+    },
+    {
+      "start": 34.8,
+      "end": 38.0,
+      "text": "E lá na aba força eu mudo o padrão de superfície superior para concentro."
+    },
+    {
+      "start": 38.1,
+      "end": 40.7,
+      "text": "E isso melhora muito o resultado sem sacrificar o tempo."
+    },
+    {
+      "start": 40.8,
+      "end": 45.1,
+      "text": "Mas agora se você quiser mais qualidade você pode utilizar a altura de camada variável."
+    },
+    {
+      "start": 45.2,
+      "end": 48.2,
+      "text": "Mas isso aumenta o tempo em quase uma hora pra apenas uma bota."
+    },
+    {
+      "start": 48.2,
+      "end": 49.8,
+      "text": "E eu só uso se eu tiver tempo sobrando."
+    },
+    {
+      "start": 49.9,
+      "end": 52.9,
+      "text": "Pra evitar essas linhas de impressão na face eu rotaciono ela."
+    },
+    {
+      "start": 52.9,
+      "end": 59.4,
+      "text": "E como é uma peça muito pequena aqui eu acho que compensa colocar 0.08 de altura de camada para dar mais detalhamento"
+    },
+    {
+      "start": 59.4,
+      "end": 63.2,
+      "text": "O resultado é uma face bem suave, eu só esqueci de fazer isso para o óculos também"
+    },
+    {
+      "start": 63.2,
+      "end": 66.0,
+      "text": "E como é uma peça pequena não sacrificamos muito tempo"
+    },
+    {
+      "start": 66.0,
+      "end": 71.5,
+      "text": "Para essas peças da base com uma superfície plana eu volto o padrão de superfície superior para a linha monotônica"
+    },
+    {
+      "start": 71.5,
+      "end": 75.7,
+      "text": "E utilizo um preset de altura de camada de 0.24 para ganhar tempo"
+    },
+    {
+      "start": 75.7,
+      "end": 80.6,
+      "text": "Portanto a ideia aqui é utilizar no corpo a altura de camada de 0.2 com as alterações que eu falei no vídeo"
+    },
+    {
+      "start": 80.6,
+      "end": 87.6,
+      "text": "E a altura de camada variável ou uma altura de camada de 0.08 nas regiões menores, como a face, a luva, o óculos, enfim."
+    },
+    {
+      "start": 87.8,
+      "end": 93.5,
+      "text": "E nas regiões maiores com seção transversal constante, como a base por exemplo, eu aumento a altura de camada para ganhar tempo."
+    },
+    {
+      "start": 93.5,
+      "end": 97.9,
+      "text": "E o resultado dessas alterações dão essa superfície bem bonita, texturizada."
+    },
+    {
+      "start": 98.0,
+      "end": 101.8,
+      "text": "Gostar desse vídeo? Então me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 102.2,
+  "model": "large-v3-turbo"
+}

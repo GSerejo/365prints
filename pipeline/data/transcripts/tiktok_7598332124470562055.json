@@ -1,0 +1,97 @@
+{
+  "text": "Fiz uma comparação rápida de produtividade da Snapmaker e da A1. Bem-vindo ao dia 159. E começando pela A1 eu testei esse modelo do Pokémon Gengar. Eu coloquei 4 objetos na mesa pra compensar a purga. Neste caso a purga foi de aproximadamente 250 gramas. E esse é o mesmo valor pra A1 ou 4 Gengars. Por isso eu coloquei 4. Essa é uma impressão de um pouco mais de 41 horas, quase 2 dias. Já na Snapmaker a mesa é um pouquinho maior e eu consegui colocar 5 Gengars. E mesmo assim tivemos uma redução de um pouco mais de 17 horas de impressão Veja a comparação de ambas impressoras com o mesmo perfil de impressão E isso ocorre porque na Snapmaker cada cor tem a sua própria extrusora E a troca ocorre em 5 a 6 segundos É como se você estivesse pintando um quadro e cada pincel tivesse a sua própria cor Assim você não precisaria ficar limpando o mesmo pincel Lembrando que o preço de cada uma não tem nada a ver E aqui eu só estou comparando a produtividade A impressora com o melhor custo-benefício para você depende do que você quer imprimir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Fiz uma comparação rápida de produtividade da Snapmaker e da A1."
+    },
+    {
+      "start": 5.3,
+      "end": 7.5,
+      "text": "Bem-vindo ao dia 159."
+    },
+    {
+      "start": 7.6,
+      "end": 10.4,
+      "text": "E começando pela A1 eu testei esse modelo do Pokémon Gengar."
+    },
+    {
+      "start": 10.5,
+      "end": 13.1,
+      "text": "Eu coloquei 4 objetos na mesa pra compensar a purga."
+    },
+    {
+      "start": 13.1,
+      "end": 16.1,
+      "text": "Neste caso a purga foi de aproximadamente 250 gramas."
+    },
+    {
+      "start": 16.2,
+      "end": 18.5,
+      "text": "E esse é o mesmo valor pra A1 ou 4 Gengars."
+    },
+    {
+      "start": 18.6,
+      "end": 19.4,
+      "text": "Por isso eu coloquei 4."
+    },
+    {
+      "start": 19.5,
+      "end": 23.1,
+      "text": "Essa é uma impressão de um pouco mais de 41 horas, quase 2 dias."
+    },
+    {
+      "start": 23.2,
+      "end": 26.7,
+      "text": "Já na Snapmaker a mesa é um pouquinho maior e eu consegui colocar 5 Gengars."
+    },
+    {
+      "start": 26.7,
+      "end": 30.7,
+      "text": "E mesmo assim tivemos uma redução de um pouco mais de 17 horas de impressão"
+    },
+    {
+      "start": 30.7,
+      "end": 34.2,
+      "text": "Veja a comparação de ambas impressoras com o mesmo perfil de impressão"
+    },
+    {
+      "start": 34.2,
+      "end": 37.9,
+      "text": "E isso ocorre porque na Snapmaker cada cor tem a sua própria extrusora"
+    },
+    {
+      "start": 37.9,
+      "end": 39.9,
+      "text": "E a troca ocorre em 5 a 6 segundos"
+    },
+    {
+      "start": 39.9,
+      "end": 43.8,
+      "text": "É como se você estivesse pintando um quadro e cada pincel tivesse a sua própria cor"
+    },
+    {
+      "start": 43.8,
+      "end": 46.3,
+      "text": "Assim você não precisaria ficar limpando o mesmo pincel"
+    },
+    {
+      "start": 46.3,
+      "end": 48.9,
+      "text": "Lembrando que o preço de cada uma não tem nada a ver"
+    },
+    {
+      "start": 48.9,
+      "end": 50.9,
+      "text": "E aqui eu só estou comparando a produtividade"
+    },
+    {
+      "start": 50.9,
+      "end": 55.6,
+      "text": "A impressora com o melhor custo-benefício para você depende do que você quer imprimir"
+    }
+  ],
+  "duration": 55.8,
+  "model": "large-v3-turbo"
+}

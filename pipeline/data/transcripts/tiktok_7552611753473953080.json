@@ -1,0 +1,57 @@
+{
+  "text": "Sabe aqueles restos de filamento que sobram no carretel? Bem-vindo ao dia 93 e eu vou mostrar como eu libero espaços de forma rápida e simples. Primeiro eu configuro todos como se fossem a mesma cor e marca. E então eu uso a função auto-refill do Bambu Studio para acabar com eles. Dessa forma quando um rolo acaba o AMS troca para o próximo. É bastante útil para peças funcionais. Eu fiz um recipiente para guardar sílica que vai no armário para filamentos. E já estou fazendo outro para liberar mais espaço. E você pode utilizar essa técnica com a impressão por objeto que eu ensinei no dia 51 Se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Sabe aqueles restos de filamento que sobram no carretel?"
+    },
+    {
+      "start": 3.8,
+      "end": 8.5,
+      "text": "Bem-vindo ao dia 93 e eu vou mostrar como eu libero espaços de forma rápida e simples."
+    },
+    {
+      "start": 8.7,
+      "end": 12.3,
+      "text": "Primeiro eu configuro todos como se fossem a mesma cor e marca."
+    },
+    {
+      "start": 12.6,
+      "end": 16.3,
+      "text": "E então eu uso a função auto-refill do Bambu Studio para acabar com eles."
+    },
+    {
+      "start": 16.7,
+      "end": 20.2,
+      "text": "Dessa forma quando um rolo acaba o AMS troca para o próximo."
+    },
+    {
+      "start": 20.4,
+      "end": 22.5,
+      "text": "É bastante útil para peças funcionais."
+    },
+    {
+      "start": 22.5,
+      "end": 26.0,
+      "text": "Eu fiz um recipiente para guardar sílica que vai no armário para filamentos."
+    },
+    {
+      "start": 26.2,
+      "end": 28.8,
+      "text": "E já estou fazendo outro para liberar mais espaço."
+    },
+    {
+      "start": 28.8,
+      "end": 33.3,
+      "text": "E você pode utilizar essa técnica com a impressão por objeto que eu ensinei no dia 51"
+    },
+    {
+      "start": 33.3,
+      "end": 36.9,
+      "text": "Se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 37.3,
+  "model": "large-v3-turbo"
+}

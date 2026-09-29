@@ -1,0 +1,72 @@
+{
+  "text": "Três peças empilhadas, uma só impressão. Olha como elas se soltam. Bem-vindo ao dia 254. A gente espalha tudo pela mesa, ocupa todo o espaço, mas às vezes esquece que tem altura. PLA e PETG não grudam um no outro, então dá pra intercalar, encostando uma na outra. Isso aumenta a praticidade e produtividade. Eu vi isso na internet e resolvi testar com esse spinner. E com cuidado, utilizei a espátula pra retirar, porque as peças são móveis. A única condição é que o topo e a base precisam ser planos. Eu fiz PLA, PETG e PLA. No fatiador é só subir cada peça no eixo Z até encostar no topo da de baixo. E sem EMS dá no mesmo, é só programar a troca de filamento naquela altura. E se você quiser o passo a passo de como empilhar, é só engajar nos comentários que eu faço outro vídeo. E pra ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Três peças empilhadas, uma só impressão. Olha como elas se soltam."
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Bem-vindo ao dia 254."
+    },
+    {
+      "start": 7.0,
+      "end": 12.1,
+      "text": "A gente espalha tudo pela mesa, ocupa todo o espaço, mas às vezes esquece que tem altura."
+    },
+    {
+      "start": 12.3,
+      "end": 17.6,
+      "text": "PLA e PETG não grudam um no outro, então dá pra intercalar, encostando uma na outra."
+    },
+    {
+      "start": 17.7,
+      "end": 20.1,
+      "text": "Isso aumenta a praticidade e produtividade."
+    },
+    {
+      "start": 20.1,
+      "end": 23.3,
+      "text": "Eu vi isso na internet e resolvi testar com esse spinner."
+    },
+    {
+      "start": 23.4,
+      "end": 27.4,
+      "text": "E com cuidado, utilizei a espátula pra retirar, porque as peças são móveis."
+    },
+    {
+      "start": 27.4,
+      "end": 30.7,
+      "text": "A única condição é que o topo e a base precisam ser planos."
+    },
+    {
+      "start": 30.8,
+      "end": 33.0,
+      "text": "Eu fiz PLA, PETG e PLA."
+    },
+    {
+      "start": 33.2,
+      "end": 38.1,
+      "text": "No fatiador é só subir cada peça no eixo Z até encostar no topo da de baixo."
+    },
+    {
+      "start": 38.2,
+      "end": 42.8,
+      "text": "E sem EMS dá no mesmo, é só programar a troca de filamento naquela altura."
+    },
+    {
+      "start": 42.9,
+      "end": 47.8,
+      "text": "E se você quiser o passo a passo de como empilhar, é só engajar nos comentários que eu faço outro vídeo."
+    },
+    {
+      "start": 47.9,
+      "end": 50.9,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 51.3,
+  "model": "large-v3-turbo"
+}

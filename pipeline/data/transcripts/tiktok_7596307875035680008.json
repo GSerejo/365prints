@@ -1,0 +1,52 @@
+{
+  "text": "Como imprimir 5 cores utilizando apenas 1 AMS? Bem-vindo ao dia 156! Veja que na região dos olhos existem 4 cores sendo utilizadas simultaneamente. O primeiro slot que vamos parar de utilizar é o preto, então adicionamos uma pausa logo depois. Fatiamos de novo e a linha branca é o local da pausa. É nessa pausa que alteramos o carretel preto para o carretel marrom, assim utilizando o mesmo slot para duas cores. Mas para isso der certo, no início da impressão você deve indicar que o marrom utilizará o slot onde está o preto. E essa lógica serve para 5 ou mais cores, desde que a gente utilize apenas 4 simultaneamente. Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Como imprimir 5 cores utilizando apenas 1 AMS?"
+    },
+    {
+      "start": 4.1,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 156!"
+    },
+    {
+      "start": 6.5,
+      "end": 10.8,
+      "text": "Veja que na região dos olhos existem 4 cores sendo utilizadas simultaneamente."
+    },
+    {
+      "start": 10.9,
+      "end": 15.7,
+      "text": "O primeiro slot que vamos parar de utilizar é o preto, então adicionamos uma pausa logo depois."
+    },
+    {
+      "start": 15.8,
+      "end": 18.3,
+      "text": "Fatiamos de novo e a linha branca é o local da pausa."
+    },
+    {
+      "start": 18.4,
+      "end": 24.0,
+      "text": "É nessa pausa que alteramos o carretel preto para o carretel marrom, assim utilizando o mesmo slot para duas cores."
+    },
+    {
+      "start": 24.0,
+      "end": 29.3,
+      "text": "Mas para isso der certo, no início da impressão você deve indicar que o marrom utilizará o slot onde está o preto."
+    },
+    {
+      "start": 29.3,
+      "end": 34.7,
+      "text": "E essa lógica serve para 5 ou mais cores, desde que a gente utilize apenas 4 simultaneamente."
+    },
+    {
+      "start": 34.8,
+      "end": 38.4,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 38.7,
+  "model": "large-v3-turbo"
+}

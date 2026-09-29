@@ -1,0 +1,122 @@
+{
+  "text": "Três dicas para melhorar os detalhes pequenos das suas peças com bico 0.4. Bem-vindo ao dia 131. Essa é a primeira camada de um chaveiro que estamos utilizando a mesa como acabamento. Ou seja, ele está de face para baixo. Veja o quanto de lacunas essa largura fixa de linha não consegue preencher. Portanto, a primeira dica é alterar o gerador de parede para a láquinha. Agora a largura das paredes são variáveis. O preenchimento melhora, mas ainda não é 100% devido à resolução do bico 0.4. A segunda dica é alterar o preenchimento da superfície inferior. Veja que tem algumas lacunas. Então lá na aba força mudamos de monotônico para a linha monotônica. Veja que temos uma melhora no preenchimento. E a terceira dica, e talvez a mais importante, é alterar a ordem de impressão das cores. Vamos colocar os detalhes mais finos para imprimir por primeiro. Neste caso a escrita estava em branco e nós colocamos ela por primeiro para ela solidificar antes. E então ela vai ocupar o seu espaço antes do preenchimento. E como você pode observar, essas três mudanças melhoraram muito o resultado Mas ainda assim o A não ficou perfeito O que indica uma falta de resolução para o bico 0.4 E talvez um bico 0.2 seria mais indicado E antes de mostrar esses resultados, eu fiz diversos testes Diminuindo a largura de linha com apenas uma parede, enfim Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Três dicas para melhorar os detalhes pequenos das suas peças com bico 0.4."
+    },
+    {
+      "start": 5.3,
+      "end": 7.7,
+      "text": "Bem-vindo ao dia 131."
+    },
+    {
+      "start": 7.9,
+      "end": 12.3,
+      "text": "Essa é a primeira camada de um chaveiro que estamos utilizando a mesa como acabamento."
+    },
+    {
+      "start": 12.4,
+      "end": 14.5,
+      "text": "Ou seja, ele está de face para baixo."
+    },
+    {
+      "start": 14.7,
+      "end": 18.5,
+      "text": "Veja o quanto de lacunas essa largura fixa de linha não consegue preencher."
+    },
+    {
+      "start": 18.7,
+      "end": 22.3,
+      "text": "Portanto, a primeira dica é alterar o gerador de parede para a láquinha."
+    },
+    {
+      "start": 22.5,
+      "end": 24.8,
+      "text": "Agora a largura das paredes são variáveis."
+    },
+    {
+      "start": 24.8,
+      "end": 29.9,
+      "text": "O preenchimento melhora, mas ainda não é 100% devido à resolução do bico 0.4."
+    },
+    {
+      "start": 30.0,
+      "end": 33.0,
+      "text": "A segunda dica é alterar o preenchimento da superfície inferior."
+    },
+    {
+      "start": 33.2,
+      "end": 34.5,
+      "text": "Veja que tem algumas lacunas."
+    },
+    {
+      "start": 34.7,
+      "end": 38.3,
+      "text": "Então lá na aba força mudamos de monotônico para a linha monotônica."
+    },
+    {
+      "start": 38.6,
+      "end": 40.6,
+      "text": "Veja que temos uma melhora no preenchimento."
+    },
+    {
+      "start": 40.9,
+      "end": 45.1,
+      "text": "E a terceira dica, e talvez a mais importante, é alterar a ordem de impressão das cores."
+    },
+    {
+      "start": 45.4,
+      "end": 48.3,
+      "text": "Vamos colocar os detalhes mais finos para imprimir por primeiro."
+    },
+    {
+      "start": 48.3,
+      "end": 52.9,
+      "text": "Neste caso a escrita estava em branco e nós colocamos ela por primeiro para ela solidificar antes."
+    },
+    {
+      "start": 53.2,
+      "end": 56.1,
+      "text": "E então ela vai ocupar o seu espaço antes do preenchimento."
+    },
+    {
+      "start": 56.1,
+      "end": 60.6,
+      "text": "E como você pode observar, essas três mudanças melhoraram muito o resultado"
+    },
+    {
+      "start": 60.6,
+      "end": 62.8,
+      "text": "Mas ainda assim o A não ficou perfeito"
+    },
+    {
+      "start": 62.8,
+      "end": 65.9,
+      "text": "O que indica uma falta de resolução para o bico 0.4"
+    },
+    {
+      "start": 65.9,
+      "end": 68.6,
+      "text": "E talvez um bico 0.2 seria mais indicado"
+    },
+    {
+      "start": 68.6,
+      "end": 71.3,
+      "text": "E antes de mostrar esses resultados, eu fiz diversos testes"
+    },
+    {
+      "start": 71.3,
+      "end": 74.3,
+      "text": "Diminuindo a largura de linha com apenas uma parede, enfim"
+    },
+    {
+      "start": 74.3,
+      "end": 78.6,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias"
+    }
+  ],
+  "duration": 79.4,
+  "model": "large-v3-turbo"
+}

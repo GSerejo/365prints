@@ -1,0 +1,42 @@
+{
+  "text": "Você não precisa saber modelagem para fazer um letreiro iluminado. Bem-vindo ao dia 218. O Oricon Fico eu fiz lá no dia 42 precisava de uma atualização. E essa aqui é a versão 2.0, que eu fiz sem nenhum software de modelagem utilizando fatiador. Essa é a oitava aula do meu curso de letreiros, onde eu ensino a fazer esse e muito mais. Se você quer aprender meu método, é só digitar eu quero nos comentários. E não se esqueça de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Você não precisa saber modelagem para fazer um letreiro iluminado."
+    },
+    {
+      "start": 5.7,
+      "end": 7.5,
+      "text": "Bem-vindo ao dia 218."
+    },
+    {
+      "start": 7.6,
+      "end": 12.0,
+      "text": "O Oricon Fico eu fiz lá no dia 42 precisava de uma atualização."
+    },
+    {
+      "start": 12.2,
+      "end": 18.2,
+      "text": "E essa aqui é a versão 2.0, que eu fiz sem nenhum software de modelagem utilizando fatiador."
+    },
+    {
+      "start": 18.4,
+      "end": 23.2,
+      "text": "Essa é a oitava aula do meu curso de letreiros, onde eu ensino a fazer esse e muito mais."
+    },
+    {
+      "start": 23.3,
+      "end": 26.5,
+      "text": "Se você quer aprender meu método, é só digitar eu quero nos comentários."
+    },
+    {
+      "start": 26.5,
+      "end": 29.6,
+      "text": "E não se esqueça de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 30.0,
+  "model": "large-v3-turbo"
+}

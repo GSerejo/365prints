@@ -1,0 +1,92 @@
+{
+  "text": "Eu não esperava que essa impressora iria se tornar uma das minhas favoritas. Bem-vindo ao dia 189 e hoje eu vou te falar 5 motivos para ter uma Snapmaker U1. A maioria das impressoras coloridas desperdiçam um monte de filamentos na troca de cor. A Snapmaker troca até 4 cores por camada entre 5 e 7 segundos com pouco desperdício. E além de multicoura, ela faz multimaterial, ou seja, fica fácil colocar PETG na interface no PLA e até mesmo misturar TPU com PLA. Ela tem tudo que uma impressora top de linha tem. Identificação de problema por IA, nivelamento automático, calibração da dinâmica de fluxo, enfim. Com uma área de impressão de 270mm cúbicos, ela é uma impressora compacta. Os filamentos ficam acoplados nela, não precisando de nenhum acessório adicional. E olha, com uma qualidade excelente. E o motivo número 5 é que nessa faixa de preço nenhum outro produto entrega a qualidade que ela entrega com quase zero desperdício. Mas é claro que ela tem alguns pontos pra melhorar. Ao final da impressão o filamento ele fica carregado, então você tem que descarregar pelo menu da impressora. O fatiador Snapmaker Orca tá na versão beta e tem uns bugzinhos que precisam ser melhorados. A troca de bico não é tão simples, mas o que você pode fazer é retirar a extrusora pra facilitar. E uma coisa importante para destacar é que o suporte da Snapmaker na fábrica lá na China é excepcional. Se você quiser ver mais conteúdos como esse, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Eu não esperava que essa impressora iria se tornar uma das minhas favoritas."
+    },
+    {
+      "start": 4.4,
+      "end": 10.4,
+      "text": "Bem-vindo ao dia 189 e hoje eu vou te falar 5 motivos para ter uma Snapmaker U1."
+    },
+    {
+      "start": 11.6,
+      "end": 16.9,
+      "text": "A maioria das impressoras coloridas desperdiçam um monte de filamentos na troca de cor."
+    },
+    {
+      "start": 17.0,
+      "end": 23.4,
+      "text": "A Snapmaker troca até 4 cores por camada entre 5 e 7 segundos com pouco desperdício."
+    },
+    {
+      "start": 23.4,
+      "end": 32.2,
+      "text": "E além de multicoura, ela faz multimaterial, ou seja, fica fácil colocar PETG na interface no PLA e até mesmo misturar TPU com PLA."
+    },
+    {
+      "start": 32.3,
+      "end": 34.7,
+      "text": "Ela tem tudo que uma impressora top de linha tem."
+    },
+    {
+      "start": 35.0,
+      "end": 39.7,
+      "text": "Identificação de problema por IA, nivelamento automático, calibração da dinâmica de fluxo, enfim."
+    },
+    {
+      "start": 39.9,
+      "end": 44.3,
+      "text": "Com uma área de impressão de 270mm cúbicos, ela é uma impressora compacta."
+    },
+    {
+      "start": 44.3,
+      "end": 48.8,
+      "text": "Os filamentos ficam acoplados nela, não precisando de nenhum acessório adicional."
+    },
+    {
+      "start": 49.1,
+      "end": 51.9,
+      "text": "E olha, com uma qualidade excelente."
+    },
+    {
+      "start": 51.9,
+      "end": 58.9,
+      "text": "E o motivo número 5 é que nessa faixa de preço nenhum outro produto entrega a qualidade que ela entrega com quase zero desperdício."
+    },
+    {
+      "start": 59.6,
+      "end": 62.3,
+      "text": "Mas é claro que ela tem alguns pontos pra melhorar."
+    },
+    {
+      "start": 62.4,
+      "end": 67.6,
+      "text": "Ao final da impressão o filamento ele fica carregado, então você tem que descarregar pelo menu da impressora."
+    },
+    {
+      "start": 67.7,
+      "end": 72.2,
+      "text": "O fatiador Snapmaker Orca tá na versão beta e tem uns bugzinhos que precisam ser melhorados."
+    },
+    {
+      "start": 72.3,
+      "end": 77.1,
+      "text": "A troca de bico não é tão simples, mas o que você pode fazer é retirar a extrusora pra facilitar."
+    },
+    {
+      "start": 77.1,
+      "end": 83.0,
+      "text": "E uma coisa importante para destacar é que o suporte da Snapmaker na fábrica lá na China é excepcional."
+    },
+    {
+      "start": 83.2,
+      "end": 86.8,
+      "text": "Se você quiser ver mais conteúdos como esse, é só me seguir."
+    }
+  ],
+  "duration": 87.0,
+  "model": "large-v3-turbo"
+}

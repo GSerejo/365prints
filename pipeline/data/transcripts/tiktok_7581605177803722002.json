@@ -1,0 +1,187 @@
+{
+  "text": "Como fazer um troféu multipartes no seu fatiador? Bem-vindo ao dia 137, eu fiz esse troféu aí em comemoração aos 60 mil seguidores. Aqui no Bambu Studio a gente vai trabalhar com 3 objetos, a base, a plaquinha que vai na base e a parte superior que é o 60k. Nós iniciamos adicionando o logo do Instagram em SVG na plaquinha. E depois é só eu redimensionando e adicionando os textos que eu quero na placa. Lembrando que para todos os itens inseridos eu coloquei a função modificador Porque eu não quero nem alto relevo nem baixo relevo Eu só quero mudar a cor dessas escritas Tanto a plaquinha quanto o 60K foram feitos direto no fatiador Apenas a base eu peguei no Maker World E eu vou deixar o link na descrição do vídeo Depois de tudo pronto agora é só iniciar o processo de fazer os encaixes na base E vamos iniciar pelo 60K Depois de rotacionar ambos a gente vai centralizar Botão direito e centro Agora mesclamos os dois e vamos arrastar o 60K para cima Eu vou deixar parte do texto na base para fazer o encaixe Aqui eu aproveitei para dar uma redimensionada com a função escala Agora com a função mesh booleana a gente vai tirar da base o pouquinho do 60K que está inserido nela Para fazer o encaixe As duas peças estão mescladas, agora a gente vai dividir Veja que foi criada uma pequena cavidade da base que vai facilitar a orientação Agora vamos fazer o encaixe da plaquinha na lateral da base Aqui é o mesmo procedimento, depois de rotacioná-las e centralizá-las A gente mexe e vai reposicionar a plaquinha em cima da base E novamente com a função mesh booleana A gente vai fazer uma diferença Pra criar a cavidade do encaixe da plaquinha Agora é só dividir as duas partes Veja que a cavidade foi criada com sucesso Agora é só imprimir E aqui vai meu muito obrigado Pra quem tem acompanhado essa minha jornada E você já sabe né Pra ter conteúdo 3D todos os dias É só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Como fazer um troféu multipartes no seu fatiador?"
+    },
+    {
+      "start": 4.3,
+      "end": 10.8,
+      "text": "Bem-vindo ao dia 137, eu fiz esse troféu aí em comemoração aos 60 mil seguidores."
+    },
+    {
+      "start": 11.2,
+      "end": 18.1,
+      "text": "Aqui no Bambu Studio a gente vai trabalhar com 3 objetos, a base, a plaquinha que vai na base e a parte superior que é o 60k."
+    },
+    {
+      "start": 18.2,
+      "end": 21.7,
+      "text": "Nós iniciamos adicionando o logo do Instagram em SVG na plaquinha."
+    },
+    {
+      "start": 21.9,
+      "end": 25.5,
+      "text": "E depois é só eu redimensionando e adicionando os textos que eu quero na placa."
+    },
+    {
+      "start": 25.5,
+      "end": 29.2,
+      "text": "Lembrando que para todos os itens inseridos eu coloquei a função modificador"
+    },
+    {
+      "start": 29.2,
+      "end": 31.7,
+      "text": "Porque eu não quero nem alto relevo nem baixo relevo"
+    },
+    {
+      "start": 31.7,
+      "end": 34.0,
+      "text": "Eu só quero mudar a cor dessas escritas"
+    },
+    {
+      "start": 34.0,
+      "end": 37.4,
+      "text": "Tanto a plaquinha quanto o 60K foram feitos direto no fatiador"
+    },
+    {
+      "start": 37.4,
+      "end": 39.5,
+      "text": "Apenas a base eu peguei no Maker World"
+    },
+    {
+      "start": 39.5,
+      "end": 41.3,
+      "text": "E eu vou deixar o link na descrição do vídeo"
+    },
+    {
+      "start": 41.3,
+      "end": 45.2,
+      "text": "Depois de tudo pronto agora é só iniciar o processo de fazer os encaixes na base"
+    },
+    {
+      "start": 45.2,
+      "end": 47.3,
+      "text": "E vamos iniciar pelo 60K"
+    },
+    {
+      "start": 47.3,
+      "end": 49.8,
+      "text": "Depois de rotacionar ambos a gente vai centralizar"
+    },
+    {
+      "start": 49.8,
+      "end": 51.0,
+      "text": "Botão direito e centro"
+    },
+    {
+      "start": 51.0,
+      "end": 54.3,
+      "text": "Agora mesclamos os dois e vamos arrastar o 60K para cima"
+    },
+    {
+      "start": 54.3,
+      "end": 57.2,
+      "text": "Eu vou deixar parte do texto na base para fazer o encaixe"
+    },
+    {
+      "start": 57.2,
+      "end": 60.7,
+      "text": "Aqui eu aproveitei para dar uma redimensionada com a função escala"
+    },
+    {
+      "start": 60.7,
+      "end": 66.9,
+      "text": "Agora com a função mesh booleana a gente vai tirar da base o pouquinho do 60K que está inserido nela"
+    },
+    {
+      "start": 66.9,
+      "end": 68.1,
+      "text": "Para fazer o encaixe"
+    },
+    {
+      "start": 68.1,
+      "end": 71.0,
+      "text": "As duas peças estão mescladas, agora a gente vai dividir"
+    },
+    {
+      "start": 71.0,
+      "end": 75.0,
+      "text": "Veja que foi criada uma pequena cavidade da base que vai facilitar a orientação"
+    },
+    {
+      "start": 75.0,
+      "end": 78.2,
+      "text": "Agora vamos fazer o encaixe da plaquinha na lateral da base"
+    },
+    {
+      "start": 78.2,
+      "end": 81.6,
+      "text": "Aqui é o mesmo procedimento, depois de rotacioná-las e centralizá-las"
+    },
+    {
+      "start": 81.6,
+      "end": 84.9,
+      "text": "A gente mexe e vai reposicionar a plaquinha em cima da base"
+    },
+    {
+      "start": 84.9,
+      "end": 87.1,
+      "text": "E novamente com a função mesh booleana"
+    },
+    {
+      "start": 87.1,
+      "end": 88.7,
+      "text": "A gente vai fazer uma diferença"
+    },
+    {
+      "start": 88.7,
+      "end": 91.3,
+      "text": "Pra criar a cavidade do encaixe da plaquinha"
+    },
+    {
+      "start": 91.3,
+      "end": 93.3,
+      "text": "Agora é só dividir as duas partes"
+    },
+    {
+      "start": 93.3,
+      "end": 96.1,
+      "text": "Veja que a cavidade foi criada com sucesso"
+    },
+    {
+      "start": 96.1,
+      "end": 97.6,
+      "text": "Agora é só imprimir"
+    },
+    {
+      "start": 97.6,
+      "end": 99.6,
+      "text": "E aqui vai meu muito obrigado"
+    },
+    {
+      "start": 99.6,
+      "end": 101.8,
+      "text": "Pra quem tem acompanhado essa minha jornada"
+    },
+    {
+      "start": 101.8,
+      "end": 102.9,
+      "text": "E você já sabe né"
+    },
+    {
+      "start": 102.9,
+      "end": 104.7,
+      "text": "Pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 104.7,
+      "end": 105.7,
+      "text": "É só me seguir"
+    }
+  ],
+  "duration": 106.3,
+  "model": "large-v3-turbo"
+}

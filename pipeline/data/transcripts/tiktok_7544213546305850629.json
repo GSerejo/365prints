@@ -1,0 +1,77 @@
+{
+  "text": "Conheça os 3 sites que eu mais uso para baixar os STLs para impressão 3D. Hoje é o dia 76. Em primeiro lugar, o Thanks. Este é meu site favorito para itens de decoração. Ele tem uma biblioteca enorme de modelos incríveis de alta qualidade. Uma dica muito valiosa, muitos criadores oferecem alguns modelos premium de graça na primeira semana para promover o trabalho. Fique sempre de olho. Esse eu uso bastante e é o Kultz 3D. Se você é assim como eu, que adora imprimir personagens, esse é o lugar certo. Os modelos aqui são normalmente pagos, mas o mais legal é que tem muita coisa multipartes aqui disponíveis para impressão. Esse é meu favorito, o Maker World, que é o site da Bambulab. Aqui você baixa o perfil de impressão pronto, otimizado pelo autor. E antes de pagar por algum modelo, eu sempre procuro aqui porque eles são gratuitos. Curtiu essas dicas? Me conta aí nos comentários qual site você mais usa para baixar seus arquivos.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Conheça os 3 sites que eu mais uso para baixar os STLs para impressão 3D."
+    },
+    {
+      "start": 5.2,
+      "end": 6.9,
+      "text": "Hoje é o dia 76."
+    },
+    {
+      "start": 7.4,
+      "end": 8.8,
+      "text": "Em primeiro lugar, o Thanks."
+    },
+    {
+      "start": 8.9,
+      "end": 11.6,
+      "text": "Este é meu site favorito para itens de decoração."
+    },
+    {
+      "start": 11.8,
+      "end": 15.5,
+      "text": "Ele tem uma biblioteca enorme de modelos incríveis de alta qualidade."
+    },
+    {
+      "start": 15.5,
+      "end": 22.6,
+      "text": "Uma dica muito valiosa, muitos criadores oferecem alguns modelos premium de graça na primeira semana para promover o trabalho."
+    },
+    {
+      "start": 22.9,
+      "end": 24.1,
+      "text": "Fique sempre de olho."
+    },
+    {
+      "start": 24.3,
+      "end": 26.9,
+      "text": "Esse eu uso bastante e é o Kultz 3D."
+    },
+    {
+      "start": 26.9,
+      "end": 31.5,
+      "text": "Se você é assim como eu, que adora imprimir personagens, esse é o lugar certo."
+    },
+    {
+      "start": 31.6,
+      "end": 38.9,
+      "text": "Os modelos aqui são normalmente pagos, mas o mais legal é que tem muita coisa multipartes aqui disponíveis para impressão."
+    },
+    {
+      "start": 39.1,
+      "end": 42.6,
+      "text": "Esse é meu favorito, o Maker World, que é o site da Bambulab."
+    },
+    {
+      "start": 42.8,
+      "end": 46.6,
+      "text": "Aqui você baixa o perfil de impressão pronto, otimizado pelo autor."
+    },
+    {
+      "start": 46.9,
+      "end": 51.0,
+      "text": "E antes de pagar por algum modelo, eu sempre procuro aqui porque eles são gratuitos."
+    },
+    {
+      "start": 51.3,
+      "end": 56.6,
+      "text": "Curtiu essas dicas? Me conta aí nos comentários qual site você mais usa para baixar seus arquivos."
+    }
+  ],
+  "duration": 56.9,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,197 @@
+{
+  "text": "Apareceram esses blobs na parede externa da cabeça do Charmander. Fiz três checagens, a terceira resolveu de vez. Bem-vindo ao dia 260. A primeira coisa que eu olho sempre no preview é a costura, mas essa já estava alinhada atrás. Normalmente ocorre com a aleatória, mas o meu problema estava na frente. Portanto, problema com costura descartado. A segunda checagem é habilitar no preview o limpar, o desretração, que é o não retraído, a retração e a viagem. E como era de esperar, a única coisa que aparece no preview é algumas viagens naquela região. Agora em detalhes, vamos ver o que acontece nessas viagens. Não é uma retração na parede externa, mas sim no preenchimento. Veja que quando o bico finaliza uma parte do preenchimento em vermelho, ele faz um wipe, uma limpeza em amarelo. Depois ele faz uma retração, simbolizado pelo rosa. E por último ele faz um zirrupe, ele levanta o bico para fazer um deslocamento depois. E neste caso estava no formato espiral. Se tivesse um pouco de material acumulado no bico, ele poderia depositar na parede externa. Então o que eu fiz foi ir até o perfil do filamento e editei algumas configurações. Aumentei o comprimento de retração, mudei o salto de espiral para normal e aumentei o z-hope, o salto para cima, para 0,6 milímetros. E mexendo nesses parâmetros, eu resolvi o problema dos blobs lá no dia 221. Mas nesse caso eu fiz muitos testes e nada resolveu os blobs por completo. Foi aí que eu decidi ficar olhando a impressão Presta atenção nesse vídeo Durante a impressão da parede externa O bico dava uma paradinha E despejava material acumulado Como se tivesse uma pressão sobrando Isso não é retração É a máquina desacelerando onde não devia E aí eu lembrei de um aviso que o Bambu Estúdio Tinha me dado em outro projeto Ele estava desligando o ArcFit Porque a impressora tem o Curve Planning O ArcFit em sua avisa a curva no fatiador Curve Planning faz a mesma coisa Só que no Farmer, com a física da máquina E provavelmente os dois juntos estavam brigando Então foi só ir na aba qualidade e desligar o ajuste de arco O arc fitting e o problema foi resolvido Mas atenção, só desligue se a sua impressora tiver o Curve Planning Como a série H2, P2 e X2 Os filamentos utilizados nesse projeto são os Mate da Multifila E pra ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 7.6,
+      "text": "Apareceram esses blobs na parede externa da cabeça do Charmander. Fiz três checagens, a terceira resolveu de vez."
+    },
+    {
+      "start": 8.2,
+      "end": 15.2,
+      "text": "Bem-vindo ao dia 260. A primeira coisa que eu olho sempre no preview é a costura, mas essa já estava alinhada atrás."
+    },
+    {
+      "start": 15.4,
+      "end": 21.4,
+      "text": "Normalmente ocorre com a aleatória, mas o meu problema estava na frente. Portanto, problema com costura descartado."
+    },
+    {
+      "start": 21.4,
+      "end": 28.6,
+      "text": "A segunda checagem é habilitar no preview o limpar, o desretração, que é o não retraído, a retração e a viagem."
+    },
+    {
+      "start": 28.6,
+      "end": 34.3,
+      "text": "E como era de esperar, a única coisa que aparece no preview é algumas viagens naquela região."
+    },
+    {
+      "start": 34.6,
+      "end": 37.6,
+      "text": "Agora em detalhes, vamos ver o que acontece nessas viagens."
+    },
+    {
+      "start": 37.8,
+      "end": 41.3,
+      "text": "Não é uma retração na parede externa, mas sim no preenchimento."
+    },
+    {
+      "start": 41.4,
+      "end": 46.9,
+      "text": "Veja que quando o bico finaliza uma parte do preenchimento em vermelho, ele faz um wipe, uma limpeza em amarelo."
+    },
+    {
+      "start": 46.9,
+      "end": 49.9,
+      "text": "Depois ele faz uma retração, simbolizado pelo rosa."
+    },
+    {
+      "start": 50.0,
+      "end": 54.4,
+      "text": "E por último ele faz um zirrupe, ele levanta o bico para fazer um deslocamento depois."
+    },
+    {
+      "start": 54.6,
+      "end": 56.6,
+      "text": "E neste caso estava no formato espiral."
+    },
+    {
+      "start": 56.6,
+      "end": 61.4,
+      "text": "Se tivesse um pouco de material acumulado no bico, ele poderia depositar na parede externa."
+    },
+    {
+      "start": 61.4,
+      "end": 66.4,
+      "text": "Então o que eu fiz foi ir até o perfil do filamento e editei algumas configurações."
+    },
+    {
+      "start": 66.5,
+      "end": 74.5,
+      "text": "Aumentei o comprimento de retração, mudei o salto de espiral para normal e aumentei o z-hope, o salto para cima, para 0,6 milímetros."
+    },
+    {
+      "start": 74.7,
+      "end": 79.6,
+      "text": "E mexendo nesses parâmetros, eu resolvi o problema dos blobs lá no dia 221."
+    },
+    {
+      "start": 79.7,
+      "end": 84.8,
+      "text": "Mas nesse caso eu fiz muitos testes e nada resolveu os blobs por completo."
+    },
+    {
+      "start": 84.8,
+      "end": 88.1,
+      "text": "Foi aí que eu decidi ficar olhando a impressão"
+    },
+    {
+      "start": 88.1,
+      "end": 89.6,
+      "text": "Presta atenção nesse vídeo"
+    },
+    {
+      "start": 89.6,
+      "end": 91.4,
+      "text": "Durante a impressão da parede externa"
+    },
+    {
+      "start": 91.4,
+      "end": 93.4,
+      "text": "O bico dava uma paradinha"
+    },
+    {
+      "start": 93.4,
+      "end": 95.7,
+      "text": "E despejava material acumulado"
+    },
+    {
+      "start": 95.7,
+      "end": 97.7,
+      "text": "Como se tivesse uma pressão sobrando"
+    },
+    {
+      "start": 97.7,
+      "end": 98.9,
+      "text": "Isso não é retração"
+    },
+    {
+      "start": 98.9,
+      "end": 101.5,
+      "text": "É a máquina desacelerando onde não devia"
+    },
+    {
+      "start": 101.5,
+      "end": 103.7,
+      "text": "E aí eu lembrei de um aviso que o Bambu Estúdio"
+    },
+    {
+      "start": 103.7,
+      "end": 105.3,
+      "text": "Tinha me dado em outro projeto"
+    },
+    {
+      "start": 105.3,
+      "end": 107.5,
+      "text": "Ele estava desligando o ArcFit"
+    },
+    {
+      "start": 107.5,
+      "end": 109.6,
+      "text": "Porque a impressora tem o Curve Planning"
+    },
+    {
+      "start": 109.6,
+      "end": 112.2,
+      "text": "O ArcFit em sua avisa a curva no fatiador"
+    },
+    {
+      "start": 112.2,
+      "end": 114.2,
+      "text": "Curve Planning faz a mesma coisa"
+    },
+    {
+      "start": 114.2,
+      "end": 116.5,
+      "text": "Só que no Farmer, com a física da máquina"
+    },
+    {
+      "start": 116.5,
+      "end": 119.3,
+      "text": "E provavelmente os dois juntos estavam brigando"
+    },
+    {
+      "start": 119.3,
+      "end": 123.3,
+      "text": "Então foi só ir na aba qualidade e desligar o ajuste de arco"
+    },
+    {
+      "start": 123.3,
+      "end": 125.7,
+      "text": "O arc fitting e o problema foi resolvido"
+    },
+    {
+      "start": 125.7,
+      "end": 129.6,
+      "text": "Mas atenção, só desligue se a sua impressora tiver o Curve Planning"
+    },
+    {
+      "start": 129.6,
+      "end": 132.4,
+      "text": "Como a série H2, P2 e X2"
+    },
+    {
+      "start": 132.4,
+      "end": 136.4,
+      "text": "Os filamentos utilizados nesse projeto são os Mate da Multifila"
+    },
+    {
+      "start": 136.4,
+      "end": 139.1,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 139.4,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,72 @@
+{
+  "text": "Não cometa esse erro na sua impressão 3D. Bem-vindo ao dia 140. Esse gorro de Papai Noel é impresso em duas partes que se unem em uma determinada altura. O único contato da ponta do gorro com a mesa são esses pequenos suportes aqui. E como vocês sabem, a peça fica uma distância Z dos suportes. E a probabilidade no início da impressão dessa pontinha se deslocar e arruinar toda a impressão é grande. Mas calma, para evitar esse tipo de problema, eu utilizo suportes manuais. Primeiro eu pinto a região que já existia, as saliências. E depois eu acrescento um pouco mais de suporte na ponta, que é uma região de encaixe também. Não se esqueça de alterar o tipo de suporte para manual para respeitar a região pintada. Depois de fatiada a gente pode notar que aumentamos a estabilidade da ponta do gol com maior número de suportes. E agora reduzimos a probabilidade de erros. Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Não cometa esse erro na sua impressão 3D."
+    },
+    {
+      "start": 2.9,
+      "end": 4.7,
+      "text": "Bem-vindo ao dia 140."
+    },
+    {
+      "start": 4.9,
+      "end": 9.0,
+      "text": "Esse gorro de Papai Noel é impresso em duas partes que se unem em uma determinada altura."
+    },
+    {
+      "start": 9.2,
+      "end": 13.1,
+      "text": "O único contato da ponta do gorro com a mesa são esses pequenos suportes aqui."
+    },
+    {
+      "start": 13.2,
+      "end": 16.5,
+      "text": "E como vocês sabem, a peça fica uma distância Z dos suportes."
+    },
+    {
+      "start": 16.7,
+      "end": 22.1,
+      "text": "E a probabilidade no início da impressão dessa pontinha se deslocar e arruinar toda a impressão é grande."
+    },
+    {
+      "start": 22.1,
+      "end": 25.7,
+      "text": "Mas calma, para evitar esse tipo de problema, eu utilizo suportes manuais."
+    },
+    {
+      "start": 25.9,
+      "end": 28.8,
+      "text": "Primeiro eu pinto a região que já existia, as saliências."
+    },
+    {
+      "start": 28.8,
+      "end": 34.0,
+      "text": "E depois eu acrescento um pouco mais de suporte na ponta, que é uma região de encaixe também."
+    },
+    {
+      "start": 34.1,
+      "end": 38.2,
+      "text": "Não se esqueça de alterar o tipo de suporte para manual para respeitar a região pintada."
+    },
+    {
+      "start": 38.3,
+      "end": 43.6,
+      "text": "Depois de fatiada a gente pode notar que aumentamos a estabilidade da ponta do gol com maior número de suportes."
+    },
+    {
+      "start": 43.7,
+      "end": 46.5,
+      "text": "E agora reduzimos a probabilidade de erros."
+    },
+    {
+      "start": 46.7,
+      "end": 50.3,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 51.0,
+  "model": "large-v3-turbo"
+}

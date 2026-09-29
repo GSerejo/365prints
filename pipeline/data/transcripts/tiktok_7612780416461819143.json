@@ -1,0 +1,42 @@
+{
+  "text": "Parece metal, mas eu imprimi na minha impressora 3D. Bem-vindo ao dia 177 e hoje eu testei o PPS-CE, um dos materiais mais técnicos que já passou por aqui. E na minha H2S foram 340 graus no bico, 120 graus na mesa e 65 graus na câmera aquecida. Ele aguenta até 240 graus de temperatura e é imune a quase qualquer produto químico. E quem mandou esse material pra testar foi a Multifila. Eles estão avaliando em colocar no catálogo e pra mim tá aprovadíssimo. E vocês, o que acharam? Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 1.2,
+      "end": 5.2,
+      "text": "Parece metal, mas eu imprimi na minha impressora 3D."
+    },
+    {
+      "start": 5.4,
+      "end": 12.9,
+      "text": "Bem-vindo ao dia 177 e hoje eu testei o PPS-CE, um dos materiais mais técnicos que já passou por aqui."
+    },
+    {
+      "start": 13.1,
+      "end": 19.6,
+      "text": "E na minha H2S foram 340 graus no bico, 120 graus na mesa e 65 graus na câmera aquecida."
+    },
+    {
+      "start": 19.7,
+      "end": 24.3,
+      "text": "Ele aguenta até 240 graus de temperatura e é imune a quase qualquer produto químico."
+    },
+    {
+      "start": 24.3,
+      "end": 27.3,
+      "text": "E quem mandou esse material pra testar foi a Multifila."
+    },
+    {
+      "start": 27.4,
+      "end": 30.3,
+      "text": "Eles estão avaliando em colocar no catálogo e pra mim tá aprovadíssimo."
+    },
+    {
+      "start": 31.2,
+      "end": 36.7,
+      "text": "E vocês, o que acharam? Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 37.0,
+  "model": "large-v3-turbo"
+}

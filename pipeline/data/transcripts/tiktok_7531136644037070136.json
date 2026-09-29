@@ -1,0 +1,82 @@
+{
+  "text": "A mesma peça e o mesmo acabamento, com uma economia de 70% de filamento e uma redução de 40% no tempo de impressão. Isso tudo com apenas um clique. Bem-vindo ao dia 52 e hoje é uma dica super rápida. Reparem nesse tempo de impressão e na quantidade de filamento gasto. Esse é um perfil padrão. Agora, alterando o perfil de preenchimento interno, o infil, para a lightning, ou seja, a iluminação, veja a diferença. Uma redução de 234 gramas de filamento E quase 3 horas de impressão Tá, mas e quando usar esse tipo de preenchimento? Vamos ver o que a própria Bambulab nos diz Esse preenchimento é ideal para peças decorativas Que não precisam de resistência estrutural E realmente o modelo fica bem leve Gostaram desse conteúdo? Então me siga aí para receber vídeos de impressão 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.6,
+      "text": "A mesma peça e o mesmo acabamento, com uma economia de 70% de filamento e uma redução de 40% no tempo de impressão."
+    },
+    {
+      "start": 8.7,
+      "end": 11.1,
+      "text": "Isso tudo com apenas um clique."
+    },
+    {
+      "start": 11.4,
+      "end": 15.9,
+      "text": "Bem-vindo ao dia 52 e hoje é uma dica super rápida."
+    },
+    {
+      "start": 16.0,
+      "end": 19.3,
+      "text": "Reparem nesse tempo de impressão e na quantidade de filamento gasto."
+    },
+    {
+      "start": 19.5,
+      "end": 20.7,
+      "text": "Esse é um perfil padrão."
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "text": "Agora, alterando o perfil de preenchimento interno, o infil, para a lightning, ou seja, a iluminação, veja a diferença."
+    },
+    {
+      "start": 29.0,
+      "end": 32.4,
+      "text": "Uma redução de 234 gramas de filamento"
+    },
+    {
+      "start": 32.4,
+      "end": 34.5,
+      "text": "E quase 3 horas de impressão"
+    },
+    {
+      "start": 34.5,
+      "end": 37.6,
+      "text": "Tá, mas e quando usar esse tipo de preenchimento?"
+    },
+    {
+      "start": 37.7,
+      "end": 40.2,
+      "text": "Vamos ver o que a própria Bambulab nos diz"
+    },
+    {
+      "start": 40.2,
+      "end": 43.3,
+      "text": "Esse preenchimento é ideal para peças decorativas"
+    },
+    {
+      "start": 43.3,
+      "end": 45.5,
+      "text": "Que não precisam de resistência estrutural"
+    },
+    {
+      "start": 45.5,
+      "end": 47.8,
+      "text": "E realmente o modelo fica bem leve"
+    },
+    {
+      "start": 47.8,
+      "end": 49.4,
+      "text": "Gostaram desse conteúdo?"
+    },
+    {
+      "start": 50.0,
+      "end": 53.6,
+      "text": "Então me siga aí para receber vídeos de impressão 3D todos os dias"
+    }
+  ],
+  "duration": 54.2,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,117 @@
+{
+  "text": "Impressão com linhas aparentes? Calma que isso tem solução. Bem-vindo ao dia 85 e eu amenizei esse problema com apenas uma mudança no fatiador. Mas primeiro vamos falar de ordem de paredes. O fatiador tem diferentes sequências para criar as paredes da sua peça. A ordem padrão é primeiro as paredes internas e depois as paredes externas. Quando a ordem é externa, interna, outer e inner, o fatiador prioriza a parede externa, Aquela que você vê e só depois preenche as internas Foi exatamente isso que melhorou o meu projeto A ordem interna e externa pode criar um excesso de pressão na linha interna Que por sua vez empurra a linha externa um pouquinho para fora E cria essas pequenas protuberâncias na parede da peça Em contrapartida, na opção externa e interna, a linha externa impressa antes E se solidifica antes, evitando essas saliências O problema não subiu por completo e daria para aumentar o número de paredes E reduzir a velocidade de impressão na parede externa Mas quando comparamos as duas, a diferença é bastante significativa. Essa opção é ótima para peças que tem seções transversais constantes no eixo Z, como esse letreiro. Mas evite essa opção quando o modelo tem bastante saliências, porque pode prejudicar a aderência dos overhangs já que a camada externa impressa antes. Ainda há uma opção intermediária entre essas duas quando você utiliza três ou mais paredes, mas eu vou explicar num próximo vídeo. Se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Impressão com linhas aparentes? Calma que isso tem solução."
+    },
+    {
+      "start": 4.3,
+      "end": 10.0,
+      "text": "Bem-vindo ao dia 85 e eu amenizei esse problema com apenas uma mudança no fatiador."
+    },
+    {
+      "start": 10.2,
+      "end": 12.9,
+      "text": "Mas primeiro vamos falar de ordem de paredes."
+    },
+    {
+      "start": 13.1,
+      "end": 17.5,
+      "text": "O fatiador tem diferentes sequências para criar as paredes da sua peça."
+    },
+    {
+      "start": 17.6,
+      "end": 22.6,
+      "text": "A ordem padrão é primeiro as paredes internas e depois as paredes externas."
+    },
+    {
+      "start": 22.6,
+      "end": 28.6,
+      "text": "Quando a ordem é externa, interna, outer e inner, o fatiador prioriza a parede externa,"
+    },
+    {
+      "start": 28.6,
+      "end": 32.1,
+      "text": "Aquela que você vê e só depois preenche as internas"
+    },
+    {
+      "start": 32.1,
+      "end": 34.9,
+      "text": "Foi exatamente isso que melhorou o meu projeto"
+    },
+    {
+      "start": 34.9,
+      "end": 39.4,
+      "text": "A ordem interna e externa pode criar um excesso de pressão na linha interna"
+    },
+    {
+      "start": 39.4,
+      "end": 42.5,
+      "text": "Que por sua vez empurra a linha externa um pouquinho para fora"
+    },
+    {
+      "start": 42.5,
+      "end": 45.8,
+      "text": "E cria essas pequenas protuberâncias na parede da peça"
+    },
+    {
+      "start": 45.8,
+      "end": 49.9,
+      "text": "Em contrapartida, na opção externa e interna, a linha externa impressa antes"
+    },
+    {
+      "start": 49.9,
+      "end": 52.7,
+      "text": "E se solidifica antes, evitando essas saliências"
+    },
+    {
+      "start": 52.7,
+      "end": 56.2,
+      "text": "O problema não subiu por completo e daria para aumentar o número de paredes"
+    },
+    {
+      "start": 56.2,
+      "end": 58.5,
+      "text": "E reduzir a velocidade de impressão na parede externa"
+    },
+    {
+      "start": 58.5,
+      "end": 62.2,
+      "text": "Mas quando comparamos as duas, a diferença é bastante significativa."
+    },
+    {
+      "start": 62.7,
+      "end": 68.5,
+      "text": "Essa opção é ótima para peças que tem seções transversais constantes no eixo Z, como esse letreiro."
+    },
+    {
+      "start": 69.1,
+      "end": 72.2,
+      "text": "Mas evite essa opção quando o modelo tem bastante saliências,"
+    },
+    {
+      "start": 72.4,
+      "end": 76.4,
+      "text": "porque pode prejudicar a aderência dos overhangs já que a camada externa impressa antes."
+    },
+    {
+      "start": 76.7,
+      "end": 80.9,
+      "text": "Ainda há uma opção intermediária entre essas duas quando você utiliza três ou mais paredes,"
+    },
+    {
+      "start": 81.0,
+      "end": 82.6,
+      "text": "mas eu vou explicar num próximo vídeo."
+    },
+    {
+      "start": 82.6,
+      "end": 86.4,
+      "text": "Se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 87.3,
+  "model": "large-v3-turbo"
+}

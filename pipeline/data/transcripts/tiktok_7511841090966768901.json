@@ -1,0 +1,32 @@
+{
+  "text": "Dia 14, de 365 impressões 3D aqui em casa. Hoje foi o dia de imprimir um suporte para lápis e caneta diferente. Essa impressão durou 7 horas e foram 200 gramas de PLA da Slim 3D. Olha aí como ficou. E eu tô achando que eu vou usar de porta-escova e pasta de dente.",
+  "segments": [
+    {
+      "start": 2.7,
+      "end": 7.9,
+      "text": "Dia 14, de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 9.0,
+      "end": 13.8,
+      "text": "Hoje foi o dia de imprimir um suporte para lápis e caneta diferente."
+    },
+    {
+      "start": 13.8,
+      "end": 20.3,
+      "text": "Essa impressão durou 7 horas e foram 200 gramas de PLA da Slim 3D."
+    },
+    {
+      "start": 24.8,
+      "end": 26.4,
+      "text": "Olha aí como ficou."
+    },
+    {
+      "start": 37.7,
+      "end": 40.9,
+      "text": "E eu tô achando que eu vou usar de porta-escova e pasta de dente."
+    }
+  ],
+  "duration": 42.5,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,57 @@
+{
+  "text": "Dia 5 de 365 impressões 3D aqui em casa. Está chegando o grande prêmio de Mônaco. O que tal imprimir uma peça 3D relacionada à Fórmula 1? Como de costume, eu fui no site da Bambu Lab e encontrei um quadrinho que mostra o circuito de Mônaco em 3D. Mostra o relevo, as edificações e bora ver como é que ficou. Com tudo impresso na 3D, a moldura, a água, a pista de Mônaco com relevo e até a plaquinha, agora é hora de montar. E é claro que eu não fiquei contente em só fazer de Mônaco, né? Já fui imprimindo de Interlagos, de Imola, de Miami e olha aí como é que ficou. Muito bem detalhada, né? Uma característica das impressões na Bambu Lab. Agora eu vou ter que imprimir todos os circuitos de 2025, né?",
+  "segments": [
+    {
+      "start": 2.3,
+      "end": 7.8,
+      "text": "Dia 5 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 7.8,
+      "end": 12.6,
+      "text": "Está chegando o grande prêmio de Mônaco. O que tal imprimir uma peça 3D relacionada à Fórmula 1?"
+    },
+    {
+      "start": 12.8,
+      "end": 19.9,
+      "text": "Como de costume, eu fui no site da Bambu Lab e encontrei um quadrinho que mostra o circuito de Mônaco em 3D."
+    },
+    {
+      "start": 20.3,
+      "end": 24.8,
+      "text": "Mostra o relevo, as edificações e bora ver como é que ficou."
+    },
+    {
+      "start": 24.8,
+      "end": 33.5,
+      "text": "Com tudo impresso na 3D, a moldura, a água, a pista de Mônaco com relevo e até a plaquinha, agora é hora de montar."
+    },
+    {
+      "start": 34.5,
+      "end": 37.6,
+      "text": "E é claro que eu não fiquei contente em só fazer de Mônaco, né?"
+    },
+    {
+      "start": 37.8,
+      "end": 44.2,
+      "text": "Já fui imprimindo de Interlagos, de Imola, de Miami e olha aí como é que ficou."
+    },
+    {
+      "start": 44.8,
+      "end": 46.4,
+      "text": "Muito bem detalhada, né?"
+    },
+    {
+      "start": 47.0,
+      "end": 49.6,
+      "text": "Uma característica das impressões na Bambu Lab."
+    },
+    {
+      "start": 49.6,
+      "end": 54.8,
+      "text": "Agora eu vou ter que imprimir todos os circuitos de 2025, né?"
+    }
+  ],
+  "duration": 58.2,
+  "model": "large-v3-turbo"
+}

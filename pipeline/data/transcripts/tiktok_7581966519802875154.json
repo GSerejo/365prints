@@ -1,0 +1,112 @@
+{
+  "text": "Entenda de uma vez por todas a configuração ideal para fazer os encaixes dessas peças. Bem-vindo ao dia 138 e esse vídeo é uma continuação do vídeo de ontem do dia 137. Aqui no Bambu Studio a gente vai trabalhar com a compensação de furo e a compensação de contorno. Lembrando que esses dois parâmetros alteram o contorno ou furo do plano XY. Vamos começar pelo encaixe do 60K na base. Essa é a orientação de impressão para aproveitar o acabamento da mesa. E essa região de encaixe aí está no plano XZ, então a gente não vai alterar esse objeto E aqui na base os encaixes estão no plano XY, então é aqui que a gente vai mexer Nós precisamos aumentar esses furos ou buracos Então vamos aumentar para 2 a compensação de furo para vocês verem a diferença Veja que esse parâmetro aumentou a largura de encaixe porque está no plano XY Mas é claro que 2mm é muito, então a gente vai alterar para 0,2 e pronto Agora precisamos fazer o encaixe da plaquinha que vai na base E esse encaixe está no plano XZ, então nós temos que mexer na plaquinha Precisamos reduzir o contorno ou bordas dessa plaquinha E para reduzir vamos utilizar o valor negativo de \"-2\", para vocês também verem a diferença Veja que no fatiador já mostra esse offset de \"-2\", é claro que 2 é muito, então vamos alterar para 0,2 E lembrando que o valor negativo significa uma redução nas bordas E eu utilizei 0,2 porque eu ainda ia utilizar cola, mas você pode testar aí o ajuste ideal E por fim, eu tentei fazer esse vídeo seguindo a minha linha de raciocínio, espero que vocês tenham entendido. E pra ter conteúdo de 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 6.0,
+      "text": "Entenda de uma vez por todas a configuração ideal para fazer os encaixes dessas peças."
+    },
+    {
+      "start": 7.1,
+      "end": 13.5,
+      "text": "Bem-vindo ao dia 138 e esse vídeo é uma continuação do vídeo de ontem do dia 137."
+    },
+    {
+      "start": 13.8,
+      "end": 18.4,
+      "text": "Aqui no Bambu Studio a gente vai trabalhar com a compensação de furo e a compensação de contorno."
+    },
+    {
+      "start": 18.6,
+      "end": 22.1,
+      "text": "Lembrando que esses dois parâmetros alteram o contorno ou furo do plano XY."
+    },
+    {
+      "start": 22.5,
+      "end": 25.0,
+      "text": "Vamos começar pelo encaixe do 60K na base."
+    },
+    {
+      "start": 25.1,
+      "end": 28.3,
+      "text": "Essa é a orientação de impressão para aproveitar o acabamento da mesa."
+    },
+    {
+      "start": 28.3,
+      "end": 32.8,
+      "text": "E essa região de encaixe aí está no plano XZ, então a gente não vai alterar esse objeto"
+    },
+    {
+      "start": 32.8,
+      "end": 37.1,
+      "text": "E aqui na base os encaixes estão no plano XY, então é aqui que a gente vai mexer"
+    },
+    {
+      "start": 37.1,
+      "end": 40.2,
+      "text": "Nós precisamos aumentar esses furos ou buracos"
+    },
+    {
+      "start": 40.2,
+      "end": 44.0,
+      "text": "Então vamos aumentar para 2 a compensação de furo para vocês verem a diferença"
+    },
+    {
+      "start": 44.0,
+      "end": 47.8,
+      "text": "Veja que esse parâmetro aumentou a largura de encaixe porque está no plano XY"
+    },
+    {
+      "start": 47.8,
+      "end": 52.3,
+      "text": "Mas é claro que 2mm é muito, então a gente vai alterar para 0,2 e pronto"
+    },
+    {
+      "start": 52.3,
+      "end": 55.8,
+      "text": "Agora precisamos fazer o encaixe da plaquinha que vai na base"
+    },
+    {
+      "start": 55.8,
+      "end": 59.6,
+      "text": "E esse encaixe está no plano XZ, então nós temos que mexer na plaquinha"
+    },
+    {
+      "start": 59.6,
+      "end": 62.9,
+      "text": "Precisamos reduzir o contorno ou bordas dessa plaquinha"
+    },
+    {
+      "start": 62.9,
+      "end": 68.1,
+      "text": "E para reduzir vamos utilizar o valor negativo de \"-2\", para vocês também verem a diferença"
+    },
+    {
+      "start": 68.1,
+      "end": 74.5,
+      "text": "Veja que no fatiador já mostra esse offset de \"-2\", é claro que 2 é muito, então vamos alterar para 0,2"
+    },
+    {
+      "start": 74.5,
+      "end": 78.1,
+      "text": "E lembrando que o valor negativo significa uma redução nas bordas"
+    },
+    {
+      "start": 78.1,
+      "end": 83.9,
+      "text": "E eu utilizei 0,2 porque eu ainda ia utilizar cola, mas você pode testar aí o ajuste ideal"
+    },
+    {
+      "start": 83.9,
+      "end": 88.9,
+      "text": "E por fim, eu tentei fazer esse vídeo seguindo a minha linha de raciocínio, espero que vocês tenham entendido."
+    },
+    {
+      "start": 89.6,
+      "end": 92.7,
+      "text": "E pra ter conteúdo de 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 92.9,
+  "model": "large-v3-turbo"
+}

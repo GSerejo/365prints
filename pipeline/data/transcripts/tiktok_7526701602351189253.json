@@ -1,0 +1,62 @@
+{
+  "text": "Eu criei uma coleção de letreiros baseados em frases bíblicas. Bem-vindo ao dia 42 de 365 Impressões 3D aqui em casa. Todo esse projeto foi modelado lá no Fusion 360. A impressão foi simples e rápida e eu utilizei um PLA fosco. A ideia foi criar um objeto decorativo, um leathery, com duas fontes diferentes. E o legal é que é só encaixar uma peça na outra. Dessa forma eu consegui imprimir tudo separado. Olha que legal ficou esse efeito de uma palavra saindo da outra. Agora eu quero a opinião de vocês. Gostaram do resultado? Me dê ideias nos comentários de que frases eu poderia fazer.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Eu criei uma coleção de letreiros baseados em frases bíblicas."
+    },
+    {
+      "start": 5.0,
+      "end": 10.2,
+      "text": "Bem-vindo ao dia 42 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 10.3,
+      "end": 14.2,
+      "text": "Todo esse projeto foi modelado lá no Fusion 360."
+    },
+    {
+      "start": 14.7,
+      "end": 18.0,
+      "text": "A impressão foi simples e rápida e eu utilizei um PLA fosco."
+    },
+    {
+      "start": 18.2,
+      "end": 22.4,
+      "text": "A ideia foi criar um objeto decorativo, um leathery, com duas fontes diferentes."
+    },
+    {
+      "start": 22.7,
+      "end": 25.6,
+      "text": "E o legal é que é só encaixar uma peça na outra."
+    },
+    {
+      "start": 25.6,
+      "end": 28.5,
+      "text": "Dessa forma eu consegui imprimir tudo separado."
+    },
+    {
+      "start": 28.5,
+      "end": 32.0,
+      "text": "Olha que legal ficou esse efeito de uma palavra saindo da outra."
+    },
+    {
+      "start": 32.2,
+      "end": 34.1,
+      "text": "Agora eu quero a opinião de vocês."
+    },
+    {
+      "start": 34.4,
+      "end": 35.3,
+      "text": "Gostaram do resultado?"
+    },
+    {
+      "start": 35.7,
+      "end": 38.8,
+      "text": "Me dê ideias nos comentários de que frases eu poderia fazer."
+    }
+  ],
+  "duration": 39.9,
+  "model": "large-v3-turbo"
+}

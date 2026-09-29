@@ -1,0 +1,62 @@
+{
+  "text": "Essa planta avisa quando está faltando água. Bem-vindo ao dia 199 e eu utilizei um filamento que muda de cor. Quando ela toma sol, o vaso fica verde. Quando a água esfria a peça, ela volta para o roxo. Essa transição é gradual e é claro que depende da espessura do vaso. Mas depois de alguns minutinhos, olha só a diferença. Eu utilizei o PLA termo da Multifila, que quando esquenta, fica verde. Só com a temperatura do nosso corpo já dá para ver alguma transição. Agora me conta aí nos comentários Qual aplicação nós poderíamos testar E não esquece de me seguir para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Essa planta avisa quando está faltando água."
+    },
+    {
+      "start": 3.7,
+      "end": 8.3,
+      "text": "Bem-vindo ao dia 199 e eu utilizei um filamento que muda de cor."
+    },
+    {
+      "start": 8.4,
+      "end": 10.6,
+      "text": "Quando ela toma sol, o vaso fica verde."
+    },
+    {
+      "start": 10.7,
+      "end": 13.5,
+      "text": "Quando a água esfria a peça, ela volta para o roxo."
+    },
+    {
+      "start": 13.6,
+      "end": 17.2,
+      "text": "Essa transição é gradual e é claro que depende da espessura do vaso."
+    },
+    {
+      "start": 17.2,
+      "end": 19.7,
+      "text": "Mas depois de alguns minutinhos, olha só a diferença."
+    },
+    {
+      "start": 19.7,
+      "end": 23.7,
+      "text": "Eu utilizei o PLA termo da Multifila, que quando esquenta, fica verde."
+    },
+    {
+      "start": 23.8,
+      "end": 27.2,
+      "text": "Só com a temperatura do nosso corpo já dá para ver alguma transição."
+    },
+    {
+      "start": 27.2,
+      "end": 31.3,
+      "text": "Agora me conta aí nos comentários"
+    },
+    {
+      "start": 31.3,
+      "end": 33.3,
+      "text": "Qual aplicação nós poderíamos testar"
+    },
+    {
+      "start": 33.3,
+      "end": 36.4,
+      "text": "E não esquece de me seguir para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 36.7,
+  "model": "large-v3-turbo"
+}

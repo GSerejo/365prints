@@ -1,0 +1,67 @@
+{
+  "text": "Como instalar fontes novas no seu fatiador em menos de um minuto. Bem-vindo ao dia 257. Primeiro você precisa de uma biblioteca de fontes e no Google Fonts as fontes tem licença comercial. Tem milhares de fontes disponíveis e pra ajudar a escolher dá pra utilizar os filtros. Quando encontrar a que mais lhe agrada é só clicar nela e depois em Get Fonte para fazer o download. O arquivo vem no formato zip, então botão direito e extrair tudo. Agora é só abrir a pasta extraída e encontrar a fonte no formato ttf. Lembrando que eu estou utilizando o Windows, botão direito, mostrar mais opções e instalar para todos os usuários. Você instalou a fonte no sistema operacional, fecha e abre o fatiador e agora as fontes instaladas estarão lá. Fontes diferentes é o primeiro passo para fazer letreiros personalizados. Eu tenho um curso completo ensinando passo a passo de como fazer e como imprimir esses tipos de letreiros. Se você tiver interesse é só digitar eu quero nos comentários que eu te mando o link.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Como instalar fontes novas no seu fatiador em menos de um minuto."
+    },
+    {
+      "start": 4.2,
+      "end": 6.2,
+      "text": "Bem-vindo ao dia 257."
+    },
+    {
+      "start": 6.3,
+      "end": 11.4,
+      "text": "Primeiro você precisa de uma biblioteca de fontes e no Google Fonts as fontes tem licença comercial."
+    },
+    {
+      "start": 11.7,
+      "end": 16.3,
+      "text": "Tem milhares de fontes disponíveis e pra ajudar a escolher dá pra utilizar os filtros."
+    },
+    {
+      "start": 16.4,
+      "end": 21.3,
+      "text": "Quando encontrar a que mais lhe agrada é só clicar nela e depois em Get Fonte para fazer o download."
+    },
+    {
+      "start": 21.5,
+      "end": 25.5,
+      "text": "O arquivo vem no formato zip, então botão direito e extrair tudo."
+    },
+    {
+      "start": 25.6,
+      "end": 29.4,
+      "text": "Agora é só abrir a pasta extraída e encontrar a fonte no formato ttf."
+    },
+    {
+      "start": 29.4,
+      "end": 36.1,
+      "text": "Lembrando que eu estou utilizando o Windows, botão direito, mostrar mais opções e instalar para todos os usuários."
+    },
+    {
+      "start": 36.3,
+      "end": 42.0,
+      "text": "Você instalou a fonte no sistema operacional, fecha e abre o fatiador e agora as fontes instaladas estarão lá."
+    },
+    {
+      "start": 42.1,
+      "end": 46.8,
+      "text": "Fontes diferentes é o primeiro passo para fazer letreiros personalizados."
+    },
+    {
+      "start": 46.8,
+      "end": 52.3,
+      "text": "Eu tenho um curso completo ensinando passo a passo de como fazer e como imprimir esses tipos de letreiros."
+    },
+    {
+      "start": 52.4,
+      "end": 56.3,
+      "text": "Se você tiver interesse é só digitar eu quero nos comentários que eu te mando o link."
+    }
+  ],
+  "duration": 56.6,
+  "model": "large-v3-turbo"
+}

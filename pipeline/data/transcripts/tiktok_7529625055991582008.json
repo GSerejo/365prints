@@ -1,0 +1,82 @@
+{
+  "text": "Eu imprimi o Batman e parecia tranquilo, mas não foi tanto assim. Bem-vindo ao dia 48 de 365 Impressões 3D aqui em casa. Esse modelinho você encontra lá no site da Bambu Lab e como vocês sabem, o perfil de impressão vem pronto e com as orientações corretas para se imprimir. Esse é um modelo multipartes, ou seja, você imprime todas as cores separadas e depois é só colar. monte de filamento. Quando eu analisei o arquivo, eu verifiquei que o torso estava praticamente aéreo e só ficava preso na mesa através desses dois contatinhos aqui. E como os suportes ficam uma distância da peça, não havia estabilidade para a impressão do modelo. O que eu fiz foi só aumentar o contato da peça com a mesa, ou seja, eu só empurrei ela um pouco mais para baixo. Como essa era uma região de encaixe, não modificou nada em relação ao modelo. E agora sim eu consegui Imprimiu o torso sem problemas e o encaixe ficou tranquilo. Só usar um pouquinho de cola. Dica de ouro. Sempre revise o posicionamento das suas peças antes de imprimir. E agora sim o Batman tá completo. Se quiser mais dicas assim, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Eu imprimi o Batman e parecia tranquilo, mas não foi tanto assim."
+    },
+    {
+      "start": 6.0,
+      "end": 11.3,
+      "text": "Bem-vindo ao dia 48 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 11.5,
+      "end": 20.0,
+      "text": "Esse modelinho você encontra lá no site da Bambu Lab e como vocês sabem, o perfil de impressão vem pronto e com as orientações corretas para se imprimir."
+    },
+    {
+      "start": 20.2,
+      "end": 26.0,
+      "text": "Esse é um modelo multipartes, ou seja, você imprime todas as cores separadas e depois é só colar."
+    },
+    {
+      "start": 30.0,
+      "end": 35.2,
+      "text": "monte de filamento. Quando eu analisei o arquivo, eu verifiquei que o torso estava praticamente aéreo"
+    },
+    {
+      "start": 35.2,
+      "end": 41.3,
+      "text": "e só ficava preso na mesa através desses dois contatinhos aqui. E como os suportes ficam uma"
+    },
+    {
+      "start": 41.3,
+      "end": 46.7,
+      "text": "distância da peça, não havia estabilidade para a impressão do modelo. O que eu fiz foi só aumentar"
+    },
+    {
+      "start": 46.7,
+      "end": 51.8,
+      "text": "o contato da peça com a mesa, ou seja, eu só empurrei ela um pouco mais para baixo. Como essa"
+    },
+    {
+      "start": 51.8,
+      "end": 56.9,
+      "text": "era uma região de encaixe, não modificou nada em relação ao modelo. E agora sim eu consegui"
+    },
+    {
+      "start": 56.9,
+      "end": 59.7,
+      "text": "Imprimiu o torso sem problemas e o encaixe ficou tranquilo."
+    },
+    {
+      "start": 60.0,
+      "end": 61.2,
+      "text": "Só usar um pouquinho de cola."
+    },
+    {
+      "start": 80.9,
+      "end": 81.8,
+      "text": "Dica de ouro."
+    },
+    {
+      "start": 82.1,
+      "end": 85.8,
+      "text": "Sempre revise o posicionamento das suas peças antes de imprimir."
+    },
+    {
+      "start": 86.3,
+      "end": 88.6,
+      "text": "E agora sim o Batman tá completo."
+    },
+    {
+      "start": 89.0,
+      "end": 91.5,
+      "text": "Se quiser mais dicas assim, é só me seguir."
+    }
+  ],
+  "duration": 91.7,
+  "model": "large-v3-turbo"
+}

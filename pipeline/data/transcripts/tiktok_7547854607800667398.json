@@ -1,0 +1,117 @@
+{
+  "text": "Vale a pena adquirir uma Bambu Lab P1S? Hoje é o dia 84 e eu vou falar minhas primeiras impressões da P1S comparada com a A1. Eu sempre fui fã da A1, mas precisava ir além. A principal diferença delas é que a P1S é uma impressora totalmente fechada, perfeita para filamentos como ASA e ABS, que precisam de uma temperatura controlada e sem interferência externa. Além disso, ela é uma Core XY, o que permite uma aceleração maior em comparação com a A1. E pra quem não sabe, a tecnologia Core XY movimenta o bico nas direções X e Y, e a mesa movimenta no eixo Z. E isso oferece maior rigidez e estabilidade, por isso que a aceleração da P1S é o dobro da A1. E apesar das duas terem a mesma velocidade máxima final de 500 mm por segundo, uma aceleração maior faz com que a P1S atinja as velocidades máximas mais rapidamente. Mas na prática, com o perfil padrão, essa diferença é bem pequena. E eu acho que é um upgrade natural pra quem quer levar a impressão 3D pra um próximo nível. Eu peguei ela sem AMS mesmo, porque quero focar nos novos materiais. E como eu imprimo bastante em multipartes, fazia mais sentido. Na minha opinião, ela é a porta de entrada ideal pra quem quer trabalhar com materiais mais técnicos, como o ABS e o Asa, sem o custo de uma X1 Carbon. E o ponto negativo que todo mundo fala? O painel, ele é bem simples comparado com a 1, mas não me incomodou nem um pouco, dá pra fazer as mesmas coisas por ele. Mas se você quiser uma tela touchscreen, dá pra utilizar um upgrade da Panda. Por fim, eu achei um ótimo custo-benefício com a metade do preço de uma X1 e com uma ótima qualidade, assim como a 1. E você, qual impressora compraria pra começar a imprimir em ABS?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Vale a pena adquirir uma Bambu Lab P1S?"
+    },
+    {
+      "start": 3.7,
+      "end": 10.1,
+      "text": "Hoje é o dia 84 e eu vou falar minhas primeiras impressões da P1S comparada com a A1."
+    },
+    {
+      "start": 10.3,
+      "end": 13.3,
+      "text": "Eu sempre fui fã da A1, mas precisava ir além."
+    },
+    {
+      "start": 13.5,
+      "end": 18.1,
+      "text": "A principal diferença delas é que a P1S é uma impressora totalmente fechada,"
+    },
+    {
+      "start": 18.3,
+      "end": 24.6,
+      "text": "perfeita para filamentos como ASA e ABS, que precisam de uma temperatura controlada e sem interferência externa."
+    },
+    {
+      "start": 24.6,
+      "end": 30.1,
+      "text": "Além disso, ela é uma Core XY, o que permite uma aceleração maior em comparação com a A1."
+    },
+    {
+      "start": 30.3,
+      "end": 35.5,
+      "text": "E pra quem não sabe, a tecnologia Core XY movimenta o bico nas direções X e Y,"
+    },
+    {
+      "start": 35.6,
+      "end": 37.4,
+      "text": "e a mesa movimenta no eixo Z."
+    },
+    {
+      "start": 37.7,
+      "end": 43.4,
+      "text": "E isso oferece maior rigidez e estabilidade, por isso que a aceleração da P1S é o dobro da A1."
+    },
+    {
+      "start": 43.4,
+      "end": 48.1,
+      "text": "E apesar das duas terem a mesma velocidade máxima final de 500 mm por segundo,"
+    },
+    {
+      "start": 48.3,
+      "end": 53.2,
+      "text": "uma aceleração maior faz com que a P1S atinja as velocidades máximas mais rapidamente."
+    },
+    {
+      "start": 53.2,
+      "end": 56.8,
+      "text": "Mas na prática, com o perfil padrão, essa diferença é bem pequena."
+    },
+    {
+      "start": 56.9,
+      "end": 61.7,
+      "text": "E eu acho que é um upgrade natural pra quem quer levar a impressão 3D pra um próximo nível."
+    },
+    {
+      "start": 61.9,
+      "end": 65.9,
+      "text": "Eu peguei ela sem AMS mesmo, porque quero focar nos novos materiais."
+    },
+    {
+      "start": 66.1,
+      "end": 69.4,
+      "text": "E como eu imprimo bastante em multipartes, fazia mais sentido."
+    },
+    {
+      "start": 70.4,
+      "end": 75.6,
+      "text": "Na minha opinião, ela é a porta de entrada ideal pra quem quer trabalhar com materiais mais técnicos,"
+    },
+    {
+      "start": 75.8,
+      "end": 79.2,
+      "text": "como o ABS e o Asa, sem o custo de uma X1 Carbon."
+    },
+    {
+      "start": 79.3,
+      "end": 81.3,
+      "text": "E o ponto negativo que todo mundo fala?"
+    },
+    {
+      "start": 81.3,
+      "end": 87.8,
+      "text": "O painel, ele é bem simples comparado com a 1, mas não me incomodou nem um pouco, dá pra fazer as mesmas coisas por ele."
+    },
+    {
+      "start": 87.9,
+      "end": 91.6,
+      "text": "Mas se você quiser uma tela touchscreen, dá pra utilizar um upgrade da Panda."
+    },
+    {
+      "start": 91.8,
+      "end": 98.8,
+      "text": "Por fim, eu achei um ótimo custo-benefício com a metade do preço de uma X1 e com uma ótima qualidade, assim como a 1."
+    },
+    {
+      "start": 99.2,
+      "end": 102.4,
+      "text": "E você, qual impressora compraria pra começar a imprimir em ABS?"
+    }
+  ],
+  "duration": 103.1,
+  "model": "large-v3-turbo"
+}

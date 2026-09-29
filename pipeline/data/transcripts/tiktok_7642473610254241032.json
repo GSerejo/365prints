@@ -1,0 +1,107 @@
+{
+  "text": "Apliquei um logo na minha peça, mas depois de fatiar, o logo sumiu. Bem-vindo ao dia 211 e essa dúvida foi enviada por um assinante. Primeiro vamos dar uma olhada nesse SVG que ele aplicou. Eu mudei a operação para modificador, eu não quero nem alto nem baixo relevo, eu só quero mudar a cor da parte de baixo da peça. Essa cor amarelada identifica que é um modificador. E o modificador já está em preto, que é a cor do logo que eu quero. Agora com o modificador selecionado, vamos utilizar a ferramenta de mover. E movemos ele um pouquinho para baixo da mesa Teoricamente a região da peça que está o modificador deveria virar preta Mas isso não aconteceu Observe que a parte de baixo está branca e vamos olhar na aba objetos Originalmente a peça é laranja e o ícone de pintura mostra que ela foi pintada E o logo deve ter sido aplicado antes dessa pintura Um clique no ícone e abrimos a ferramenta pintura para apagar toda a pintura Agora sim o modificador cumpriu seu papel No entanto nós queremos a parte de baixo branca E com o objeto selecionado clicamos 2 para mudar para o branco E com a ferramenta pintura vamos pintar a peça com exceção da parte baixa em que está o modificador. Agora sim, agora é só fatiar e pronto, problema resolvido. E se vocês gostaram dessa solução, me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 4.3,
+      "text": "Apliquei um logo na minha peça, mas depois de fatiar, o logo sumiu."
+    },
+    {
+      "start": 4.7,
+      "end": 8.7,
+      "text": "Bem-vindo ao dia 211 e essa dúvida foi enviada por um assinante."
+    },
+    {
+      "start": 8.8,
+      "end": 11.8,
+      "text": "Primeiro vamos dar uma olhada nesse SVG que ele aplicou."
+    },
+    {
+      "start": 11.9,
+      "end": 18.3,
+      "text": "Eu mudei a operação para modificador, eu não quero nem alto nem baixo relevo, eu só quero mudar a cor da parte de baixo da peça."
+    },
+    {
+      "start": 18.4,
+      "end": 20.9,
+      "text": "Essa cor amarelada identifica que é um modificador."
+    },
+    {
+      "start": 20.9,
+      "end": 24.4,
+      "text": "E o modificador já está em preto, que é a cor do logo que eu quero."
+    },
+    {
+      "start": 24.5,
+      "end": 28.0,
+      "text": "Agora com o modificador selecionado, vamos utilizar a ferramenta de mover."
+    },
+    {
+      "start": 28.0,
+      "end": 30.3,
+      "text": "E movemos ele um pouquinho para baixo da mesa"
+    },
+    {
+      "start": 30.3,
+      "end": 34.1,
+      "text": "Teoricamente a região da peça que está o modificador deveria virar preta"
+    },
+    {
+      "start": 34.1,
+      "end": 35.7,
+      "text": "Mas isso não aconteceu"
+    },
+    {
+      "start": 35.7,
+      "end": 39.0,
+      "text": "Observe que a parte de baixo está branca e vamos olhar na aba objetos"
+    },
+    {
+      "start": 39.0,
+      "end": 43.3,
+      "text": "Originalmente a peça é laranja e o ícone de pintura mostra que ela foi pintada"
+    },
+    {
+      "start": 43.3,
+      "end": 46.1,
+      "text": "E o logo deve ter sido aplicado antes dessa pintura"
+    },
+    {
+      "start": 46.1,
+      "end": 49.8,
+      "text": "Um clique no ícone e abrimos a ferramenta pintura para apagar toda a pintura"
+    },
+    {
+      "start": 49.8,
+      "end": 52.0,
+      "text": "Agora sim o modificador cumpriu seu papel"
+    },
+    {
+      "start": 52.0,
+      "end": 54.3,
+      "text": "No entanto nós queremos a parte de baixo branca"
+    },
+    {
+      "start": 54.3,
+      "end": 57.5,
+      "text": "E com o objeto selecionado clicamos 2 para mudar para o branco"
+    },
+    {
+      "start": 57.5,
+      "end": 62.2,
+      "text": "E com a ferramenta pintura vamos pintar a peça com exceção da parte baixa em que está o modificador."
+    },
+    {
+      "start": 62.4,
+      "end": 65.7,
+      "text": "Agora sim, agora é só fatiar e pronto, problema resolvido."
+    },
+    {
+      "start": 65.8,
+      "end": 69.8,
+      "text": "E se vocês gostaram dessa solução, me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 70.2,
+  "model": "large-v3-turbo"
+}

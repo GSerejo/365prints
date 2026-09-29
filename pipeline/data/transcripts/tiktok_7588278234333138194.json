@@ -1,0 +1,92 @@
+{
+  "text": "Melhore o acabamento das suas pontes com essa configuração. Bem-vindo ao dia 147. Veja esse exemplo, o bico vai estrudando material de uma ponta até a outra completamente no ar. E isso é uma ponte. Diferentemente de uma impressão sobre camadas em que o bico espreme o filamento na camada anterior, de acordo com a altura de camada e a largura de linha. Na impressão de uma ponte que é completamente no ar, o formato da linha será sempre circular. Portanto, a ideia aqui é aumentar o fluxo para unir as linhas adjacentes das pontas. Também reduzir a velocidade para que cada linha tenha mais tempo para esfriar e solidificar. Assim conseguimos melhor acabamento. Então na aba qualidade aumentamos o fluxo da ponte para 1,5. E na aba velocidade diminuímos a velocidade para 10 milímetros por segundo. E veja a diferença da configuração padrão com essa nova otimização de parâmetros. E esses parâmetros funcionaram bem para uma boa variedade de filamentos. Mas para outros poderia ser melhor. E se esses parâmetros não funcionaram aí você pode fazer o teste completo com esse arquivo lá no Maker World. E lembrando que esse teste serve para pontos de até 4,5 centímetros. Gostaram desse vídeo? Então me siga pra ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.8,
+      "text": "Melhore o acabamento das suas pontes com essa configuração."
+    },
+    {
+      "start": 4.1,
+      "end": 6.1,
+      "text": "Bem-vindo ao dia 147."
+    },
+    {
+      "start": 6.2,
+      "end": 10.8,
+      "text": "Veja esse exemplo, o bico vai estrudando material de uma ponta até a outra completamente no ar."
+    },
+    {
+      "start": 11.0,
+      "end": 11.8,
+      "text": "E isso é uma ponte."
+    },
+    {
+      "start": 12.1,
+      "end": 19.2,
+      "text": "Diferentemente de uma impressão sobre camadas em que o bico espreme o filamento na camada anterior, de acordo com a altura de camada e a largura de linha."
+    },
+    {
+      "start": 19.4,
+      "end": 24.3,
+      "text": "Na impressão de uma ponte que é completamente no ar, o formato da linha será sempre circular."
+    },
+    {
+      "start": 24.3,
+      "end": 28.4,
+      "text": "Portanto, a ideia aqui é aumentar o fluxo para unir as linhas adjacentes das pontas."
+    },
+    {
+      "start": 28.4,
+      "end": 32.9,
+      "text": "Também reduzir a velocidade para que cada linha tenha mais tempo para esfriar e solidificar."
+    },
+    {
+      "start": 33.1,
+      "end": 34.9,
+      "text": "Assim conseguimos melhor acabamento."
+    },
+    {
+      "start": 35.0,
+      "end": 38.5,
+      "text": "Então na aba qualidade aumentamos o fluxo da ponte para 1,5."
+    },
+    {
+      "start": 38.5,
+      "end": 42.2,
+      "text": "E na aba velocidade diminuímos a velocidade para 10 milímetros por segundo."
+    },
+    {
+      "start": 42.3,
+      "end": 46.5,
+      "text": "E veja a diferença da configuração padrão com essa nova otimização de parâmetros."
+    },
+    {
+      "start": 46.7,
+      "end": 50.0,
+      "text": "E esses parâmetros funcionaram bem para uma boa variedade de filamentos."
+    },
+    {
+      "start": 50.2,
+      "end": 52.0,
+      "text": "Mas para outros poderia ser melhor."
+    },
+    {
+      "start": 52.0,
+      "end": 57.7,
+      "text": "E se esses parâmetros não funcionaram aí você pode fazer o teste completo com esse arquivo lá no Maker World."
+    },
+    {
+      "start": 57.7,
+      "end": 62.1,
+      "text": "E lembrando que esse teste serve para pontos de até 4,5 centímetros."
+    },
+    {
+      "start": 62.3,
+      "end": 66.0,
+      "text": "Gostaram desse vídeo? Então me siga pra ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 66.3,
+  "model": "large-v3-turbo"
+}

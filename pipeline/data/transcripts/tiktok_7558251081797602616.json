@@ -1,0 +1,47 @@
+{
+  "text": "Como fazer a troca de cor por camada de um jeito simples e rápido sem utilizar a ferramenta pintura? Bem-vindo ao dia 102 e a ideia aqui é colocar esse autorrelevo desse chaveiro em preto. E isso é bem simples, é só ir na camada em que começa o autorrelevo, que nesse caso é a 8, clicar com o botão direito e mudar para a cor do filamento que você quer. Então é só fatiar de novo. Problema resolvido e o AMS vai trocar a cor sem você se preocupar. Isso é extremamente útil pra programar a troca de cor para os quadros Rio Forge que eu expliquei lá no dia 97. Gostaram da dica? E você já sabe né, pra ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "Como fazer a troca de cor por camada de um jeito simples e rápido sem utilizar a ferramenta pintura?"
+    },
+    {
+      "start": 6.7,
+      "end": 12.4,
+      "text": "Bem-vindo ao dia 102 e a ideia aqui é colocar esse autorrelevo desse chaveiro em preto."
+    },
+    {
+      "start": 12.5,
+      "end": 17.0,
+      "text": "E isso é bem simples, é só ir na camada em que começa o autorrelevo, que nesse caso é a 8,"
+    },
+    {
+      "start": 17.3,
+      "end": 20.4,
+      "text": "clicar com o botão direito e mudar para a cor do filamento que você quer."
+    },
+    {
+      "start": 21.0,
+      "end": 22.3,
+      "text": "Então é só fatiar de novo."
+    },
+    {
+      "start": 22.5,
+      "end": 26.5,
+      "text": "Problema resolvido e o AMS vai trocar a cor sem você se preocupar."
+    },
+    {
+      "start": 26.5,
+      "end": 32.9,
+      "text": "Isso é extremamente útil pra programar a troca de cor para os quadros Rio Forge que eu expliquei lá no dia 97."
+    },
+    {
+      "start": 33.0,
+      "end": 37.9,
+      "text": "Gostaram da dica? E você já sabe né, pra ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 38.2,
+  "model": "large-v3-turbo"
+}

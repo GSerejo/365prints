@@ -1,0 +1,157 @@
+{
+  "text": "Como fazer esse porta-copo dentro do seu fatiador? Bem-vindo ao dia 239! Aqui no fatiador, e pode ser em qualquer um, botão direito, adicionar primitivo e disco. Agora, com a ferramenta escala, vamos alterar as dimensões de X e Y para 90mm e 5mm para Z. Basicamente, a base do porta-copo está pronta. Ctrl-C e Ctrl-V na base, só para replicar e a gente fazer o encaixe. Com a ferramenta escala novamente, vamos alterar as dimensões do encaixe para 85mm em X e Y e 3mm em Z. Agora Ctrl C e Ctrl V na base menor para fazer a parte do meio do porta-copa. Aqui eu só posicionei o meio em outra placa e vamos trabalhar no encaixe. Botão direito e centro em ambas as peças. Agora lá na esquerda, na aba objetos, na placa 1, vamos selecionar com Ctrl os dois discos. Botão direito e mesclar. E nessa montagem, vamos selecionar o disco menor ou em branco para fazer o encaixe. E com a ferramenta mover, vamos movê-lo 2mm em Z Voltamos na aba objeto e com o botão direito no disco menor Vamos transformá-lo em parte negativa Então é só fatiar pra vermos o encaixe pronto E para deixar a parte central do meio do copo com aquele acabamento Selecionamos ele lá na aba da esquerda em objetos Em força vamos zerar as cascas superiores e as cascas inferiores Para expor o preenchimento E aqui no preenchimento a alteração depende do seu gosto Eu escolhi 30% em densidade e o padrão de preenchimento foi curva de Hilbert Mas tem diversas opções para você personalizar. E depois de fatiar a placa 2, vemos o resultado. E por último, temos que diminuir esse contorno para criar uma folga e facilitar o encaixe na base do porta-copo. Com o disco menor selecionado, em objetos, vamos na aba qualidade e vamos alterar a compensação de X e Y do contorno. Aqui o valor é negativo porque eu quero diminuir e criar uma folga de 0,25 milímetros. E por fim, é só imprimir ambas as peças e eu aconselho colocar uma velocidade menor na primeira camada. Agora não esquece de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Como fazer esse porta-copo dentro do seu fatiador?"
+    },
+    {
+      "start": 4.3,
+      "end": 7.0,
+      "text": "Bem-vindo ao dia 239!"
+    },
+    {
+      "start": 7.3,
+      "end": 12.1,
+      "text": "Aqui no fatiador, e pode ser em qualquer um, botão direito, adicionar primitivo e disco."
+    },
+    {
+      "start": 12.2,
+      "end": 19.0,
+      "text": "Agora, com a ferramenta escala, vamos alterar as dimensões de X e Y para 90mm e 5mm para Z."
+    },
+    {
+      "start": 19.1,
+      "end": 21.2,
+      "text": "Basicamente, a base do porta-copo está pronta."
+    },
+    {
+      "start": 21.3,
+      "end": 24.9,
+      "text": "Ctrl-C e Ctrl-V na base, só para replicar e a gente fazer o encaixe."
+    },
+    {
+      "start": 24.9,
+      "end": 32.6,
+      "text": "Com a ferramenta escala novamente, vamos alterar as dimensões do encaixe para 85mm em X e Y e 3mm em Z."
+    },
+    {
+      "start": 32.7,
+      "end": 37.0,
+      "text": "Agora Ctrl C e Ctrl V na base menor para fazer a parte do meio do porta-copa."
+    },
+    {
+      "start": 37.1,
+      "end": 40.5,
+      "text": "Aqui eu só posicionei o meio em outra placa e vamos trabalhar no encaixe."
+    },
+    {
+      "start": 41.2,
+      "end": 43.3,
+      "text": "Botão direito e centro em ambas as peças."
+    },
+    {
+      "start": 43.6,
+      "end": 48.6,
+      "text": "Agora lá na esquerda, na aba objetos, na placa 1, vamos selecionar com Ctrl os dois discos."
+    },
+    {
+      "start": 48.8,
+      "end": 50.0,
+      "text": "Botão direito e mesclar."
+    },
+    {
+      "start": 50.1,
+      "end": 54.1,
+      "text": "E nessa montagem, vamos selecionar o disco menor ou em branco para fazer o encaixe."
+    },
+    {
+      "start": 54.1,
+      "end": 57.5,
+      "text": "E com a ferramenta mover, vamos movê-lo 2mm em Z"
+    },
+    {
+      "start": 57.5,
+      "end": 60.3,
+      "text": "Voltamos na aba objeto e com o botão direito no disco menor"
+    },
+    {
+      "start": 60.3,
+      "end": 62.5,
+      "text": "Vamos transformá-lo em parte negativa"
+    },
+    {
+      "start": 62.5,
+      "end": 65.3,
+      "text": "Então é só fatiar pra vermos o encaixe pronto"
+    },
+    {
+      "start": 65.3,
+      "end": 68.4,
+      "text": "E para deixar a parte central do meio do copo com aquele acabamento"
+    },
+    {
+      "start": 68.4,
+      "end": 71.0,
+      "text": "Selecionamos ele lá na aba da esquerda em objetos"
+    },
+    {
+      "start": 71.0,
+      "end": 75.1,
+      "text": "Em força vamos zerar as cascas superiores e as cascas inferiores"
+    },
+    {
+      "start": 75.1,
+      "end": 76.4,
+      "text": "Para expor o preenchimento"
+    },
+    {
+      "start": 76.4,
+      "end": 79.0,
+      "text": "E aqui no preenchimento a alteração depende do seu gosto"
+    },
+    {
+      "start": 79.0,
+      "end": 83.4,
+      "text": "Eu escolhi 30% em densidade e o padrão de preenchimento foi curva de Hilbert"
+    },
+    {
+      "start": 83.4,
+      "end": 86.1,
+      "text": "Mas tem diversas opções para você personalizar."
+    },
+    {
+      "start": 86.2,
+      "end": 88.7,
+      "text": "E depois de fatiar a placa 2, vemos o resultado."
+    },
+    {
+      "start": 89.0,
+      "end": 95.4,
+      "text": "E por último, temos que diminuir esse contorno para criar uma folga e facilitar o encaixe na base do porta-copo."
+    },
+    {
+      "start": 96.1,
+      "end": 103.1,
+      "text": "Com o disco menor selecionado, em objetos, vamos na aba qualidade e vamos alterar a compensação de X e Y do contorno."
+    },
+    {
+      "start": 103.2,
+      "end": 108.6,
+      "text": "Aqui o valor é negativo porque eu quero diminuir e criar uma folga de 0,25 milímetros."
+    },
+    {
+      "start": 108.6,
+      "end": 114.1,
+      "text": "E por fim, é só imprimir ambas as peças e eu aconselho colocar uma velocidade menor na primeira camada."
+    },
+    {
+      "start": 114.2,
+      "end": 117.5,
+      "text": "Agora não esquece de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 118.0,
+  "model": "large-v3-turbo"
+}

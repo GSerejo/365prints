@@ -1,0 +1,102 @@
+{
+  "text": "Esse aqui é o melhor exemplo para utilizar a altura de camada variável. Bem-vindo ao dia 236 e essa capa é grande. A seção transversal dela é basicamente constante, sem nenhuma grande inclinação. E aqui em cima, nesse topo curvado, a gente precisa de mais resolução. Aqui no fatiador, com uma altura de camada de 0,2, a gente percebe as linhas de impressão, os degraus. E para a gente ter uma referência, a impressão dessa peça com altura fixa é de quase 4 horas. Agora vamos utilizar o recurso de altura de camada variável. Sem mexer nada, clicamos em adaptativo e depois em suave. As regiões brancas estão utilizando uma altura de camada maior de 0,2. E basicamente esse recurso altera a altura de camada para utilizar alturas menores nas regiões que precisamos de mais resolução. O fatiador calculou automaticamente que aqui no topo a gente precisa de uma altura de camada menor de 0,08. E isso melhorou muito o acabamento do topo com o custo de uma hora a mais de impressão. Agora só pra comparação, não vamos utilizar esse recurso e utilizar 0,08 em todo o projeto. O acabamento do topo é o mesmo, mas ele tá utilizando 0,08 na base também. E isso nos custa quase 9 horas de impressão. É por isso que eu gosto desse recurso quando eu tô utilizando filamento fosco. Evitem pra filamento silk porque podem aparecer marcas nas transições. Essa leve textura na capa ajuda também. E se vocês gostaram desse vídeo, me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Esse aqui é o melhor exemplo para utilizar a altura de camada variável."
+    },
+    {
+      "start": 5.5,
+      "end": 9.2,
+      "text": "Bem-vindo ao dia 236 e essa capa é grande."
+    },
+    {
+      "start": 9.3,
+      "end": 14.2,
+      "text": "A seção transversal dela é basicamente constante, sem nenhuma grande inclinação."
+    },
+    {
+      "start": 14.5,
+      "end": 18.8,
+      "text": "E aqui em cima, nesse topo curvado, a gente precisa de mais resolução."
+    },
+    {
+      "start": 19.1,
+      "end": 25.1,
+      "text": "Aqui no fatiador, com uma altura de camada de 0,2, a gente percebe as linhas de impressão, os degraus."
+    },
+    {
+      "start": 25.1,
+      "end": 29.9,
+      "text": "E para a gente ter uma referência, a impressão dessa peça com altura fixa é de quase 4 horas."
+    },
+    {
+      "start": 29.9,
+      "end": 33.6,
+      "text": "Agora vamos utilizar o recurso de altura de camada variável."
+    },
+    {
+      "start": 33.6,
+      "end": 36.6,
+      "text": "Sem mexer nada, clicamos em adaptativo e depois em suave."
+    },
+    {
+      "start": 36.6,
+      "end": 40.6,
+      "text": "As regiões brancas estão utilizando uma altura de camada maior de 0,2."
+    },
+    {
+      "start": 40.8,
+      "end": 47.6,
+      "text": "E basicamente esse recurso altera a altura de camada para utilizar alturas menores nas regiões que precisamos de mais resolução."
+    },
+    {
+      "start": 47.7,
+      "end": 54.3,
+      "text": "O fatiador calculou automaticamente que aqui no topo a gente precisa de uma altura de camada menor de 0,08."
+    },
+    {
+      "start": 54.4,
+      "end": 59.2,
+      "text": "E isso melhorou muito o acabamento do topo com o custo de uma hora a mais de impressão."
+    },
+    {
+      "start": 59.2,
+      "end": 64.9,
+      "text": "Agora só pra comparação, não vamos utilizar esse recurso e utilizar 0,08 em todo o projeto."
+    },
+    {
+      "start": 65.0,
+      "end": 69.7,
+      "text": "O acabamento do topo é o mesmo, mas ele tá utilizando 0,08 na base também."
+    },
+    {
+      "start": 69.8,
+      "end": 73.4,
+      "text": "E isso nos custa quase 9 horas de impressão."
+    },
+    {
+      "start": 73.7,
+      "end": 77.4,
+      "text": "É por isso que eu gosto desse recurso quando eu tô utilizando filamento fosco."
+    },
+    {
+      "start": 77.6,
+      "end": 81.3,
+      "text": "Evitem pra filamento silk porque podem aparecer marcas nas transições."
+    },
+    {
+      "start": 81.5,
+      "end": 83.6,
+      "text": "Essa leve textura na capa ajuda também."
+    },
+    {
+      "start": 83.8,
+      "end": 87.6,
+      "text": "E se vocês gostaram desse vídeo, me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 88.0,
+  "model": "large-v3-turbo"
+}

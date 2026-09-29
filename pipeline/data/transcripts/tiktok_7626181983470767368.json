@@ -1,0 +1,37 @@
+{
+  "text": "Eu sempre falei pra não usar essa função, mas olha essa superfície de topo. Bem-vindo ao dia 191. O problema é que o passar ferro nunca funcionava direito, principalmente em letreiros. Mesmo com o teste de calibração lá do Maker pra achar fluxo e velocidade, o teste não replica a geometria real da peça. Mas nessa aqui eu acertei. E se você quiser aprender a fazer esses letreiros direto no fatiador, eu ensino tudo isso e muito mais no meu curso que está lá na bio.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Eu sempre falei pra não usar essa função, mas olha essa superfície de topo."
+    },
+    {
+      "start": 5.7,
+      "end": 7.8,
+      "text": "Bem-vindo ao dia 191."
+    },
+    {
+      "start": 7.9,
+      "end": 12.3,
+      "text": "O problema é que o passar ferro nunca funcionava direito, principalmente em letreiros."
+    },
+    {
+      "start": 12.4,
+      "end": 18.6,
+      "text": "Mesmo com o teste de calibração lá do Maker pra achar fluxo e velocidade, o teste não replica a geometria real da peça."
+    },
+    {
+      "start": 18.7,
+      "end": 20.8,
+      "text": "Mas nessa aqui eu acertei."
+    },
+    {
+      "start": 20.9,
+      "end": 28.6,
+      "text": "E se você quiser aprender a fazer esses letreiros direto no fatiador, eu ensino tudo isso e muito mais no meu curso que está lá na bio."
+    }
+  ],
+  "duration": 28.9,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,52 @@
+{
+  "text": "Vocês sabem identificar o problema desses bentes? Bem-vindo ao dia 132! As bolhas e os fiapinhos no ABS denunciam que isso é filamento úmido. Depois de uma simples secagem, problema resolvido. A diferença no PLA também foi gritante. E ambos os materiais vieram úmidos com a embalagem a vácuo. Portanto, considere um investimento numa secadora de filamentos. Garantir que o filamento esteja seco é a sua primeira calibração. Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Vocês sabem identificar o problema desses bentes?"
+    },
+    {
+      "start": 3.5,
+      "end": 5.9,
+      "text": "Bem-vindo ao dia 132!"
+    },
+    {
+      "start": 6.2,
+      "end": 10.9,
+      "text": "As bolhas e os fiapinhos no ABS denunciam que isso é filamento úmido."
+    },
+    {
+      "start": 11.1,
+      "end": 14.4,
+      "text": "Depois de uma simples secagem, problema resolvido."
+    },
+    {
+      "start": 14.5,
+      "end": 16.9,
+      "text": "A diferença no PLA também foi gritante."
+    },
+    {
+      "start": 17.2,
+      "end": 20.5,
+      "text": "E ambos os materiais vieram úmidos com a embalagem a vácuo."
+    },
+    {
+      "start": 20.6,
+      "end": 24.0,
+      "text": "Portanto, considere um investimento numa secadora de filamentos."
+    },
+    {
+      "start": 24.3,
+      "end": 28.1,
+      "text": "Garantir que o filamento esteja seco é a sua primeira calibração."
+    },
+    {
+      "start": 28.1,
+      "end": 32.6,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias"
+    }
+  ],
+  "duration": 33.1,
+  "model": "large-v3-turbo"
+}

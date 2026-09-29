@@ -1,0 +1,27 @@
+{
+  "text": "Depois de riscar muito a minha mesa, eu imprimi a espátula perfeita. Bem-vindo ao dia 183, e ela usa a lâmina de metal que já vem com a Bambu Lab, e esse apoio embaixo dela evita riscar a superfície. Olha como ela é útil para as placas frias, ela desliza sem encostar na mesa. Esse projeto é 100% gratuito e tá na descrição, agora salva esse vídeo pra não esquecer.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Depois de riscar muito a minha mesa, eu imprimi a espátula perfeita."
+    },
+    {
+      "start": 4.9,
+      "end": 12.5,
+      "text": "Bem-vindo ao dia 183, e ela usa a lâmina de metal que já vem com a Bambu Lab, e esse apoio embaixo dela evita riscar a superfície."
+    },
+    {
+      "start": 12.5,
+      "end": 16.6,
+      "text": "Olha como ela é útil para as placas frias, ela desliza sem encostar na mesa."
+    },
+    {
+      "start": 16.7,
+      "end": 21.4,
+      "text": "Esse projeto é 100% gratuito e tá na descrição, agora salva esse vídeo pra não esquecer."
+    }
+  ],
+  "duration": 22.1,
+  "model": "large-v3-turbo"
+}

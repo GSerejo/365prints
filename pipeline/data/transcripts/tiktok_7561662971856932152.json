@@ -1,0 +1,47 @@
+{
+  "text": "Como Fazer Esses Ambigramas Bem-vindo ao dia 108 e vamos direto ao ponto. Entre no Maker World e procure por Ambigrama. Abra esse primeiro projeto e agora é só clicar em Personalizar. Selecionei a nova versão e agora é só escrever os textos e clicar em Gerar. Prontinho, agora é só fazer o download e importar no seu fatiador. E lá no fatiador lembre-se que você pode mudar a cor da base rapidamente com o que eu ensinei lá no dia 102. E aí, gostaram dessa dica super rápida? Me siga para mais!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Como Fazer Esses Ambigramas"
+    },
+    {
+      "start": 2.3,
+      "end": 5.5,
+      "text": "Bem-vindo ao dia 108 e vamos direto ao ponto."
+    },
+    {
+      "start": 5.6,
+      "end": 8.3,
+      "text": "Entre no Maker World e procure por Ambigrama."
+    },
+    {
+      "start": 8.5,
+      "end": 12.0,
+      "text": "Abra esse primeiro projeto e agora é só clicar em Personalizar."
+    },
+    {
+      "start": 12.3,
+      "end": 16.3,
+      "text": "Selecionei a nova versão e agora é só escrever os textos e clicar em Gerar."
+    },
+    {
+      "start": 16.7,
+      "end": 20.5,
+      "text": "Prontinho, agora é só fazer o download e importar no seu fatiador."
+    },
+    {
+      "start": 20.9,
+      "end": 26.3,
+      "text": "E lá no fatiador lembre-se que você pode mudar a cor da base rapidamente com o que eu ensinei lá no dia 102."
+    },
+    {
+      "start": 26.3,
+      "end": 30.4,
+      "text": "E aí, gostaram dessa dica super rápida? Me siga para mais!"
+    }
+  ],
+  "duration": 31.5,
+  "model": "large-v3-turbo"
+}

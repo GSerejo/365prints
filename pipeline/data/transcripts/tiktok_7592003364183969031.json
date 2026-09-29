@@ -1,0 +1,147 @@
+{
+  "text": "Quando você imprime algo fino, a ponta fica derretida. Bem-vindo ao dia 151 e esse é um problema de resfriamento. No entanto, se a gente olhar o fatiador, a gente verifica que o ventilador já está em 100%. Mas o tempo de camada daquela pontinha chega a 0,2 segundos, o que é muito pouco para o filamento resfriar. E dentro do perfil do filamento, na aba resfriamento, aqui podemos ver que o tempo mínimo de camada é de 8 segundos. Ou seja, o fatiador vai tentar diminuir a velocidade para chegar nesses 8 segundos. Só que ele diminui até a velocidade mínima, que é 20 milímetros por segundo. Mas tudo já está sendo impresso na velocidade mínima de 20 milímetros por segundo. Então o pensamento lógico é diminuir a velocidade mínima para ganhar mais tempo de camada. Mas isso pode ser um risco e eu vou explicar porquê. No bico nós temos um dissipador que é responsável por resfriar o filamento. Ele divide o processo de extrusão em duas zonas, a quente e a fria. Isso tudo para a extrusora conseguir empurrar o filamento no estado sólido. Mas se diminuirmos muito a velocidade de impressão, o filamento vai ficar mais tempo ali dentro. E o dissipador pode não ser suficiente E a zona fria pode ficar quente e amolecer o filamento E a extrusora não conseguir empurrar Principalmente pro PLA E isso é conhecido como Heat Creep Portanto, reduzir a velocidade mínima não é uma opção Então pra resolver, a gente vai criar uma toa de sacrifício Pra aumentar o tempo de camada e possibilitar o resfriamento Veja que a ponta agora está imprimindo num tempo maior que 4 segundos E isso foi suficiente pra resolver o problema Outra solução óbvia é colocar outro objeto na mesa Pra aumentar o tempo de camada Gostaram do formato desse vídeo? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Quando você imprime algo fino, a ponta fica derretida."
+    },
+    {
+      "start": 4.4,
+      "end": 8.2,
+      "text": "Bem-vindo ao dia 151 e esse é um problema de resfriamento."
+    },
+    {
+      "start": 8.4,
+      "end": 12.7,
+      "text": "No entanto, se a gente olhar o fatiador, a gente verifica que o ventilador já está em 100%."
+    },
+    {
+      "start": 12.7,
+      "end": 18.7,
+      "text": "Mas o tempo de camada daquela pontinha chega a 0,2 segundos, o que é muito pouco para o filamento resfriar."
+    },
+    {
+      "start": 18.9,
+      "end": 24.3,
+      "text": "E dentro do perfil do filamento, na aba resfriamento, aqui podemos ver que o tempo mínimo de camada é de 8 segundos."
+    },
+    {
+      "start": 24.4,
+      "end": 27.8,
+      "text": "Ou seja, o fatiador vai tentar diminuir a velocidade para chegar nesses 8 segundos."
+    },
+    {
+      "start": 27.8,
+      "end": 31.3,
+      "text": "Só que ele diminui até a velocidade mínima, que é 20 milímetros por segundo."
+    },
+    {
+      "start": 31.4,
+      "end": 35.3,
+      "text": "Mas tudo já está sendo impresso na velocidade mínima de 20 milímetros por segundo."
+    },
+    {
+      "start": 35.4,
+      "end": 39.5,
+      "text": "Então o pensamento lógico é diminuir a velocidade mínima para ganhar mais tempo de camada."
+    },
+    {
+      "start": 39.5,
+      "end": 41.6,
+      "text": "Mas isso pode ser um risco e eu vou explicar porquê."
+    },
+    {
+      "start": 41.7,
+      "end": 45.2,
+      "text": "No bico nós temos um dissipador que é responsável por resfriar o filamento."
+    },
+    {
+      "start": 45.3,
+      "end": 49.0,
+      "text": "Ele divide o processo de extrusão em duas zonas, a quente e a fria."
+    },
+    {
+      "start": 49.1,
+      "end": 52.3,
+      "text": "Isso tudo para a extrusora conseguir empurrar o filamento no estado sólido."
+    },
+    {
+      "start": 52.4,
+      "end": 56.4,
+      "text": "Mas se diminuirmos muito a velocidade de impressão, o filamento vai ficar mais tempo ali dentro."
+    },
+    {
+      "start": 56.4,
+      "end": 58.4,
+      "text": "E o dissipador pode não ser suficiente"
+    },
+    {
+      "start": 58.4,
+      "end": 61.1,
+      "text": "E a zona fria pode ficar quente e amolecer o filamento"
+    },
+    {
+      "start": 61.1,
+      "end": 62.8,
+      "text": "E a extrusora não conseguir empurrar"
+    },
+    {
+      "start": 62.8,
+      "end": 64.1,
+      "text": "Principalmente pro PLA"
+    },
+    {
+      "start": 64.1,
+      "end": 66.0,
+      "text": "E isso é conhecido como Heat Creep"
+    },
+    {
+      "start": 66.0,
+      "end": 68.6,
+      "text": "Portanto, reduzir a velocidade mínima não é uma opção"
+    },
+    {
+      "start": 68.6,
+      "end": 71.4,
+      "text": "Então pra resolver, a gente vai criar uma toa de sacrifício"
+    },
+    {
+      "start": 71.4,
+      "end": 74.2,
+      "text": "Pra aumentar o tempo de camada e possibilitar o resfriamento"
+    },
+    {
+      "start": 74.2,
+      "end": 77.1,
+      "text": "Veja que a ponta agora está imprimindo num tempo maior que 4 segundos"
+    },
+    {
+      "start": 77.1,
+      "end": 79.7,
+      "text": "E isso foi suficiente pra resolver o problema"
+    },
+    {
+      "start": 79.7,
+      "end": 82.5,
+      "text": "Outra solução óbvia é colocar outro objeto na mesa"
+    },
+    {
+      "start": 82.5,
+      "end": 83.9,
+      "text": "Pra aumentar o tempo de camada"
+    },
+    {
+      "start": 83.9,
+      "end": 85.5,
+      "text": "Gostaram do formato desse vídeo?"
+    },
+    {
+      "start": 85.5,
+      "end": 88.1,
+      "text": "Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 88.8,
+  "model": "large-v3-turbo"
+}

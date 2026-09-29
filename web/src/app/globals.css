@@ -1,0 +1,80 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #faf8f5;
+  --surface: #ffffff;
+  --ink: #1c1917;
+  --muted: #6f6964;
+  --line: #e7e3df;
+  --accent: #d9480f;
+  --accent-ink: #ffffff;
+  --accent-soft: #fff0e6;
+  --highlight: #fde68a;
+  --danger: #c0362c;
+
+  /* Gráficos do painel (paleta validada contra --surface nos dois temas) */
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --delta-good: #006300;
+  --delta-bad: #c0362c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #100f0e;
+    --surface: #1b1917;
+    --ink: #f3f1ee;
+    --muted: #a39d97;
+    --line: #2f2b28;
+    --accent: #ff8a4c;
+    --accent-ink: #1b0d05;
+    --accent-soft: #34200f;
+    --highlight: #7a5a12;
+    --danger: #ff8a80;
+
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-3: #199e70;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --delta-good: #0ca30c;
+    --delta-bad: #ff8a80;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-highlight: var(--highlight);
+  --color-danger: var(--danger);
+  --color-series-1: var(--series-1);
+  --color-series-2: var(--series-2);
+  --color-series-3: var(--series-3);
+  --color-grid: var(--grid);
+  --color-axis: var(--axis);
+  --color-delta-good: var(--delta-good);
+  --color-delta-bad: var(--delta-bad);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+}
+
+mark {
+  background: var(--highlight);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}

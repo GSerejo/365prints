@@ -1,0 +1,107 @@
+{
+  "text": "6 minutos perdidos? Será que vale a pena desligar as calibrações automáticas? Bem-vindo ao dia 124. Primeiro, a calibração da dinâmica de fluxo, que na verdade é a calibração do fator K ou o fator PA. Essa é uma propriedade intrínseca do filamento, ou seja, depende da sua reologia. E para desativá-la, você pode calibrá-la uma única vez, utilizando a calibração manual ou automática. E depois de calibrá-la seguindo os passos do Bambu Estúdio Não se esqueça de selecionar o novo perfil PA dentro da configuração dos materiais no EMS Lembre-se que a calibração é necessária sempre que você trocar o filamento ou até mesmo trocar o bico Agora você pode desmarcar a opção de calibração automática no início da impressão E economizar cerca de 1 a 2 minutos A economia é pequena e normalmente eu deixo no automático mesmo no início de cada impressão E quando eu tenho problemas eu faço uma calibração manual que eu acho mais confiável Em relação ao nivelamento da mesa, eu sempre faço. Normalmente ao fim da impressão eu retiro a placa para tirar o objeto. E também a mesa se deforma com aquecimento. E se desligar a economia será de apenas 1 a 2 minutos. Eu acredito que não compensa arriscar ter uma primeira camada ruim e estragar toda a impressão. Conclusão, os 6 minutos de preparação não referem-se apenas às calibrações iniciais. Existem outros procedimentos no início da impressão. E eu só desligo a dinâmica de fluxo quando eu fiz ela de forma manual. Ou seja, quando for necessário",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "6 minutos perdidos? Será que vale a pena desligar as calibrações automáticas?"
+    },
+    {
+      "start": 5.6,
+      "end": 13.9,
+      "text": "Bem-vindo ao dia 124. Primeiro, a calibração da dinâmica de fluxo, que na verdade é a calibração do fator K ou o fator PA."
+    },
+    {
+      "start": 14.1,
+      "end": 18.3,
+      "text": "Essa é uma propriedade intrínseca do filamento, ou seja, depende da sua reologia."
+    },
+    {
+      "start": 18.4,
+      "end": 24.3,
+      "text": "E para desativá-la, você pode calibrá-la uma única vez, utilizando a calibração manual ou automática."
+    },
+    {
+      "start": 24.3,
+      "end": 27.2,
+      "text": "E depois de calibrá-la seguindo os passos do Bambu Estúdio"
+    },
+    {
+      "start": 27.2,
+      "end": 32.8,
+      "text": "Não se esqueça de selecionar o novo perfil PA dentro da configuração dos materiais no EMS"
+    },
+    {
+      "start": 32.8,
+      "end": 38.0,
+      "text": "Lembre-se que a calibração é necessária sempre que você trocar o filamento ou até mesmo trocar o bico"
+    },
+    {
+      "start": 38.0,
+      "end": 42.2,
+      "text": "Agora você pode desmarcar a opção de calibração automática no início da impressão"
+    },
+    {
+      "start": 42.2,
+      "end": 44.5,
+      "text": "E economizar cerca de 1 a 2 minutos"
+    },
+    {
+      "start": 44.5,
+      "end": 49.2,
+      "text": "A economia é pequena e normalmente eu deixo no automático mesmo no início de cada impressão"
+    },
+    {
+      "start": 49.2,
+      "end": 53.4,
+      "text": "E quando eu tenho problemas eu faço uma calibração manual que eu acho mais confiável"
+    },
+    {
+      "start": 53.4,
+      "end": 56.7,
+      "text": "Em relação ao nivelamento da mesa, eu sempre faço."
+    },
+    {
+      "start": 56.8,
+      "end": 60.2,
+      "text": "Normalmente ao fim da impressão eu retiro a placa para tirar o objeto."
+    },
+    {
+      "start": 60.3,
+      "end": 62.3,
+      "text": "E também a mesa se deforma com aquecimento."
+    },
+    {
+      "start": 62.4,
+      "end": 65.5,
+      "text": "E se desligar a economia será de apenas 1 a 2 minutos."
+    },
+    {
+      "start": 65.6,
+      "end": 70.5,
+      "text": "Eu acredito que não compensa arriscar ter uma primeira camada ruim e estragar toda a impressão."
+    },
+    {
+      "start": 70.7,
+      "end": 75.3,
+      "text": "Conclusão, os 6 minutos de preparação não referem-se apenas às calibrações iniciais."
+    },
+    {
+      "start": 75.4,
+      "end": 78.0,
+      "text": "Existem outros procedimentos no início da impressão."
+    },
+    {
+      "start": 78.2,
+      "end": 81.7,
+      "text": "E eu só desligo a dinâmica de fluxo quando eu fiz ela de forma manual."
+    },
+    {
+      "start": 81.7,
+      "end": 83.5,
+      "text": "Ou seja, quando for necessário"
+    }
+  ],
+  "duration": 83.8,
+  "model": "large-v3-turbo"
+}

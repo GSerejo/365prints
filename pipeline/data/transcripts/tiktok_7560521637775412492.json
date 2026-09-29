@@ -1,0 +1,137 @@
+{
+  "text": "A umidade relativa aqui fora está em 67%, mas aqui dentro em 36. Bem-vindo ao dia 106, eu gastei apenas 300 reais e criei um dessecador inteligente para o meu armário de filamentos. Chega de brigar com bags, avaco e sílica espalhada, agora eu só abro o armário e pego o filamento e imprimo. O coração desse projeto é esse aquecedor PTC de 200 watts. Aqui, ar frio úmido entra pelos furinhos ali embaixo e passa pelo aquecedor. E por que funciona? Pense no ar frio como uma esponja, o ar frio que entra por baixo é uma esponja pequena, já meio cheia de água E quando o ar frio passa pelo aquecedor ele esquenta e expande e essa esponja cresce E esse ar quente tem muito mais capacidade de segurar a água, por isso a umidade relativa despenca E com a umidade relativa baixa a água que está nos filamentos tende a sair e saturar esse ar Então o ar saturado sai pelos furos superiores e cria um efeito chaminé e o ciclo continua Essa é uma das saídas de ar que estava muito grande e eu fechei um pouco E aqui embaixo nós temos potes de sílica para deixar a umidade baixa quando o aquecedor estiver desligado Esse é o sensor de umidade e temperatura dentro do armário Eu criei uma cena e quando a umidade está alta ele ativa o módulo ZigBee Que por sua vez liga a fonte e consequentemente o aquecedor de 24V Os créditos pela indicação desse aquecedor são lá do Franco da Bambula Blue E os links para você comprar esses produtos estão lá na minha bio Após 7 horas do aquecedor ligado, o sensor interno aponta para 38% de umidade relativa. Enquanto que o externo, num dia chuvoso, está a 63%, uma diferença bem considerável. Essa umidade interna ainda não é suficiente para armazenar filamentos higroscópicos, como o nylon ou o TPU. Eu ainda quero chegar numa umidade relativa abaixo dos 20%, e para isso eu vou fazer algumas mudanças. A primeira delas é aumentar esses furos de baixo e colocar sílica ali na entrada do ar frio. E também vou avaliar a compra de um aquecedor mais potente de 300 watts, por exemplo, como aquele que eu indiquei lá no link da Bill. Além disso, eu quero fazer uma vedação completa em todas as frestas. E por fim, eu comprei uma balança de alta precisão para avaliar quanto de água esse dessecador consegue retirar dos filamentos e em quanto tempo. E se você quiser ver os próximos capítulos, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "A umidade relativa aqui fora está em 67%, mas aqui dentro em 36."
+    },
+    {
+      "start": 7.4,
+      "end": 15.3,
+      "text": "Bem-vindo ao dia 106, eu gastei apenas 300 reais e criei um dessecador inteligente para o meu armário de filamentos."
+    },
+    {
+      "start": 15.5,
+      "end": 21.6,
+      "text": "Chega de brigar com bags, avaco e sílica espalhada, agora eu só abro o armário e pego o filamento e imprimo."
+    },
+    {
+      "start": 21.7,
+      "end": 25.3,
+      "text": "O coração desse projeto é esse aquecedor PTC de 200 watts."
+    },
+    {
+      "start": 25.3,
+      "end": 29.4,
+      "text": "Aqui, ar frio úmido entra pelos furinhos ali embaixo e passa pelo aquecedor."
+    },
+    {
+      "start": 29.4,
+      "end": 36.4,
+      "text": "E por que funciona? Pense no ar frio como uma esponja, o ar frio que entra por baixo é uma esponja pequena, já meio cheia de água"
+    },
+    {
+      "start": 36.4,
+      "end": 40.9,
+      "text": "E quando o ar frio passa pelo aquecedor ele esquenta e expande e essa esponja cresce"
+    },
+    {
+      "start": 40.9,
+      "end": 46.2,
+      "text": "E esse ar quente tem muito mais capacidade de segurar a água, por isso a umidade relativa despenca"
+    },
+    {
+      "start": 46.2,
+      "end": 51.3,
+      "text": "E com a umidade relativa baixa a água que está nos filamentos tende a sair e saturar esse ar"
+    },
+    {
+      "start": 51.3,
+      "end": 57.4,
+      "text": "Então o ar saturado sai pelos furos superiores e cria um efeito chaminé e o ciclo continua"
+    },
+    {
+      "start": 57.4,
+      "end": 60.7,
+      "text": "Essa é uma das saídas de ar que estava muito grande e eu fechei um pouco"
+    },
+    {
+      "start": 60.7,
+      "end": 65.3,
+      "text": "E aqui embaixo nós temos potes de sílica para deixar a umidade baixa quando o aquecedor estiver desligado"
+    },
+    {
+      "start": 65.3,
+      "end": 68.3,
+      "text": "Esse é o sensor de umidade e temperatura dentro do armário"
+    },
+    {
+      "start": 68.3,
+      "end": 71.9,
+      "text": "Eu criei uma cena e quando a umidade está alta ele ativa o módulo ZigBee"
+    },
+    {
+      "start": 71.9,
+      "end": 76.8,
+      "text": "Que por sua vez liga a fonte e consequentemente o aquecedor de 24V"
+    },
+    {
+      "start": 76.8,
+      "end": 80.7,
+      "text": "Os créditos pela indicação desse aquecedor são lá do Franco da Bambula Blue"
+    },
+    {
+      "start": 80.7,
+      "end": 83.9,
+      "text": "E os links para você comprar esses produtos estão lá na minha bio"
+    },
+    {
+      "start": 83.9,
+      "end": 89.5,
+      "text": "Após 7 horas do aquecedor ligado, o sensor interno aponta para 38% de umidade relativa."
+    },
+    {
+      "start": 89.6,
+      "end": 95.4,
+      "text": "Enquanto que o externo, num dia chuvoso, está a 63%, uma diferença bem considerável."
+    },
+    {
+      "start": 95.5,
+      "end": 101.6,
+      "text": "Essa umidade interna ainda não é suficiente para armazenar filamentos higroscópicos, como o nylon ou o TPU."
+    },
+    {
+      "start": 101.8,
+      "end": 107.0,
+      "text": "Eu ainda quero chegar numa umidade relativa abaixo dos 20%, e para isso eu vou fazer algumas mudanças."
+    },
+    {
+      "start": 107.1,
+      "end": 112.1,
+      "text": "A primeira delas é aumentar esses furos de baixo e colocar sílica ali na entrada do ar frio."
+    },
+    {
+      "start": 112.1,
+      "end": 118.7,
+      "text": "E também vou avaliar a compra de um aquecedor mais potente de 300 watts, por exemplo, como aquele que eu indiquei lá no link da Bill."
+    },
+    {
+      "start": 118.8,
+      "end": 122.4,
+      "text": "Além disso, eu quero fazer uma vedação completa em todas as frestas."
+    },
+    {
+      "start": 122.5,
+      "end": 129.2,
+      "text": "E por fim, eu comprei uma balança de alta precisão para avaliar quanto de água esse dessecador consegue retirar dos filamentos e em quanto tempo."
+    },
+    {
+      "start": 129.4,
+      "end": 132.3,
+      "text": "E se você quiser ver os próximos capítulos, é só me seguir."
+    }
+  ],
+  "duration": 132.9,
+  "model": "large-v3-turbo"
+}

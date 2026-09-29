@@ -1,0 +1,42 @@
+{
+  "text": "Eu imprimi um tabuleiro de xadrez portátil na minha impressora 3D. Bem-vindo ao dia 41 de 365 impressões 3D aqui em casa. Esse projeto demorou 6 horas e eu precisei apenas de 160 gramas de PLA. Você vai precisar de uma impressora multicolor para imprimir o quadriculado. O tabuleiro mede apenas 13 centímetros e é ideal para você levar nas suas viagens. Ah, lembrando, esse projeto está disponível lá no site da Bambu Lab. Tchau.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Eu imprimi um tabuleiro de xadrez portátil na minha impressora 3D."
+    },
+    {
+      "start": 4.6,
+      "end": 10.0,
+      "text": "Bem-vindo ao dia 41 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 10.3,
+      "end": 15.8,
+      "text": "Esse projeto demorou 6 horas e eu precisei apenas de 160 gramas de PLA."
+    },
+    {
+      "start": 16.1,
+      "end": 19.7,
+      "text": "Você vai precisar de uma impressora multicolor para imprimir o quadriculado."
+    },
+    {
+      "start": 24.9,
+      "end": 30.1,
+      "text": "O tabuleiro mede apenas 13 centímetros e é ideal para você levar nas suas viagens."
+    },
+    {
+      "start": 30.4,
+      "end": 40.5,
+      "text": "Ah, lembrando, esse projeto está disponível lá no site da Bambu Lab."
+    },
+    {
+      "start": 40.7,
+      "end": 41.7,
+      "text": "Tchau."
+    }
+  ],
+  "duration": 40.9,
+  "model": "large-v3-turbo"
+}

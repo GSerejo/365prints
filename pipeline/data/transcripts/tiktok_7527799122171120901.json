@@ -1,0 +1,72 @@
+{
+  "text": "Eu encontrei o melhor acessório para criadores de conteúdo e imprimi ele na minha impressora 3D. Bem-vindo ao dia 45 de 365 impressões 3D aqui em casa. Esse tripé é modular e você pode imprimir do tamanho que você quiser. Eu utilizei PETG, que é o recomendado pelo autor do modelo. Todas as peças são articuladas, o que facilita achar aquele ângulo ideal. As hastes são personalizadas e possibilitam você aumentar ou diminuir a altura. E o mais legal, que além do suporte de mesa, tem o suporte para pôr direto no chão. Esse modelinho eu encontrei lá no site da Bambu Lab. E tem suporte para quase tudo. Celular, iluminação, fundo branco, entre outros. Ah, e além disso, ele foi o vencedor do concurso de acessórios para fotografias. Essa impressão foi muito útil e é ideal para quem está começando a gravar os conteúdos agora. Gostou? Compartilhe com seu amigo que está precisando de um tripé novo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.6,
+      "text": "Eu encontrei o melhor acessório para criadores de conteúdo e imprimi ele na minha impressora 3D."
+    },
+    {
+      "start": 6.7,
+      "end": 12.4,
+      "text": "Bem-vindo ao dia 45 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.6,
+      "end": 16.9,
+      "text": "Esse tripé é modular e você pode imprimir do tamanho que você quiser."
+    },
+    {
+      "start": 17.0,
+      "end": 20.5,
+      "text": "Eu utilizei PETG, que é o recomendado pelo autor do modelo."
+    },
+    {
+      "start": 20.7,
+      "end": 25.2,
+      "text": "Todas as peças são articuladas, o que facilita achar aquele ângulo ideal."
+    },
+    {
+      "start": 25.2,
+      "end": 30.1,
+      "text": "As hastes são personalizadas e possibilitam você aumentar ou diminuir a altura."
+    },
+    {
+      "start": 33.2,
+      "end": 38.7,
+      "text": "E o mais legal, que além do suporte de mesa, tem o suporte para pôr direto no chão."
+    },
+    {
+      "start": 39.1,
+      "end": 42.1,
+      "text": "Esse modelinho eu encontrei lá no site da Bambu Lab."
+    },
+    {
+      "start": 42.3,
+      "end": 44.4,
+      "text": "E tem suporte para quase tudo."
+    },
+    {
+      "start": 44.6,
+      "end": 47.9,
+      "text": "Celular, iluminação, fundo branco, entre outros."
+    },
+    {
+      "start": 48.2,
+      "end": 54.3,
+      "text": "Ah, e além disso, ele foi o vencedor do concurso de acessórios para fotografias."
+    },
+    {
+      "start": 54.3,
+      "end": 60.0,
+      "text": "Essa impressão foi muito útil e é ideal para quem está começando a gravar os conteúdos agora."
+    },
+    {
+      "start": 60.4,
+      "end": 63.7,
+      "text": "Gostou? Compartilhe com seu amigo que está precisando de um tripé novo."
+    }
+  ],
+  "duration": 64.1,
+  "model": "large-v3-turbo"
+}

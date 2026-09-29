@@ -1,0 +1,214 @@
+{
+  "tiktok_7609119459441167623": {
+    "title": "Troféu criado com inteligência artificial",
+    "summary": "Ele gerou o desenho do troféu com um prompt de IA, converteu a imagem em STL num site de imagem para 3D e personalizou o texto no fatiador. Foi o troféu dos 100 mil seguidores, em Silk ouro envelhecido e preto fosco.",
+    "category": "Personalização no fatiador",
+    "tags": ["inteligência artificial", "troféu", "imagem para 3D"],
+    "keywords": ["ia", "ai", "image to 3d", "gerar stl", "prompt", "trofeu", "100 mil seguidores", "silk dourado"]
+  },
+  "tiktok_7610176051033017608": {
+    "title": "Camisa de futebol multipartes sem modelagem",
+    "summary": "Crie a arte da camisa com um prompt de IA e jogue a imagem no gerador de chaveiros do MakerLab (cada cor vira uma peça). No fatiador, divida em objetos, deite as peças na mesa, una as da mesma cor e ajuste a compensação XY para o encaixe.",
+    "category": "Personalização no fatiador",
+    "tags": ["camisa", "multipartes", "MakerLab", "Copa do Mundo"],
+    "keywords": ["camisa de time", "futebol", "copa", "multipartes", "dividir objetos", "compensacao xy", "chatgpt", "makerlab"]
+  },
+  "tiktok_7610922679461367048": {
+    "title": "Quadro com camisa e assinatura do jogador",
+    "summary": "Um cubo escalado vira o fundo, a camisa do dia 174 entra como parte negativa para formar a cavidade, e a assinatura do jogador em SVG é aplicada. As bordas vêm do MakerWorld. Reduza o contorno da camisa para ela encaixar.",
+    "category": "Personalização no fatiador",
+    "tags": ["quadro", "camisa", "SVG", "parte negativa"],
+    "keywords": ["quadro de camisa", "assinatura", "futebol", "negative part", "svg", "presente", "decoracao"]
+  },
+  "tiktok_7611656374019247368": {
+    "title": "Montar partes de um projeto dentro do fatiador",
+    "summary": "No Capitão América multipartes, ele mescla dois objetos e usa a ferramenta de montagem no modo face: clica na face fixa, depois na que vai encaixar, centraliza e ajusta a rotação até as faces coincidirem. Útil em impressoras com várias extrusoras.",
+    "category": "Personalização no fatiador",
+    "tags": ["montar peças", "multipartes", "Snapmaker Orca", "Bambu Studio"],
+    "keywords": ["assemble", "montar", "alinhar faces", "unir partes", "mesclar", "capitao america", "tool changer"]
+  },
+  "tiktok_7612780416461819143": {
+    "title": "PPS-CF: o filamento técnico que parece metal",
+    "summary": "PPS com fibra de carbono, impresso na H2S a 340 °C (mesa a 120 °C, câmara a 65 °C). Aguenta até 240 °C (com recozimento), é quase imune a produtos químicos e tem um som metálico. Material enviado pela Multfila.",
+    "category": "Filamentos",
+    "tags": ["PPS-CF", "material técnico", "alta temperatura", "Bambu Lab H2S"],
+    "keywords": ["pps cf", "pps", "fibra de carbono", "engenharia", "annealing", "recozimento", "resistencia quimica", "multfila"]
+  },
+  "tiktok_7613514681390615826": {
+    "day": 178,
+    "title": "iPad como segunda tela para pintar peças no fatiador",
+    "summary": "Com um app (licença vitalícia de R$ 79), ele espelha a tela do Windows no iPad por Wi-Fi e usa a caneta para pintar os detalhes pequenos da peça no fatiador, com atraso quase imperceptível.",
+    "category": "Personalização no fatiador",
+    "tags": ["iPad", "pintura de cor", "fatiador", "setup"],
+    "keywords": ["ipad", "segunda tela", "monitor extra", "apple pencil", "pintar no fatiador", "color painting"]
+  },
+  "instagram_DVwivqVDlKh": {
+    "title": "5 meses no sol e na chuva: PLA, PETG, ABS, ASA e PC",
+    "summary": "Cinco barquinhos brancos da Bambu Lab ficaram expostos ao tempo por 5 meses. O ABS amarelou muito (degradação do butadieno), enquanto PETG e ASA mantiveram o branco. O ASA parece até ter ficado mais branco.",
+    "category": "Filamentos",
+    "tags": ["resistência UV", "área externa", "ASA", "PETG"],
+    "keywords": ["uv", "sol", "chuva", "amarelou", "exposicao ao tempo", "abs amarelando", "filamento para area externa", "intemperie", "benchy"]
+  },
+  "tiktok_7615381744857976082": {
+    "instagram": "DVjqinKDx0q",
+    "day": 179,
+    "title": "Lightbox com LED USB da Multfila",
+    "summary": "Montagem de uma luminária impressa com a plaquinha de LED que liga no USB (disponível na Multfila): encaixar o LED na caixa e ligar num carregador comum de celular.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["lightbox", "LED", "USB", "luminária"],
+    "keywords": ["led usb", "luminaria", "light box", "multfila", "carregador de celular", "luz"]
+  },
+  "tiktok_7615381240488922375": {
+    "day": 180,
+    "title": "Lacunas no topo de padrões complexos com bico 0.4",
+    "summary": "O caminho que funcionou melhor: Arachne, largura de linha de 0,30 mm no topo e na parede externa, 40% de sobreposição com as paredes, fluxo do topo em 1,05 e ironing só no topo a 60 mm/s com 15% de fluxo. Ainda precisa de ajustes finos.",
+    "category": "Acabamento e qualidade",
+    "tags": ["camada de topo", "Arachne", "largura de linha", "ironing"],
+    "keywords": ["lacunas no topo", "buraquinhos", "gaps", "top surface", "line width", "overlap", "sobreposicao", "passar ferro", "detalhe pequeno"]
+  },
+  "tiktok_7616852443615333640": {
+    "title": "Papel filme na interface do suporte: funciona?",
+    "summary": "Com distância Z e espaçamento de interface zerados e uma pausa depois da interface, ele testou marca-texto e caneta acrílica (mancharam a peça) e papel filme de PVC. O papel filme deu acabamento incrível em áreas planas, sem gastar PETG.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "papel filme", "pausa", "teste"],
+    "keywords": ["papel filme", "pvc", "plastico filme", "barreira", "suporte que solta", "sem petg", "hack"]
+  },
+  "tiktok_7618703760205942023": {
+    "title": "Espátula que não risca a placa",
+    "summary": "Um cabo impresso (MakerWorld ID 2156567) para a lâmina de metal que vem com a Bambu Lab, com um apoio embaixo que impede a lâmina de encostar na mesa. Ótima para placas frias.",
+    "category": "Manutenção e upgrades",
+    "tags": ["espátula", "placa de impressão", "acessório"],
+    "keywords": ["espatula", "scraper", "raspar", "riscar placa", "tirar peca", "placa fria"]
+  },
+  "tiktok_7620437281568066824": {
+    "title": "Aquecedor da A1 serviu na H2S (solução provisória)",
+    "summary": "Os fios do aquecedor e do termistor da H2S quebraram, e o conjunto de aquecimento da A1 encaixou igual, sem adaptação, com temperatura estável. É uma solução provisória, por sua conta e risco, até chegar a peça original.",
+    "category": "Manutenção e upgrades",
+    "tags": ["Bambu Lab H2S", "Bambu Lab A1", "hotend", "reparo"],
+    "keywords": ["aquecedor", "heater", "termistor", "fio quebrado", "peca de reposicao", "compatibilidade", "hotend"]
+  },
+  "tiktok_7620465545678294279": {
+    "day": 185,
+    "title": "Lançamento do curso de letreiros no fatiador",
+    "summary": "Depois do sucesso dos letreiros cristãos do dia 42, ele lançou um curso para criar letreiros direto no fatiador: modelagem sem software, letreiros infantis, configurações e calibrações de impressão.",
+    "category": "Personalização no fatiador",
+    "tags": ["curso", "letreiro", "fatiador"],
+    "keywords": ["curso de letreiros", "ore e confie", "letreiro cristao", "marketplace", "vender letreiros", "aprender"]
+  },
+  "tiktok_7620938669070830866": {
+    "title": "Display multipartes personalizado sem modelagem",
+    "summary": "Arte no Canva exportada em PNG, gerador de chaveiros do MakerLab com duas cores, abrir o 3MF e escalar para 130%. Depois, separar placa e letras, ajustar compensações para encaixe, criar a base com cubos e parte negativa e subir as letras 3 mm.",
+    "category": "Personalização no fatiador",
+    "tags": ["display", "multipartes", "Canva", "MakerLab"],
+    "keywords": ["placa de balcao", "display personalizado", "canva", "makerlab", "encaixe", "base", "negative part", "letreiro"]
+  },
+  "tiktok_7621305249520733448": {
+    "title": "Texturas grátis no navegador (ferramenta do CNC Kitchen)",
+    "summary": "Uma aplicação gratuita do CNC Kitchen: envie o STL, escolha ou envie uma textura, exclua áreas que não quer texturizar e exporte para o fatiador.",
+    "category": "Personalização no fatiador",
+    "tags": ["textura", "CNC Kitchen", "STL"],
+    "keywords": ["cnc kitchen", "texture", "textura no stl", "displacement", "gratis", "navegador", "bumpmesh"]
+  },
+  "tiktok_7622066685893299474": {
+    "title": "Torre de purga não é só para trocar de cor",
+    "summary": "Na Snapmaker U1, sem torre o filamento escorria e sujava a peça. Com torre mínima e purga no preenchimento melhorou pouco. Com a torre padrão a superfície ficou perfeita, porque ela estabiliza a pressão do bico e descarta os resíduos.",
+    "category": "Multicor e purga",
+    "tags": ["torre de purga", "Snapmaker U1", "multicolor"],
+    "keywords": ["prime tower", "torre de purga", "oozing", "escorrendo", "residuos", "sujeira na peca", "tool changer"]
+  },
+  "tiktok_7623195566708772114": {
+    "title": "5 motivos para ter uma Snapmaker U1 (e os pontos fracos)",
+    "summary": "Trocas de cor em 5 a 7 segundos com quase zero purga, multimaterial (PETG, PLA, TPU), recursos de impressora topo de linha e bom custo-benefício. Pontos a melhorar: descarregar o filamento pelo menu, fatiador em beta e troca de bico trabalhosa.",
+    "category": "Impressoras",
+    "tags": ["Snapmaker U1", "review", "multicolor", "multimaterial"],
+    "keywords": ["snapmaker u1 review", "vale a pena", "tool changer", "sem purga", "snapmaker orca", "pontos negativos"]
+  },
+  "tiktok_7625822367016635656": {
+    "title": "Arara em tamanho real: peça de luxo em impressão 3D",
+    "summary": "A arara em tamanho real do MakerWorld (licença comercial de US$ 85) levou mais de 75 horas de impressão, 1,3 kg de filamento e 4 horas de montagem, pena por pena. Para ele, o valor está no projeto, não na tecnologia.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["decoração", "projeto grande", "PLA Silk", "precificação"],
+    "keywords": ["arara", "macaw", "lifesize", "quanto cobrar", "preco", "peca de luxo", "silk duo color", "vender impressao 3d"]
+  },
+  "tiktok_7626181983470767368": {
+    "title": "Ironing que finalmente funcionou (letreiro)",
+    "summary": "Ele não recomendava o passar ferro porque os testes não refletiam a peça real, mas acertou num letreiro e mostra a superfície de topo lisa. Os detalhes estão no curso de letreiros.",
+    "category": "Acabamento e qualidade",
+    "tags": ["ironing", "passar ferro", "letreiro", "camada de topo"],
+    "keywords": ["ironing", "passar ferro", "topo liso", "letreiro", "top surface"]
+  },
+  "tiktok_7626560104287980807": {
+    "day": 192,
+    "title": "Snapmaker U1 vs Bambu Lab H2C: qual faz sentido para você",
+    "summary": "A U1 é mais rápida em 4 cores sem purga e custa bem menos. A H2C é fechada, com câmara aquecida, área maior, AMS com secagem e até 7 cores sem purga (com acessórios). Qualidade parecida: são impressoras para objetivos diferentes.",
+    "category": "Impressoras",
+    "tags": ["Snapmaker U1", "Bambu Lab H2C", "comparativo"],
+    "keywords": ["u1 vs h2c", "h2c", "qual comprar", "fechada", "camara aquecida", "ams", "custo beneficio", "p2s"]
+  },
+  "tiktok_7626861642814557458": {
+    "title": "38 cores com 4 filamentos (Full Spectrum)",
+    "summary": "Um fork do Snapmaker Orca chamado Full Spectrum intercala camadas de 4 filamentos para criar misturas, como o CMY na impressão em papel. De longe o olho mistura as cores. Ainda é experimental.",
+    "category": "Multicor e purga",
+    "tags": ["mistura de cores", "Snapmaker U1", "experimental"],
+    "keywords": ["full spectrum", "cmy", "misturar cores", "camadas intercaladas", "mais cores", "snapmaker orca fork"]
+  },
+  "tiktok_7627241014088060167": {
+    "day": 194,
+    "title": "Criar uma cor nova misturando dois filamentos",
+    "summary": "Um modelo do MakerWorld (ID 912395) imprime um \"filamento\" com camadas intercaladas de duas cores, que depois é usado para imprimir. Azul com bege deu um azul mais claro. Bom para peças pequenas.",
+    "category": "Filamentos",
+    "tags": ["mistura de cores", "cor personalizada", "MakerWorld"],
+    "keywords": ["misturar filamento", "nova cor", "filament maker", "cor dificil de achar", "azul claro"]
+  },
+  "tiktok_7628359537350757640": {
+    "day": 195,
+    "title": "Luminária em PLA: o segredo é a fonte de luz",
+    "summary": "O PLA serve para luminária desde que a luz esquente pouco, como o LED USB de 2 W. Ele compara PLA translúcido, branco natural e fosco, e cada um muda o efeito da luz.",
+    "category": "Filamentos",
+    "tags": ["luminária", "PLA translúcido", "LED"],
+    "keywords": ["pla derrete com lampada", "luminaria", "abajur", "translucido", "led baixa potencia", "calor"]
+  },
+  "tiktok_7630243919686552839": {
+    "day": 196,
+    "title": "Letreiro iluminado feito no fatiador (aula do curso)",
+    "summary": "Um letreiro com LED por dentro, feito quase todo no fatiador: encaixes com parte negativa e compensação de furo e contorno para dar a tolerância. O passo a passo completo está na aula 5 do curso.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "LED", "encaixe", "curso"],
+    "keywords": ["letreiro iluminado", "letreiro com led", "neon", "negative part", "tolerancia", "curso"]
+  },
+  "tiktok_7630244283785743623": {
+    "title": "Caixa dobrável personalizada com logo",
+    "summary": "Um modelo paramétrico gratuito do MakerWorld imprime a caixa plana, que dobra na hora, sem suporte e com pouco filamento. Dá para ajustar as medidas e colocar seu logo no fatiador. Ótima para embalar produtos.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["caixa", "embalagem", "paramétrico", "logo"],
+    "keywords": ["caixa dobravel", "embalagem personalizada", "box", "presente", "print in place", "parametric", "marca"]
+  },
+  "tiktok_7630969654399225095": {
+    "title": "IA que gera modelos paramétricos a partir de texto",
+    "summary": "Uma ferramenta de IA em que você descreve a peça e ela gera um modelo paramétrico pronto para imprimir, com medidas ajustáveis na hora. Tem plano gratuito e recursos avançados pagos.",
+    "category": "Personalização no fatiador",
+    "tags": ["inteligência artificial", "modelagem", "paramétrico"],
+    "keywords": ["ia modelagem", "text to cad", "text to 3d", "gerar peca", "prompt", "sem saber modelar", "cad com ia"]
+  },
+  "tiktok_7632069549776555272": {
+    "title": "Vaso que muda de cor com a temperatura (PLA termocrômico)",
+    "summary": "Um vaso em PLA termocrômico da Multfila: fica verde no sol e volta ao roxo quando a água esfria a peça. Serve como um indicador visual criativo para lembrar de regar.",
+    "category": "Filamentos",
+    "tags": ["termocrômico", "muda de cor", "vaso"],
+    "keywords": ["muda de cor", "thermochromic", "termo", "pla termo", "vaso", "planta", "regar", "sensivel ao calor"]
+  },
+  "tiktok_7632447713266683144": {
+    "title": "Quanto de energia o ABS gasta a mais que o PLA?",
+    "summary": "Medindo com wattímetro na H2S, o mesmo barquinho em PLA gastou cerca de 110 Wh em 40 minutos, e em ABS 504 Wh em 63 minutos (mesa mais quente e câmara aquecida): 4,5 vezes mais.",
+    "category": "Filamentos",
+    "tags": ["consumo de energia", "ABS", "PLA", "custo"],
+    "keywords": ["energia", "consumo", "watts", "conta de luz", "custo da impressao", "wattimetro", "abs vs pla"]
+  },
+  "tiktok_7633181821487959314": {
+    "title": "A única mudança que ele recomendaria: perfil 0.16 High Quality",
+    "summary": "O perfil 0,16 mm High Quality tem camada menor, velocidades e acelerações mais conservadoras, giroide e ângulo de suporte menor (menos suporte). Custa tempo (a coruja levou 75 horas), mas é o maior ganho de qualidade com o menor esforço.",
+    "category": "Acabamento e qualidade",
+    "tags": ["0.16 High Quality", "perfil de impressão", "iniciantes"],
+    "keywords": ["high quality", "0.16", "perfil", "qualidade", "iniciante", "coruja", "snapmaker u1"]
+  }
+}

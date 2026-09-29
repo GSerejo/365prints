@@ -1,0 +1,132 @@
+{
+  "text": "Destrave a velocidade da sua impressão 3D com esse teste. Bem-vindo ao dia 167. No Bambu Studio, uma naba preferências e habilite o modo de desenvolvimento. Vai habilitar a calibração e a gente vai no teste de fluxo máximo. Você está no intervalo de 5 até 30 com a etapa de 0,5. Depois de alguns oks, vai aparecer esse teste na tela. Depois de fatiado, a gente verifica a mudança de fluxo com a altura do objeto. Agora é só mandar imprimir e quando você identificar uma falha, pode parar a impressão. O teste basicamente consiste em identificar o fluxo máximo que a impressora consegue imprimir sem nenhuma falha Você pode observar que depois desse risco vermelho que eu fiz há sinais de substrução Agora é só medir a distância da base até a marca Voltamos no fatiador e identificamos essa altura Então é só olhar o fluxo dessa linha para identificar o fluxo máximo Neste caso aproximadamente 24mm³ por segundo Agora eu vou utilizar esse exemplo com perfil padrão de impressão e perfil genérico de filamento para vocês verem a diferença Nessas configurações a impressão desse cilindro simples vai demorar 3 horas e meia Outra coisa que a gente nota é que as velocidades são mais baixas do que a configuração Isso é limitado pelo fluxo máximo que está lá dentro das configurações do filamento Veja que esse valor por perfil genérico é bastante conservador E com uma margem de segurança vamos colocar 23 milímetros cúbicos por segundo Então é um pouquinho menos que a gente encontrou no teste Agora a mesma impressão está demorando 2 horas e 23 minutos Isso porque o fluxo máximo volumétrico destravou velocidades maiores E como isso é uma propriedade do filamento eu já fiz diversos testes Gostar desse vídeo? Então me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 3.9,
+      "text": "Destrave a velocidade da sua impressão 3D com esse teste."
+    },
+    {
+      "start": 4.2,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 167."
+    },
+    {
+      "start": 6.4,
+      "end": 10.4,
+      "text": "No Bambu Studio, uma naba preferências e habilite o modo de desenvolvimento."
+    },
+    {
+      "start": 10.5,
+      "end": 13.6,
+      "text": "Vai habilitar a calibração e a gente vai no teste de fluxo máximo."
+    },
+    {
+      "start": 13.7,
+      "end": 17.4,
+      "text": "Você está no intervalo de 5 até 30 com a etapa de 0,5."
+    },
+    {
+      "start": 17.6,
+      "end": 20.1,
+      "text": "Depois de alguns oks, vai aparecer esse teste na tela."
+    },
+    {
+      "start": 20.2,
+      "end": 24.0,
+      "text": "Depois de fatiado, a gente verifica a mudança de fluxo com a altura do objeto."
+    },
+    {
+      "start": 24.1,
+      "end": 27.7,
+      "text": "Agora é só mandar imprimir e quando você identificar uma falha, pode parar a impressão."
+    },
+    {
+      "start": 27.7,
+      "end": 32.7,
+      "text": "O teste basicamente consiste em identificar o fluxo máximo que a impressora consegue imprimir sem nenhuma falha"
+    },
+    {
+      "start": 32.7,
+      "end": 36.8,
+      "text": "Você pode observar que depois desse risco vermelho que eu fiz há sinais de substrução"
+    },
+    {
+      "start": 36.8,
+      "end": 39.1,
+      "text": "Agora é só medir a distância da base até a marca"
+    },
+    {
+      "start": 39.1,
+      "end": 41.7,
+      "text": "Voltamos no fatiador e identificamos essa altura"
+    },
+    {
+      "start": 41.7,
+      "end": 45.6,
+      "text": "Então é só olhar o fluxo dessa linha para identificar o fluxo máximo"
+    },
+    {
+      "start": 45.6,
+      "end": 49.9,
+      "text": "Neste caso aproximadamente 24mm³ por segundo"
+    },
+    {
+      "start": 49.9,
+      "end": 55.8,
+      "text": "Agora eu vou utilizar esse exemplo com perfil padrão de impressão e perfil genérico de filamento para vocês verem a diferença"
+    },
+    {
+      "start": 55.8,
+      "end": 59.7,
+      "text": "Nessas configurações a impressão desse cilindro simples vai demorar 3 horas e meia"
+    },
+    {
+      "start": 59.7,
+      "end": 63.5,
+      "text": "Outra coisa que a gente nota é que as velocidades são mais baixas do que a configuração"
+    },
+    {
+      "start": 63.5,
+      "end": 67.7,
+      "text": "Isso é limitado pelo fluxo máximo que está lá dentro das configurações do filamento"
+    },
+    {
+      "start": 67.7,
+      "end": 71.0,
+      "text": "Veja que esse valor por perfil genérico é bastante conservador"
+    },
+    {
+      "start": 71.0,
+      "end": 75.2,
+      "text": "E com uma margem de segurança vamos colocar 23 milímetros cúbicos por segundo"
+    },
+    {
+      "start": 75.2,
+      "end": 77.1,
+      "text": "Então é um pouquinho menos que a gente encontrou no teste"
+    },
+    {
+      "start": 77.1,
+      "end": 80.4,
+      "text": "Agora a mesma impressão está demorando 2 horas e 23 minutos"
+    },
+    {
+      "start": 80.4,
+      "end": 84.1,
+      "text": "Isso porque o fluxo máximo volumétrico destravou velocidades maiores"
+    },
+    {
+      "start": 84.1,
+      "end": 88.3,
+      "text": "E como isso é uma propriedade do filamento eu já fiz diversos testes"
+    },
+    {
+      "start": 88.3,
+      "end": 92.2,
+      "text": "Gostar desse vídeo? Então me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 92.5,
+  "model": "large-v3-turbo"
+}

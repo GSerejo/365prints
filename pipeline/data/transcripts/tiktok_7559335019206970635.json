@@ -1,0 +1,137 @@
+{
+  "text": "Você já teve esse problema? Vai imprimir uma coisa simples, como uma plaquinha ou chaveiro e a mudança de cor na estrutura interna da peça. Bora resolver isso! Bem-vindo ao dia 105 e essa seria uma impressão simples, imprimir em branco a base da peça até a camada 5 e depois em preto o QR Code. Só que na prática isso não aconteceu, tem cor preta nas camadas 4 e 5. Estão ocorrendo 3 mudanças de cor, o que eleva o tempo de impressão e o gasto de filamento. E de fato nós queremos apenas uma mudança de cor, imprime todo o branco até a camada 5 e depois o preto. E isso é simples de resolver, é só inabar força e reduzir a penetração da pintura nas camadas de topo. Fatiamos de novo e verificamos que o problema foi resolvido, agora só tem branco na camada 4 e 5. Só que aqui a gente tem outro problema, na camada 5 o fatiador começa a imprimir a estrutura do QR Code em branco mesmo. E eu quero que a camada 5 seja totalmente lisinha. para evitar essas mudanças na direção do bico que diminuem a qualidade. Se observarmos, a camada 5 é tratada pelo fatiador como uma superfície de topo. Ela está em vermelha. E notamos ainda que existe apenas uma parede externa, apesar de ter duas por padrão nesse modelo. E o primeiro parâmetro que vai nos ajudar está na aba qualidade. Apenas uma parede na superfície de topo. E por padrão, o fatiador está aplicando uma parede em todas as superfícies de topo. Aqui nós mudamos apenas para a última camada de topo. E quando fatiamos de novo, vemos que o problema foi parcialmente reduzido. A camada 5 está quase lisinha, com menos detalhes. E a mudança mais clara é a volta das duas paredes nessa camada. E a última alteração que a gente vai fazer está lá na aba força. A gente vai ativar essa função aqui, que é a interface shells. Isso vai forçar o seu fatiador a criar uma camada sólida na interface. E pronto, a camada 5 está 100% lisinha. O problema é resolvido e os tempos diminuíram e o gasto de filamento também. Agora só com uma troca de cor. Gostaram dessa dica? Então me sigam pra ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.4,
+      "text": "Você já teve esse problema? Vai imprimir uma coisa simples, como uma plaquinha ou chaveiro e a mudança de cor na estrutura interna da peça. Bora resolver isso!"
+    },
+    {
+      "start": 8.9,
+      "end": 16.7,
+      "text": "Bem-vindo ao dia 105 e essa seria uma impressão simples, imprimir em branco a base da peça até a camada 5 e depois em preto o QR Code."
+    },
+    {
+      "start": 16.7,
+      "end": 25.8,
+      "text": "Só que na prática isso não aconteceu, tem cor preta nas camadas 4 e 5. Estão ocorrendo 3 mudanças de cor, o que eleva o tempo de impressão e o gasto de filamento."
+    },
+    {
+      "start": 25.8,
+      "end": 31.4,
+      "text": "E de fato nós queremos apenas uma mudança de cor, imprime todo o branco até a camada 5 e depois o preto."
+    },
+    {
+      "start": 31.5,
+      "end": 37.1,
+      "text": "E isso é simples de resolver, é só inabar força e reduzir a penetração da pintura nas camadas de topo."
+    },
+    {
+      "start": 37.4,
+      "end": 42.5,
+      "text": "Fatiamos de novo e verificamos que o problema foi resolvido, agora só tem branco na camada 4 e 5."
+    },
+    {
+      "start": 42.7,
+      "end": 49.5,
+      "text": "Só que aqui a gente tem outro problema, na camada 5 o fatiador começa a imprimir a estrutura do QR Code em branco mesmo."
+    },
+    {
+      "start": 49.6,
+      "end": 52.5,
+      "text": "E eu quero que a camada 5 seja totalmente lisinha."
+    },
+    {
+      "start": 52.5,
+      "end": 55.9,
+      "text": "para evitar essas mudanças na direção do bico que diminuem a qualidade."
+    },
+    {
+      "start": 56.3,
+      "end": 60.6,
+      "text": "Se observarmos, a camada 5 é tratada pelo fatiador como uma superfície de topo."
+    },
+    {
+      "start": 60.7,
+      "end": 61.6,
+      "text": "Ela está em vermelha."
+    },
+    {
+      "start": 61.7,
+      "end": 67.3,
+      "text": "E notamos ainda que existe apenas uma parede externa, apesar de ter duas por padrão nesse modelo."
+    },
+    {
+      "start": 67.4,
+      "end": 70.1,
+      "text": "E o primeiro parâmetro que vai nos ajudar está na aba qualidade."
+    },
+    {
+      "start": 70.4,
+      "end": 72.7,
+      "text": "Apenas uma parede na superfície de topo."
+    },
+    {
+      "start": 72.8,
+      "end": 76.8,
+      "text": "E por padrão, o fatiador está aplicando uma parede em todas as superfícies de topo."
+    },
+    {
+      "start": 76.9,
+      "end": 80.2,
+      "text": "Aqui nós mudamos apenas para a última camada de topo."
+    },
+    {
+      "start": 80.2,
+      "end": 83.7,
+      "text": "E quando fatiamos de novo, vemos que o problema foi parcialmente reduzido."
+    },
+    {
+      "start": 83.8,
+      "end": 86.9,
+      "text": "A camada 5 está quase lisinha, com menos detalhes."
+    },
+    {
+      "start": 87.0,
+      "end": 90.5,
+      "text": "E a mudança mais clara é a volta das duas paredes nessa camada."
+    },
+    {
+      "start": 90.9,
+      "end": 93.9,
+      "text": "E a última alteração que a gente vai fazer está lá na aba força."
+    },
+    {
+      "start": 93.9,
+      "end": 97.7,
+      "text": "A gente vai ativar essa função aqui, que é a interface shells."
+    },
+    {
+      "start": 97.9,
+      "end": 101.7,
+      "text": "Isso vai forçar o seu fatiador a criar uma camada sólida na interface."
+    },
+    {
+      "start": 102.0,
+      "end": 105.0,
+      "text": "E pronto, a camada 5 está 100% lisinha."
+    },
+    {
+      "start": 105.3,
+      "end": 108.8,
+      "text": "O problema é resolvido e os tempos diminuíram e o gasto de filamento também."
+    },
+    {
+      "start": 108.8,
+      "end": 111.0,
+      "text": "Agora só com uma troca de cor."
+    },
+    {
+      "start": 111.2,
+      "end": 115.3,
+      "text": "Gostaram dessa dica? Então me sigam pra ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 115.7,
+  "model": "large-v3-turbo"
+}

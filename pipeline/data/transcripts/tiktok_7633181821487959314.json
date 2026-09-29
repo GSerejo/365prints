@@ -1,0 +1,67 @@
+{
+  "text": "Se eu tivesse que mudar só uma coisa pra melhorar a qualidade da impressão, eu faria isso aqui. Bem-vindo ao dia 201. Eu trocaria o perfil padrão pelo 0.16mm High Quality, que também tá disponível lá no Bambu Studio. Foi com ele que eu imprimi essa coruja multicolor na minha Snapmaker U1. A altura de camada menor significa mais resolução nas paredes da peça. Mas não é só isso, esse perfil costuma trazer velocidades e acelerações mais conservadoras. Usa preenchimento giroide E no bombo estúdio até reduz alguns suportes pela diminuição do ângulo limite O custo disso é o tempo, essa coruja aí demorou 75 horas Mas se você quer qualidade e ainda não domina o fatiador Essa é a mudança mais simples e mais valiosa que eu faria Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "Se eu tivesse que mudar só uma coisa pra melhorar a qualidade da impressão, eu faria isso aqui."
+    },
+    {
+      "start": 7.0,
+      "end": 8.8,
+      "text": "Bem-vindo ao dia 201."
+    },
+    {
+      "start": 8.9,
+      "end": 15.4,
+      "text": "Eu trocaria o perfil padrão pelo 0.16mm High Quality, que também tá disponível lá no Bambu Studio."
+    },
+    {
+      "start": 15.6,
+      "end": 19.4,
+      "text": "Foi com ele que eu imprimi essa coruja multicolor na minha Snapmaker U1."
+    },
+    {
+      "start": 19.4,
+      "end": 23.1,
+      "text": "A altura de camada menor significa mais resolução nas paredes da peça."
+    },
+    {
+      "start": 23.2,
+      "end": 28.2,
+      "text": "Mas não é só isso, esse perfil costuma trazer velocidades e acelerações mais conservadoras."
+    },
+    {
+      "start": 28.2,
+      "end": 29.8,
+      "text": "Usa preenchimento giroide"
+    },
+    {
+      "start": 29.8,
+      "end": 33.6,
+      "text": "E no bombo estúdio até reduz alguns suportes pela diminuição do ângulo limite"
+    },
+    {
+      "start": 33.6,
+      "end": 37.0,
+      "text": "O custo disso é o tempo, essa coruja aí demorou 75 horas"
+    },
+    {
+      "start": 37.0,
+      "end": 40.2,
+      "text": "Mas se você quer qualidade e ainda não domina o fatiador"
+    },
+    {
+      "start": 40.2,
+      "end": 43.9,
+      "text": "Essa é a mudança mais simples e mais valiosa que eu faria"
+    },
+    {
+      "start": 43.9,
+      "end": 47.5,
+      "text": "Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 47.9,
+  "model": "large-v3-turbo"
+}

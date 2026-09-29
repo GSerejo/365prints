@@ -1,0 +1,112 @@
+{
+  "text": "Nós saímos disso, pra isso, apenas utilizando a ferramenta de altura de camada variável. Mas se eu te dissesse que dá pra melhorar ainda mais? Bem-vindo ao dia 57! E hoje eu vou mostrar que a orientação da peça pode melhorar muito, o acabamento também. Vamos direto ao ponto. Trinando a peça num ângulo maior que 30 graus, pra evitar um pouco de suporte, e ainda utilizando a altura de camada variável, Nós notamos que os degraus saem das costas do objeto e vão para a superfície superior Mas isso não é um problema porque o capuz do Donatello vai esconder O fatiamento da peça resultou em alguns suportes, que são até benéficos Pois vão ficar em uma região de encaixe e vão dar mais aderência da peça com a mesa Para evitar o descolamento Mas por que essa orientação é melhor? Notem que essa orientação deixou o objeto com uma altura maior na mesa E portanto a alteração da área transversal do objeto à medida que ele vai imprimindo É mais suavizada Isso faz com que aqueles degraus sejam menos pronunciados Percebem a diferença? E na prática o resultado foi esse Por isso, antes de imprimir É sempre bom estudar a melhor orientação para a sua peça Quem gostou desse conteúdo, segue aí!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "Nós saímos disso, pra isso, apenas utilizando a ferramenta de altura de camada variável."
+    },
+    {
+      "start": 6.8,
+      "end": 10.0,
+      "text": "Mas se eu te dissesse que dá pra melhorar ainda mais?"
+    },
+    {
+      "start": 10.1,
+      "end": 11.9,
+      "text": "Bem-vindo ao dia 57!"
+    },
+    {
+      "start": 12.1,
+      "end": 17.0,
+      "text": "E hoje eu vou mostrar que a orientação da peça pode melhorar muito, o acabamento também."
+    },
+    {
+      "start": 17.1,
+      "end": 18.1,
+      "text": "Vamos direto ao ponto."
+    },
+    {
+      "start": 18.3,
+      "end": 24.8,
+      "text": "Trinando a peça num ângulo maior que 30 graus, pra evitar um pouco de suporte, e ainda utilizando a altura de camada variável,"
+    },
+    {
+      "start": 24.8,
+      "end": 30.1,
+      "text": "Nós notamos que os degraus saem das costas do objeto e vão para a superfície superior"
+    },
+    {
+      "start": 30.1,
+      "end": 33.4,
+      "text": "Mas isso não é um problema porque o capuz do Donatello vai esconder"
+    },
+    {
+      "start": 33.4,
+      "end": 37.3,
+      "text": "O fatiamento da peça resultou em alguns suportes, que são até benéficos"
+    },
+    {
+      "start": 37.3,
+      "end": 41.0,
+      "text": "Pois vão ficar em uma região de encaixe e vão dar mais aderência da peça com a mesa"
+    },
+    {
+      "start": 41.0,
+      "end": 42.2,
+      "text": "Para evitar o descolamento"
+    },
+    {
+      "start": 42.2,
+      "end": 44.5,
+      "text": "Mas por que essa orientação é melhor?"
+    },
+    {
+      "start": 44.9,
+      "end": 49.0,
+      "text": "Notem que essa orientação deixou o objeto com uma altura maior na mesa"
+    },
+    {
+      "start": 49.0,
+      "end": 53.5,
+      "text": "E portanto a alteração da área transversal do objeto à medida que ele vai imprimindo"
+    },
+    {
+      "start": 53.5,
+      "end": 55.1,
+      "text": "É mais suavizada"
+    },
+    {
+      "start": 55.1,
+      "end": 58.1,
+      "text": "Isso faz com que aqueles degraus sejam menos pronunciados"
+    },
+    {
+      "start": 58.1,
+      "end": 59.5,
+      "text": "Percebem a diferença?"
+    },
+    {
+      "start": 60.4,
+      "end": 62.2,
+      "text": "E na prática o resultado foi esse"
+    },
+    {
+      "start": 62.2,
+      "end": 64.6,
+      "text": "Por isso, antes de imprimir"
+    },
+    {
+      "start": 64.6,
+      "end": 68.7,
+      "text": "É sempre bom estudar a melhor orientação para a sua peça"
+    },
+    {
+      "start": 68.7,
+      "end": 71.1,
+      "text": "Quem gostou desse conteúdo, segue aí!"
+    }
+  ],
+  "duration": 71.5,
+  "model": "large-v3-turbo"
+}

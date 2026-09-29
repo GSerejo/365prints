@@ -1,0 +1,210 @@
+{
+  "tiktok_7634667479394176274": {
+    "title": "Distância Z do suporte: altura de camada + 0,04 mm",
+    "summary": "Três ajustes de suporte que mudaram o resultado dele. O detalhe que muita gente ignora: usar a distância Z superior 0,04 mm acima da altura de camada.",
+    "category": "Suportes",
+    "tags": ["distância Z", "interface de suporte", "configurações"],
+    "keywords": ["top z distance", "distancia z", "suporte grudando", "0.04", "suporte facil de remover", "support settings"]
+  },
+  "tiktok_7634667878439980296": {
+    "day": 203,
+    "title": "Letreiro porta-foto de Dia das Mães feito no fatiador",
+    "summary": "Um letreiro de Dia das Mães que também é porta-foto, feito sem software de modelagem. A foto foi impressa com a ferramenta de quadros do MakerLab (dia 145).",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "porta-foto", "Dia das Mães", "presente"],
+    "keywords": ["dia das maes", "porta retrato", "presente", "foto impressa", "hueforge", "letreiro personalizado", "curso"]
+  },
+  "tiktok_7636880460660116754": {
+    "title": "Suporte grudando na lateral? Aumente a distância XY",
+    "summary": "Aumente a distância XY entre o suporte e a peça (ele usa 1 mm em vez de 0,35). Atenção: no estilo árvore orgânica o fatiador ignora esse valor, então use árvore forte, slim ou híbrida.",
+    "category": "Suportes",
+    "tags": ["distância XY", "suporte árvore", "remoção de suporte"],
+    "keywords": ["support xy distance", "suporte grudado na lateral", "organic tree", "arvore organica", "tree strong", "hybrid", "distancia lateral"]
+  },
+  "tiktok_7638747452417297682": {
+    "title": "10 horas imprimindo só na bateria (estação de energia)",
+    "summary": "Com uma estação de energia portátil de 1024 Wh, a A1 imprimiu 10 horas fora da tomada, começando pelo aquecimento. Funciona como um nobreak potente para quem sofre com queda de luz.",
+    "category": "Manutenção e upgrades",
+    "tags": ["queda de energia", "nobreak", "Bambu Lab A1", "bateria"],
+    "keywords": ["falta de luz", "queda de energia", "nobreak", "ups", "estacao de energia", "power station", "bluetti", "impressao interrompida"]
+  },
+  "tiktok_7638747686698618119": {
+    "day": 206,
+    "title": "Luminária sem modelagem com o \"Faça o Meu Vaso\" do MakerLab",
+    "summary": "Base e cúpula criadas no gerador de vasos do MakerLab (dimensões e formas ajustáveis em poucos cliques). Encaixes, tolerâncias e espaço da pastilha de LED são finalizados no fatiador.",
+    "category": "Personalização no fatiador",
+    "tags": ["luminária", "MakerLab", "sem modelagem", "vaso"],
+    "keywords": ["make my vase", "gerador de vaso", "abajur", "luminaria personalizada", "makerlab", "led", "vender"]
+  },
+  "tiktok_7639486433274629383": {
+    "title": "3 dicas para texto personalizado nas peças",
+    "summary": "Posicione o texto numa superfície inclinada e com letras finas para dispensar suporte. Afunde as letras 2 mm na peça para reduzir costuras. Use Arachne com um tamanho mínimo de recurso maior para ignorar perímetros minúsculos.",
+    "category": "Personalização no fatiador",
+    "tags": ["ferramenta de texto", "costura", "Arachne", "personalização"],
+    "keywords": ["nome na peca", "texto 3d", "costuras nas letras", "seam", "minimum feature size", "tamanho minimo", "texto em relevo", "sem suporte"]
+  },
+  "tiktok_7641366475697048839": {
+    "title": "Fuzzy skin só onde precisa (e os novos padrões)",
+    "summary": "Pinte a pele felpuda só nas faces que quiser, deixando o nome liso para dar destaque. Nas atualizações do Bambu Studio há novos padrões de fuzzy skin, e o favorito dele é o Voronoi.",
+    "category": "Acabamento e qualidade",
+    "tags": ["fuzzy skin", "textura", "pintura", "Bambu Studio"],
+    "keywords": ["pele felpuda", "fuzzy skin", "voronoi", "textura", "pintar textura", "esconder linhas"]
+  },
+  "tiktok_7641367104108743944": {
+    "title": "Letreiro iluminado 2.0 (aula 7 do curso)",
+    "summary": "Versão 2.0 do letreiro iluminado, multipartes e feito sem modelagem, agora com a letra e o nome iluminados. É a aula 7 do curso de letreiros.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "LED", "curso"],
+    "keywords": ["letreiro iluminado", "letreiro com led", "multipartes", "curso"]
+  },
+  "tiktok_7642473351512067335": {
+    "title": "\"Tornar saliências imprimíveis\": suporte zero em overhangs pequenos",
+    "summary": "A função cria uma microrrampa sob a saliência e elimina o suporte, como numa letra em alto relevo. Com ângulo baixo demais ela deforma a peça e os encaixes. Existe no Orca Slicer, no Snapmaker Orca e no FlashForge Studio, ainda não no Bambu Studio.",
+    "category": "Suportes",
+    "tags": ["overhang", "sem suporte", "Orca Slicer"],
+    "keywords": ["make overhang printable", "saliencia", "rampa", "sem suporte", "orca slicer", "flashforge", "overhang"]
+  },
+  "tiktok_7642473610254241032": {
+    "title": "Logo em SVG sumiu depois de fatiar? A culpa é da pintura",
+    "summary": "O SVG estava como modificador de cor, mas a peça tinha sido pintada depois e a pintura prevalecia. Ele resetou a pintura, definiu a cor base e repintou sem cobrir a área do modificador.",
+    "category": "Personalização no fatiador",
+    "tags": ["SVG", "modificador", "pintura de cor", "logo"],
+    "keywords": ["logo sumiu", "svg nao aparece", "modifier", "pintura", "resetar pintura", "cor base", "problema no fatiador"]
+  },
+  "tiktok_7644385071406877960": {
+    "title": "Transformar o topo em parede: incline a peça",
+    "summary": "No carrinho, teto e capô ficavam cheios de degraus. Inclinando o modelo, essas curvas viram parede, e os suportes e marcas vão para áreas escondidas. Outra opção é dividir o modelo, e desde o Bambu Studio 2.7 a pintura não se perde.",
+    "category": "Acabamento e qualidade",
+    "tags": ["orientação da peça", "camada de topo", "degraus"],
+    "keywords": ["inclinar peca", "orientacao", "degraus no topo", "carro", "carrinho", "dividir modelo", "cut", "stair stepping"]
+  },
+  "tiktok_7645041996779883784": {
+    "title": "Wave Overhangs: 90° sem suporte na A1",
+    "summary": "O Wave Overhangs, um fork experimental do Orca Slicer, imprime saliências de 90° sem suporte: cada linha se apoia na anterior em forma de onda, em vez de ficar no ar.",
+    "category": "Suportes",
+    "tags": ["Wave Overhangs", "sem suporte", "Orca Slicer", "experimental"],
+    "keywords": ["wave overhangs", "arc overhang", "90 graus sem suporte", "overhang", "fork orca", "experimental"]
+  },
+  "tiktok_7648010119162187026": {
+    "title": "Como usar o Wave Overhangs numa Bambu Lab",
+    "summary": "Baixe o fork Wave Overhangs e o Bambu Connect (beta), ative a nova aba Wave Overhangs, fatie, exporte o .gcode.3mf e envie pelo Bambu Connect. Comece com geometrias simples.",
+    "category": "Suportes",
+    "tags": ["Wave Overhangs", "Bambu Connect", "sem suporte", "tutorial"],
+    "keywords": ["wave overhangs tutorial", "bambu connect", "exportar gcode", "orca slicer fork", "imprimir sem suporte"]
+  },
+  "tiktok_7648010101139442952": {
+    "day": 215,
+    "title": "Um ano de quadro: 214 vídeos e 141 mil seguidores",
+    "summary": "Balanço do primeiro ano: a meta de 365 vídeos não foi batida, mas foram 214 vídeos e uma comunidade de 141 mil pessoas. A maior lição foi a disciplina, com agradecimentos à comunidade e aos parceiros.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["bastidores", "aniversário", "comunidade"],
+    "keywords": ["um ano", "aniversario", "140 mil", "seguidores", "historia", "criador de conteudo", "disciplina"]
+  },
+  "tiktok_7648010288436071698": {
+    "title": "Otimizar projetos multipartes: peças pequenas numa placa só",
+    "summary": "Junte as peças pequenas de várias cores numa placa e mude a sequência para \"por objeto\": mescle peças da mesma cor e deixe a mais alta por último para não haver colisão. Assim ficam só 3 trocas de cor.",
+    "category": "Multicor e purga",
+    "tags": ["impressão por objeto", "multipartes", "ordem de impressão"],
+    "keywords": ["print by object", "por objeto", "juntar placas", "trocas de cor", "colisao", "sequencia", "multipartes"]
+  },
+  "tiktok_7649909352324697362": {
+    "title": "Acabamento de resina no PLA, sem pós-processamento",
+    "summary": "Perfil de 0,08 mm, uma parede só no topo desativada, ordem de paredes interna/externa/interna com 3 paredes, topo concêntrico e preenchimento baixo para não repuxar a parede externa. PLA fosco na A1.",
+    "category": "Acabamento e qualidade",
+    "tags": ["0.08", "ordem das paredes", "acabamento", "PLA fosco"],
+    "keywords": ["parece resina", "qualidade de resina", "inner outer inner", "0.08", "concentrico", "busto", "sem lixar"]
+  },
+  "tiktok_7650607407629929736": {
+    "day": 218,
+    "title": "Letreiro \"Ore e Confie\" 2.0 iluminado (aula 8)",
+    "summary": "A versão 2.0 iluminada do letreiro \"Ore e Confie\" do dia 42, feita só no fatiador: estrutura, encaixes, espaço para LED, ajustes e montagem. É a aula 8 do curso.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "LED", "curso", "encaixe"],
+    "keywords": ["ore e confie", "letreiro iluminado", "letreiro cristao", "led", "curso de letreiros"]
+  },
+  "tiktok_7651727774897507592": {
+    "title": "H2C (R$ 32 mil) vs A1 (R$ 5 mil): mesma qualidade?",
+    "summary": "O mesmo busto em 0,08 mm ficou praticamente idêntico nas duas. A diferença está na cor: na A1, os lábios vermelhos dobrariam o tempo e gerariam 16 g de purga, mais que a peça. Para monocromático ou multipartes, a A1 atende.",
+    "category": "Impressoras",
+    "tags": ["Bambu Lab H2C", "Bambu Lab A1", "comparativo", "custo-benefício"],
+    "keywords": ["h2c vs a1", "qual impressora comprar", "impressora cara vale a pena", "purga", "qualidade", "a1 mini", "custo beneficio"]
+  },
+  "tiktok_7651727818828549383": {
+    "title": "Cor vazando para dentro do encaixe: pintura por faixa de altura",
+    "summary": "A textura branca invadia o encaixe e criava trocas extras. Ele reseta a pintura, define a cor base correta (azul) e pinta o branco com a ferramenta de faixa de altura. Resultado: uma troca só.",
+    "category": "Multicor e purga",
+    "tags": ["pintura de cor", "faixa de altura", "trocas de cor", "letreiro"],
+    "keywords": ["height range painting", "pintura por altura", "trocas desnecessarias", "cor base", "resetar pintura", "encaixe", "purga"]
+  },
+  "tiktok_7651728156109425928": {
+    "title": "Bolinhas (blobs) na parede externa: investigue o preview",
+    "summary": "Na caixinha de figurinhas, a visualização por tipo de linha mostrou deslocamentos cruzando a parede e muitos loops internos com escorrimento. Ativar \"evitar cruzar paredes\" e aumentar a retração resolveram.",
+    "category": "Problemas e soluções",
+    "tags": ["blobs", "retração", "evitar cruzar paredes", "preview"],
+    "keywords": ["blobs", "zits", "bolinhas na parede", "oozing", "escorrimento", "avoid crossing walls", "retracao", "travel", "pre visualizacao"]
+  },
+  "tiktok_7652456946229890325": {
+    "title": "Modo vaso rugoso na base: parede larga demais",
+    "summary": "Com a linha a 1 mm para deixar o vaso mais forte, havia massa quente demais para esfriar, e a curva de baixo (overhang) cedeu. Com bico 0.4, use no máximo cerca de 0,6 mm de largura.",
+    "category": "Problemas e soluções",
+    "tags": ["modo vaso", "largura de linha", "overhang"],
+    "keywords": ["vase mode", "modo vaso", "spiral vase", "vaso rugoso", "line width", "parede grossa", "overhang derretendo"]
+  },
+  "tiktok_7652457179378732309": {
+    "title": "Suporte que sai como um bloco só",
+    "summary": "A interface soltava bem, mas a base do suporte, muito espaçada, se desmanchava. Reduza o espaçamento da base e use o padrão grade para o suporte sair inteiro. Isso gasta mais tempo e material.",
+    "category": "Suportes",
+    "tags": ["base do suporte", "remoção de suporte", "suporte normal"],
+    "keywords": ["base pattern spacing", "espacamento da base", "grade", "grid", "suporte em bloco", "remover suporte", "suporte bagunçado"]
+  },
+  "tiktok_7655782795406478613": {
+    "title": "A temperatura ideal do filamento existe? Depende da vazão",
+    "summary": "Como num chuveiro elétrico, mais vazão significa menos calor por grama de filamento. Com o PLA Silk a 220 °C, até 4 mm³/s ele sai brilhante e depois fica fosco. A temperatura precisa ser pensada junto com a vazão.",
+    "category": "Calibração e configurações",
+    "tags": ["temperatura", "vazão", "PLA Silk", "calibração"],
+    "keywords": ["temperatura ideal", "torre de temperatura", "volumetric flow", "silk fosco", "brilho", "mm3/s", "chuveiro"]
+  },
+  "tiktok_7655782820396256533": {
+    "day": 225,
+    "title": "Porta-foto de Dia dos Namorados por menos de R$ 20",
+    "summary": "Um letreiro porta-foto multipartes com encaixes, feito só no fatiador, sem Fusion 360 ou Blender. Custa pouco para produzir e tem alto valor percebido.",
+    "category": "Personalização no fatiador",
+    "tags": ["porta-foto", "Dia dos Namorados", "letreiro", "presente"],
+    "keywords": ["dia dos namorados", "porta retrato", "presente", "letreiro multipartes", "baixo custo", "vender", "curso"]
+  },
+  "tiktok_7655783066417319188": {
+    "title": "Chaveiro ambigrama de coração com nome",
+    "summary": "Converta a imagem de um coração em SVG, escale para 20 mm e gire 90°. Crie o nome com a ferramenta de texto (letras unidas), deixe nas mesmas dimensões, faça a interseção booleana e adicione um toroide como parte negativa para o furo.",
+    "category": "Personalização no fatiador",
+    "tags": ["ambigrama", "chaveiro", "operação booleana", "SVG"],
+    "keywords": ["ambigram", "chaveiro coracao", "intersecao", "boolean intersection", "nome", "dia dos namorados", "toro", "furo"]
+  },
+  "tiktok_7658033323188702484": {
+    "title": "Usar o preenchimento como acabamento",
+    "summary": "Zere as camadas de topo e de base para expor o preenchimento e brinque com a densidade e o padrão. O resultado é um acabamento decorativo diferente em letreiros.",
+    "category": "Acabamento e qualidade",
+    "tags": ["preenchimento", "decorativo", "letreiro"],
+    "keywords": ["infill aparente", "sem topo", "top shell 0", "padrao de preenchimento", "decorativo", "honeycomb", "gyroid"]
+  },
+  "tiktok_7658033588105055508": {
+    "title": "3 dicas para pontes melhores",
+    "summary": "Velocidade de ponte menor, fluxo da ponte em 1,5 e ajuste manual da direção da ponte (180° em vez de automático) para a linha atravessar a menor distância entre os apoios.",
+    "category": "Calibração e configurações",
+    "tags": ["pontes", "bridge", "direção da ponte"],
+    "keywords": ["bridge direction", "direcao da ponte", "bridge flow", "bridge speed", "ponte caindo", "180 graus"]
+  },
+  "tiktok_7659892619656449300": {
+    "title": "Placa PEI sem aderência? Lave com detergente",
+    "summary": "Reforço da dica: o álcool isopropílico espalha a gordura. Se a primeira camada não gruda, lave a placa PEI com detergente neutro e água.",
+    "category": "Problemas e soluções",
+    "tags": ["placa PEI", "aderência", "limpeza"],
+    "keywords": ["pei suja", "nao gruda", "lavar placa", "detergente", "alcool isopropilico", "primeira camada"]
+  },
+  "tiktok_7659893429421346069": {
+    "title": "Chaveiro ambigrama de infinito com dois nomes",
+    "summary": "Símbolo do infinito em SVG (50 × 20 × 20 mm), dois nomes com letras unidas nas mesmas dimensões e girados em lados opostos, com uma plaquinha separando. Depois, corrigir a malha, interseção booleana, girar para imprimir e um toroide negativo para o furo.",
+    "category": "Personalização no fatiador",
+    "tags": ["ambigrama", "chaveiro", "operação booleana", "dois nomes"],
+    "keywords": ["ambigram", "infinito", "dois nomes", "casal", "boolean intersection", "chaveiro personalizado", "presente"]
+  }
+}

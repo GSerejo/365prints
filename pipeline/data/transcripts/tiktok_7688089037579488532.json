@@ -1,0 +1,142 @@
+{
+  "text": "A minha impressora tá ligada na estação de energia da WT. Eu vou tirar a estação da tomada e simular uma queda de energia. E como vocês podem observar, ela nem percebeu. Bem-vindo ao dia 259. Isso é uma estação de energia, tipo um no-brain. As impressoras vivem plugadas nela. Quando a energia acaba, ela nem pisca. Aqui, por exemplo, ela tá fora da tomada e fornecendo energia pra uma Snapmaker e uma H2C. O modelo ideal para você depende desses dois números. O primeiro é a potência instantânea. Minha H2C e minha Snap estão imprimindo e estão consumindo cerca de 400 watts. Até aqui tudo bem, pois ela aguenta 2.000 watts. E o segundo número é o que conta. Com ele calculamos a autonomia da estação. Uma A1, por exemplo, depois de ligada e funcionando, consome aproximadamente 100 watts. E por que eu sei disso? Porque eu tenho wattímetros digitais medindo todas as impressoras. E só para não esquecer, essas medidas são com PLA. Por exemplo, esquece a Snapmaker, eu tenho duas a um que consomem cerca de 200 watts juntas. Essa estação aguenta até 2.000 watts, então tá ok. Agora, qual é a autonomia dessas duas a um ligadas? 1.024, vamos arredondar para 1.000, dividido por 200. E esse valor é igual a 5 horas, portanto a estação numa queda de energia vai aguentar as duas a um em funcionamento por 5 horas. Se for 4 a um, serão 2 horas e meia para cada máquina. Talvez você não precise de tudo isso. Uma versão com capacidade de 300 watts hora aguentaria 3 a 1 por cerca de 1 hora a cada. E isso é suficiente para aguentar um pico de energia. Ela conta ainda com outras saídas, como USB-C e USB para carregar celular. E ainda é portátil para levar para qualquer lugar. Se você quiser saber mais dos modelos disponíveis ou até comprar alguma, escreve energia nos comentários que eu te mando um link do site oficial da Blut. E pra ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.4,
+      "text": "A minha impressora tá ligada na estação de energia da WT. Eu vou tirar a estação da tomada e simular uma queda de energia."
+    },
+    {
+      "start": 8.7,
+      "end": 17.1,
+      "text": "E como vocês podem observar, ela nem percebeu. Bem-vindo ao dia 259. Isso é uma estação de energia, tipo um no-brain."
+    },
+    {
+      "start": 17.2,
+      "end": 26.9,
+      "text": "As impressoras vivem plugadas nela. Quando a energia acaba, ela nem pisca. Aqui, por exemplo, ela tá fora da tomada e fornecendo energia pra uma Snapmaker e uma H2C."
+    },
+    {
+      "start": 26.9,
+      "end": 29.7,
+      "text": "O modelo ideal para você depende desses dois números."
+    },
+    {
+      "start": 29.8,
+      "end": 31.7,
+      "text": "O primeiro é a potência instantânea."
+    },
+    {
+      "start": 31.7,
+      "end": 36.2,
+      "text": "Minha H2C e minha Snap estão imprimindo e estão consumindo cerca de 400 watts."
+    },
+    {
+      "start": 36.4,
+      "end": 39.0,
+      "text": "Até aqui tudo bem, pois ela aguenta 2.000 watts."
+    },
+    {
+      "start": 39.1,
+      "end": 40.7,
+      "text": "E o segundo número é o que conta."
+    },
+    {
+      "start": 40.9,
+      "end": 43.2,
+      "text": "Com ele calculamos a autonomia da estação."
+    },
+    {
+      "start": 43.3,
+      "end": 48.6,
+      "text": "Uma A1, por exemplo, depois de ligada e funcionando, consome aproximadamente 100 watts."
+    },
+    {
+      "start": 48.7,
+      "end": 49.5,
+      "text": "E por que eu sei disso?"
+    },
+    {
+      "start": 49.6,
+      "end": 53.2,
+      "text": "Porque eu tenho wattímetros digitais medindo todas as impressoras."
+    },
+    {
+      "start": 53.3,
+      "end": 56.3,
+      "text": "E só para não esquecer, essas medidas são com PLA."
+    },
+    {
+      "start": 56.3,
+      "end": 62.6,
+      "text": "Por exemplo, esquece a Snapmaker, eu tenho duas a um que consomem cerca de 200 watts juntas."
+    },
+    {
+      "start": 62.7,
+      "end": 65.5,
+      "text": "Essa estação aguenta até 2.000 watts, então tá ok."
+    },
+    {
+      "start": 65.7,
+      "end": 68.4,
+      "text": "Agora, qual é a autonomia dessas duas a um ligadas?"
+    },
+    {
+      "start": 68.5,
+      "end": 71.9,
+      "text": "1.024, vamos arredondar para 1.000, dividido por 200."
+    },
+    {
+      "start": 72.3,
+      "end": 80.7,
+      "text": "E esse valor é igual a 5 horas, portanto a estação numa queda de energia vai aguentar as duas a um em funcionamento por 5 horas."
+    },
+    {
+      "start": 80.8,
+      "end": 84.7,
+      "text": "Se for 4 a um, serão 2 horas e meia para cada máquina."
+    },
+    {
+      "start": 84.7,
+      "end": 86.8,
+      "text": "Talvez você não precise de tudo isso."
+    },
+    {
+      "start": 86.9,
+      "end": 93.4,
+      "text": "Uma versão com capacidade de 300 watts hora aguentaria 3 a 1 por cerca de 1 hora a cada."
+    },
+    {
+      "start": 93.5,
+      "end": 96.2,
+      "text": "E isso é suficiente para aguentar um pico de energia."
+    },
+    {
+      "start": 96.4,
+      "end": 101.0,
+      "text": "Ela conta ainda com outras saídas, como USB-C e USB para carregar celular."
+    },
+    {
+      "start": 101.1,
+      "end": 103.5,
+      "text": "E ainda é portátil para levar para qualquer lugar."
+    },
+    {
+      "start": 103.5,
+      "end": 107.5,
+      "text": "Se você quiser saber mais dos modelos disponíveis ou até comprar alguma,"
+    },
+    {
+      "start": 107.6,
+      "end": 112.1,
+      "text": "escreve energia nos comentários que eu te mando um link do site oficial da Blut."
+    },
+    {
+      "start": 112.1,
+      "end": 115.3,
+      "text": "E pra ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 115.6,
+  "model": "large-v3-turbo"
+}

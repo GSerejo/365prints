@@ -1,0 +1,42 @@
+{
+  "text": "Eu criei uma cor nova misturando dois filamentos. Bem-vindo ao dia 194. A mistura de bege com azul criou um tom diferente. E pra fazer isso você vai precisar deste modelo que imprime um novo filamento intercalando as cores em camadas. Então depois de carregado é só imprimir. É um trabalho extra mais útil pra criar aquela cor que é difícil de encontrar. E se vocês gostaram dessa dica me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Eu criei uma cor nova misturando dois filamentos."
+    },
+    {
+      "start": 3.1,
+      "end": 4.9,
+      "text": "Bem-vindo ao dia 194."
+    },
+    {
+      "start": 5.2,
+      "end": 8.2,
+      "text": "A mistura de bege com azul criou um tom diferente."
+    },
+    {
+      "start": 8.2,
+      "end": 14.0,
+      "text": "E pra fazer isso você vai precisar deste modelo que imprime um novo filamento intercalando as cores em camadas."
+    },
+    {
+      "start": 14.1,
+      "end": 17.1,
+      "text": "Então depois de carregado é só imprimir."
+    },
+    {
+      "start": 17.2,
+      "end": 20.9,
+      "text": "É um trabalho extra mais útil pra criar aquela cor que é difícil de encontrar."
+    },
+    {
+      "start": 21.1,
+      "end": 24.7,
+      "text": "E se vocês gostaram dessa dica me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 24.9,
+  "model": "large-v3-turbo"
+}

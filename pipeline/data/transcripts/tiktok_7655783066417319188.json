@@ -1,0 +1,127 @@
+{
+  "text": "Como fazer esses chaveiros personalizados direto no fatiador? Bem-vindo ao dia 226 e esse é um ambigrama. No Google buscamos pela imagem que queremos utilizar. É só salvá-la no seu computador e depois utilizar esse site aqui para converter em SVG. Agora no fatiador, botão direito, adicionar primitivo e SVG. Agora é só escolher o arquivo que convertemos. Com a ferramenta escala eu redimensionei para 20mm de altura. E para facilitar o meu trabalho, eu desmarquei a escala uniforme e arredondei as outras dimensões. Agora com a ferramenta de rotação, eu vou rotacionar em 90 graus em X. Com a ferramenta texto, vamos personalizar com o nome. Trocamos a fonte e agora vamos aumentar um pouco o tamanho. Agora um passo importante, vamos reduzir a lacuna para deixar as letras juntas. Utilizando a ferramenta escala, vamos usar as mesmas dimensões do coração na palavra escrita. Prontinho, agora é só centralizar os dois objetos. Botão direito e centro no coração e depois na palavra Mônica Agora vamos selecionar os dois objetos E com a ferramenta malha boleana vamos escolher intersecção O resultado tá aí, agora é só adicionar o furo para colocar o chaveiro Botão direito na peça, adicionar parte negativa e vamos escolher o touro Agora é só redimensionar e posicionar o buraco onde a gente quer Projeto concluído e não se esqueça de ativar os suportes para fazer a impressão Essa é uma ótima lembrança para o dia dos namorados Esse é o PLA Mate Bordô da Multifila e o kit de chaveiros você encontra lá também. E não esqueça de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Como fazer esses chaveiros personalizados direto no fatiador?"
+    },
+    {
+      "start": 4.4,
+      "end": 8.0,
+      "text": "Bem-vindo ao dia 226 e esse é um ambigrama."
+    },
+    {
+      "start": 8.2,
+      "end": 10.9,
+      "text": "No Google buscamos pela imagem que queremos utilizar."
+    },
+    {
+      "start": 11.1,
+      "end": 16.6,
+      "text": "É só salvá-la no seu computador e depois utilizar esse site aqui para converter em SVG."
+    },
+    {
+      "start": 16.8,
+      "end": 21.0,
+      "text": "Agora no fatiador, botão direito, adicionar primitivo e SVG."
+    },
+    {
+      "start": 21.1,
+      "end": 23.1,
+      "text": "Agora é só escolher o arquivo que convertemos."
+    },
+    {
+      "start": 23.2,
+      "end": 26.8,
+      "text": "Com a ferramenta escala eu redimensionei para 20mm de altura."
+    },
+    {
+      "start": 26.8,
+      "end": 31.8,
+      "text": "E para facilitar o meu trabalho, eu desmarquei a escala uniforme e arredondei as outras dimensões."
+    },
+    {
+      "start": 31.9,
+      "end": 35.8,
+      "text": "Agora com a ferramenta de rotação, eu vou rotacionar em 90 graus em X."
+    },
+    {
+      "start": 35.9,
+      "end": 38.7,
+      "text": "Com a ferramenta texto, vamos personalizar com o nome."
+    },
+    {
+      "start": 38.7,
+      "end": 41.7,
+      "text": "Trocamos a fonte e agora vamos aumentar um pouco o tamanho."
+    },
+    {
+      "start": 41.8,
+      "end": 46.0,
+      "text": "Agora um passo importante, vamos reduzir a lacuna para deixar as letras juntas."
+    },
+    {
+      "start": 46.1,
+      "end": 51.6,
+      "text": "Utilizando a ferramenta escala, vamos usar as mesmas dimensões do coração na palavra escrita."
+    },
+    {
+      "start": 52.0,
+      "end": 54.7,
+      "text": "Prontinho, agora é só centralizar os dois objetos."
+    },
+    {
+      "start": 54.7,
+      "end": 58.5,
+      "text": "Botão direito e centro no coração e depois na palavra Mônica"
+    },
+    {
+      "start": 58.5,
+      "end": 62.5,
+      "text": "Agora vamos selecionar os dois objetos"
+    },
+    {
+      "start": 62.5,
+      "end": 66.3,
+      "text": "E com a ferramenta malha boleana vamos escolher intersecção"
+    },
+    {
+      "start": 66.3,
+      "end": 70.1,
+      "text": "O resultado tá aí, agora é só adicionar o furo para colocar o chaveiro"
+    },
+    {
+      "start": 70.1,
+      "end": 74.0,
+      "text": "Botão direito na peça, adicionar parte negativa e vamos escolher o touro"
+    },
+    {
+      "start": 74.0,
+      "end": 77.2,
+      "text": "Agora é só redimensionar e posicionar o buraco onde a gente quer"
+    },
+    {
+      "start": 77.2,
+      "end": 81.3,
+      "text": "Projeto concluído e não se esqueça de ativar os suportes para fazer a impressão"
+    },
+    {
+      "start": 81.3,
+      "end": 83.7,
+      "text": "Essa é uma ótima lembrança para o dia dos namorados"
+    },
+    {
+      "start": 83.7,
+      "end": 88.8,
+      "text": "Esse é o PLA Mate Bordô da Multifila e o kit de chaveiros você encontra lá também."
+    },
+    {
+      "start": 88.9,
+      "end": 91.8,
+      "text": "E não esqueça de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 92.1,
+  "model": "large-v3-turbo"
+}

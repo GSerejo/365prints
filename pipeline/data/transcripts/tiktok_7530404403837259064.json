@@ -1,0 +1,107 @@
+{
+  "text": "Comprei minha impressora 3D. E agora, quais os próximos passos? Bem-vindo ao dia 50. E eu vou te mostrar agora os passos que eu fiz para me aprimorar nas impressões 3D. O primeiro passo é aprender a mexer no seu fatiador, que no meu caso é o Bambu Studio. O fatiador é responsável por transformar o seu modelo num código, o G-Code, que a impressora consiga interpretar. Mas para isso existem diversas variáveis. Não se desespere, porque lá no seu fatiador ou slicer tem presets prontos para impressão. Mas nem sempre o genérico ou padrão é a melhor configuração. Então como nos aperfeiçoar? Todas as marcas apresentam uma central de ajuda, que no meu caso é o Wiki da Bambu. Com a barra de busca a gente pode procurar soluções para todos os nossos problemas e configurações do fatiador. Mas se você achar complicado, você pode utilizar o chat GPT para te ajudar. Eu sempre peço pra ele utilizar a referência oficial. E é claro que sempre tem o YouTube com soluções gratuitas. E você não precisa saber modelar pra começar suas impressões. As marcas possuem bibliotecas com modelos gratuitos e com perfis prontos de impressão. Pra você só imprimir. E quando a qualidade for um problema, tá na hora de calibrar seu filamento. E você pode utilizar todas as opções anteriores pra te ajudar. Por fim, não se esqueça de me seguir. Eu tô fazendo uma série completa com 365 vídeos com dicas e tutoriais de impressão 3D.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Comprei minha impressora 3D. E agora, quais os próximos passos?"
+    },
+    {
+      "start": 4.5,
+      "end": 12.1,
+      "text": "Bem-vindo ao dia 50. E eu vou te mostrar agora os passos que eu fiz para me aprimorar nas impressões 3D."
+    },
+    {
+      "start": 12.3,
+      "end": 17.6,
+      "text": "O primeiro passo é aprender a mexer no seu fatiador, que no meu caso é o Bambu Studio."
+    },
+    {
+      "start": 17.8,
+      "end": 25.2,
+      "text": "O fatiador é responsável por transformar o seu modelo num código, o G-Code, que a impressora consiga interpretar."
+    },
+    {
+      "start": 25.2,
+      "end": 28.9,
+      "text": "Mas para isso existem diversas variáveis."
+    },
+    {
+      "start": 28.9,
+      "end": 35.6,
+      "text": "Não se desespere, porque lá no seu fatiador ou slicer tem presets prontos para impressão."
+    },
+    {
+      "start": 35.7,
+      "end": 40.0,
+      "text": "Mas nem sempre o genérico ou padrão é a melhor configuração."
+    },
+    {
+      "start": 40.1,
+      "end": 42.2,
+      "text": "Então como nos aperfeiçoar?"
+    },
+    {
+      "start": 42.3,
+      "end": 47.1,
+      "text": "Todas as marcas apresentam uma central de ajuda, que no meu caso é o Wiki da Bambu."
+    },
+    {
+      "start": 47.1,
+      "end": 53.2,
+      "text": "Com a barra de busca a gente pode procurar soluções para todos os nossos problemas e configurações do fatiador."
+    },
+    {
+      "start": 53.3,
+      "end": 57.5,
+      "text": "Mas se você achar complicado, você pode utilizar o chat GPT para te ajudar."
+    },
+    {
+      "start": 57.5,
+      "end": 61.1,
+      "text": "Eu sempre peço pra ele utilizar a referência oficial."
+    },
+    {
+      "start": 61.2,
+      "end": 64.5,
+      "text": "E é claro que sempre tem o YouTube com soluções gratuitas."
+    },
+    {
+      "start": 64.9,
+      "end": 69.0,
+      "text": "E você não precisa saber modelar pra começar suas impressões."
+    },
+    {
+      "start": 69.3,
+      "end": 74.3,
+      "text": "As marcas possuem bibliotecas com modelos gratuitos e com perfis prontos de impressão."
+    },
+    {
+      "start": 74.6,
+      "end": 75.9,
+      "text": "Pra você só imprimir."
+    },
+    {
+      "start": 76.3,
+      "end": 80.9,
+      "text": "E quando a qualidade for um problema, tá na hora de calibrar seu filamento."
+    },
+    {
+      "start": 81.0,
+      "end": 84.5,
+      "text": "E você pode utilizar todas as opções anteriores pra te ajudar."
+    },
+    {
+      "start": 84.8,
+      "end": 86.8,
+      "text": "Por fim, não se esqueça de me seguir."
+    },
+    {
+      "start": 86.8,
+      "end": 93.6,
+      "text": "Eu tô fazendo uma série completa com 365 vídeos com dicas e tutoriais de impressão 3D."
+    }
+  ],
+  "duration": 94.9,
+  "model": "large-v3-turbo"
+}

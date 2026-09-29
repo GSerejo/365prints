@@ -1,0 +1,179 @@
+{
+  "tiktok_7555627800691035404": {
+    "title": "Quadro de foto em relevo com HueForge (pintura de filamentos)",
+    "summary": "O HueForge (licença de US$ 12, com vários projetos prontos no MakerWorld) transforma uma foto em quadro em relevo. A translucidez do filamento mistura as cores camada a camada, e basta pausar para trocar a cor, sem precisar de impressora multicolor.",
+    "category": "Personalização no fatiador",
+    "tags": ["HueForge", "quadro", "foto", "troca de cor por camada"],
+    "keywords": ["hueforge", "rio forge", "filament painting", "pintura de filamento", "lithophane colorido", "foto em 3d", "quadro personalizado", "senna"]
+  },
+  "tiktok_7555999137162939659": {
+    "title": "Primeira camada não gruda? Lave a placa PEI com detergente",
+    "summary": "O óleo dos dedos contamina a placa PEI, e o álcool isopropílico só espalha a gordura. Ele mostra o teste de primeira camada falhando nas marcas de dedo e a melhora depois de lavar com detergente neutro e água morna.",
+    "category": "Problemas e soluções",
+    "tags": ["primeira camada", "placa PEI", "aderência", "limpeza"],
+    "keywords": ["nao gruda", "primeira camada soltando", "lavar placa", "detergente", "alcool isopropilico", "gordura", "oleo dos dedos", "pei suja", "adhesion"]
+  },
+  "tiktok_7556369030412569868": {
+    "title": "Álcool isopropílico ou detergente: teste extremo na placa PEI",
+    "summary": "Com óleo espalhado de propósito na placa, nem papel toalha nem pano com álcool isopropílico resolveram. Só água e detergente devolveram a aderência. O álcool serve entre impressões com a placa já limpa.",
+    "category": "Problemas e soluções",
+    "tags": ["placa PEI", "limpeza", "álcool isopropílico", "aderência"],
+    "keywords": ["ipa", "alcool", "detergente", "lavar placa pei", "teste de limpeza", "gordura na mesa", "primeira camada"]
+  },
+  "tiktok_7557459279997930763": {
+    "day": 100,
+    "title": "Primeira camada perfeita: checklist completo",
+    "summary": "Apertar os parafusos do hotend, checar erros no HMS, lavar a placa, tirar filamento grudado no bico e refazer o nivelamento (com a placa que você vai usar). No fatiador: primeira camada mais lenta e a placa certa selecionada, porque a texturizada ajusta o Z-offset.",
+    "category": "Problemas e soluções",
+    "tags": ["primeira camada", "nivelamento", "aderência", "calibração"],
+    "keywords": ["first layer", "nivelamento automatico", "bed leveling", "z offset", "placa texturizada", "velocidade da primeira camada", "hms", "teste de primeira camada"]
+  },
+  "tiktok_7557459871042489612": {
+    "title": "PLA-CF (fibra de carbono): 3 motivos para usar",
+    "summary": "O PLA com fibra de carbono tem acabamento fosco que disfarça as camadas, peças mais rígidas e é fácil de imprimir, com menos warping. Como é abrasivo, exige bico de aço endurecido (0.6 ou 0.8 ajudam a evitar entupimento).",
+    "category": "Filamentos",
+    "tags": ["PLA-CF", "fibra de carbono", "aço endurecido"],
+    "keywords": ["pla cf", "carbon fiber", "fibra de carbono", "filamento abrasivo", "bico endurecido", "hardened steel", "rigidez", "acabamento fosco"]
+  },
+  "tiktok_7558251081797602616": {
+    "title": "Trocar a cor por camada no Bambu Studio (com AMS)",
+    "summary": "Sem usar a pintura: na barra de camadas, clique com o botão direito na camada onde começa o relevo e escolha a cor do filamento. O AMS troca sozinho. Útil para chaveiros e quadros HueForge.",
+    "category": "Multicor e purga",
+    "tags": ["troca de cor por camada", "AMS", "Bambu Studio"],
+    "keywords": ["color change", "mudar cor na camada", "trocar filamento na camada", "layer color change", "hueforge", "chaveiro"]
+  },
+  "tiktok_7558591549815196939": {
+    "title": "Trocar a cor por camada sem AMS (pausa)",
+    "summary": "Adicione uma pausa na camada da troca. Quando a impressora parar, descarregue o filamento pelo painel, coloque o novo, purgue até sair a cor nova e retome.",
+    "category": "Multicor e purga",
+    "tags": ["pausa", "troca de cor", "sem AMS", "multicolor"],
+    "keywords": ["add pause", "pausar impressao", "trocar filamento manual", "duas cores sem ams", "m600", "filament change"]
+  },
+  "tiktok_7558963930459163916": {
+    "title": "Placa com QR Code do Pix personalizada",
+    "summary": "Um modelo paramétrico do MakerWorld gera o QR Code do Pix automaticamente e aceita seu logo (em SVG). É só gerar, testar o código na tela e baixar o 3MF. Sem AMS, troque a cor com uma pausa.",
+    "category": "Personalização no fatiador",
+    "tags": ["QR Code", "Pix", "MakerWorld", "comércio"],
+    "keywords": ["pix", "qrcode pix", "placa pix", "parametric model maker", "logo svg", "loja", "pagamento"]
+  },
+  "tiktok_7559335019206970635": {
+    "title": "Troca de cor na hora errada em placas e chaveiros",
+    "summary": "A cor do relevo invadia as camadas internas e gerava trocas extras. Ele resolve reduzindo a penetração da pintura, aplicando uma parede só na última camada de topo e ativando interface shells, o que deixa só uma troca de cor e gasta menos tempo e filamento.",
+    "category": "Multicor e purga",
+    "tags": ["troca de cor", "interface shells", "camada de topo", "AMS"],
+    "keywords": ["interface shells", "only one wall on top surfaces", "penetracao da pintura", "trocas extras", "purga desnecessaria", "chaveiro", "qr code"]
+  },
+  "tiktok_7560521637775412492": {
+    "day": 106,
+    "title": "Armário secador de filamentos inteligente por R$ 300",
+    "summary": "Um aquecedor PTC de 200 W com entrada de ar por baixo e saída por cima (efeito chaminé), potes de sílica e um sensor Zigbee que liga o aquecedor quando a umidade sobe. A umidade caiu de 63–67% para 36–38%, e a meta é chegar abaixo de 20%.",
+    "category": "Filamentos",
+    "tags": ["umidade", "secador", "automação", "armazenamento"],
+    "keywords": ["dessecador", "dry box", "armario de filamento", "aquecedor ptc", "zigbee", "smart life", "tuya", "secar filamento", "umidade relativa", "nylon"]
+  },
+  "tiktok_7561156380359462200": {
+    "title": "Curso gratuito oficial da Bambu Lab (Bambu Academy)",
+    "summary": "O Bambu Studio agora tem um botão para a Bambu Academy, com cursos gratuitos de cada impressora, do Bambu Studio e do Bambu Handy, em três níveis, com provas e certificado. Troque o idioma para inglês nas preferências e traduza a página pelo Chrome.",
+    "category": "Calibração e configurações",
+    "tags": ["curso gratuito", "Bambu Academy", "iniciantes", "Bambu Studio"],
+    "keywords": ["curso", "certificado", "aprender impressao 3d", "bambu academy", "tutorial oficial", "gratis"]
+  },
+  "tiktok_7561662971856932152": {
+    "title": "Ambigrama personalizado em 30 segundos",
+    "summary": "No MakerWorld, procure \"Ambigrama\", clique em personalizar, escreva os dois textos e gere. Depois é só baixar e, no fatiador, trocar a cor da base por camada.",
+    "category": "Personalização no fatiador",
+    "tags": ["ambigrama", "MakerWorld", "letreiro", "presente"],
+    "keywords": ["ambigram", "letreiro em perspectiva", "dois nomes", "parametric", "presente personalizado", "namorados"]
+  },
+  "tiktok_7562290268796357895": {
+    "title": "Menos degraus no topo sem aumentar o tempo",
+    "summary": "Na abóbora, desativar a opção de superfície de topo na aba qualidade e usar o padrão de superfície superior concêntrico reduziu muito os degraus, com o mesmo tempo. A altura de camada variável melhora ainda mais, mas custa horas.",
+    "category": "Acabamento e qualidade",
+    "tags": ["camada de topo", "concêntrico", "linhas de camada"],
+    "keywords": ["top surface pattern", "concentrico", "concentric", "degraus", "linhas de impressao", "superficie curva", "sem aumentar tempo"]
+  },
+  "tiktok_7563434486499757330": {
+    "title": "6 upgrades que ele fez na Bambu Lab P1S",
+    "summary": "Extrusora e bico de aço endurecido (para filamentos abrasivos), limpador de bico da BIQU no estilo da A1, suporte de carretel externo com adaptador PTFE 4 em 1, AMS HT e Bento Box com filtro HEPA e carvão para ABS e ASA.",
+    "category": "Manutenção e upgrades",
+    "tags": ["Bambu Lab P1S", "upgrade", "aço endurecido", "AMS HT"],
+    "keywords": ["upgrades p1s", "extrusora endurecida", "nozzle wiper", "limpador de bico", "ams ht", "bento box", "filtro hepa", "vocs", "abs", "asa"]
+  },
+  "tiktok_7563791173500947730": {
+    "title": "Combinação de preenchimento: 24 horas a menos",
+    "summary": "Com camada de 0,12 mm, a peça levaria 2 dias. Ativando a combinação de preenchimento (aba força), o infill é impresso em camadas mais grossas que as paredes, e isso cortou 24 horas. Confira a pré-visualização, porque há relatos de falhas com giroide.",
+    "category": "Calibração e configurações",
+    "tags": ["preenchimento", "infill combination", "tempo de impressão"],
+    "keywords": ["infill combination", "combinar preenchimento", "imprimir mais rapido", "reduzir tempo", "camada fina", "gyroid"]
+  },
+  "tiktok_7564526641880255762": {
+    "title": "Bico da A1 batendo e rasgando a placa (eixo Z caindo)",
+    "summary": "No fim da impressão, o G-code desliga os motores e o cabeçote pesado desce pelo eixo Z. Na impressão seguinte, o bico bate na placa. A solução foi editar o G-code final para não desligar o motor Z (M18 sem o Z) e recalibrar.",
+    "category": "Problemas e soluções",
+    "tags": ["Bambu Lab A1", "G-code", "eixo Z", "placa riscada"],
+    "keywords": ["bico batendo na mesa", "rasgou a placa", "m18", "end gcode", "eixo z caindo", "cabecote desceu", "z motor", "perdeu referencia"]
+  },
+  "tiktok_7564921461643824392": {
+    "title": "Texturas com SVG direto no fatiador",
+    "summary": "Baixe um padrão preto e branco, converta para SVG, adicione à peça pelo menu de peça SVG, use a superfície para delimitar e corte para ficar em baixo relevo de 0,5 mm (sem suportes). Também dá para adicionar um logo em outro SVG.",
+    "category": "Personalização no fatiador",
+    "tags": ["textura", "SVG", "baixo relevo", "Bambu Studio"],
+    "keywords": ["texture", "svg", "padrao geometrico", "baixo relevo", "emboss", "fuzzy skin alternativa", "logo", "personalizacao"]
+  },
+  "tiktok_7565665141535165704": {
+    "title": "Letreiro com textura na camada de topo",
+    "summary": "Crie o texto no fatiador com as letras unidas (espaçamento negativo), adicione um SVG de textura por cima, redimensione e use a superfície para delimitar. A textura fica em alto relevo no topo.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "textura", "SVG", "ferramenta de texto"],
+    "keywords": ["texto 3d", "letreiro texturizado", "svg", "letras unidas", "espacamento de texto", "decoracao"]
+  },
+  "tiktok_7566028680388939015": {
+    "title": "Canetas acrílicas para pintar detalhes das impressões",
+    "summary": "Testando canetas de tinta acrílica numa mãozinha articulada de Halloween, para pintar detalhes sem purga de multicor. O branco sobre bege precisou de duas demãos, e o preto e o vermelho cobriram bem.",
+    "category": "Acabamento e qualidade",
+    "tags": ["pintura", "canetas acrílicas", "pós-processamento", "Halloween"],
+    "keywords": ["posca", "caneta acrilica", "pintar pla", "pintura manual", "detalhes", "sem purga", "halloween"]
+  },
+  "tiktok_7566383452166049031": {
+    "title": "Abóbora de Halloween: ampliar e abrir passagem para o fio",
+    "summary": "Uma abóbora do MakerWorld adaptada para um LED com fio: ele mede o furo com a ferramenta de medida, amplia com escala e cria um cilindro como parte negativa para a passagem do fio.",
+    "category": "Personalização no fatiador",
+    "tags": ["parte negativa", "escala", "Halloween", "luminária"],
+    "keywords": ["abobora", "halloween", "modificador", "negative part", "furo para fio", "medir", "ampliar modelo", "led"]
+  },
+  "tiktok_7566755775402560776": {
+    "title": "Impressora \"pulando camadas\"? Conserte o STL",
+    "summary": "As falhas eram do arquivo, não da impressora: um STL com geometria defeituosa faz o fatiador ignorar camadas. Clique com o botão direito e use \"Corrigir modelo\", e sempre confira o fatiamento.",
+    "category": "Problemas e soluções",
+    "tags": ["STL defeituoso", "corrigir modelo", "camadas faltando"],
+    "keywords": ["pulando camadas", "camada faltando", "missing layers", "fix model", "reparar stl", "malha quebrada", "non manifold", "buraco na peca"]
+  },
+  "tiktok_7567508837461282055": {
+    "title": "Tirar a mancha branca de super cola do PLA",
+    "summary": "Soprador térmico e acetona não resolveram. O maçarico (chama azul, passada rápida) minimizou a mancha branca da cola, mas em excesso deixa o PLA brilhante ou até derrete.",
+    "category": "Acabamento e qualidade",
+    "tags": ["super cola", "pós-processamento", "maçarico"],
+    "keywords": ["mancha branca", "cola branca", "super bonder", "cianoacrilato", "blooming", "macarico", "acetona", "colar pecas"]
+  },
+  "tiktok_7568610024235322642": {
+    "title": "Precisão dimensional: fator de encolhimento",
+    "summary": "Mede o cubo de teste, calcula o fator de encolhimento (medido ÷ projetado, em %) e coloca no perfil do filamento para o fatiador compensar. Filamentos com fibra, como o PLA-CF, são mais estáveis, e o plano XY é o mais preciso.",
+    "category": "Calibração e configurações",
+    "tags": ["precisão dimensional", "encolhimento", "calibração", "paquímetro"],
+    "keywords": ["shrinkage", "fator de encolhimento", "medida errada", "peca menor", "cubo de calibracao", "dimensional accuracy", "paquimetro"]
+  },
+  "tiktok_7569023364350758151": {
+    "title": "O encaixe perfeito: compensação de furo e de contorno",
+    "summary": "Para peças multipartes que não encaixam, selecione só a peça que entra e ajuste a compensação de furo (+) e de contorno (−) no plano XY. Com 0,15 mm ficou folgado. Com 0,10 mm, justo.",
+    "category": "Calibração e configurações",
+    "tags": ["tolerância", "encaixe", "compensação XY", "multipartes"],
+    "keywords": ["xy hole compensation", "xy contour compensation", "folga", "nao encaixa", "encaixe justo", "tolerancia", "chaveiro multipartes", "letreiro"]
+  },
+  "tiktok_7569583834602229000": {
+    "title": "Mais preenchimento ou mais paredes: qual é mais resistente?",
+    "summary": "Em cilindros de 2,5 cm sob martelada, 30% de preenchimento resistiu melhor que 4 paredes (compressão e impacto). Em varetas finas de 1 cm dobradas, 4 paredes venceram (flexão). Priorize o infill para impacto e as paredes para peças finas.",
+    "category": "Calibração e configurações",
+    "tags": ["resistência", "preenchimento", "paredes", "teste"],
+    "keywords": ["infill vs paredes", "walls vs infill", "peca resistente", "forte", "impacto", "flexao", "compressao", "strength test"]
+  }
+}

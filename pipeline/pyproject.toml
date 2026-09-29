@@ -1,0 +1,12 @@
+[project]
+name = "pipeline-365prints"
+version = "0.1.0"
+description = "Coleta, transcrição e catalogação dos vídeos do @unipedia3d"
+requires-python = ">=3.12"
+dependencies = [
+    "faster-whisper>=1.2.1",
+    "yt-dlp[default,curl-cffi]>=2026.8.19",
+    "instaloader>=4.15.3",
+    "pillow>=11",
+    "requests>=2.32",
+]

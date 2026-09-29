@@ -1,0 +1,32 @@
+{
+  "text": "Fiz esse letreiro personalizado e imprimi na minha impressora 3D. Bem-vindo ao dia 241 e eu fiz esse litofane personalizado sem nenhum daqueles softwares pesados de modelagem. Tudo aqui é multi-parts e foi pensado para você não precisar de uma impressora colorida. Essa é a décima aula do meu curso de letreiros, onde eu mostro o passo a passo completo do arquivo, a impressão 3D e até a instalação do LED. E se você quiser aprender esse e muito mais, é só digitar luz nos comentários que eu te mando o link.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Fiz esse letreiro personalizado e imprimi na minha impressora 3D."
+    },
+    {
+      "start": 4.7,
+      "end": 12.5,
+      "text": "Bem-vindo ao dia 241 e eu fiz esse litofane personalizado sem nenhum daqueles softwares pesados de modelagem."
+    },
+    {
+      "start": 12.6,
+      "end": 17.4,
+      "text": "Tudo aqui é multi-parts e foi pensado para você não precisar de uma impressora colorida."
+    },
+    {
+      "start": 17.5,
+      "end": 25.4,
+      "text": "Essa é a décima aula do meu curso de letreiros, onde eu mostro o passo a passo completo do arquivo, a impressão 3D e até a instalação do LED."
+    },
+    {
+      "start": 25.4,
+      "end": 31.1,
+      "text": "E se você quiser aprender esse e muito mais, é só digitar luz nos comentários que eu te mando o link."
+    }
+  ],
+  "duration": 31.7,
+  "model": "large-v3-turbo"
+}

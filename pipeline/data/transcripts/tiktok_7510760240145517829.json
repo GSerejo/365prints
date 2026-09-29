@@ -1,0 +1,42 @@
+{
+  "text": "Bora organizar esses controles sempre espalhados pela casa? Dia 12, de 375 impressões 3D aqui em casa. Para essa impressão eu utilizei o PLA Fosco da Elego. Ela demorou cerca de 5 horas e foram quase 200 gramas de plástico. Olha essa qualidade de impressão. A gente não consegue ver as camadas impressas, parece tudo lisinho. E aí, gostaram?",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 3.4,
+      "text": "Bora organizar esses controles sempre espalhados pela casa?"
+    },
+    {
+      "start": 4.4,
+      "end": 8.9,
+      "text": "Dia 12, de 375 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.5,
+      "end": 15.7,
+      "text": "Para essa impressão eu utilizei o PLA Fosco da Elego."
+    },
+    {
+      "start": 15.7,
+      "end": 20.2,
+      "text": "Ela demorou cerca de 5 horas e foram quase 200 gramas de plástico."
+    },
+    {
+      "start": 20.6,
+      "end": 23.2,
+      "text": "Olha essa qualidade de impressão."
+    },
+    {
+      "start": 23.6,
+      "end": 27.8,
+      "text": "A gente não consegue ver as camadas impressas, parece tudo lisinho."
+    },
+    {
+      "start": 37.6,
+      "end": 38.8,
+      "text": "E aí, gostaram?"
+    }
+  ],
+  "duration": 41.9,
+  "model": "large-v3-turbo"
+}

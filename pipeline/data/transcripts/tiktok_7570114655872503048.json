@@ -1,0 +1,122 @@
+{
+  "text": "Onde baixar e como aplicar as texturas dentro do seu pateador. Bem-vindo ao dia 122. No Google procure como Hero Patterns e entre nesse primeiro site aqui. É gratuito e tem um montão de texturas disponíveis. Escolha o que mais agradar, troque as cores para preto e branco e faça o download. Abre a imagem no seu editor de imagem e eu estou usando o Canva. É bom ressaltar que o download vem em células e você precisa replicar para formar o padrão. Depois é só salvar em PNG com fundo transparente. Se você tiver o Canva pago, você pode até salvar em SVG e você não precisa da próxima etapa. Se você baixou em PNG, vamos converter agora para SVG utilizando esse site aqui. Agora é só upar a imagem que você salvou no seu editor de imagem e transformá-la em SVG. E depois baixar. Agora dentro do seu fatiador, botão direito, adicionar uma peça e SVG. Escolha a textura que convertemos e clique em abrir. Agora é só redimensionar a textura e reposicionar ela. Marque a opção use a superfície para limitar as bordas A profundidade eu estou utilizando 0,8mm e estou tendo bons resultados E eu deixo embaixo o relevo com a função cortar Depois de fatiado, esse é o resultado E pronto, agora é só imprimir Eu fiz esse vídeo em complemento ao dia 113 Porque achei aquele site com várias texturas disponíveis de forma gratuita Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Onde baixar e como aplicar as texturas dentro do seu pateador."
+    },
+    {
+      "start": 4.3,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 122."
+    },
+    {
+      "start": 6.5,
+      "end": 10.0,
+      "text": "No Google procure como Hero Patterns e entre nesse primeiro site aqui."
+    },
+    {
+      "start": 10.1,
+      "end": 13.1,
+      "text": "É gratuito e tem um montão de texturas disponíveis."
+    },
+    {
+      "start": 13.4,
+      "end": 17.4,
+      "text": "Escolha o que mais agradar, troque as cores para preto e branco e faça o download."
+    },
+    {
+      "start": 17.5,
+      "end": 20.5,
+      "text": "Abre a imagem no seu editor de imagem e eu estou usando o Canva."
+    },
+    {
+      "start": 20.6,
+      "end": 24.6,
+      "text": "É bom ressaltar que o download vem em células e você precisa replicar para formar o padrão."
+    },
+    {
+      "start": 24.9,
+      "end": 27.6,
+      "text": "Depois é só salvar em PNG com fundo transparente."
+    },
+    {
+      "start": 27.6,
+      "end": 32.2,
+      "text": "Se você tiver o Canva pago, você pode até salvar em SVG e você não precisa da próxima etapa."
+    },
+    {
+      "start": 32.3,
+      "end": 36.9,
+      "text": "Se você baixou em PNG, vamos converter agora para SVG utilizando esse site aqui."
+    },
+    {
+      "start": 37.2,
+      "end": 41.9,
+      "text": "Agora é só upar a imagem que você salvou no seu editor de imagem e transformá-la em SVG."
+    },
+    {
+      "start": 42.5,
+      "end": 43.3,
+      "text": "E depois baixar."
+    },
+    {
+      "start": 44.3,
+      "end": 48.4,
+      "text": "Agora dentro do seu fatiador, botão direito, adicionar uma peça e SVG."
+    },
+    {
+      "start": 48.6,
+      "end": 50.8,
+      "text": "Escolha a textura que convertemos e clique em abrir."
+    },
+    {
+      "start": 50.8,
+      "end": 54.0,
+      "text": "Agora é só redimensionar a textura e reposicionar ela."
+    },
+    {
+      "start": 54.0,
+      "end": 56.9,
+      "text": "Marque a opção use a superfície para limitar as bordas"
+    },
+    {
+      "start": 56.9,
+      "end": 61.3,
+      "text": "A profundidade eu estou utilizando 0,8mm e estou tendo bons resultados"
+    },
+    {
+      "start": 61.3,
+      "end": 63.5,
+      "text": "E eu deixo embaixo o relevo com a função cortar"
+    },
+    {
+      "start": 63.5,
+      "end": 65.7,
+      "text": "Depois de fatiado, esse é o resultado"
+    },
+    {
+      "start": 65.7,
+      "end": 67.5,
+      "text": "E pronto, agora é só imprimir"
+    },
+    {
+      "start": 67.5,
+      "end": 70.2,
+      "text": "Eu fiz esse vídeo em complemento ao dia 113"
+    },
+    {
+      "start": 70.2,
+      "end": 74.1,
+      "text": "Porque achei aquele site com várias texturas disponíveis de forma gratuita"
+    },
+    {
+      "start": 74.1,
+      "end": 77.6,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 78.0,
+  "model": "large-v3-turbo"
+}

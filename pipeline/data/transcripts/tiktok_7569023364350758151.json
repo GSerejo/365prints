@@ -1,0 +1,122 @@
+{
+  "text": "Você já tentou imprimir chaveiros ou letreiros multipartes e eles não encaixam de jeito nenhum? Bora resolver isso agora! Bem-vindo ao dia 120, eu vou te mostrar como resolve isso dentro do seu fatiador. Aqui estão as duas partes e há duas maneiras de solucionar esse problema. O primeiro é aumentar a cavidade do encaixe e o segundo é reduzir a parte que será encaixada. E é essa que a gente vai trabalhar hoje. E como vamos mexer apenas na peça amarela, vamos selecioná-la na aba Objetos. E em qualidade vamos trabalhar com a compensação de furo e com a compensação de contorno no plano XY. Nós precisamos reduzir as bordas ou perímetros para encaixar na peça de cima. E é isso que muita gente erra, nós também precisamos aumentar o buraco do A para conseguir encaixar. Esse buraco é tratado na compensação de furo, pois é um furo e nós vamos aumentar para um só para vocês verem a diferença. E como vocês podem observar, o valor positivo aumentou em 1mm o buraco do A. Mas é muito, e o primeiro teste a gente vai fazer com 0,15 milímetros. Agora precisamos diminuir as bordas, que é tratado na compensação de contorno. E vamos reduzi-la, por isso o valor negativo, em 0,15 milímetros também. Veja que já no fatiador você consegue ver a redução. Agora é só imprimir e testar. E no primeiro teste a gente já conseguiu encaixar. No entanto, a folga ficou muito grande e a peça sai fácil. Voltamos ao fatiador e mudamos para 0,10 milímetros, tanto a compensação de furo como a de contorno. E vamos aproveitar para tombar as duas peças na mesa para aproveitar o acabamento da placa PEI. Agora sim, chegamos no encaixe bem justo com essa tolerância de 0,10 milímetros. Ah, e para aprender a fazer chaveiros multipartes é só olhar o vídeo do G80. E para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "text": "Você já tentou imprimir chaveiros ou letreiros multipartes e eles não encaixam de jeito nenhum? Bora resolver isso agora!"
+    },
+    {
+      "start": 8.0,
+      "end": 12.7,
+      "text": "Bem-vindo ao dia 120, eu vou te mostrar como resolve isso dentro do seu fatiador."
+    },
+    {
+      "start": 13.0,
+      "end": 16.8,
+      "text": "Aqui estão as duas partes e há duas maneiras de solucionar esse problema."
+    },
+    {
+      "start": 16.9,
+      "end": 22.9,
+      "text": "O primeiro é aumentar a cavidade do encaixe e o segundo é reduzir a parte que será encaixada."
+    },
+    {
+      "start": 23.4,
+      "end": 25.1,
+      "text": "E é essa que a gente vai trabalhar hoje."
+    },
+    {
+      "start": 25.1,
+      "end": 29.1,
+      "text": "E como vamos mexer apenas na peça amarela, vamos selecioná-la na aba Objetos."
+    },
+    {
+      "start": 29.1,
+      "end": 34.9,
+      "text": "E em qualidade vamos trabalhar com a compensação de furo e com a compensação de contorno no plano XY."
+    },
+    {
+      "start": 35.1,
+      "end": 39.4,
+      "text": "Nós precisamos reduzir as bordas ou perímetros para encaixar na peça de cima."
+    },
+    {
+      "start": 39.5,
+      "end": 45.1,
+      "text": "E é isso que muita gente erra, nós também precisamos aumentar o buraco do A para conseguir encaixar."
+    },
+    {
+      "start": 45.2,
+      "end": 51.4,
+      "text": "Esse buraco é tratado na compensação de furo, pois é um furo e nós vamos aumentar para um só para vocês verem a diferença."
+    },
+    {
+      "start": 51.5,
+      "end": 55.5,
+      "text": "E como vocês podem observar, o valor positivo aumentou em 1mm o buraco do A."
+    },
+    {
+      "start": 55.5,
+      "end": 59.5,
+      "text": "Mas é muito, e o primeiro teste a gente vai fazer com 0,15 milímetros."
+    },
+    {
+      "start": 59.7,
+      "end": 63.5,
+      "text": "Agora precisamos diminuir as bordas, que é tratado na compensação de contorno."
+    },
+    {
+      "start": 63.6,
+      "end": 67.7,
+      "text": "E vamos reduzi-la, por isso o valor negativo, em 0,15 milímetros também."
+    },
+    {
+      "start": 67.9,
+      "end": 70.6,
+      "text": "Veja que já no fatiador você consegue ver a redução."
+    },
+    {
+      "start": 70.8,
+      "end": 72.3,
+      "text": "Agora é só imprimir e testar."
+    },
+    {
+      "start": 72.4,
+      "end": 74.6,
+      "text": "E no primeiro teste a gente já conseguiu encaixar."
+    },
+    {
+      "start": 74.7,
+      "end": 78.1,
+      "text": "No entanto, a folga ficou muito grande e a peça sai fácil."
+    },
+    {
+      "start": 79.3,
+      "end": 85.2,
+      "text": "Voltamos ao fatiador e mudamos para 0,10 milímetros, tanto a compensação de furo como a de contorno."
+    },
+    {
+      "start": 85.2,
+      "end": 89.9,
+      "text": "E vamos aproveitar para tombar as duas peças na mesa para aproveitar o acabamento da placa PEI."
+    },
+    {
+      "start": 91.3,
+      "end": 96.8,
+      "text": "Agora sim, chegamos no encaixe bem justo com essa tolerância de 0,10 milímetros."
+    },
+    {
+      "start": 97.2,
+      "end": 101.2,
+      "text": "Ah, e para aprender a fazer chaveiros multipartes é só olhar o vídeo do G80."
+    },
+    {
+      "start": 101.3,
+      "end": 104.2,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 104.9,
+  "model": "large-v3-turbo"
+}

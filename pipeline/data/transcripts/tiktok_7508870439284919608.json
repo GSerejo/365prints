@@ -1,0 +1,67 @@
+{
+  "text": "Dia 7 de 365 impressões 3D aqui em casa. Bora organizar essa bagunça de rodos e vassouras? Primeiro, eu fui buscar um coletor de pó, para evitar fazer mais sujeira ainda. Depois de impresso, bora testar para ver se funciona. E como vocês podem ver pelas imagens, funcionou bem. E até vou dar uma dica para todo mundo que vai fazer furação aqui em casa. Agora é só pegar os suportes impressos e começar a instalação. Mas peraí, eu sei o que você está pensando. Ah, essa cor vermelha não combinou. Bom, não combinou mesmo. É que eu utilizei um filamento PETG, que é um filamento mais resistente que o PLA. Ele é ideal para a área externa. E essa era a única cor que eu tinha. E como vocês podem ver, problema resolvido.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.2,
+      "text": "Dia 7 de 365 impressões 3D aqui em casa. Bora organizar essa bagunça de rodos e vassouras?"
+    },
+    {
+      "start": 8.7,
+      "end": 13.8,
+      "text": "Primeiro, eu fui buscar um coletor de pó, para evitar fazer mais sujeira ainda."
+    },
+    {
+      "start": 17.9,
+      "end": 25.1,
+      "text": "Depois de impresso, bora testar para ver se funciona. E como vocês podem ver pelas imagens, funcionou bem."
+    },
+    {
+      "start": 25.5,
+      "end": 28.7,
+      "text": "E até vou dar uma dica para todo mundo que vai fazer furação aqui em casa."
+    },
+    {
+      "start": 28.7,
+      "end": 32.4,
+      "text": "Agora é só pegar os suportes impressos e começar a instalação."
+    },
+    {
+      "start": 32.4,
+      "end": 37.8,
+      "text": "Mas peraí, eu sei o que você está pensando."
+    },
+    {
+      "start": 38.1,
+      "end": 39.6,
+      "text": "Ah, essa cor vermelha não combinou."
+    },
+    {
+      "start": 39.9,
+      "end": 41.3,
+      "text": "Bom, não combinou mesmo."
+    },
+    {
+      "start": 41.6,
+      "end": 46.0,
+      "text": "É que eu utilizei um filamento PETG, que é um filamento mais resistente que o PLA."
+    },
+    {
+      "start": 46.3,
+      "end": 47.8,
+      "text": "Ele é ideal para a área externa."
+    },
+    {
+      "start": 48.1,
+      "end": 49.9,
+      "text": "E essa era a única cor que eu tinha."
+    },
+    {
+      "start": 51.1,
+      "end": 54.7,
+      "text": "E como vocês podem ver, problema resolvido."
+    }
+  ],
+  "duration": 59.3,
+  "model": "large-v3-turbo"
+}

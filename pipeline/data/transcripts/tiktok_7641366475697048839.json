@@ -1,0 +1,112 @@
+{
+  "text": "Aplique textura só onde precisa, agora com mais opções dentro do fatiador. Bem-vindo ao dia 208! E aqui no Bambu Studio, para aplicar em uma região específica, a gente seleciona o objeto e clica em pele felpuda. Aqui você pode pintar onde você quer a textura ou simplesmente utilizar o baldinho de tinta para colocar em uma face inteira. Veja que aplicamos em toda a lateral, com exceção da nossa personalização. Isso é legal para destacar o nome. Na lateral esquerda do fatiador, na aba Outras, a gente vai em pele felpuda. Deixamos a opção de nenhum que será aplicado na região que pintamos Em modo gerador eu deixo o padrão que é deslocamento Mas você pode testar aí as demais E com as últimas atualizações do Bambu Studio Temos mais opções de pele felpuda ou fuzz skin Eu particularmente gostei muito da Voronoi Vou deixar o restante no padrão e fatiar pra vocês verem o resultado A visualização no fatiador fica difícil Mas depois de impresso a gente vê a diferença E pra aprender mais subtexturas Assista meu vídeo do dia 113 E pra ter conteúdo 3D todos os dias É só me seguir Tchau.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Aplique textura só onde precisa, agora com mais opções dentro do fatiador."
+    },
+    {
+      "start": 5.5,
+      "end": 7.3,
+      "text": "Bem-vindo ao dia 208!"
+    },
+    {
+      "start": 7.5,
+      "end": 12.9,
+      "text": "E aqui no Bambu Studio, para aplicar em uma região específica, a gente seleciona o objeto e clica em pele felpuda."
+    },
+    {
+      "start": 13.0,
+      "end": 19.3,
+      "text": "Aqui você pode pintar onde você quer a textura ou simplesmente utilizar o baldinho de tinta para colocar em uma face inteira."
+    },
+    {
+      "start": 19.4,
+      "end": 23.0,
+      "text": "Veja que aplicamos em toda a lateral, com exceção da nossa personalização."
+    },
+    {
+      "start": 23.3,
+      "end": 24.9,
+      "text": "Isso é legal para destacar o nome."
+    },
+    {
+      "start": 24.9,
+      "end": 28.6,
+      "text": "Na lateral esquerda do fatiador, na aba Outras, a gente vai em pele felpuda."
+    },
+    {
+      "start": 28.6,
+      "end": 31.9,
+      "text": "Deixamos a opção de nenhum que será aplicado na região que pintamos"
+    },
+    {
+      "start": 31.9,
+      "end": 34.2,
+      "text": "Em modo gerador eu deixo o padrão que é deslocamento"
+    },
+    {
+      "start": 34.2,
+      "end": 36.1,
+      "text": "Mas você pode testar aí as demais"
+    },
+    {
+      "start": 36.1,
+      "end": 38.3,
+      "text": "E com as últimas atualizações do Bambu Studio"
+    },
+    {
+      "start": 38.3,
+      "end": 41.3,
+      "text": "Temos mais opções de pele felpuda ou fuzz skin"
+    },
+    {
+      "start": 41.3,
+      "end": 43.6,
+      "text": "Eu particularmente gostei muito da Voronoi"
+    },
+    {
+      "start": 43.6,
+      "end": 46.9,
+      "text": "Vou deixar o restante no padrão e fatiar pra vocês verem o resultado"
+    },
+    {
+      "start": 46.9,
+      "end": 49.0,
+      "text": "A visualização no fatiador fica difícil"
+    },
+    {
+      "start": 49.0,
+      "end": 51.5,
+      "text": "Mas depois de impresso a gente vê a diferença"
+    },
+    {
+      "start": 51.5,
+      "end": 53.2,
+      "text": "E pra aprender mais subtexturas"
+    },
+    {
+      "start": 53.2,
+      "end": 55.5,
+      "text": "Assista meu vídeo do dia 113"
+    },
+    {
+      "start": 55.5,
+      "end": 57.3,
+      "text": "E pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 57.3,
+      "end": 58.3,
+      "text": "É só me seguir"
+    },
+    {
+      "start": 58.3,
+      "end": 59.3,
+      "text": "Tchau."
+    }
+  ],
+  "duration": 58.5,
+  "model": "large-v3-turbo"
+}

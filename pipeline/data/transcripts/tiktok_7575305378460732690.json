@@ -1,0 +1,37 @@
+{
+  "text": "Eu fiz esses letreiros multi-parts dentro do meu fatiador. Bem-vindo ao dia 129. Depois do sucesso desse letreiro que eu fiz lá no dia 42, que foi inspiração para muito material na internet, eu fiz esse novo sem utilizar nenhum software de modelagem. E tudo isso foi feito dentro do Bambu Studio. E agora eu estou preparando o material completo para ensinar a vocês fazendo seus próprios letreiros.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Eu fiz esses letreiros multi-parts dentro do meu fatiador."
+    },
+    {
+      "start": 4.3,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 129."
+    },
+    {
+      "start": 6.4,
+      "end": 12.3,
+      "text": "Depois do sucesso desse letreiro que eu fiz lá no dia 42, que foi inspiração para muito material na internet,"
+    },
+    {
+      "start": 12.4,
+      "end": 15.9,
+      "text": "eu fiz esse novo sem utilizar nenhum software de modelagem."
+    },
+    {
+      "start": 16.0,
+      "end": 19.2,
+      "text": "E tudo isso foi feito dentro do Bambu Studio."
+    },
+    {
+      "start": 19.2,
+      "end": 24.9,
+      "text": "E agora eu estou preparando o material completo para ensinar a vocês fazendo seus próprios letreiros."
+    }
+  ],
+  "duration": 25.3,
+  "model": "large-v3-turbo"
+}

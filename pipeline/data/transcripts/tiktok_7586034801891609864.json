@@ -1,0 +1,67 @@
+{
+  "text": "Esse letreiro ficou bem legal, mas tecnicamente poderia melhorar. Bem-vindo ao dia 143. A ideia foi boa e o acabamento tá legal porque as duas peças são impressas de face para a mesa. Mas se você olhar bem, ele colocou suporte onde não precisava. Essas pontes a impressora consegue fazer tranquilamente. Era só não ter impresso suportes para ganhar tempo de impressão, economizar material e ainda facilitar o pós-processamento. Até porque a peça de encaixe vai esconder essas pontes. E vocês, gostaram desse tipo de letreiro? Dá pra fazer ele direto no seu fatiador Se vocês quiserem um tutorial pra fazê-lo É só se engajarem aqui nos comentários Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Esse letreiro ficou bem legal, mas tecnicamente poderia melhorar."
+    },
+    {
+      "start": 4.4,
+      "end": 11.8,
+      "text": "Bem-vindo ao dia 143. A ideia foi boa e o acabamento tá legal porque as duas peças são impressas de face para a mesa."
+    },
+    {
+      "start": 11.9,
+      "end": 15.5,
+      "text": "Mas se você olhar bem, ele colocou suporte onde não precisava."
+    },
+    {
+      "start": 15.5,
+      "end": 18.5,
+      "text": "Essas pontes a impressora consegue fazer tranquilamente."
+    },
+    {
+      "start": 18.5,
+      "end": 25.6,
+      "text": "Era só não ter impresso suportes para ganhar tempo de impressão, economizar material e ainda facilitar o pós-processamento."
+    },
+    {
+      "start": 25.8,
+      "end": 28.8,
+      "text": "Até porque a peça de encaixe vai esconder essas pontes."
+    },
+    {
+      "start": 28.8,
+      "end": 31.1,
+      "text": "E vocês, gostaram desse tipo de letreiro?"
+    },
+    {
+      "start": 31.3,
+      "end": 33.8,
+      "text": "Dá pra fazer ele direto no seu fatiador"
+    },
+    {
+      "start": 33.8,
+      "end": 36.0,
+      "text": "Se vocês quiserem um tutorial pra fazê-lo"
+    },
+    {
+      "start": 36.0,
+      "end": 38.3,
+      "text": "É só se engajarem aqui nos comentários"
+    },
+    {
+      "start": 38.3,
+      "end": 39.4,
+      "text": "Gostaram desse vídeo?"
+    },
+    {
+      "start": 39.5,
+      "end": 42.5,
+      "text": "Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 42.7,
+  "model": "large-v3-turbo"
+}

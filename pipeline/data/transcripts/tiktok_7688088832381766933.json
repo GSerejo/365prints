@@ -1,0 +1,97 @@
+{
+  "text": "550 reais, esse é o valor que meu amigo pagou pra fazer o logo da empresa dele em acrílico. Eu imprimi o mesmo em PETG e me custou 35 reais. Bem-vindo ao dia 258. Já vou adiantando, o material não é o mesmo, mas o objetivo era um só, a marca dele na parede. Foram 250 gramas em PETG com mais ou menos 10 horas e 14 minutos de impressão. Portanto, gastos de filamento e energia foram aproximadamente 23 reais. Aí temos o custo da hora máquina, a depreciação, e eu também considerei 10% de falha. Total do projeto R$35,00. E nesse valor está considerando o gabarito. É uma régua que eu fiz e imprimi para facilitar a instalação. Ele resolve dois problemas, o alinhamento e a distância das letras. E o passo a passo de como eu fiz esse gabarito está lá no dia 256. E como vocês podem observar, isso tudo não é só impressão, é serviço. Enquanto muitas vezes o mercado briga por centavos vendendo o mesmo produto, personalizado não tem concorrente, não tem uma prateleira para comparar. E a principal lição é, quando não tem ninguém para comparar, a margem de lucro é muito maior e quem faz o preço é você. Agora me conta aí, quanto você cobraria por esse logo impresso em PETG? E é claro que você já sabe, para ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.1,
+      "text": "550 reais, esse é o valor que meu amigo pagou pra fazer o logo da empresa dele em acrílico."
+    },
+    {
+      "start": 6.2,
+      "end": 10.0,
+      "text": "Eu imprimi o mesmo em PETG e me custou 35 reais."
+    },
+    {
+      "start": 10.3,
+      "end": 17.9,
+      "text": "Bem-vindo ao dia 258. Já vou adiantando, o material não é o mesmo, mas o objetivo era um só, a marca dele na parede."
+    },
+    {
+      "start": 18.0,
+      "end": 24.4,
+      "text": "Foram 250 gramas em PETG com mais ou menos 10 horas e 14 minutos de impressão."
+    },
+    {
+      "start": 24.5,
+      "end": 29.4,
+      "text": "Portanto, gastos de filamento e energia foram aproximadamente 23 reais."
+    },
+    {
+      "start": 29.4,
+      "end": 34.7,
+      "text": "Aí temos o custo da hora máquina, a depreciação, e eu também considerei 10% de falha."
+    },
+    {
+      "start": 34.8,
+      "end": 37.3,
+      "text": "Total do projeto R$35,00."
+    },
+    {
+      "start": 37.6,
+      "end": 39.9,
+      "text": "E nesse valor está considerando o gabarito."
+    },
+    {
+      "start": 40.0,
+      "end": 43.5,
+      "text": "É uma régua que eu fiz e imprimi para facilitar a instalação."
+    },
+    {
+      "start": 43.6,
+      "end": 47.1,
+      "text": "Ele resolve dois problemas, o alinhamento e a distância das letras."
+    },
+    {
+      "start": 47.3,
+      "end": 50.7,
+      "text": "E o passo a passo de como eu fiz esse gabarito está lá no dia 256."
+    },
+    {
+      "start": 51.3,
+      "end": 55.4,
+      "text": "E como vocês podem observar, isso tudo não é só impressão, é serviço."
+    },
+    {
+      "start": 56.1,
+      "end": 60.6,
+      "text": "Enquanto muitas vezes o mercado briga por centavos vendendo o mesmo produto,"
+    },
+    {
+      "start": 60.7,
+      "end": 65.0,
+      "text": "personalizado não tem concorrente, não tem uma prateleira para comparar."
+    },
+    {
+      "start": 65.1,
+      "end": 68.5,
+      "text": "E a principal lição é, quando não tem ninguém para comparar,"
+    },
+    {
+      "start": 68.7,
+      "end": 72.4,
+      "text": "a margem de lucro é muito maior e quem faz o preço é você."
+    },
+    {
+      "start": 72.4,
+      "end": 77.4,
+      "text": "Agora me conta aí, quanto você cobraria por esse logo impresso em PETG?"
+    },
+    {
+      "start": 77.5,
+      "end": 82.2,
+      "text": "E é claro que você já sabe, para ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 82.5,
+  "model": "large-v3-turbo"
+}

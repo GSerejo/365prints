@@ -1,0 +1,57 @@
+{
+  "text": "Esse vídeo eu encontrei na internet e olha só esse suporte para o carro de Fórmula 1. Reparem nessas lacunas da superfície de topo. Bem-vindo ao dia 141. Isso é um problema de substrusão. O volume de material extrudado não foi suficiente e a primeira solução é a calibração do flow rate, ou seja, da vazão. E isso eu ensinei lá no dia 135. E uma outra opção mais avançada seria repartir esse arquivo em duas peças, os encaixes para o carro e a base de fundo. Assim nós poderemos imprimir a base reta virado para a mesa sem suporte e utilizar o acabamento da mesa. E os suportes para pendurar o carro a gente encaixaria depois. Gostaram desse tipo de vídeo? Então me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Esse vídeo eu encontrei na internet e olha só esse suporte para o carro de Fórmula 1."
+    },
+    {
+      "start": 4.4,
+      "end": 7.2,
+      "text": "Reparem nessas lacunas da superfície de topo."
+    },
+    {
+      "start": 7.5,
+      "end": 9.5,
+      "text": "Bem-vindo ao dia 141."
+    },
+    {
+      "start": 9.7,
+      "end": 11.6,
+      "text": "Isso é um problema de substrusão."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": "O volume de material extrudado não foi suficiente e a primeira solução é a calibração do flow rate, ou seja, da vazão."
+    },
+    {
+      "start": 19.1,
+      "end": 21.2,
+      "text": "E isso eu ensinei lá no dia 135."
+    },
+    {
+      "start": 21.8,
+      "end": 28.8,
+      "text": "E uma outra opção mais avançada seria repartir esse arquivo em duas peças, os encaixes para o carro e a base de fundo."
+    },
+    {
+      "start": 28.8,
+      "end": 34.3,
+      "text": "Assim nós poderemos imprimir a base reta virado para a mesa sem suporte e utilizar o acabamento da mesa."
+    },
+    {
+      "start": 34.4,
+      "end": 37.1,
+      "text": "E os suportes para pendurar o carro a gente encaixaria depois."
+    },
+    {
+      "start": 37.3,
+      "end": 41.8,
+      "text": "Gostaram desse tipo de vídeo? Então me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 42.1,
+  "model": "large-v3-turbo"
+}

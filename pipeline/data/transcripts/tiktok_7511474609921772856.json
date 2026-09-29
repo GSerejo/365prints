@@ -1,0 +1,37 @@
+{
+  "text": "Hoje foi o dia de imprimir um letreiro em 3D. Então, bora para o dia 13 de 365 impressões 3D aqui em casa. A ideia era imprimir em duas cores. Dessa forma eu conseguiria destacar o nome de Jesus embaixo. Para esse projeto, eu utilizei um PLA da Bambu Lab, Sparkle. Ele tem uns pontinhos brilhantes e deixa objetos decorativos muito bonitos. Já na parte superior, eu utilizei um PLA Silk, branco perolado, também para dar um efeito diferente e um contraste com o preto. Essa impressão demorou cerca de 1 hora e eu utilizei cerca de 60 gramas de PLA. E olha aí como ficou!",
+  "segments": [
+    {
+      "start": 3.9,
+      "end": 14.3,
+      "text": "Hoje foi o dia de imprimir um letreiro em 3D. Então, bora para o dia 13 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 15.1,
+      "end": 21.4,
+      "text": "A ideia era imprimir em duas cores. Dessa forma eu conseguiria destacar o nome de Jesus embaixo."
+    },
+    {
+      "start": 22.6,
+      "end": 31.2,
+      "text": "Para esse projeto, eu utilizei um PLA da Bambu Lab, Sparkle. Ele tem uns pontinhos brilhantes e deixa objetos decorativos muito bonitos."
+    },
+    {
+      "start": 31.2,
+      "end": 40.1,
+      "text": "Já na parte superior, eu utilizei um PLA Silk, branco perolado, também para dar um efeito diferente e um contraste com o preto."
+    },
+    {
+      "start": 41.0,
+      "end": 47.3,
+      "text": "Essa impressão demorou cerca de 1 hora e eu utilizei cerca de 60 gramas de PLA."
+    },
+    {
+      "start": 48.0,
+      "end": 49.5,
+      "text": "E olha aí como ficou!"
+    }
+  ],
+  "duration": 64.1,
+  "model": "large-v3-turbo"
+}

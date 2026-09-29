@@ -1,0 +1,97 @@
+{
+  "text": "Como unir as partes de um projeto dentro do próprio fatiador? Bem-vindo ao dia 176 e eu fiz isso para facilitar a impressão na Snapmaker. Esse é um projeto multi-parts que foi pintado no fatiador e primeiro eu quis unir as botas e as pernas que somam 4 cores. Então vamos mesclar os primeiros dois objetos. Aqui no Snapmaker Orca chama-se montar, mas no Bambu Studio é mesclar. Agora lá na barra de ferramentas utilizamos a função montar. Eu utilizo o modo face e agora é só clicar na primeira face que é nesse conector. A primeira face é fixa, agora vamos clicar na segunda face que é na parte de baixo da perna O fatiador vai unir essas duas faces, agora é só clicar em centralizar coincidência Pelos quadrados na tela você vai observar que as faces não estão alinhadas Então é só utilizar a função rotacionar para alinhar as duas faces do encaixe Você pode pôr ângulos pequenos e dar enter até as duas faces se coincidirem É claro que nesse projeto esses pinos ajudam muito E o primeiro encaixe foi finalizado, agora é só fazer a mesma coisa para os demais itens Lembre-se de sempre antes de mesclar os objetos e a primeira face a ser selecionada é a parte fixa. Eu escolhi fazer até a barriga porque utiliza apenas 4 cores e também evita o uso de suportes até lá. Essa ferramenta se tornará muito útil com as novas impressoras, com a troca do bico ou a troca da extrusora, como a Snapmaker U1. Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "Como unir as partes de um projeto dentro do próprio fatiador?"
+    },
+    {
+      "start": 5.0,
+      "end": 9.9,
+      "text": "Bem-vindo ao dia 176 e eu fiz isso para facilitar a impressão na Snapmaker."
+    },
+    {
+      "start": 10.1,
+      "end": 16.4,
+      "text": "Esse é um projeto multi-parts que foi pintado no fatiador e primeiro eu quis unir as botas e as pernas que somam 4 cores."
+    },
+    {
+      "start": 16.6,
+      "end": 18.9,
+      "text": "Então vamos mesclar os primeiros dois objetos."
+    },
+    {
+      "start": 19.1,
+      "end": 22.8,
+      "text": "Aqui no Snapmaker Orca chama-se montar, mas no Bambu Studio é mesclar."
+    },
+    {
+      "start": 22.9,
+      "end": 25.8,
+      "text": "Agora lá na barra de ferramentas utilizamos a função montar."
+    },
+    {
+      "start": 25.9,
+      "end": 29.6,
+      "text": "Eu utilizo o modo face e agora é só clicar na primeira face que é nesse conector."
+    },
+    {
+      "start": 29.6,
+      "end": 34.7,
+      "text": "A primeira face é fixa, agora vamos clicar na segunda face que é na parte de baixo da perna"
+    },
+    {
+      "start": 34.7,
+      "end": 39.0,
+      "text": "O fatiador vai unir essas duas faces, agora é só clicar em centralizar coincidência"
+    },
+    {
+      "start": 39.0,
+      "end": 42.2,
+      "text": "Pelos quadrados na tela você vai observar que as faces não estão alinhadas"
+    },
+    {
+      "start": 42.2,
+      "end": 46.5,
+      "text": "Então é só utilizar a função rotacionar para alinhar as duas faces do encaixe"
+    },
+    {
+      "start": 46.5,
+      "end": 50.4,
+      "text": "Você pode pôr ângulos pequenos e dar enter até as duas faces se coincidirem"
+    },
+    {
+      "start": 50.4,
+      "end": 53.0,
+      "text": "É claro que nesse projeto esses pinos ajudam muito"
+    },
+    {
+      "start": 53.0,
+      "end": 56.9,
+      "text": "E o primeiro encaixe foi finalizado, agora é só fazer a mesma coisa para os demais itens"
+    },
+    {
+      "start": 56.9,
+      "end": 62.1,
+      "text": "Lembre-se de sempre antes de mesclar os objetos e a primeira face a ser selecionada é a parte fixa."
+    },
+    {
+      "start": 62.1,
+      "end": 67.2,
+      "text": "Eu escolhi fazer até a barriga porque utiliza apenas 4 cores e também evita o uso de suportes até lá."
+    },
+    {
+      "start": 67.3,
+      "end": 73.7,
+      "text": "Essa ferramenta se tornará muito útil com as novas impressoras, com a troca do bico ou a troca da extrusora, como a Snapmaker U1."
+    },
+    {
+      "start": 73.8,
+      "end": 77.6,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 78.0,
+  "model": "large-v3-turbo"
+}

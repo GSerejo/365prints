@@ -1,0 +1,62 @@
+{
+  "text": "Você já ouviu falar de um filamento que interrompe a sua própria combustão? Bem-vindo ao dia 126! A maioria dos materiais na impressão 3D sustenta a chama, mas para aplicações onde o risco de incêndio é real, como em eletrônicos ou indústrias, esses materiais não passam no teste de segurança. Este é o PCFR, um policarbonato retardante de chamas. Ele contém aditivos que ao serem aquecidos eles liberam gases que extinguem a chama Ou seja, ele é classificado como auto extinguível E a impressão dessa peça fica muito fácil na minha H2S com câmera aquecida A mesa a 110 graus e câmera a 60 graus garantem adesão e previnem o warping Esse filamento é muito utilizado em componentes próximos a fontes de calor Garantindo a integridade e proteção de vários equipamentos Gostaram desse vídeo? Então me siga pra ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Você já ouviu falar de um filamento que interrompe a sua própria combustão?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.2,
+      "text": "Bem-vindo ao dia 126!"
+    },
+    {
+      "start": 7.4,
+      "end": 19.0,
+      "text": "A maioria dos materiais na impressão 3D sustenta a chama, mas para aplicações onde o risco de incêndio é real, como em eletrônicos ou indústrias, esses materiais não passam no teste de segurança."
+    },
+    {
+      "start": 19.0,
+      "end": 23.3,
+      "text": "Este é o PCFR, um policarbonato retardante de chamas."
+    },
+    {
+      "start": 23.3,
+      "end": 28.6,
+      "text": "Ele contém aditivos que ao serem aquecidos eles liberam gases que extinguem a chama"
+    },
+    {
+      "start": 28.6,
+      "end": 31.7,
+      "text": "Ou seja, ele é classificado como auto extinguível"
+    },
+    {
+      "start": 31.7,
+      "end": 36.7,
+      "text": "E a impressão dessa peça fica muito fácil na minha H2S com câmera aquecida"
+    },
+    {
+      "start": 36.7,
+      "end": 42.3,
+      "text": "A mesa a 110 graus e câmera a 60 graus garantem adesão e previnem o warping"
+    },
+    {
+      "start": 42.3,
+      "end": 46.7,
+      "text": "Esse filamento é muito utilizado em componentes próximos a fontes de calor"
+    },
+    {
+      "start": 46.7,
+      "end": 50.2,
+      "text": "Garantindo a integridade e proteção de vários equipamentos"
+    },
+    {
+      "start": 50.2,
+      "end": 54.5,
+      "text": "Gostaram desse vídeo? Então me siga pra ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 54.8,
+  "model": "large-v3-turbo"
+}

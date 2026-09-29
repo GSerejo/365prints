@@ -1,0 +1,47 @@
+{
+  "text": "O problema não é o PLA, é o que você coloca dentro da luminária. Bem-vindo ao dia 195, o segredo é utilizar uma fonte de luz com potência baixa. Eu gosto desse, da multifila de 2 watts que liga no USB. Ele esquenta muito pouco e torna a aplicação segura. Eu testei o translúcido, branco, natural e o fosso. Cada um muda completamente o efeito da luz. E aí, qual você usaria? Não esquece de me seguir pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "O problema não é o PLA, é o que você coloca dentro da luminária."
+    },
+    {
+      "start": 4.3,
+      "end": 9.2,
+      "text": "Bem-vindo ao dia 195, o segredo é utilizar uma fonte de luz com potência baixa."
+    },
+    {
+      "start": 9.2,
+      "end": 12.4,
+      "text": "Eu gosto desse, da multifila de 2 watts que liga no USB."
+    },
+    {
+      "start": 12.6,
+      "end": 15.1,
+      "text": "Ele esquenta muito pouco e torna a aplicação segura."
+    },
+    {
+      "start": 15.1,
+      "end": 18.1,
+      "text": "Eu testei o translúcido, branco, natural e o fosso."
+    },
+    {
+      "start": 18.2,
+      "end": 20.9,
+      "text": "Cada um muda completamente o efeito da luz."
+    },
+    {
+      "start": 21.0,
+      "end": 22.4,
+      "text": "E aí, qual você usaria?"
+    },
+    {
+      "start": 22.6,
+      "end": 25.4,
+      "text": "Não esquece de me seguir pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 25.7,
+  "model": "large-v3-turbo"
+}

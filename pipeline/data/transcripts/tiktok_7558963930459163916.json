@@ -1,0 +1,57 @@
+{
+  "text": "Como fazer uma placa personalizada com o Pix? Bem-vindo ao dia 104, isso se torna muito fácil graças ao modelo feito pela Lineboards. Esse é um modelo parametrizável, então você pode personalizar o seu. A geração do QR Code é automática, então é só você escolher o tipo e preencher. Você ainda pode upar o seu logo e qualquer mudança que você fizer é só clicar em gerar para você ver a alteração. Existem outros parâmetros que você pode mexer e eu vou deixar para vocês testarem em casa. E quando tudo estiver ok, você pode até testar o QR Code na tela mesmo, você clica para fazer o download em 3MF. Fácil né? Agora é só imprimir. E não se preocupe se você não tiver AMS, é só assistir o dia 103. Agora não esqueça de nos seguir para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Como fazer uma placa personalizada com o Pix?"
+    },
+    {
+      "start": 4.0,
+      "end": 9.4,
+      "text": "Bem-vindo ao dia 104, isso se torna muito fácil graças ao modelo feito pela Lineboards."
+    },
+    {
+      "start": 9.6,
+      "end": 13.4,
+      "text": "Esse é um modelo parametrizável, então você pode personalizar o seu."
+    },
+    {
+      "start": 13.5,
+      "end": 17.4,
+      "text": "A geração do QR Code é automática, então é só você escolher o tipo e preencher."
+    },
+    {
+      "start": 17.6,
+      "end": 22.7,
+      "text": "Você ainda pode upar o seu logo e qualquer mudança que você fizer é só clicar em gerar para você ver a alteração."
+    },
+    {
+      "start": 22.9,
+      "end": 26.9,
+      "text": "Existem outros parâmetros que você pode mexer e eu vou deixar para vocês testarem em casa."
+    },
+    {
+      "start": 26.9,
+      "end": 33.0,
+      "text": "E quando tudo estiver ok, você pode até testar o QR Code na tela mesmo, você clica para fazer o download em 3MF."
+    },
+    {
+      "start": 33.1,
+      "end": 35.1,
+      "text": "Fácil né? Agora é só imprimir."
+    },
+    {
+      "start": 35.2,
+      "end": 39.0,
+      "text": "E não se preocupe se você não tiver AMS, é só assistir o dia 103."
+    },
+    {
+      "start": 39.4,
+      "end": 43.1,
+      "text": "Agora não esqueça de nos seguir para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 43.5,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Esse presente para o dia dos namorados custou menos de 20 reais. Bem-vindo ao dia 225. Muita gente acha que para criar produtos personalizados precisa aprender softwares complexos. Esse letreiro multipartes eu criei usando apenas o fatiador. O resultado é um presente personalizado para o dia dos namorados de baixo custo de produção e alto valor percebido. Se você quer aprender a criar letreiros como esse sem softwares complexos, comenta letreiro que eu te mostro como funciona.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.9,
+      "text": "Esse presente para o dia dos namorados custou menos de 20 reais. Bem-vindo ao dia 225. Muita gente acha que para criar produtos personalizados precisa aprender softwares complexos."
+    },
+    {
+      "start": 12.0,
+      "end": 22.1,
+      "text": "Esse letreiro multipartes eu criei usando apenas o fatiador. O resultado é um presente personalizado para o dia dos namorados de baixo custo de produção e alto valor percebido."
+    },
+    {
+      "start": 22.1,
+      "end": 29.0,
+      "text": "Se você quer aprender a criar letreiros como esse sem softwares complexos, comenta letreiro que eu te mostro como funciona."
+    }
+  ],
+  "duration": 29.2,
+  "model": "large-v3-turbo"
+}

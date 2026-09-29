@@ -1,0 +1,87 @@
+{
+  "text": "Eu fiz esse letreiro com texturas dentro do meu fatiador. Bem-vindo ao dia 114. Seguindo o hype do vídeo de ontem, eu vou mostrar como faz isso em menos de 20 segundos. Com a ferramenta de texto, adicione no texto e escolha a fonte. Agora vamos aumentar esse letreiro. Precisamos deixar agora as letras unidas uma com as outras e mudamos a lacuna de texto. E a espessura eu deixei de 3 milímetros. Agora vamos adicionar a textura. Botão direito na peça, adicionar uma peça e SVG. Agora é só escolher o SVG da textura que você quer aplicar. Vamos posicionar a textura no centro da peça e redimensionar para cobrir toda a peça. E agora para delimitar os cantos, utilizamos a função Use a Superfície. Prontinho, agora só vou mudar a cor da base. E veja que a textura foi feita na camada de topo em alto relevo com uma altura de 10mm. E só foi para mostrar a variedade de personalização que temos com a importação de texturas em SVG. Gostaram desse vídeo? Então me sigam para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Eu fiz esse letreiro com texturas dentro do meu fatiador."
+    },
+    {
+      "start": 4.6,
+      "end": 6.4,
+      "text": "Bem-vindo ao dia 114."
+    },
+    {
+      "start": 6.6,
+      "end": 11.0,
+      "text": "Seguindo o hype do vídeo de ontem, eu vou mostrar como faz isso em menos de 20 segundos."
+    },
+    {
+      "start": 11.2,
+      "end": 14.0,
+      "text": "Com a ferramenta de texto, adicione no texto e escolha a fonte."
+    },
+    {
+      "start": 14.1,
+      "end": 15.9,
+      "text": "Agora vamos aumentar esse letreiro."
+    },
+    {
+      "start": 16.0,
+      "end": 20.4,
+      "text": "Precisamos deixar agora as letras unidas uma com as outras e mudamos a lacuna de texto."
+    },
+    {
+      "start": 20.5,
+      "end": 22.4,
+      "text": "E a espessura eu deixei de 3 milímetros."
+    },
+    {
+      "start": 22.7,
+      "end": 24.1,
+      "text": "Agora vamos adicionar a textura."
+    },
+    {
+      "start": 24.2,
+      "end": 26.9,
+      "text": "Botão direito na peça, adicionar uma peça e SVG."
+    },
+    {
+      "start": 26.9,
+      "end": 29.9,
+      "text": "Agora é só escolher o SVG da textura que você quer aplicar."
+    },
+    {
+      "start": 30.0,
+      "end": 33.8,
+      "text": "Vamos posicionar a textura no centro da peça e redimensionar para cobrir toda a peça."
+    },
+    {
+      "start": 33.9,
+      "end": 37.2,
+      "text": "E agora para delimitar os cantos, utilizamos a função Use a Superfície."
+    },
+    {
+      "start": 37.3,
+      "end": 39.2,
+      "text": "Prontinho, agora só vou mudar a cor da base."
+    },
+    {
+      "start": 39.6,
+      "end": 44.2,
+      "text": "E veja que a textura foi feita na camada de topo em alto relevo com uma altura de 10mm."
+    },
+    {
+      "start": 44.2,
+      "end": 50.0,
+      "text": "E só foi para mostrar a variedade de personalização que temos com a importação de texturas em SVG."
+    },
+    {
+      "start": 50.1,
+      "end": 53.7,
+      "text": "Gostaram desse vídeo? Então me sigam para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 54.0,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,77 @@
+{
+  "text": "Como melhorar a precisão dimensional das suas peças? Bem-vindo ao dia 119. Esse cubo era para ter 30 milímetros. A diferença foi pequena, mas eu só quero mostrar a ferramenta. Vamos calcular o fator de encolhimento, que basicamente é o valor medido dividido pelo valor projetado. E o resultado dessa divisão deve ser expresso em porcentagem. Agora lá dentro do perfil do filamento a gente atualiza esse valor. Ao fazer isso o software aumenta o modelo automaticamente. Mas atenção, a precisão nunca será 100% perfeita devido ao processo de deposição. Outra opção é utilizar um filamento com infusão de fibra, como o PLACF, que tem maior estabilidade dimensional. E lembre-se, se você busca a precisão de um projeto profissional, invista em uma ferramenta de qualidade. Eu estou usando um paquímetro digital simples. Outra coisa importante é que a maior precisão da sua impressora é no plano XY. E por isso, num próximo vídeo eu vou falar da compensação XY, pra você ter aquele encaixe perfeito. E até lá! Obrigado.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Como melhorar a precisão dimensional das suas peças?"
+    },
+    {
+      "start": 3.8,
+      "end": 10.5,
+      "text": "Bem-vindo ao dia 119. Esse cubo era para ter 30 milímetros. A diferença foi pequena, mas eu só quero mostrar a ferramenta."
+    },
+    {
+      "start": 10.5,
+      "end": 16.7,
+      "text": "Vamos calcular o fator de encolhimento, que basicamente é o valor medido dividido pelo valor projetado."
+    },
+    {
+      "start": 16.7,
+      "end": 19.8,
+      "text": "E o resultado dessa divisão deve ser expresso em porcentagem."
+    },
+    {
+      "start": 20.0,
+      "end": 23.6,
+      "text": "Agora lá dentro do perfil do filamento a gente atualiza esse valor."
+    },
+    {
+      "start": 23.9,
+      "end": 26.9,
+      "text": "Ao fazer isso o software aumenta o modelo automaticamente."
+    },
+    {
+      "start": 26.9,
+      "end": 32.6,
+      "text": "Mas atenção, a precisão nunca será 100% perfeita devido ao processo de deposição."
+    },
+    {
+      "start": 32.7,
+      "end": 38.3,
+      "text": "Outra opção é utilizar um filamento com infusão de fibra, como o PLACF, que tem maior estabilidade dimensional."
+    },
+    {
+      "start": 38.4,
+      "end": 43.5,
+      "text": "E lembre-se, se você busca a precisão de um projeto profissional, invista em uma ferramenta de qualidade."
+    },
+    {
+      "start": 43.7,
+      "end": 45.9,
+      "text": "Eu estou usando um paquímetro digital simples."
+    },
+    {
+      "start": 46.1,
+      "end": 50.3,
+      "text": "Outra coisa importante é que a maior precisão da sua impressora é no plano XY."
+    },
+    {
+      "start": 50.7,
+      "end": 55.8,
+      "text": "E por isso, num próximo vídeo eu vou falar da compensação XY, pra você ter aquele encaixe perfeito."
+    },
+    {
+      "start": 55.8,
+      "end": 56.6,
+      "text": "E até lá!"
+    },
+    {
+      "start": 56.9,
+      "end": 57.9,
+      "text": "Obrigado."
+    }
+  ],
+  "duration": 57.0,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,127 @@
+{
+  "text": "Sua impressora está tentando imprimir no ar? Esse é o D83 e isso aconteceu comigo utilizando um filamento flexível. Mas isso pode acontecer com qualquer tipo de filamento. A engrenagem da extrusora estava bem suja e ela estava patinando, sem conseguir empurrar o material. Mas calma que é fácil de resolver. E lá na central de ajuda da Bambu Lab tem um tutorial completo de como fazer uma limpeza profunda da extrusora. É só seguir o passo a passo. E lembre-se de fazer isso com o hotend frio. E antes de desmontar tudo, você pode verificar só tirando a alavanca do cortador de filamento. E realmente estava bem suja. Aqui vai uma observação importante. Remova todos os tubos PTFE e cuidado na hora de remover o hub do AMS. Para não quebrar esse cabinho flat ali. E seguindo o tutorial, depois de retirar todos os parafusos que prendem a capa. É só retirá-la gentilmente. E depois de limpar tudo, é só colocar tudo no lugar Agora vamos testar se tudo está funcionando No painel da impressora elevamos a temperatura do bico para 250 Coloque o filamento até que a luzinha verde acenda Agora é só fazer a extrusão de um pouco de material Problema resolvido Se você estiver na dúvida se seu bico está também entupido É só fazer um cold pull que eu ensinei lá no dia 39 Agora é só salvar esse vídeo para quando sua impressora começar a imprimir no ar",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Sua impressora está tentando imprimir no ar?"
+    },
+    {
+      "start": 3.1,
+      "end": 8.0,
+      "text": "Esse é o D83 e isso aconteceu comigo utilizando um filamento flexível."
+    },
+    {
+      "start": 8.0,
+      "end": 11.1,
+      "text": "Mas isso pode acontecer com qualquer tipo de filamento."
+    },
+    {
+      "start": 11.3,
+      "end": 17.1,
+      "text": "A engrenagem da extrusora estava bem suja e ela estava patinando, sem conseguir empurrar o material."
+    },
+    {
+      "start": 17.4,
+      "end": 19.2,
+      "text": "Mas calma que é fácil de resolver."
+    },
+    {
+      "start": 19.6,
+      "end": 25.6,
+      "text": "E lá na central de ajuda da Bambu Lab tem um tutorial completo de como fazer uma limpeza profunda da extrusora."
+    },
+    {
+      "start": 25.6,
+      "end": 27.4,
+      "text": "É só seguir o passo a passo."
+    },
+    {
+      "start": 27.8,
+      "end": 30.4,
+      "text": "E lembre-se de fazer isso com o hotend frio."
+    },
+    {
+      "start": 30.5,
+      "end": 35.4,
+      "text": "E antes de desmontar tudo, você pode verificar só tirando a alavanca do cortador de filamento."
+    },
+    {
+      "start": 35.4,
+      "end": 37.1,
+      "text": "E realmente estava bem suja."
+    },
+    {
+      "start": 39.6,
+      "end": 41.3,
+      "text": "Aqui vai uma observação importante."
+    },
+    {
+      "start": 41.4,
+      "end": 46.2,
+      "text": "Remova todos os tubos PTFE e cuidado na hora de remover o hub do AMS."
+    },
+    {
+      "start": 46.3,
+      "end": 48.7,
+      "text": "Para não quebrar esse cabinho flat ali."
+    },
+    {
+      "start": 49.3,
+      "end": 53.3,
+      "text": "E seguindo o tutorial, depois de retirar todos os parafusos que prendem a capa."
+    },
+    {
+      "start": 53.5,
+      "end": 55.5,
+      "text": "É só retirá-la gentilmente."
+    },
+    {
+      "start": 55.5,
+      "end": 69.6,
+      "text": "E depois de limpar tudo, é só colocar tudo no lugar"
+    },
+    {
+      "start": 69.6,
+      "end": 84.8,
+      "text": "Agora vamos testar se tudo está funcionando"
+    },
+    {
+      "start": 84.8,
+      "end": 88.2,
+      "text": "No painel da impressora elevamos a temperatura do bico para 250"
+    },
+    {
+      "start": 88.2,
+      "end": 91.3,
+      "text": "Coloque o filamento até que a luzinha verde acenda"
+    },
+    {
+      "start": 91.3,
+      "end": 94.1,
+      "text": "Agora é só fazer a extrusão de um pouco de material"
+    },
+    {
+      "start": 94.1,
+      "end": 96.0,
+      "text": "Problema resolvido"
+    },
+    {
+      "start": 96.0,
+      "end": 99.5,
+      "text": "Se você estiver na dúvida se seu bico está também entupido"
+    },
+    {
+      "start": 99.5,
+      "end": 102.7,
+      "text": "É só fazer um cold pull que eu ensinei lá no dia 39"
+    },
+    {
+      "start": 102.7,
+      "end": 107.5,
+      "text": "Agora é só salvar esse vídeo para quando sua impressora começar a imprimir no ar"
+    }
+  ],
+  "duration": 108.2,
+  "model": "large-v3-turbo"
+}

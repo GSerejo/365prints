@@ -1,0 +1,87 @@
+{
+  "text": "Sua peça 3D tem uma parte super fina e está quebrando? Bem-vindo ao dia 127. Eu fui imprimir o Eufrazino e tive problemas na impressão do seu revólver. Essa parte bem fina estava quebrando durante a impressão. O problema estava na base dessa haste aqui. Qualquer movimento brusco da impressão quebrava a peça e acabava com o projeto. Se vocês observarem, com o enfio bem baixo de 10%, apenas duas paredes seguravam aquela peça, ou seja, menos de um milímetro. E pra resolver esse problema eu usei um modificador. Botão direito na peça, adicionar modificador e nesse caso utilizei um cubo. A ideia era aumentar o enfio apenas na região com o problema, assim eu deixo a peça mais resistente. Então é só redimensionar esse cubo aqui nessa região. E na aba da esquerda o cubo é tratado como um objeto. E qualquer modificação que eu fizer aqui mudará apenas a região em que esse cubo está. Agora na aba força alteramos o enfio ou preenchimento pra 100%. E o padrão de preenchimento pra 100% sólido é o retilíneo. Agora tornamos aquela haste mais existente e o restante do projeto continua com um enfio de 10% economizando filamento. Existem outras maneiras de resolver esse problema, mas eu resolvi essa para mostrar a utilização de modificadores em problemas pontuais. Gostaram dessa dica? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Sua peça 3D tem uma parte super fina e está quebrando?"
+    },
+    {
+      "start": 4.4,
+      "end": 10.7,
+      "text": "Bem-vindo ao dia 127. Eu fui imprimir o Eufrazino e tive problemas na impressão do seu revólver."
+    },
+    {
+      "start": 10.9,
+      "end": 14.0,
+      "text": "Essa parte bem fina estava quebrando durante a impressão."
+    },
+    {
+      "start": 14.1,
+      "end": 20.2,
+      "text": "O problema estava na base dessa haste aqui. Qualquer movimento brusco da impressão quebrava a peça e acabava com o projeto."
+    },
+    {
+      "start": 20.3,
+      "end": 27.1,
+      "text": "Se vocês observarem, com o enfio bem baixo de 10%, apenas duas paredes seguravam aquela peça, ou seja, menos de um milímetro."
+    },
+    {
+      "start": 27.1,
+      "end": 29.8,
+      "text": "E pra resolver esse problema eu usei um modificador."
+    },
+    {
+      "start": 29.9,
+      "end": 34.0,
+      "text": "Botão direito na peça, adicionar modificador e nesse caso utilizei um cubo."
+    },
+    {
+      "start": 34.1,
+      "end": 39.0,
+      "text": "A ideia era aumentar o enfio apenas na região com o problema, assim eu deixo a peça mais resistente."
+    },
+    {
+      "start": 39.2,
+      "end": 42.0,
+      "text": "Então é só redimensionar esse cubo aqui nessa região."
+    },
+    {
+      "start": 42.2,
+      "end": 45.0,
+      "text": "E na aba da esquerda o cubo é tratado como um objeto."
+    },
+    {
+      "start": 45.2,
+      "end": 49.2,
+      "text": "E qualquer modificação que eu fizer aqui mudará apenas a região em que esse cubo está."
+    },
+    {
+      "start": 49.4,
+      "end": 53.8,
+      "text": "Agora na aba força alteramos o enfio ou preenchimento pra 100%."
+    },
+    {
+      "start": 53.8,
+      "end": 56.9,
+      "text": "E o padrão de preenchimento pra 100% sólido é o retilíneo."
+    },
+    {
+      "start": 56.9,
+      "end": 63.5,
+      "text": "Agora tornamos aquela haste mais existente e o restante do projeto continua com um enfio de 10% economizando filamento."
+    },
+    {
+      "start": 63.6,
+      "end": 69.9,
+      "text": "Existem outras maneiras de resolver esse problema, mas eu resolvi essa para mostrar a utilização de modificadores em problemas pontuais."
+    },
+    {
+      "start": 70.6,
+      "end": 74.4,
+      "text": "Gostaram dessa dica? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 75.1,
+  "model": "large-v3-turbo"
+}

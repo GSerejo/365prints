@@ -1,0 +1,82 @@
+{
+  "text": "Todo mundo sabe que a impressão multicolorida produz um monte de desperdício, mas há uma maneira de reduzir isso imprimindo peças funcionais. Bem-vindo ao dia 81, e hoje eu vou mostrar como transformar esta purga nesses objetos. Neste caso, a purga da troca de filamento para produzir o dado é utilizada na construção desses containers que vai sílica, que eu utilizo bastante para guardar meus filamentos. Já no fatiador a gente verifica que apenas um dado gasta 2,5 gramas Enquanto que a purga gasta 25 gramas O que você tem que fazer aqui é adicionar peças para utilizar a purga E com os objetos selecionados é só alunar objetos, outros e ativar essa opção Que vai habilitar o flush ou a purga do dado para a construção dos containers e das tampas É importante destacar aqui que esse objeto que você vai usar a purga deve ser pelo menos do tamanho do dado E é claro que para o restante do container vai utilizar um filamento novo Mas eu uso bastante esse container e pra mim não tem problema Por fim a gente verifica que a purga foi reduzida pra 4,23 gramas E eu poderia colocar mais containers e tampas pra utilizar esse restinho Se você gostou desse vídeo não se esqueça de dar um like E pra ter conteúdo de 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 8.4,
+      "text": "Todo mundo sabe que a impressão multicolorida produz um monte de desperdício, mas há uma maneira de reduzir isso imprimindo peças funcionais."
+    },
+    {
+      "start": 8.9,
+      "end": 15.5,
+      "text": "Bem-vindo ao dia 81, e hoje eu vou mostrar como transformar esta purga nesses objetos."
+    },
+    {
+      "start": 15.8,
+      "end": 24.8,
+      "text": "Neste caso, a purga da troca de filamento para produzir o dado é utilizada na construção desses containers que vai sílica, que eu utilizo bastante para guardar meus filamentos."
+    },
+    {
+      "start": 24.8,
+      "end": 29.7,
+      "text": "Já no fatiador a gente verifica que apenas um dado gasta 2,5 gramas"
+    },
+    {
+      "start": 29.7,
+      "end": 32.7,
+      "text": "Enquanto que a purga gasta 25 gramas"
+    },
+    {
+      "start": 32.7,
+      "end": 36.4,
+      "text": "O que você tem que fazer aqui é adicionar peças para utilizar a purga"
+    },
+    {
+      "start": 36.4,
+      "end": 41.1,
+      "text": "E com os objetos selecionados é só alunar objetos, outros e ativar essa opção"
+    },
+    {
+      "start": 41.1,
+      "end": 45.8,
+      "text": "Que vai habilitar o flush ou a purga do dado para a construção dos containers e das tampas"
+    },
+    {
+      "start": 45.8,
+      "end": 50.9,
+      "text": "É importante destacar aqui que esse objeto que você vai usar a purga deve ser pelo menos do tamanho do dado"
+    },
+    {
+      "start": 50.9,
+      "end": 54.4,
+      "text": "E é claro que para o restante do container vai utilizar um filamento novo"
+    },
+    {
+      "start": 54.4,
+      "end": 57.7,
+      "text": "Mas eu uso bastante esse container e pra mim não tem problema"
+    },
+    {
+      "start": 57.7,
+      "end": 62.2,
+      "text": "Por fim a gente verifica que a purga foi reduzida pra 4,23 gramas"
+    },
+    {
+      "start": 62.2,
+      "end": 66.0,
+      "text": "E eu poderia colocar mais containers e tampas pra utilizar esse restinho"
+    },
+    {
+      "start": 66.0,
+      "end": 68.8,
+      "text": "Se você gostou desse vídeo não se esqueça de dar um like"
+    },
+    {
+      "start": 68.8,
+      "end": 71.6,
+      "text": "E pra ter conteúdo de 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 71.9,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,87 @@
+{
+  "text": "Olha esse brilho nos olhos do hortelino. Bem-vindo ao dia 139, eu apliquei resina nos olhos para deixar com aspecto mais vivo. E pra isso eu precisei diminuir a altura dos olhos pra não vazar a resina. E também precisei criar uma base pra deixar a cabeça estável durante o processo de secagem. Veja que no fatiador o modelador já deixou os suportes embutidos. Botão direito, vamos dividir a peça pra tirar os suportes. É só deletar ambos e depois rotacionar a cabeça na posição de descanso. Agora vamos adicionar um cubo como primitivo e posicioná-lo embaixo da cabeça Depois de redimensioná-lo é só clicar com o botão direito em ambas as peças e centro Agora mesclamos as duas peças e posicionamos a cabeça um pouquinho pra cima Depois é só utilizar a operação boleana de diferença pra fazer a cavidade na base Pronto, agora é só imprimir tudo A resina não é UV e demorou umas 7 horas pra secar e o link tá na bio E o resultado do primeiro teste ficou bem legal, no entanto eu achei que eu deixei os olhos um pouco fundos Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias O que é isso?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Olha esse brilho nos olhos do hortelino."
+    },
+    {
+      "start": 3.3,
+      "end": 9.0,
+      "text": "Bem-vindo ao dia 139, eu apliquei resina nos olhos para deixar com aspecto mais vivo."
+    },
+    {
+      "start": 9.2,
+      "end": 13.1,
+      "text": "E pra isso eu precisei diminuir a altura dos olhos pra não vazar a resina."
+    },
+    {
+      "start": 13.6,
+      "end": 18.3,
+      "text": "E também precisei criar uma base pra deixar a cabeça estável durante o processo de secagem."
+    },
+    {
+      "start": 18.5,
+      "end": 21.8,
+      "text": "Veja que no fatiador o modelador já deixou os suportes embutidos."
+    },
+    {
+      "start": 22.0,
+      "end": 25.1,
+      "text": "Botão direito, vamos dividir a peça pra tirar os suportes."
+    },
+    {
+      "start": 25.2,
+      "end": 29.3,
+      "text": "É só deletar ambos e depois rotacionar a cabeça na posição de descanso."
+    },
+    {
+      "start": 29.3,
+      "end": 33.3,
+      "text": "Agora vamos adicionar um cubo como primitivo e posicioná-lo embaixo da cabeça"
+    },
+    {
+      "start": 33.3,
+      "end": 37.3,
+      "text": "Depois de redimensioná-lo é só clicar com o botão direito em ambas as peças e centro"
+    },
+    {
+      "start": 37.3,
+      "end": 41.0,
+      "text": "Agora mesclamos as duas peças e posicionamos a cabeça um pouquinho pra cima"
+    },
+    {
+      "start": 41.0,
+      "end": 45.3,
+      "text": "Depois é só utilizar a operação boleana de diferença pra fazer a cavidade na base"
+    },
+    {
+      "start": 45.3,
+      "end": 46.8,
+      "text": "Pronto, agora é só imprimir tudo"
+    },
+    {
+      "start": 46.8,
+      "end": 50.5,
+      "text": "A resina não é UV e demorou umas 7 horas pra secar e o link tá na bio"
+    },
+    {
+      "start": 50.5,
+      "end": 55.4,
+      "text": "E o resultado do primeiro teste ficou bem legal, no entanto eu achei que eu deixei os olhos um pouco fundos"
+    },
+    {
+      "start": 55.4,
+      "end": 59.0,
+      "text": "Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 59.3,
+      "end": 89.3,
+      "text": "O que é isso?"
+    }
+  ],
+  "duration": 59.4,
+  "model": "large-v3-turbo"
+}

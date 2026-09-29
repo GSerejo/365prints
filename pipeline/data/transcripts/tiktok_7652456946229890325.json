@@ -1,0 +1,67 @@
+{
+  "text": "Esse vaso ficou com um aspecto rugoso na parte de baixo, mas por quê? Bem-vindo ao dia 222. Um assinante me mandou essa dúvida, ele estava utilizando o modo vaso, ou seja, uma parede, e queria deixá-lo resistente. E pra isso ele aumentou em 1mm a largura da parede. No padrão, uma altura de camada de 0,2 tem 0,42mm de largura, que é basicamente o diâmetro do bico. E numa mesma velocidade de impressão, quando aumentamos pra 1mm, precisamos enviar mais material. E para isso, a extrusora aumenta a vazão. É muita massa quente para resfriar. E no overhang, apesar do apoio, grande parte da massa quente fica aérea. Com mais massa, não teve tempo para resfriar e a massa cedeu. E isso foi o problema. Eu sugeri o assinante a utilizar 0,6 milímetros no máximo de largura.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Esse vaso ficou com um aspecto rugoso na parte de baixo, mas por quê?"
+    },
+    {
+      "start": 4.4,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 222."
+    },
+    {
+      "start": 6.4,
+      "end": 11.9,
+      "text": "Um assinante me mandou essa dúvida, ele estava utilizando o modo vaso, ou seja, uma parede, e queria deixá-lo resistente."
+    },
+    {
+      "start": 12.0,
+      "end": 15.6,
+      "text": "E pra isso ele aumentou em 1mm a largura da parede."
+    },
+    {
+      "start": 15.7,
+      "end": 23.4,
+      "text": "No padrão, uma altura de camada de 0,2 tem 0,42mm de largura, que é basicamente o diâmetro do bico."
+    },
+    {
+      "start": 23.4,
+      "end": 29.1,
+      "text": "E numa mesma velocidade de impressão, quando aumentamos pra 1mm, precisamos enviar mais material."
+    },
+    {
+      "start": 29.1,
+      "end": 31.8,
+      "text": "E para isso, a extrusora aumenta a vazão."
+    },
+    {
+      "start": 32.0,
+      "end": 34.2,
+      "text": "É muita massa quente para resfriar."
+    },
+    {
+      "start": 34.3,
+      "end": 38.9,
+      "text": "E no overhang, apesar do apoio, grande parte da massa quente fica aérea."
+    },
+    {
+      "start": 39.0,
+      "end": 42.2,
+      "text": "Com mais massa, não teve tempo para resfriar e a massa cedeu."
+    },
+    {
+      "start": 42.4,
+      "end": 43.2,
+      "text": "E isso foi o problema."
+    },
+    {
+      "start": 43.4,
+      "end": 48.1,
+      "text": "Eu sugeri o assinante a utilizar 0,6 milímetros no máximo de largura."
+    }
+  ],
+  "duration": 48.4,
+  "model": "large-v3-turbo"
+}

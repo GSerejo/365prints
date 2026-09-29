@@ -1,0 +1,127 @@
+{
+  "text": "Como colocar texturas em superfícies curvas dentro do seu fatiador? Bem-vindo ao dia 123 e dentro do seu fatiador há uma limitação na importação de SVGs para essas superfícies. Mas vamos ver como podemos contornar esse problema. Se importarmos da forma usual como eu ensinei lá no dia 113 teremos esse problema aqui. Depois de redimensionar a textura e utilizar a função use a superfície ele cria uma projeção na sua peça. Veja que no cilindro o fatiador não consegue contornar os 360 graus. E os cantos ficam esticados. É claro que dá para utilizar a criatividade e encontrar uma aplicação para isso. Mas se utilizarmos a função texto, verificamos que o fatiador consegue contornar a peça inteira. E nesse caso aqui eu estou utilizando hífens para criar uma textura de tijolinho. E aqui no final é só utilizar a função lacuna de texto para fazer o fechamento. Agora é só duplicar esse texto com Ctrl-C e Ctrl-V e criando o padrão. Ele copia em cima, então utilizamos a ferramenta mover para empurrar um pouquinho para baixo Agora rotacionamos para criar um padrão intercalado Então duplicamos e vamos movendo para criar a textura É a solução ideal? Ainda não E você não precisa ficar limitado aos caracteres usuais Dá para baixar e utilizar fontes ornamentais ou com símbolos para criar texturas bem diferentes E olha isso, se eu preencher a peça de parênteses e utilizar esse modo de projeção surround aqui Olha como fica Novamente temos infinitas aplicações Basta ser criativo E não se esqueça de curtir e compartilhar esse post E para ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Como colocar texturas em superfícies curvas dentro do seu fatiador?"
+    },
+    {
+      "start": 5.1,
+      "end": 13.0,
+      "text": "Bem-vindo ao dia 123 e dentro do seu fatiador há uma limitação na importação de SVGs para essas superfícies."
+    },
+    {
+      "start": 13.1,
+      "end": 15.9,
+      "text": "Mas vamos ver como podemos contornar esse problema."
+    },
+    {
+      "start": 16.1,
+      "end": 20.7,
+      "text": "Se importarmos da forma usual como eu ensinei lá no dia 113 teremos esse problema aqui."
+    },
+    {
+      "start": 20.7,
+      "end": 27.2,
+      "text": "Depois de redimensionar a textura e utilizar a função use a superfície ele cria uma projeção na sua peça."
+    },
+    {
+      "start": 27.2,
+      "end": 31.6,
+      "text": "Veja que no cilindro o fatiador não consegue contornar os 360 graus."
+    },
+    {
+      "start": 31.8,
+      "end": 33.4,
+      "text": "E os cantos ficam esticados."
+    },
+    {
+      "start": 33.8,
+      "end": 37.9,
+      "text": "É claro que dá para utilizar a criatividade e encontrar uma aplicação para isso."
+    },
+    {
+      "start": 38.0,
+      "end": 42.8,
+      "text": "Mas se utilizarmos a função texto, verificamos que o fatiador consegue contornar a peça inteira."
+    },
+    {
+      "start": 42.9,
+      "end": 46.7,
+      "text": "E nesse caso aqui eu estou utilizando hífens para criar uma textura de tijolinho."
+    },
+    {
+      "start": 46.9,
+      "end": 50.8,
+      "text": "E aqui no final é só utilizar a função lacuna de texto para fazer o fechamento."
+    },
+    {
+      "start": 51.0,
+      "end": 55.5,
+      "text": "Agora é só duplicar esse texto com Ctrl-C e Ctrl-V e criando o padrão."
+    },
+    {
+      "start": 55.5,
+      "end": 59.7,
+      "text": "Ele copia em cima, então utilizamos a ferramenta mover para empurrar um pouquinho para baixo"
+    },
+    {
+      "start": 59.7,
+      "end": 62.3,
+      "text": "Agora rotacionamos para criar um padrão intercalado"
+    },
+    {
+      "start": 62.3,
+      "end": 65.3,
+      "text": "Então duplicamos e vamos movendo para criar a textura"
+    },
+    {
+      "start": 65.3,
+      "end": 67.2,
+      "text": "É a solução ideal? Ainda não"
+    },
+    {
+      "start": 67.2,
+      "end": 70.8,
+      "text": "E você não precisa ficar limitado aos caracteres usuais"
+    },
+    {
+      "start": 70.8,
+      "end": 76.0,
+      "text": "Dá para baixar e utilizar fontes ornamentais ou com símbolos para criar texturas bem diferentes"
+    },
+    {
+      "start": 76.0,
+      "end": 86.3,
+      "text": "E olha isso, se eu preencher a peça de parênteses e utilizar esse modo de projeção surround aqui"
+    },
+    {
+      "start": 86.3,
+      "end": 87.2,
+      "text": "Olha como fica"
+    },
+    {
+      "start": 87.2,
+      "end": 90.7,
+      "text": "Novamente temos infinitas aplicações"
+    },
+    {
+      "start": 90.7,
+      "end": 92.0,
+      "text": "Basta ser criativo"
+    },
+    {
+      "start": 92.0,
+      "end": 95.3,
+      "text": "E não se esqueça de curtir e compartilhar esse post"
+    },
+    {
+      "start": 95.3,
+      "end": 97.8,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 98.2,
+  "model": "large-v3-turbo"
+}

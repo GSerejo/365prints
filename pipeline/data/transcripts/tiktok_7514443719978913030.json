@@ -1,0 +1,17 @@
+{
+  "text": "Dia 18 de 365 impressões 3D aqui em casa. Hoje foi o dia de imprimir um calendário flip. Isso mesmo, um calendário. Tudo foi impresso na impressora 3D. Não precisei utilizar parafuso e nada adicional. Essa impressão demorou cerca de 7 horas e eu utilizei 200 gramas de PLA. Depois de impresso tudo, é só montar. E é claro, deu algum trabalho. Vamos ver como ficou. E aí, gostaram?",
+  "segments": [
+    {
+      "start": 2.6,
+      "end": 24.8,
+      "text": "Dia 18 de 365 impressões 3D aqui em casa. Hoje foi o dia de imprimir um calendário flip. Isso mesmo, um calendário. Tudo foi impresso na impressora 3D. Não precisei utilizar parafuso e nada adicional."
+    },
+    {
+      "start": 24.8,
+      "end": 72.4,
+      "text": "Essa impressão demorou cerca de 7 horas e eu utilizei 200 gramas de PLA. Depois de impresso tudo, é só montar. E é claro, deu algum trabalho. Vamos ver como ficou. E aí, gostaram?"
+    }
+  ],
+  "duration": 75.4,
+  "model": "large-v3-turbo"
+}

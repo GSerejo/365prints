@@ -1,0 +1,127 @@
+{
+  "text": "Saiu a nova autorização da Bambu Studio. E tem muita coisa boa. Bem-vindo ao dia 63 e eu vou te mostrar os destaques dessa nova autorização. Agora, assim como no Orca Slicer, você pode utilizar a aba Calibração. Vai ficar mais fácil de imprimir a torre de temperatura e fazer outras calibrações, como a máxima vazão volumétrica. Tem vários testes e isso dá mais liberdade para quem gosta de testar tudo. E o mais legal, se você tiver alguma dúvida, é só clicar nesse botão Tutorial. Mas lembre-se, para utilizar essa funcionalidade você deve habilitar o modo desenvolvedor lá na aba preferências O segundo destaque é uma atualização na ferramenta de texto Agora tem suporte para uma biblioteca maior de fontes O desempenho do arrastar foi aprimorado E o modo de projeção de quebra foi adicionado E a capacidade de colocar baixo relevo também está lá E nessa nova atualização temos a possibilidade de pintura da Fuzz Skin ou pele felpuda Pra mim a maior utilidade foi conseguir colocar esse recurso no texto, de forma rápida Lembre-se que pra utilizar essa ferramenta a opção nenhuma deve estar habilitada O 4 é uma melhoria na ferramenta de pintura Foi adicionado um conectado na mesma cor E agora você pode pintar uma área inteira conectada de uma vez só Ou utilizar a função pra detectar os cantos 5. Agora encontramos a costura cachecol lá na definições do processo, na aba qualidade É só habilitar essa função aqui E se você não sabe o que é isso, é só assistir meu vídeo do dia 62. Essas foram as minhas considerações sobre a atualização, mas tem muito mais coisa. E se você quiser o link pra saber de tudo que tem de novo no Bambu Estúdio, é só digitar link nos comentários.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Saiu a nova autorização da Bambu Studio. E tem muita coisa boa."
+    },
+    {
+      "start": 4.7,
+      "end": 9.1,
+      "text": "Bem-vindo ao dia 63 e eu vou te mostrar os destaques dessa nova autorização."
+    },
+    {
+      "start": 9.4,
+      "end": 13.6,
+      "text": "Agora, assim como no Orca Slicer, você pode utilizar a aba Calibração."
+    },
+    {
+      "start": 13.6,
+      "end": 20.6,
+      "text": "Vai ficar mais fácil de imprimir a torre de temperatura e fazer outras calibrações, como a máxima vazão volumétrica."
+    },
+    {
+      "start": 20.7,
+      "end": 24.8,
+      "text": "Tem vários testes e isso dá mais liberdade para quem gosta de testar tudo."
+    },
+    {
+      "start": 25.0,
+      "end": 28.8,
+      "text": "E o mais legal, se você tiver alguma dúvida, é só clicar nesse botão Tutorial."
+    },
+    {
+      "start": 28.8,
+      "end": 36.1,
+      "text": "Mas lembre-se, para utilizar essa funcionalidade você deve habilitar o modo desenvolvedor lá na aba preferências"
+    },
+    {
+      "start": 36.1,
+      "end": 39.8,
+      "text": "O segundo destaque é uma atualização na ferramenta de texto"
+    },
+    {
+      "start": 39.8,
+      "end": 42.9,
+      "text": "Agora tem suporte para uma biblioteca maior de fontes"
+    },
+    {
+      "start": 42.9,
+      "end": 45.6,
+      "text": "O desempenho do arrastar foi aprimorado"
+    },
+    {
+      "start": 45.6,
+      "end": 48.8,
+      "text": "E o modo de projeção de quebra foi adicionado"
+    },
+    {
+      "start": 48.8,
+      "end": 52.2,
+      "text": "E a capacidade de colocar baixo relevo também está lá"
+    },
+    {
+      "start": 52.2,
+      "end": 58.3,
+      "text": "E nessa nova atualização temos a possibilidade de pintura da Fuzz Skin ou pele felpuda"
+    },
+    {
+      "start": 58.3,
+      "end": 63.8,
+      "text": "Pra mim a maior utilidade foi conseguir colocar esse recurso no texto, de forma rápida"
+    },
+    {
+      "start": 63.8,
+      "end": 67.7,
+      "text": "Lembre-se que pra utilizar essa ferramenta a opção nenhuma deve estar habilitada"
+    },
+    {
+      "start": 67.7,
+      "end": 70.8,
+      "text": "O 4 é uma melhoria na ferramenta de pintura"
+    },
+    {
+      "start": 70.8,
+      "end": 73.2,
+      "text": "Foi adicionado um conectado na mesma cor"
+    },
+    {
+      "start": 73.2,
+      "end": 77.3,
+      "text": "E agora você pode pintar uma área inteira conectada de uma vez só"
+    },
+    {
+      "start": 77.3,
+      "end": 79.8,
+      "text": "Ou utilizar a função pra detectar os cantos"
+    },
+    {
+      "start": 79.8,
+      "end": 85.6,
+      "text": "5. Agora encontramos a costura cachecol lá na definições do processo, na aba qualidade"
+    },
+    {
+      "start": 85.6,
+      "end": 87.9,
+      "text": "É só habilitar essa função aqui"
+    },
+    {
+      "start": 87.9,
+      "end": 91.8,
+      "text": "E se você não sabe o que é isso, é só assistir meu vídeo do dia 62."
+    },
+    {
+      "start": 92.3,
+      "end": 97.4,
+      "text": "Essas foram as minhas considerações sobre a atualização, mas tem muito mais coisa."
+    },
+    {
+      "start": 97.6,
+      "end": 104.2,
+      "text": "E se você quiser o link pra saber de tudo que tem de novo no Bambu Estúdio, é só digitar link nos comentários."
+    }
+  ],
+  "duration": 104.8,
+  "model": "large-v3-turbo"
+}

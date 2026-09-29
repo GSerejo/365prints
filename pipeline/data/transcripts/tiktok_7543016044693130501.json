@@ -1,0 +1,67 @@
+{
+  "text": "Alexa, ligar abajur. Tudo bem. Bem-vindo ao dia 74. E hoje eu uni automação com impressão 3D. E se você quer saber como, é só assistir até o final. Eu peguei um abajur que imprime em 3D e transformei ele num abajur inteligente. E pra isso você vai precisar de um soquete pra lâmpada, um pedaço de fio e um plugue de tomada. E o jeito mais fácil é com uma tomada inteligente. Você simplesmente conecta e pronto. Mas se você quiser, pode usar uma lâmpada inteligente ou um módulo de interruptor A propósito, eu imprimi esse abajur com o PLA da 3D Brothers Usei a cor bronze na base e o bege na cúpula O resultado ficou incrível E se você quiser o link pra todos os itens que eu utilizei nesse projeto É só digitar abajur nos comentários E pra ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.6,
+      "text": "Alexa, ligar abajur. Tudo bem."
+    },
+    {
+      "start": 4.2,
+      "end": 12.4,
+      "text": "Bem-vindo ao dia 74. E hoje eu uni automação com impressão 3D. E se você quer saber como, é só assistir até o final."
+    },
+    {
+      "start": 12.9,
+      "end": 17.5,
+      "text": "Eu peguei um abajur que imprime em 3D e transformei ele num abajur inteligente."
+    },
+    {
+      "start": 17.6,
+      "end": 22.3,
+      "text": "E pra isso você vai precisar de um soquete pra lâmpada, um pedaço de fio e um plugue de tomada."
+    },
+    {
+      "start": 22.3,
+      "end": 27.3,
+      "text": "E o jeito mais fácil é com uma tomada inteligente. Você simplesmente conecta e pronto."
+    },
+    {
+      "start": 27.3,
+      "end": 31.5,
+      "text": "Mas se você quiser, pode usar uma lâmpada inteligente ou um módulo de interruptor"
+    },
+    {
+      "start": 31.5,
+      "end": 35.4,
+      "text": "A propósito, eu imprimi esse abajur com o PLA da 3D Brothers"
+    },
+    {
+      "start": 35.4,
+      "end": 38.2,
+      "text": "Usei a cor bronze na base e o bege na cúpula"
+    },
+    {
+      "start": 38.2,
+      "end": 39.8,
+      "text": "O resultado ficou incrível"
+    },
+    {
+      "start": 39.8,
+      "end": 43.4,
+      "text": "E se você quiser o link pra todos os itens que eu utilizei nesse projeto"
+    },
+    {
+      "start": 43.4,
+      "end": 45.5,
+      "text": "É só digitar abajur nos comentários"
+    },
+    {
+      "start": 45.5,
+      "end": 48.5,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 48.9,
+  "model": "large-v3-turbo"
+}

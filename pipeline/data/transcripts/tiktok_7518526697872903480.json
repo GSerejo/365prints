@@ -1,0 +1,27 @@
+{
+  "text": "Dia 27 de 365. Impressões 3D aqui em casa. É isso mesmo. E hoje foi o dia de imprimir o Hulk. E olha a qualidade dessa impressão. Eu utilizei o PLA Fosco da Bambu Lab pra todo esse projeto. Qual personagem eu devo imprimir agora? Escreva aí nos comentários. E até a próxima.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "Dia 27 de 365. Impressões 3D aqui em casa."
+    },
+    {
+      "start": 7.5,
+      "end": 33.0,
+      "text": "É isso mesmo. E hoje foi o dia de imprimir o Hulk. E olha a qualidade dessa impressão."
+    },
+    {
+      "start": 33.0,
+      "end": 39.8,
+      "text": "Eu utilizei o PLA Fosco da Bambu Lab pra todo esse projeto. Qual personagem eu devo imprimir agora?"
+    },
+    {
+      "start": 40.3,
+      "end": 42.9,
+      "text": "Escreva aí nos comentários. E até a próxima."
+    }
+  ],
+  "duration": 43.6,
+  "model": "large-v3-turbo"
+}

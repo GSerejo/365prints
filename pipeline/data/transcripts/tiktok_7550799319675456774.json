@@ -1,0 +1,97 @@
+{
+  "text": "É possível enviar o mesmo arquivo para mais de uma impressora ao mesmo tempo? É claro que dá! Bem-vindo ao dia 90 e hoje eu vou mostrar para vocês uma função escondida dentro do Bambu Studio. E para habilitá-la, clique em Preferências e selecione a opção de gerenciamento de multidispositivos. Depois de reinicializar o Bambu Studio, você pode adicionar até 6 impressoras. Aqui eu adicionei minha P1S e minhas duas A1. Depois de fatiado é só utilizar essa função para enviar para dois dispositivos ou mais E é claro, se eu fatiei pela A1 eu não vou conseguir enviar para a minha P1S Outra coisa importante é que uma das minhas A1 não tem o AMS Então eu utilizei o carretel externo nas duas E aqui você pode selecionar as opções de impressão E o consumo energético das impressoras é maior no início pelo aquecimento da mesa Então você pode enviar em bateladas com tempos diferentes Aqui vai algumas limitações que é importante destacar Essa função permite apenas seis impressoras Se você precisar de mais numa farm, por exemplo, você deve utilizar o software Bamboo Farm Manager. O multidevice também não funciona se você só estiver usando o modo LAN. E por último, se você for fazer uma impressão multicolor, o AMS de cada uma deve estar mapeado com os mesmos filamentos. E é isso pessoal, se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.1,
+      "text": "É possível enviar o mesmo arquivo para mais de uma impressora ao mesmo tempo? É claro que dá!"
+    },
+    {
+      "start": 7.4,
+      "end": 12.6,
+      "text": "Bem-vindo ao dia 90 e hoje eu vou mostrar para vocês uma função escondida dentro do Bambu Studio."
+    },
+    {
+      "start": 12.8,
+      "end": 18.3,
+      "text": "E para habilitá-la, clique em Preferências e selecione a opção de gerenciamento de multidispositivos."
+    },
+    {
+      "start": 18.4,
+      "end": 22.9,
+      "text": "Depois de reinicializar o Bambu Studio, você pode adicionar até 6 impressoras."
+    },
+    {
+      "start": 22.9,
+      "end": 25.7,
+      "text": "Aqui eu adicionei minha P1S e minhas duas A1."
+    },
+    {
+      "start": 25.7,
+      "end": 30.5,
+      "text": "Depois de fatiado é só utilizar essa função para enviar para dois dispositivos ou mais"
+    },
+    {
+      "start": 30.5,
+      "end": 34.4,
+      "text": "E é claro, se eu fatiei pela A1 eu não vou conseguir enviar para a minha P1S"
+    },
+    {
+      "start": 34.4,
+      "end": 37.9,
+      "text": "Outra coisa importante é que uma das minhas A1 não tem o AMS"
+    },
+    {
+      "start": 37.9,
+      "end": 40.3,
+      "text": "Então eu utilizei o carretel externo nas duas"
+    },
+    {
+      "start": 40.3,
+      "end": 43.1,
+      "text": "E aqui você pode selecionar as opções de impressão"
+    },
+    {
+      "start": 43.1,
+      "end": 46.9,
+      "text": "E o consumo energético das impressoras é maior no início pelo aquecimento da mesa"
+    },
+    {
+      "start": 46.9,
+      "end": 49.8,
+      "text": "Então você pode enviar em bateladas com tempos diferentes"
+    },
+    {
+      "start": 49.8,
+      "end": 53.0,
+      "text": "Aqui vai algumas limitações que é importante destacar"
+    },
+    {
+      "start": 53.0,
+      "end": 55.6,
+      "text": "Essa função permite apenas seis impressoras"
+    },
+    {
+      "start": 55.6,
+      "end": 61.2,
+      "text": "Se você precisar de mais numa farm, por exemplo, você deve utilizar o software Bamboo Farm Manager."
+    },
+    {
+      "start": 61.3,
+      "end": 65.5,
+      "text": "O multidevice também não funciona se você só estiver usando o modo LAN."
+    },
+    {
+      "start": 65.6,
+      "end": 72.6,
+      "text": "E por último, se você for fazer uma impressão multicolor, o AMS de cada uma deve estar mapeado com os mesmos filamentos."
+    },
+    {
+      "start": 72.8,
+      "end": 77.9,
+      "text": "E é isso pessoal, se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 78.2,
+  "model": "large-v3-turbo"
+}

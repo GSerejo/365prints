@@ -1,0 +1,182 @@
+{
+  "text": "Encontrei uma mesa boa e barata. Bem-vindo ao dia 70. E se você está tendo problemas com aderência e warping, talvez essa seja a solução. Essa é uma placa fria. Ou seja, para PLA ela promete uma impressão na faixa de 30 a 50 graus e para PETG de 50 a 70 graus. Agora vamos aos testes. Esse aí foi um PETG impresso com a mesa 50 graus. A aderência foi ótima e a remoção foi fácil. Esse foi um teste com PETG a 70 graus. Melhor aderência, mas ainda assim a remoção é fácil Esse foi com PLA a 45 graus E mesmo a 35 graus a gente não observa o warping e a aderência ficou muito boa E com uma peça mais alta notamos o mesmo comportamento Assim como outras placas frias como a CryoGrip, essa aderência tende a diminuir com o tempo E ainda em relação a CryoGrip e Frostbite, eu achei que ela adere menos no começo O que facilita a remoção na verdade Aliás, o que eu mais gostei nela é que ela tem um acabamento fosco Diferente da Pei e da CryoGrip Ah, e a textura é bem mais sutil Esse é o acabamento da base utilizando a FreshBite Veja que é brilhoso e bem texturizado Já o acabamento da placa que estamos testando Que eu vou chamar aqui de CoolPlate É fosco, mais liso e sem textura Agora vamos para as considerações finais Primeiro é importante saber que eu não achei muitas informações dessa placa na internet Então os procedimentos de limpeza eu vou utilizar água e sabão e não álcool isopropil Que na verdade é a melhor opção se você quer limpar realmente a mesa Eu venho testando ela há cerca de 20 dias E ainda não tive problema com warp nem aderência Mas eu tenho certeza que com o tempo, assim como as outras, ela vai ficar menos eficiente Ela só funciona pra PLA e PETG, mas eu acho que pelo investimento vale a pena testar Eu peguei ela numa promoção e paguei 142 reais com taxas e frete E se você quiser o link delas, é só olhar a descrição do vídeo. E dá uma força aí, me siga pra eu conseguir trazer conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 2.5,
+      "text": "Encontrei uma mesa boa e barata."
+    },
+    {
+      "start": 2.9,
+      "end": 4.4,
+      "text": "Bem-vindo ao dia 70."
+    },
+    {
+      "start": 4.5,
+      "end": 9.1,
+      "text": "E se você está tendo problemas com aderência e warping, talvez essa seja a solução."
+    },
+    {
+      "start": 9.1,
+      "end": 10.5,
+      "text": "Essa é uma placa fria."
+    },
+    {
+      "start": 10.5,
+      "end": 17.7,
+      "text": "Ou seja, para PLA ela promete uma impressão na faixa de 30 a 50 graus e para PETG de 50 a 70 graus."
+    },
+    {
+      "start": 17.8,
+      "end": 19.1,
+      "text": "Agora vamos aos testes."
+    },
+    {
+      "start": 19.4,
+      "end": 22.3,
+      "text": "Esse aí foi um PETG impresso com a mesa 50 graus."
+    },
+    {
+      "start": 22.4,
+      "end": 25.0,
+      "text": "A aderência foi ótima e a remoção foi fácil."
+    },
+    {
+      "start": 25.2,
+      "end": 27.9,
+      "text": "Esse foi um teste com PETG a 70 graus."
+    },
+    {
+      "start": 27.9,
+      "end": 34.2,
+      "text": "Melhor aderência, mas ainda assim a remoção é fácil"
+    },
+    {
+      "start": 34.2,
+      "end": 39.5,
+      "text": "Esse foi com PLA a 45 graus"
+    },
+    {
+      "start": 39.5,
+      "end": 48.1,
+      "text": "E mesmo a 35 graus a gente não observa o warping e a aderência ficou muito boa"
+    },
+    {
+      "start": 48.1,
+      "end": 51.6,
+      "text": "E com uma peça mais alta notamos o mesmo comportamento"
+    },
+    {
+      "start": 51.6,
+      "end": 56.5,
+      "text": "Assim como outras placas frias como a CryoGrip, essa aderência tende a diminuir com o tempo"
+    },
+    {
+      "start": 56.5,
+      "end": 61.0,
+      "text": "E ainda em relação a CryoGrip e Frostbite, eu achei que ela adere menos no começo"
+    },
+    {
+      "start": 61.0,
+      "end": 62.8,
+      "text": "O que facilita a remoção na verdade"
+    },
+    {
+      "start": 62.8,
+      "end": 66.5,
+      "text": "Aliás, o que eu mais gostei nela é que ela tem um acabamento fosco"
+    },
+    {
+      "start": 66.5,
+      "end": 68.4,
+      "text": "Diferente da Pei e da CryoGrip"
+    },
+    {
+      "start": 68.4,
+      "end": 70.7,
+      "text": "Ah, e a textura é bem mais sutil"
+    },
+    {
+      "start": 70.7,
+      "end": 73.5,
+      "text": "Esse é o acabamento da base utilizando a FreshBite"
+    },
+    {
+      "start": 73.5,
+      "end": 76.0,
+      "text": "Veja que é brilhoso e bem texturizado"
+    },
+    {
+      "start": 76.0,
+      "end": 78.1,
+      "text": "Já o acabamento da placa que estamos testando"
+    },
+    {
+      "start": 78.1,
+      "end": 79.9,
+      "text": "Que eu vou chamar aqui de CoolPlate"
+    },
+    {
+      "start": 79.9,
+      "end": 82.2,
+      "text": "É fosco, mais liso e sem textura"
+    },
+    {
+      "start": 82.2,
+      "end": 84.8,
+      "text": "Agora vamos para as considerações finais"
+    },
+    {
+      "start": 84.8,
+      "end": 88.6,
+      "text": "Primeiro é importante saber que eu não achei muitas informações dessa placa na internet"
+    },
+    {
+      "start": 88.6,
+      "end": 93.6,
+      "text": "Então os procedimentos de limpeza eu vou utilizar água e sabão e não álcool isopropil"
+    },
+    {
+      "start": 93.6,
+      "end": 96.7,
+      "text": "Que na verdade é a melhor opção se você quer limpar realmente a mesa"
+    },
+    {
+      "start": 96.7,
+      "end": 99.2,
+      "text": "Eu venho testando ela há cerca de 20 dias"
+    },
+    {
+      "start": 99.2,
+      "end": 101.7,
+      "text": "E ainda não tive problema com warp nem aderência"
+    },
+    {
+      "start": 101.7,
+      "end": 106.3,
+      "text": "Mas eu tenho certeza que com o tempo, assim como as outras, ela vai ficar menos eficiente"
+    },
+    {
+      "start": 106.3,
+      "end": 111.4,
+      "text": "Ela só funciona pra PLA e PETG, mas eu acho que pelo investimento vale a pena testar"
+    },
+    {
+      "start": 111.4,
+      "end": 115.7,
+      "text": "Eu peguei ela numa promoção e paguei 142 reais com taxas e frete"
+    },
+    {
+      "start": 115.7,
+      "end": 119.2,
+      "text": "E se você quiser o link delas, é só olhar a descrição do vídeo."
+    },
+    {
+      "start": 119.3,
+      "end": 123.0,
+      "text": "E dá uma força aí, me siga pra eu conseguir trazer conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 123.4,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,112 @@
+{
+  "text": "Pare de usar Fuzzy Skin para esconder as linhas de impressão. É possível pôr texturas dentro do próprio fatiador. Bem-vindo ao dia 113 e eu vou te mostrar como fazer isso de uma maneira rápida. Vá no Google e procure por Black & White Patterns. Em imagem, escolha a que mais agradar e salve no seu computador. Agora no Google, procure por esse conversor online. Vamos converter a imagem que acabamos de salvar em SVG. Agora é só upar a imagem e depois do processo concluído é só salvar o SVG no seu computador. No fatiador clique com o botão direito no modelo que você quer pôr a textura Clique em adicionar PS e depois SVG e escolha o arquivo que você salvou A primeira coisa que vamos fazer agora é utilizar a superfície para delimitar os cantos Veja que a textura está no modelo em alto relevo com 10mm de espessura Vamos utilizar a função cortar para colocar embaixo o relevo Para evitar suportes vamos utilizar uma profundidade de 0,5mm E no fatiamento a gente já consegue visualizar a textura nessa face E o mais legal é que você consegue importar outro SVG como um logo por exemplo E com o quadradinho amarelo a gente clica e arrasta e posiciona na face que está a textura. Agora é só redimensionar e utilizar a função cortar novamente para colocar em baixo relevo com uma profundidade de 1mm. E isso abriu um mundo para a personalização de peças. Olha alguns resultados que eu obtive. Imagine isso em chaveiros multipartes. Eu testei várias e ainda não consegui decidir qual foi a melhor. Olha esses acabamentos. Gostaram desse conteúdo? Então me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.4,
+      "text": "Pare de usar Fuzzy Skin para esconder as linhas de impressão. É possível pôr texturas dentro do próprio fatiador."
+    },
+    {
+      "start": 7.8,
+      "end": 12.2,
+      "text": "Bem-vindo ao dia 113 e eu vou te mostrar como fazer isso de uma maneira rápida."
+    },
+    {
+      "start": 12.2,
+      "end": 18.3,
+      "text": "Vá no Google e procure por Black & White Patterns. Em imagem, escolha a que mais agradar e salve no seu computador."
+    },
+    {
+      "start": 18.5,
+      "end": 24.2,
+      "text": "Agora no Google, procure por esse conversor online. Vamos converter a imagem que acabamos de salvar em SVG."
+    },
+    {
+      "start": 24.2,
+      "end": 28.9,
+      "text": "Agora é só upar a imagem e depois do processo concluído é só salvar o SVG no seu computador."
+    },
+    {
+      "start": 28.9,
+      "end": 32.7,
+      "text": "No fatiador clique com o botão direito no modelo que você quer pôr a textura"
+    },
+    {
+      "start": 32.7,
+      "end": 36.4,
+      "text": "Clique em adicionar PS e depois SVG e escolha o arquivo que você salvou"
+    },
+    {
+      "start": 36.4,
+      "end": 40.6,
+      "text": "A primeira coisa que vamos fazer agora é utilizar a superfície para delimitar os cantos"
+    },
+    {
+      "start": 40.6,
+      "end": 44.6,
+      "text": "Veja que a textura está no modelo em alto relevo com 10mm de espessura"
+    },
+    {
+      "start": 44.6,
+      "end": 47.5,
+      "text": "Vamos utilizar a função cortar para colocar embaixo o relevo"
+    },
+    {
+      "start": 47.5,
+      "end": 51.3,
+      "text": "Para evitar suportes vamos utilizar uma profundidade de 0,5mm"
+    },
+    {
+      "start": 51.3,
+      "end": 54.8,
+      "text": "E no fatiamento a gente já consegue visualizar a textura nessa face"
+    },
+    {
+      "start": 54.8,
+      "end": 58.7,
+      "text": "E o mais legal é que você consegue importar outro SVG como um logo por exemplo"
+    },
+    {
+      "start": 58.7,
+      "end": 63.1,
+      "text": "E com o quadradinho amarelo a gente clica e arrasta e posiciona na face que está a textura."
+    },
+    {
+      "start": 63.2,
+      "end": 69.2,
+      "text": "Agora é só redimensionar e utilizar a função cortar novamente para colocar em baixo relevo com uma profundidade de 1mm."
+    },
+    {
+      "start": 69.4,
+      "end": 72.2,
+      "text": "E isso abriu um mundo para a personalização de peças."
+    },
+    {
+      "start": 72.6,
+      "end": 74.5,
+      "text": "Olha alguns resultados que eu obtive."
+    },
+    {
+      "start": 74.8,
+      "end": 77.2,
+      "text": "Imagine isso em chaveiros multipartes."
+    },
+    {
+      "start": 77.3,
+      "end": 81.0,
+      "text": "Eu testei várias e ainda não consegui decidir qual foi a melhor."
+    },
+    {
+      "start": 81.3,
+      "end": 83.0,
+      "text": "Olha esses acabamentos."
+    },
+    {
+      "start": 83.4,
+      "end": 87.6,
+      "text": "Gostaram desse conteúdo? Então me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 88.3,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,62 @@
+{
+  "text": "Como aplicar uma logo colorida nas suas peças 3D. Bem-vindo ao dia 237. Algumas maneiras de fazer isso e eu vou explicar uma delas. Vamos utilizar o laboratório de criação do Maker. E a ferramenta utilizada será a grafite em malha. Então é só upar o 3MF e o STL do produto que queremos personalizar. Essa é uma ferramenta de pintura e podemos upar uma imagem colorida. Depois removemos o fundo, alteramos o tamanho, posicionamos na peça e aplicamos. Pronto, agora é só exportar em 3MF e abrir no fatiador E pra aprender a fazer essas caixinhas dobráveis é só ver meu vídeo do dia 197 E não esqueça de me seguir pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Como aplicar uma logo colorida nas suas peças 3D."
+    },
+    {
+      "start": 3.8,
+      "end": 6.1,
+      "text": "Bem-vindo ao dia 237."
+    },
+    {
+      "start": 6.1,
+      "end": 8.9,
+      "text": "Algumas maneiras de fazer isso e eu vou explicar uma delas."
+    },
+    {
+      "start": 9.0,
+      "end": 11.4,
+      "text": "Vamos utilizar o laboratório de criação do Maker."
+    },
+    {
+      "start": 11.5,
+      "end": 14.1,
+      "text": "E a ferramenta utilizada será a grafite em malha."
+    },
+    {
+      "start": 14.2,
+      "end": 18.4,
+      "text": "Então é só upar o 3MF e o STL do produto que queremos personalizar."
+    },
+    {
+      "start": 18.5,
+      "end": 21.9,
+      "text": "Essa é uma ferramenta de pintura e podemos upar uma imagem colorida."
+    },
+    {
+      "start": 22.4,
+      "end": 27.3,
+      "text": "Depois removemos o fundo, alteramos o tamanho, posicionamos na peça e aplicamos."
+    },
+    {
+      "start": 27.3,
+      "end": 31.1,
+      "text": "Pronto, agora é só exportar em 3MF e abrir no fatiador"
+    },
+    {
+      "start": 31.1,
+      "end": 35.9,
+      "text": "E pra aprender a fazer essas caixinhas dobráveis é só ver meu vídeo do dia 197"
+    },
+    {
+      "start": 35.9,
+      "end": 39.4,
+      "text": "E não esqueça de me seguir pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 39.7,
+  "model": "large-v3-turbo"
+}

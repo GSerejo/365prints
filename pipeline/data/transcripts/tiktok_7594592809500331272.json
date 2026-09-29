@@ -1,0 +1,72 @@
+{
+  "text": "Ativar esse parâmetro pode melhorar a qualidade das suas peças impressas. Bem-vindo ao dia 154. Para habilitar essa função, nós precisamos ativar o modo desenvolvedor lá em Preferências. E agora sim, na aba Qualidade, marcamos a opção de Parede Precisa. Muita gente não sabe, mas por padrão as paredes se sobrepõem para dar força. E esse contato da parede interna com a parede externa pode criar uma pressão e deslocar a parede externa em várias camadas. E isso pode causar essas irregularidades. A função parede precisa ajuda a resolver isso O fatiador recalcula o espaçamento exato entre a parede interna e a parede externa Diminuindo a sobreposição e reduzindo essa pressão E isso melhora a consistência entre camadas e a precisão dimensional E essa função pode ser combinada com outros parâmetros para melhorar ainda mais a qualidade das suas peças Se quiser mais vídeos como este, é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Ativar esse parâmetro pode melhorar a qualidade das suas peças impressas."
+    },
+    {
+      "start": 5.2,
+      "end": 7.1,
+      "text": "Bem-vindo ao dia 154."
+    },
+    {
+      "start": 7.3,
+      "end": 12.4,
+      "text": "Para habilitar essa função, nós precisamos ativar o modo desenvolvedor lá em Preferências."
+    },
+    {
+      "start": 12.4,
+      "end": 16.3,
+      "text": "E agora sim, na aba Qualidade, marcamos a opção de Parede Precisa."
+    },
+    {
+      "start": 16.3,
+      "end": 20.3,
+      "text": "Muita gente não sabe, mas por padrão as paredes se sobrepõem para dar força."
+    },
+    {
+      "start": 20.4,
+      "end": 26.9,
+      "text": "E esse contato da parede interna com a parede externa pode criar uma pressão e deslocar a parede externa em várias camadas."
+    },
+    {
+      "start": 26.9,
+      "end": 28.9,
+      "text": "E isso pode causar essas irregularidades."
+    },
+    {
+      "start": 29.6,
+      "end": 32.3,
+      "text": "A função parede precisa ajuda a resolver isso"
+    },
+    {
+      "start": 32.3,
+      "end": 36.5,
+      "text": "O fatiador recalcula o espaçamento exato entre a parede interna e a parede externa"
+    },
+    {
+      "start": 36.5,
+      "end": 38.9,
+      "text": "Diminuindo a sobreposição e reduzindo essa pressão"
+    },
+    {
+      "start": 39.6,
+      "end": 43.4,
+      "text": "E isso melhora a consistência entre camadas e a precisão dimensional"
+    },
+    {
+      "start": 43.4,
+      "end": 49.4,
+      "text": "E essa função pode ser combinada com outros parâmetros para melhorar ainda mais a qualidade das suas peças"
+    },
+    {
+      "start": 49.4,
+      "end": 52.0,
+      "text": "Se quiser mais vídeos como este, é só me seguir"
+    }
+  ],
+  "duration": 52.5,
+  "model": "large-v3-turbo"
+}

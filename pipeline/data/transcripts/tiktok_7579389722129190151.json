@@ -1,0 +1,152 @@
+{
+  "text": "A principal calibração para uma superfície de topo lisa. Bem-vindo ao dia 135, eu fui imprimir o gaguinho e a superfície da base estava com sinais de substrução. E a culpa dessas lacunas é a taxa de vazão ou relação de fluxo descalibrada. Esse parâmetro diz a impressora quanto de filamento deve ser empurrado e a gente vai calibrar ele agora. Lá no Bambu Studio a gente vai na aba calibração. E aqui a gente quer calibrar a vazão do filamento. Clicamos no botão calibração manual para iniciar o processo E não se esqueça de escolher o filamento e o tipo de placa que você está usando Então é só apertar no botão calibrar O fatiador envia a primeira etapa de calibração para a impressora Com plaquinhas que diferenciam a vazão em 5% Depois de impresso a gente avalia visualmente a plaquinha que tem a melhor superfície E como a gente pode observar o padrão que é a plaquinha 0 está com sinais de substrução O melhor resultado aqui foi a plaquinha de número 5 Ou seja, com 5% a mais na taxa de vazão Voltamos para o fatiador e informamos o melhor resultado para ir para a segunda etapa Agora o fatiador envia outro teste para a impressora com plaquinhas diminuindo a vazão em 1% Essa é a calibração fina E o melhor resultado aqui foi a plaquinha de número 0 Ou seja, continuaremos com o mesmo valor calibrado na primeira etapa Voltamos ao fatiador e informamos o melhor resultado Então podemos salvar uma pré-definição de um novo filamento Agora é só escolher a pré-definição que acabamos de salvar e podemos conferir na edição do filamento se a relação de fluxo está com o valor atualizado. Nesse caso tudo certo, lembrando que o padrão normalmente é 0,98. Esse novo resultado melhora muito a superfície de topo. E sim, antes que alguém fale, a superfície não fica perfeitamente lisa. Mas o antes e o depois tem uma diferença significativa. E existem outras calibrações que infelizmente não consigo abordar tudo num vídeo de 2 minutos. E se você gostou desse vídeo, me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.7,
+      "text": "A principal calibração para uma superfície de topo lisa."
+    },
+    {
+      "start": 4.2,
+      "end": 10.7,
+      "text": "Bem-vindo ao dia 135, eu fui imprimir o gaguinho e a superfície da base estava com sinais de substrução."
+    },
+    {
+      "start": 11.0,
+      "end": 15.8,
+      "text": "E a culpa dessas lacunas é a taxa de vazão ou relação de fluxo descalibrada."
+    },
+    {
+      "start": 15.9,
+      "end": 21.3,
+      "text": "Esse parâmetro diz a impressora quanto de filamento deve ser empurrado e a gente vai calibrar ele agora."
+    },
+    {
+      "start": 21.3,
+      "end": 24.3,
+      "text": "Lá no Bambu Studio a gente vai na aba calibração."
+    },
+    {
+      "start": 24.6,
+      "end": 27.5,
+      "text": "E aqui a gente quer calibrar a vazão do filamento."
+    },
+    {
+      "start": 27.5,
+      "end": 31.2,
+      "text": "Clicamos no botão calibração manual para iniciar o processo"
+    },
+    {
+      "start": 31.2,
+      "end": 35.3,
+      "text": "E não se esqueça de escolher o filamento e o tipo de placa que você está usando"
+    },
+    {
+      "start": 35.3,
+      "end": 37.3,
+      "text": "Então é só apertar no botão calibrar"
+    },
+    {
+      "start": 37.3,
+      "end": 40.1,
+      "text": "O fatiador envia a primeira etapa de calibração para a impressora"
+    },
+    {
+      "start": 40.1,
+      "end": 43.2,
+      "text": "Com plaquinhas que diferenciam a vazão em 5%"
+    },
+    {
+      "start": 43.2,
+      "end": 47.7,
+      "text": "Depois de impresso a gente avalia visualmente a plaquinha que tem a melhor superfície"
+    },
+    {
+      "start": 47.7,
+      "end": 52.4,
+      "text": "E como a gente pode observar o padrão que é a plaquinha 0 está com sinais de substrução"
+    },
+    {
+      "start": 52.4,
+      "end": 55.2,
+      "text": "O melhor resultado aqui foi a plaquinha de número 5"
+    },
+    {
+      "start": 55.2,
+      "end": 58.8,
+      "text": "Ou seja, com 5% a mais na taxa de vazão"
+    },
+    {
+      "start": 58.8,
+      "end": 63.1,
+      "text": "Voltamos para o fatiador e informamos o melhor resultado para ir para a segunda etapa"
+    },
+    {
+      "start": 63.1,
+      "end": 68.6,
+      "text": "Agora o fatiador envia outro teste para a impressora com plaquinhas diminuindo a vazão em 1%"
+    },
+    {
+      "start": 68.6,
+      "end": 70.2,
+      "text": "Essa é a calibração fina"
+    },
+    {
+      "start": 70.2,
+      "end": 72.7,
+      "text": "E o melhor resultado aqui foi a plaquinha de número 0"
+    },
+    {
+      "start": 72.7,
+      "end": 76.4,
+      "text": "Ou seja, continuaremos com o mesmo valor calibrado na primeira etapa"
+    },
+    {
+      "start": 76.4,
+      "end": 79.2,
+      "text": "Voltamos ao fatiador e informamos o melhor resultado"
+    },
+    {
+      "start": 79.2,
+      "end": 82.5,
+      "text": "Então podemos salvar uma pré-definição de um novo filamento"
+    },
+    {
+      "start": 82.5,
+      "end": 89.9,
+      "text": "Agora é só escolher a pré-definição que acabamos de salvar e podemos conferir na edição do filamento se a relação de fluxo está com o valor atualizado."
+    },
+    {
+      "start": 90.0,
+      "end": 93.9,
+      "text": "Nesse caso tudo certo, lembrando que o padrão normalmente é 0,98."
+    },
+    {
+      "start": 94.5,
+      "end": 97.6,
+      "text": "Esse novo resultado melhora muito a superfície de topo."
+    },
+    {
+      "start": 97.7,
+      "end": 101.9,
+      "text": "E sim, antes que alguém fale, a superfície não fica perfeitamente lisa."
+    },
+    {
+      "start": 102.0,
+      "end": 105.4,
+      "text": "Mas o antes e o depois tem uma diferença significativa."
+    },
+    {
+      "start": 105.7,
+      "end": 110.7,
+      "text": "E existem outras calibrações que infelizmente não consigo abordar tudo num vídeo de 2 minutos."
+    },
+    {
+      "start": 110.7,
+      "end": 114.8,
+      "text": "E se você gostou desse vídeo, me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 115.1,
+  "model": "large-v3-turbo"
+}

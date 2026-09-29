@@ -1,0 +1,57 @@
+{
+  "text": "Eu imprimi esse suporte vertical pra AMS, mas depois de um tempo de uso, essa peça quebrou. Bem-vindo ao dia 155. E a culpa não foi do modelo nem do filamento, fui eu que imprimi com pouca resistência e flexibilidade. Esse suporte é rotativo e ele fica flexionando aquela peça ali. E uma maneira de resolver isso é aumentando o número de paredes do modelo todo. E eu expliquei isso lá no dia 121. Outra maneira é resolver pontualmente com modificador, deixando aquela região 100% só. E eu falei sobre modificadores lá no vídeo do dia 127. Depois é só imprimir novamente e vamos ver quanto tempo dura. A propósito, esse modelo é muito prático, economiza bastante espaço e ainda dá pra você utilizar o carretel externo. É muito melhor que esse suporte aí. O link desse modelo tá na descrição e se você quiser ver mais vídeos como este, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": "Eu imprimi esse suporte vertical pra AMS, mas depois de um tempo de uso, essa peça quebrou."
+    },
+    {
+      "start": 6.7,
+      "end": 14.5,
+      "text": "Bem-vindo ao dia 155. E a culpa não foi do modelo nem do filamento, fui eu que imprimi com pouca resistência e flexibilidade."
+    },
+    {
+      "start": 14.6,
+      "end": 18.4,
+      "text": "Esse suporte é rotativo e ele fica flexionando aquela peça ali."
+    },
+    {
+      "start": 18.4,
+      "end": 22.7,
+      "text": "E uma maneira de resolver isso é aumentando o número de paredes do modelo todo."
+    },
+    {
+      "start": 22.7,
+      "end": 30.0,
+      "text": "E eu expliquei isso lá no dia 121. Outra maneira é resolver pontualmente com modificador, deixando aquela região 100% só."
+    },
+    {
+      "start": 30.0,
+      "end": 33.4,
+      "text": "E eu falei sobre modificadores lá no vídeo do dia 127."
+    },
+    {
+      "start": 33.7,
+      "end": 36.4,
+      "text": "Depois é só imprimir novamente e vamos ver quanto tempo dura."
+    },
+    {
+      "start": 36.7,
+      "end": 42.5,
+      "text": "A propósito, esse modelo é muito prático, economiza bastante espaço e ainda dá pra você utilizar o carretel externo."
+    },
+    {
+      "start": 42.6,
+      "end": 44.8,
+      "text": "É muito melhor que esse suporte aí."
+    },
+    {
+      "start": 45.0,
+      "end": 50.0,
+      "text": "O link desse modelo tá na descrição e se você quiser ver mais vídeos como este, é só me seguir."
+    }
+  ],
+  "duration": 50.3,
+  "model": "large-v3-turbo"
+}

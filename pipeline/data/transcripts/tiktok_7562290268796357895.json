@@ -1,0 +1,67 @@
+{
+  "text": "Como minimizar essas linhas de impressão sem aumentar o tempo? Bem-vindo ao dia 109, eu vou usar como exemplo essa abóbora aí. Veja que na configuração padrão as superfícies de topo estão bem marcadas com os degraus. Lá na aba qualidade vamos alterar essa configuração para não aplicar. E na aba força mudamos o padrão de superfície superior para concêntrico. Dá uma olhada nesse antes e depois. Melhorou bastante, né? E o tempo de impressão até diminuiu. Pode melhorar ainda mais com o recurso de altura de camada variável que eu expliquei lá no dia 54. Mas essa ferramenta aumenta o tempo de impressão em mais de duas horas. E o resultado que eu obtive alterando apenas aqueles dois parâmetros que eu expliquei no início do vídeo foi bastante satisfatório. E basicamente com o mesmo tempo de impressão. Gostaram dessa dica? Então me siga para mais.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Como minimizar essas linhas de impressão sem aumentar o tempo?"
+    },
+    {
+      "start": 4.6,
+      "end": 8.9,
+      "text": "Bem-vindo ao dia 109, eu vou usar como exemplo essa abóbora aí."
+    },
+    {
+      "start": 9.0,
+      "end": 13.9,
+      "text": "Veja que na configuração padrão as superfícies de topo estão bem marcadas com os degraus."
+    },
+    {
+      "start": 14.2,
+      "end": 18.0,
+      "text": "Lá na aba qualidade vamos alterar essa configuração para não aplicar."
+    },
+    {
+      "start": 18.0,
+      "end": 22.0,
+      "text": "E na aba força mudamos o padrão de superfície superior para concêntrico."
+    },
+    {
+      "start": 22.0,
+      "end": 26.0,
+      "text": "Dá uma olhada nesse antes e depois. Melhorou bastante, né?"
+    },
+    {
+      "start": 26.1,
+      "end": 28.5,
+      "text": "E o tempo de impressão até diminuiu."
+    },
+    {
+      "start": 28.5,
+      "end": 33.9,
+      "text": "Pode melhorar ainda mais com o recurso de altura de camada variável que eu expliquei lá no dia 54."
+    },
+    {
+      "start": 34.1,
+      "end": 37.4,
+      "text": "Mas essa ferramenta aumenta o tempo de impressão em mais de duas horas."
+    },
+    {
+      "start": 37.5,
+      "end": 43.4,
+      "text": "E o resultado que eu obtive alterando apenas aqueles dois parâmetros que eu expliquei no início do vídeo foi bastante satisfatório."
+    },
+    {
+      "start": 43.6,
+      "end": 46.1,
+      "text": "E basicamente com o mesmo tempo de impressão."
+    },
+    {
+      "start": 46.6,
+      "end": 49.1,
+      "text": "Gostaram dessa dica? Então me siga para mais."
+    }
+  ],
+  "duration": 49.7,
+  "model": "large-v3-turbo"
+}

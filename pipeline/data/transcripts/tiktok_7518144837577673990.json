@@ -1,0 +1,167 @@
+{
+  "text": "Comprou um filamento novo? Então antes de imprimir sua peça, bora mostrar de forma rápida e fácil de como encontra a temperatura ideal de impressão. Então vamos para o dia 26 de 365 Impressões 3D aqui em casa. A primeira coisa a se fazer é descobrir a faixa que o fabricante nos indica. Aí a gente vai lá no site da Bambu Lab e procura por teste de temperatura. Aqui a gente vai achar algumas torres que mudam a temperatura do bico de impressão enquanto vai imprimindo. Eu encontrei essa aí, que é exatamente a faixa de temperatura que o fabricante forneceu. Aí é só abrir lá no Bambu Estúdio. Não se esqueça de escolher como referência o PLA genérico. Aí fatiamos e verificamos se a temperatura está mudando no decorrer da impressão. Nesse caso, tá tudo certo. Depois de imprimir, é só a gente avaliar a peça no olhômetro mesmo E aqui a gente verifica que esse filamento se comportou bem em toda a faixa de temperatura A gente consegue observar alguns strings ali, que são aqueles fiapinhos Mas no geral está muito bom, muito bom mesmo Aí fica a dúvida, qual temperatura escolher? Nesse caso eu optei por temperaturas mais baixas, porque esse é um PLA silk Para evitar os strings Então eu setei como 205 graus Que é uma faixa que está bem bonita Aqui vai um outro exemplo De um PLA básico da STL Flix Aqui a gente pode ver Que em temperaturas mais elevadas O PLA se comportou melhor Então aqui eu já setaria uns 230 graus Para mim, encontrar a temperatura ideal É o primeiro passo para calibrar O nosso novo filamento Então acompanhe os próximos vídeos Que eu vou falar sobre retração, velocidade de impressão e outras coisas. Não esquece de curtir e compartilhar.",
+  "segments": [
+    {
+      "start": 0.6,
+      "end": 9.3,
+      "text": "Comprou um filamento novo? Então antes de imprimir sua peça, bora mostrar de forma rápida e fácil de como encontra a temperatura ideal de impressão."
+    },
+    {
+      "start": 9.6,
+      "end": 15.6,
+      "text": "Então vamos para o dia 26 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 15.8,
+      "end": 19.9,
+      "text": "A primeira coisa a se fazer é descobrir a faixa que o fabricante nos indica."
+    },
+    {
+      "start": 20.9,
+      "end": 25.2,
+      "text": "Aí a gente vai lá no site da Bambu Lab e procura por teste de temperatura."
+    },
+    {
+      "start": 25.2,
+      "end": 31.9,
+      "text": "Aqui a gente vai achar algumas torres que mudam a temperatura do bico de impressão enquanto vai imprimindo."
+    },
+    {
+      "start": 32.1,
+      "end": 37.4,
+      "text": "Eu encontrei essa aí, que é exatamente a faixa de temperatura que o fabricante forneceu."
+    },
+    {
+      "start": 37.7,
+      "end": 39.6,
+      "text": "Aí é só abrir lá no Bambu Estúdio."
+    },
+    {
+      "start": 40.0,
+      "end": 43.7,
+      "text": "Não se esqueça de escolher como referência o PLA genérico."
+    },
+    {
+      "start": 44.2,
+      "end": 49.0,
+      "text": "Aí fatiamos e verificamos se a temperatura está mudando no decorrer da impressão."
+    },
+    {
+      "start": 49.6,
+      "end": 51.4,
+      "text": "Nesse caso, tá tudo certo."
+    },
+    {
+      "start": 51.4,
+      "end": 56.5,
+      "text": "Depois de imprimir, é só a gente avaliar a peça no olhômetro mesmo"
+    },
+    {
+      "start": 56.5,
+      "end": 62.2,
+      "text": "E aqui a gente verifica que esse filamento se comportou bem em toda a faixa de temperatura"
+    },
+    {
+      "start": 62.2,
+      "end": 66.2,
+      "text": "A gente consegue observar alguns strings ali, que são aqueles fiapinhos"
+    },
+    {
+      "start": 66.2,
+      "end": 70.7,
+      "text": "Mas no geral está muito bom, muito bom mesmo"
+    },
+    {
+      "start": 70.7,
+      "end": 73.6,
+      "text": "Aí fica a dúvida, qual temperatura escolher?"
+    },
+    {
+      "start": 73.6,
+      "end": 77.8,
+      "text": "Nesse caso eu optei por temperaturas mais baixas, porque esse é um PLA silk"
+    },
+    {
+      "start": 77.8,
+      "end": 78.9,
+      "text": "Para evitar os strings"
+    },
+    {
+      "start": 78.9,
+      "end": 81.3,
+      "text": "Então eu setei como 205 graus"
+    },
+    {
+      "start": 81.3,
+      "end": 83.1,
+      "text": "Que é uma faixa que está bem bonita"
+    },
+    {
+      "start": 83.1,
+      "end": 86.0,
+      "text": "Aqui vai um outro exemplo"
+    },
+    {
+      "start": 86.0,
+      "end": 88.4,
+      "text": "De um PLA básico da STL Flix"
+    },
+    {
+      "start": 88.4,
+      "end": 89.6,
+      "text": "Aqui a gente pode ver"
+    },
+    {
+      "start": 89.6,
+      "end": 91.8,
+      "text": "Que em temperaturas mais elevadas"
+    },
+    {
+      "start": 91.8,
+      "end": 93.2,
+      "text": "O PLA se comportou melhor"
+    },
+    {
+      "start": 93.2,
+      "end": 96.7,
+      "text": "Então aqui eu já setaria uns 230 graus"
+    },
+    {
+      "start": 96.7,
+      "end": 99.2,
+      "text": "Para mim, encontrar a temperatura ideal"
+    },
+    {
+      "start": 99.2,
+      "end": 101.4,
+      "text": "É o primeiro passo para calibrar"
+    },
+    {
+      "start": 101.4,
+      "end": 102.9,
+      "text": "O nosso novo filamento"
+    },
+    {
+      "start": 102.9,
+      "end": 104.7,
+      "text": "Então acompanhe os próximos vídeos"
+    },
+    {
+      "start": 104.7,
+      "end": 107.6,
+      "text": "Que eu vou falar sobre retração, velocidade de impressão"
+    },
+    {
+      "start": 107.6,
+      "end": 108.8,
+      "text": "e outras coisas."
+    },
+    {
+      "start": 109.7,
+      "end": 111.5,
+      "text": "Não esquece de curtir e compartilhar."
+    }
+  ],
+  "duration": 112.0,
+  "model": "large-v3-turbo"
+}

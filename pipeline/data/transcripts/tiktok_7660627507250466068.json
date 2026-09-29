@@ -1,0 +1,82 @@
+{
+  "text": "Esse ajuste não economiza filamento no total, ele economiza a cor certa. Bem-vindo ao dia 233. Quando você pinta uma peça, a cor não fica só na superfície. O slicer empurra ela para o preenchimento. Essas duas faixas pretas, elas estavam indo até o miolo da peça e eu tinha pouco preto. O gasto com a cor preta era de 40 gramas. Então lá na aba multimaterial, esse parâmetro aqui eu altero para 1 a 2 milímetros. As cores agora param na casca e o preenchimento passa a usar o filamento base. Que neste caso é o amarelo Isso reduziu o gasto do vermelho, do azul e principalmente do preto em quase 50% Esse ajuste tem mais trocas e aumenta o tempo de impressão Então ele é útil para poupar uma cor específica Esse parâmetro de largura está disponível no Orca E eu não achei ele no Bambu Estúdio E se vocês gostaram desse vídeo, me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "Esse ajuste não economiza filamento no total, ele economiza a cor certa."
+    },
+    {
+      "start": 4.7,
+      "end": 6.8,
+      "text": "Bem-vindo ao dia 233."
+    },
+    {
+      "start": 6.9,
+      "end": 10.1,
+      "text": "Quando você pinta uma peça, a cor não fica só na superfície."
+    },
+    {
+      "start": 10.2,
+      "end": 12.5,
+      "text": "O slicer empurra ela para o preenchimento."
+    },
+    {
+      "start": 12.5,
+      "end": 17.0,
+      "text": "Essas duas faixas pretas, elas estavam indo até o miolo da peça e eu tinha pouco preto."
+    },
+    {
+      "start": 17.1,
+      "end": 19.6,
+      "text": "O gasto com a cor preta era de 40 gramas."
+    },
+    {
+      "start": 19.8,
+      "end": 25.0,
+      "text": "Então lá na aba multimaterial, esse parâmetro aqui eu altero para 1 a 2 milímetros."
+    },
+    {
+      "start": 25.0,
+      "end": 29.6,
+      "text": "As cores agora param na casca e o preenchimento passa a usar o filamento base."
+    },
+    {
+      "start": 29.6,
+      "end": 30.8,
+      "text": "Que neste caso é o amarelo"
+    },
+    {
+      "start": 30.8,
+      "end": 36.0,
+      "text": "Isso reduziu o gasto do vermelho, do azul e principalmente do preto em quase 50%"
+    },
+    {
+      "start": 36.0,
+      "end": 39.1,
+      "text": "Esse ajuste tem mais trocas e aumenta o tempo de impressão"
+    },
+    {
+      "start": 39.1,
+      "end": 41.8,
+      "text": "Então ele é útil para poupar uma cor específica"
+    },
+    {
+      "start": 41.8,
+      "end": 44.1,
+      "text": "Esse parâmetro de largura está disponível no Orca"
+    },
+    {
+      "start": 44.1,
+      "end": 45.6,
+      "text": "E eu não achei ele no Bambu Estúdio"
+    },
+    {
+      "start": 45.6,
+      "end": 49.7,
+      "text": "E se vocês gostaram desse vídeo, me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 50.2,
+  "model": "large-v3-turbo"
+}

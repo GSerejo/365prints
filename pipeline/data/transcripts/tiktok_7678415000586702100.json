@@ -1,0 +1,152 @@
+{
+  "text": "Três dicas para imprimir tecidos e articulados na sua impressora 3D. Bem-vindo ao dia 245! Primeiro vamos entender o problema. Isso aqui são dezenas de quadradinhos, cada um com poucos milímetros de contato e eles nem sempre estão ligados entre si. Só lá em cima, pelos anéis. Cada quadradinho se segura sozinho, um solta e o bico arrasta e já era a peça. Por isso a primeira dica é a redução das velocidades, principalmente da primeira camada em 20 milímetros. Isso melhora a adesão. Aproveite para reduzir as outras velocidades em 50%. Eu também reduzo as acelerações para evitar o tranco e arrancar as peças. Tudo isso por uma impressão mais suave. Lembrando que a aba velocidade está disponível no modo avançado, então é só ativar. A segunda dica é na aba Outros, desabilite a função de reduzir retrações no preenchimento. Agora vamos editar o filamento, ativar essa função e aumentar para 0,5 ou 0,6. Esse é o Z-Hope, o tamanho do salto quando há retração. Isso levanta o bico um pouquinho a mais antes de se deslocar, evitando raspar na peça. E agora vamos diminuir o limite de distância de deslocamento para 1 milímetro. Porque o pulo de um elo para o vizinho é tão curto que às vezes nem retrai. E sem retração, sem o bico se levantar. E a terceira dica é lavar a placa feia com água e detergente. Isso remove a gordura e garante adesão. E para remover, espere esfriar a placa e dobre ela. Eu evito placa fria nesse tipo de peça. Ela agarra demais e às vezes você quebra o tecido tentando tirar. Tente mexer na altura de camada do modelo. A folga entre os elos é calculada em cima dela. E não se esqueça de avaliar as orientações do autor do modelo. Esse tecido eu fiz com pele a silk bronze e prata da multifila. E se você gostar desse vídeo, me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Três dicas para imprimir tecidos e articulados na sua impressora 3D."
+    },
+    {
+      "start": 4.7,
+      "end": 7.2,
+      "text": "Bem-vindo ao dia 245!"
+    },
+    {
+      "start": 7.3,
+      "end": 9.1,
+      "text": "Primeiro vamos entender o problema."
+    },
+    {
+      "start": 9.2,
+      "end": 16.5,
+      "text": "Isso aqui são dezenas de quadradinhos, cada um com poucos milímetros de contato e eles nem sempre estão ligados entre si."
+    },
+    {
+      "start": 16.6,
+      "end": 17.9,
+      "text": "Só lá em cima, pelos anéis."
+    },
+    {
+      "start": 18.1,
+      "end": 22.6,
+      "text": "Cada quadradinho se segura sozinho, um solta e o bico arrasta e já era a peça."
+    },
+    {
+      "start": 22.7,
+      "end": 28.0,
+      "text": "Por isso a primeira dica é a redução das velocidades, principalmente da primeira camada em 20 milímetros."
+    },
+    {
+      "start": 28.0,
+      "end": 29.4,
+      "text": "Isso melhora a adesão."
+    },
+    {
+      "start": 29.4,
+      "end": 33.3,
+      "text": "Aproveite para reduzir as outras velocidades em 50%."
+    },
+    {
+      "start": 33.3,
+      "end": 37.3,
+      "text": "Eu também reduzo as acelerações para evitar o tranco e arrancar as peças."
+    },
+    {
+      "start": 37.4,
+      "end": 39.1,
+      "text": "Tudo isso por uma impressão mais suave."
+    },
+    {
+      "start": 39.2,
+      "end": 43.1,
+      "text": "Lembrando que a aba velocidade está disponível no modo avançado, então é só ativar."
+    },
+    {
+      "start": 43.3,
+      "end": 48.4,
+      "text": "A segunda dica é na aba Outros, desabilite a função de reduzir retrações no preenchimento."
+    },
+    {
+      "start": 48.5,
+      "end": 54.2,
+      "text": "Agora vamos editar o filamento, ativar essa função e aumentar para 0,5 ou 0,6."
+    },
+    {
+      "start": 54.2,
+      "end": 57.0,
+      "text": "Esse é o Z-Hope, o tamanho do salto quando há retração."
+    },
+    {
+      "start": 57.0,
+      "end": 61.9,
+      "text": "Isso levanta o bico um pouquinho a mais antes de se deslocar, evitando raspar na peça."
+    },
+    {
+      "start": 62.0,
+      "end": 66.1,
+      "text": "E agora vamos diminuir o limite de distância de deslocamento para 1 milímetro."
+    },
+    {
+      "start": 66.2,
+      "end": 70.0,
+      "text": "Porque o pulo de um elo para o vizinho é tão curto que às vezes nem retrai."
+    },
+    {
+      "start": 70.1,
+      "end": 72.3,
+      "text": "E sem retração, sem o bico se levantar."
+    },
+    {
+      "start": 72.4,
+      "end": 75.6,
+      "text": "E a terceira dica é lavar a placa feia com água e detergente."
+    },
+    {
+      "start": 75.7,
+      "end": 77.8,
+      "text": "Isso remove a gordura e garante adesão."
+    },
+    {
+      "start": 78.1,
+      "end": 81.3,
+      "text": "E para remover, espere esfriar a placa e dobre ela."
+    },
+    {
+      "start": 81.4,
+      "end": 83.3,
+      "text": "Eu evito placa fria nesse tipo de peça."
+    },
+    {
+      "start": 83.3,
+      "end": 86.8,
+      "text": "Ela agarra demais e às vezes você quebra o tecido tentando tirar."
+    },
+    {
+      "start": 87.0,
+      "end": 89.1,
+      "text": "Tente mexer na altura de camada do modelo."
+    },
+    {
+      "start": 89.3,
+      "end": 92.1,
+      "text": "A folga entre os elos é calculada em cima dela."
+    },
+    {
+      "start": 92.3,
+      "end": 96.3,
+      "text": "E não se esqueça de avaliar as orientações do autor do modelo."
+    },
+    {
+      "start": 96.5,
+      "end": 100.7,
+      "text": "Esse tecido eu fiz com pele a silk bronze e prata da multifila."
+    },
+    {
+      "start": 100.7,
+      "end": 105.2,
+      "text": "E se você gostar desse vídeo, me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 105.6,
+  "model": "large-v3-turbo"
+}

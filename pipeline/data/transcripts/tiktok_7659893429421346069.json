@@ -1,0 +1,227 @@
+{
+  "text": "Como fazer esse chaveiro personalizado com dois nomes direto no fatiador? Bem-vindo ao dia 230! Primeiro vamos encontrar uma imagem do símbolo do infinito e depois salvá-la no seu computador. Agora acessamos esse site e é só o para imagem que salvamos para converter em SVG. Clique em converter e depois é só baixar o SVG. Agora com o botão direito vamos adicionar um primitivo SVG e encontrar o SVG que convertemos. Utilizando a ferramenta escala, eu vou deixar o símbolo do infinito com 50 milímetros em X. E com a ferramenta rotação, eu vou rotacionar em 90 graus em X. E novamente com a ferramenta escala, eu desmarco a escala uniforme, coloco o Y em 20 milímetros e o Z eu vou arredondar para 20 milímetros também. Agora vamos adicionar os dois textos com a ferramenta texto. Primeiro o nome Mônica e eu vou escolher a fonte que eu quero e depois ajustar o tamanho. Não se esqueça de utilizar o recurso da lacuna de texto para diminuir a lacuna e deixar as letras unidas. Agora Ctrl-C e Ctrl-V no nome Mônica para colocar o outro nome. Não se esqueça de conferir se as letras estão realmente unidas. Agora novamente com a ferramenta escala vamos alterar as dimensões da palavra Mônica para as mesmas dimensões em X e Y do símbolo do infinito. Eu coloquei 9 milímetros em Z e vocês já vão entender porquê. Agora eu faço a mesma coisa para o outro nome. E com a ferramenta rotação, eu vou rotacionar em 180 graus em Y, a palavra Mônica, que ela vai ficar no lado oposto do Wilson. Então, botão direito na placa, adicionar primitivo, cubo e vamos transformar esse cubo numa plaquinha, que será a divisória entre os dois nomes. 50 para X, 20 para Y e agora 2 para Z. Neste ponto, vamos transformar os dois nomes e a plaquinha em um objeto só. Botão direito em Mônica e centro e depois a gente faz o mesmo para a plaquinha. Agora segurando o CTRL, na aba Objetos, selecionamos a placa em Mônica e mesclamos. Vamos selecionar apenas a placa da montagem e movê-la 9mm para cima. Parte está completa, agora vamos mover para o centro a palavra Wilson. Botão direito e centro, agora na esquerda, na aba Objetos, vamos selecionar a Wilson e a montagem e vamos mesclar. Agora com apenas a palavra Wilson selecionada, vamos mover ela em 11mm em Z. Está quase pessoal, e até aqui acredito que vocês entenderam o conceito. Veja que as duas peças têm as mesmas dimensões. Para evitar erros do próximo passo, vamos corrigir a malha do símbolo do infinito. E agora vamos unir os nomes e a plaquinha com a ferramenta boleana. Botão direito e centro no símbolo do infinito. Com o CTRL selecionamos tudo. E agora com a ferramenta boleana, com tudo selecionado, executamos uma interseção. Calma que ainda não acabou. E se você é um guerreiro ou uma guerreira que chegou até aqui, não esqueça do like. Essa não é a melhor orientação de impressão. Por isso eu rotacionei em 90 graus em X. Em alguns casos, a fonte que você usa não fica alinhada. E o contato com a mesa pode ser pequeno. Você pode abaixar em Z um pouquinho para aumentar o contato E por último é só adicionar um touro como parte negativa para fazer o furo Não se esqueça de ativar os suportes para imprimir e me seguir para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Como fazer esse chaveiro personalizado com dois nomes direto no fatiador?"
+    },
+    {
+      "start": 6.2,
+      "end": 8.4,
+      "text": "Bem-vindo ao dia 230!"
+    },
+    {
+      "start": 9.1,
+      "end": 14.5,
+      "text": "Primeiro vamos encontrar uma imagem do símbolo do infinito e depois salvá-la no seu computador."
+    },
+    {
+      "start": 14.6,
+      "end": 19.7,
+      "text": "Agora acessamos esse site e é só o para imagem que salvamos para converter em SVG."
+    },
+    {
+      "start": 19.8,
+      "end": 23.1,
+      "text": "Clique em converter e depois é só baixar o SVG."
+    },
+    {
+      "start": 23.2,
+      "end": 28.8,
+      "text": "Agora com o botão direito vamos adicionar um primitivo SVG e encontrar o SVG que convertemos."
+    },
+    {
+      "start": 28.8,
+      "end": 33.1,
+      "text": "Utilizando a ferramenta escala, eu vou deixar o símbolo do infinito com 50 milímetros em X."
+    },
+    {
+      "start": 33.3,
+      "end": 36.9,
+      "text": "E com a ferramenta rotação, eu vou rotacionar em 90 graus em X."
+    },
+    {
+      "start": 37.1,
+      "end": 45.2,
+      "text": "E novamente com a ferramenta escala, eu desmarco a escala uniforme, coloco o Y em 20 milímetros e o Z eu vou arredondar para 20 milímetros também."
+    },
+    {
+      "start": 45.4,
+      "end": 48.4,
+      "text": "Agora vamos adicionar os dois textos com a ferramenta texto."
+    },
+    {
+      "start": 48.5,
+      "end": 52.7,
+      "text": "Primeiro o nome Mônica e eu vou escolher a fonte que eu quero e depois ajustar o tamanho."
+    },
+    {
+      "start": 52.7,
+      "end": 59.0,
+      "text": "Não se esqueça de utilizar o recurso da lacuna de texto para diminuir a lacuna e deixar as letras unidas."
+    },
+    {
+      "start": 59.3,
+      "end": 63.1,
+      "text": "Agora Ctrl-C e Ctrl-V no nome Mônica para colocar o outro nome."
+    },
+    {
+      "start": 63.1,
+      "end": 66.6,
+      "text": "Não se esqueça de conferir se as letras estão realmente unidas."
+    },
+    {
+      "start": 66.8,
+      "end": 70.9,
+      "text": "Agora novamente com a ferramenta escala vamos alterar as dimensões da palavra Mônica"
+    },
+    {
+      "start": 70.9,
+      "end": 74.4,
+      "text": "para as mesmas dimensões em X e Y do símbolo do infinito."
+    },
+    {
+      "start": 74.5,
+      "end": 77.5,
+      "text": "Eu coloquei 9 milímetros em Z e vocês já vão entender porquê."
+    },
+    {
+      "start": 77.6,
+      "end": 80.2,
+      "text": "Agora eu faço a mesma coisa para o outro nome."
+    },
+    {
+      "start": 80.2,
+      "end": 87.6,
+      "text": "E com a ferramenta rotação, eu vou rotacionar em 180 graus em Y, a palavra Mônica, que ela vai ficar no lado oposto do Wilson."
+    },
+    {
+      "start": 87.8,
+      "end": 95.5,
+      "text": "Então, botão direito na placa, adicionar primitivo, cubo e vamos transformar esse cubo numa plaquinha, que será a divisória entre os dois nomes."
+    },
+    {
+      "start": 95.8,
+      "end": 99.3,
+      "text": "50 para X, 20 para Y e agora 2 para Z."
+    },
+    {
+      "start": 99.4,
+      "end": 103.6,
+      "text": "Neste ponto, vamos transformar os dois nomes e a plaquinha em um objeto só."
+    },
+    {
+      "start": 103.7,
+      "end": 107.3,
+      "text": "Botão direito em Mônica e centro e depois a gente faz o mesmo para a plaquinha."
+    },
+    {
+      "start": 107.3,
+      "end": 111.7,
+      "text": "Agora segurando o CTRL, na aba Objetos, selecionamos a placa em Mônica e mesclamos."
+    },
+    {
+      "start": 111.9,
+      "end": 116.1,
+      "text": "Vamos selecionar apenas a placa da montagem e movê-la 9mm para cima."
+    },
+    {
+      "start": 116.2,
+      "end": 119.3,
+      "text": "Parte está completa, agora vamos mover para o centro a palavra Wilson."
+    },
+    {
+      "start": 119.4,
+      "end": 124.9,
+      "text": "Botão direito e centro, agora na esquerda, na aba Objetos, vamos selecionar a Wilson e a montagem e vamos mesclar."
+    },
+    {
+      "start": 125.0,
+      "end": 129.6,
+      "text": "Agora com apenas a palavra Wilson selecionada, vamos mover ela em 11mm em Z."
+    },
+    {
+      "start": 129.6,
+      "end": 132.9,
+      "text": "Está quase pessoal, e até aqui acredito que vocês entenderam o conceito."
+    },
+    {
+      "start": 133.0,
+      "end": 135.6,
+      "text": "Veja que as duas peças têm as mesmas dimensões."
+    },
+    {
+      "start": 135.6,
+      "end": 140.0,
+      "text": "Para evitar erros do próximo passo, vamos corrigir a malha do símbolo do infinito."
+    },
+    {
+      "start": 140.2,
+      "end": 143.1,
+      "text": "E agora vamos unir os nomes e a plaquinha com a ferramenta boleana."
+    },
+    {
+      "start": 143.1,
+      "end": 145.3,
+      "text": "Botão direito e centro no símbolo do infinito."
+    },
+    {
+      "start": 145.4,
+      "end": 146.9,
+      "text": "Com o CTRL selecionamos tudo."
+    },
+    {
+      "start": 147.0,
+      "end": 151.0,
+      "text": "E agora com a ferramenta boleana, com tudo selecionado, executamos uma interseção."
+    },
+    {
+      "start": 151.2,
+      "end": 152.3,
+      "text": "Calma que ainda não acabou."
+    },
+    {
+      "start": 152.4,
+      "end": 156.3,
+      "text": "E se você é um guerreiro ou uma guerreira que chegou até aqui, não esqueça do like."
+    },
+    {
+      "start": 156.4,
+      "end": 158.5,
+      "text": "Essa não é a melhor orientação de impressão."
+    },
+    {
+      "start": 158.6,
+      "end": 160.5,
+      "text": "Por isso eu rotacionei em 90 graus em X."
+    },
+    {
+      "start": 160.7,
+      "end": 163.3,
+      "text": "Em alguns casos, a fonte que você usa não fica alinhada."
+    },
+    {
+      "start": 163.3,
+      "end": 165.1,
+      "text": "E o contato com a mesa pode ser pequeno."
+    },
+    {
+      "start": 165.1,
+      "end": 167.8,
+      "text": "Você pode abaixar em Z um pouquinho para aumentar o contato"
+    },
+    {
+      "start": 167.8,
+      "end": 171.4,
+      "text": "E por último é só adicionar um touro como parte negativa para fazer o furo"
+    },
+    {
+      "start": 171.4,
+      "end": 177.2,
+      "text": "Não se esqueça de ativar os suportes para imprimir e me seguir para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 178.4,
+  "model": "large-v3-turbo"
+}

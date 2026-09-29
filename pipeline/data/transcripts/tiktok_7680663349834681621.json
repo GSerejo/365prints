@@ -1,0 +1,87 @@
+{
+  "text": "Como fazer essa plaquinha que o cliente encosta o celular e cai direto na avaliação do seu comércio? Bem-vindo ao dia 247. Sabemos a importância dessa avaliação. E essa plaquinha resolve isso em um toque. Primeiro de tudo, você vai precisar de uma tag NFC. Agora é só baixar o NFC Tools no seu celular, vai em escrever e agora adicionar para salvar. Aqui temos diversas opções, mas vamos utilizar a URL. Agora colamos o link que você pegou lá em solicitar avaliações na outra rede. Lembre-se de colar o link sem o HTTPS, porque já tem no app. Agora é só salvar e depois clicar em inscrever. Aproximamos a tag nas costas do celular próximo à câmera e pronto. Agora é só aproximar para testar antes de colocar na impressão. Até aqui tudo ok, agora vou falar de um detalhe que quase ninguém fala. Depois de gravado no NFC Tools, clique em Outros, agora Definir Senha, escreva uma senha qualquer e clique em Definir e aproxime a tag novamente. Se você fizer isso, você evita que qualquer pessoa sobrescreva o seu link. O modelo de placa que eu utilizei é Multipartes e ele é gratuito lá no Maker e eu vou deixar o link nos comentários. Ele já vem com uma pausa programada para você inserir a tag. Durante a impressão, quando a impressora pausar, é só colar a tag na região indicada e depois resumir para continuar. Pronto, e se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "Como fazer essa plaquinha que o cliente encosta o celular e cai direto na avaliação do seu comércio?"
+    },
+    {
+      "start": 6.5,
+      "end": 14.0,
+      "text": "Bem-vindo ao dia 247. Sabemos a importância dessa avaliação. E essa plaquinha resolve isso em um toque."
+    },
+    {
+      "start": 14.1,
+      "end": 23.4,
+      "text": "Primeiro de tudo, você vai precisar de uma tag NFC. Agora é só baixar o NFC Tools no seu celular, vai em escrever e agora adicionar para salvar."
+    },
+    {
+      "start": 23.4,
+      "end": 26.8,
+      "text": "Aqui temos diversas opções, mas vamos utilizar a URL."
+    },
+    {
+      "start": 27.3,
+      "end": 31.9,
+      "text": "Agora colamos o link que você pegou lá em solicitar avaliações na outra rede."
+    },
+    {
+      "start": 32.1,
+      "end": 35.5,
+      "text": "Lembre-se de colar o link sem o HTTPS, porque já tem no app."
+    },
+    {
+      "start": 35.7,
+      "end": 38.8,
+      "text": "Agora é só salvar e depois clicar em inscrever."
+    },
+    {
+      "start": 38.9,
+      "end": 42.5,
+      "text": "Aproximamos a tag nas costas do celular próximo à câmera e pronto."
+    },
+    {
+      "start": 42.6,
+      "end": 46.0,
+      "text": "Agora é só aproximar para testar antes de colocar na impressão."
+    },
+    {
+      "start": 46.1,
+      "end": 50.0,
+      "text": "Até aqui tudo ok, agora vou falar de um detalhe que quase ninguém fala."
+    },
+    {
+      "start": 50.0,
+      "end": 58.9,
+      "text": "Depois de gravado no NFC Tools, clique em Outros, agora Definir Senha, escreva uma senha qualquer e clique em Definir e aproxime a tag novamente."
+    },
+    {
+      "start": 59.0,
+      "end": 62.6,
+      "text": "Se você fizer isso, você evita que qualquer pessoa sobrescreva o seu link."
+    },
+    {
+      "start": 62.7,
+      "end": 68.4,
+      "text": "O modelo de placa que eu utilizei é Multipartes e ele é gratuito lá no Maker e eu vou deixar o link nos comentários."
+    },
+    {
+      "start": 68.6,
+      "end": 71.5,
+      "text": "Ele já vem com uma pausa programada para você inserir a tag."
+    },
+    {
+      "start": 71.6,
+      "end": 77.7,
+      "text": "Durante a impressão, quando a impressora pausar, é só colar a tag na região indicada e depois resumir para continuar."
+    },
+    {
+      "start": 77.7,
+      "end": 82.5,
+      "text": "Pronto, e se você gostou dessa dica, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 82.9,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,107 @@
+{
+  "text": "Hoje foi o dia de modelar a nossa primeira peça em 3D. Estávamos precisando de um suporte personalizado para guardanapos, para o nosso casamento. Então fui lá, abriu o Fusion 360 e comecei a modelagem. Dia 11 de 365 impressões 3D aqui em casa. A ideia era personalizar nosso nome em relevo na peça. E depois de pronto, bora para a impressão. Como vocês podem ver, não ficou do jeito que a gente queria. As letras ficaram tudo muito junto, muito pequeno. Os suportes ficaram grudados na peça ainda. Não ficou legal. Então, bora voltar para o Fusion. A ideia agora era só utilizar nossos iniciais, para ficar uma impressão mais definida. Eu quis evitar usar suportes também. Por isso, utilizei o baixo relevo. E assim eu conseguia mudar a orientação de impressão da peça. Dessa maneira que está no vídeo. E vamos ver como é que ficou. Agora sim, muito melhor, né? Aproveitei para imprimir um branco perolado também. E aí, qual ficou melhor?",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 6.2,
+      "text": "Hoje foi o dia de modelar a nossa primeira peça em 3D."
+    },
+    {
+      "start": 7.2,
+      "end": 12.1,
+      "text": "Estávamos precisando de um suporte personalizado para guardanapos, para o nosso casamento."
+    },
+    {
+      "start": 12.3,
+      "end": 15.6,
+      "text": "Então fui lá, abriu o Fusion 360 e comecei a modelagem."
+    },
+    {
+      "start": 15.6,
+      "end": 21.0,
+      "text": "Dia 11 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 22.0,
+      "end": 25.9,
+      "text": "A ideia era personalizar nosso nome em relevo na peça."
+    },
+    {
+      "start": 26.6,
+      "end": 29.0,
+      "text": "E depois de pronto, bora para a impressão."
+    },
+    {
+      "start": 29.0,
+      "end": 37.2,
+      "text": "Como vocês podem ver, não ficou do jeito que a gente queria."
+    },
+    {
+      "start": 38.0,
+      "end": 41.0,
+      "text": "As letras ficaram tudo muito junto, muito pequeno."
+    },
+    {
+      "start": 41.4,
+      "end": 43.7,
+      "text": "Os suportes ficaram grudados na peça ainda."
+    },
+    {
+      "start": 44.0,
+      "end": 44.7,
+      "text": "Não ficou legal."
+    },
+    {
+      "start": 45.2,
+      "end": 47.0,
+      "text": "Então, bora voltar para o Fusion."
+    },
+    {
+      "start": 48.3,
+      "end": 53.9,
+      "text": "A ideia agora era só utilizar nossos iniciais, para ficar uma impressão mais definida."
+    },
+    {
+      "start": 54.4,
+      "end": 56.4,
+      "text": "Eu quis evitar usar suportes também."
+    },
+    {
+      "start": 56.7,
+      "end": 59.2,
+      "text": "Por isso, utilizei o baixo relevo."
+    },
+    {
+      "start": 59.6,
+      "end": 62.6,
+      "text": "E assim eu conseguia mudar a orientação de impressão da peça."
+    },
+    {
+      "start": 62.6,
+      "end": 64.0,
+      "text": "Dessa maneira que está no vídeo."
+    },
+    {
+      "start": 64.8,
+      "end": 66.1,
+      "text": "E vamos ver como é que ficou."
+    },
+    {
+      "start": 69.8,
+      "end": 72.2,
+      "text": "Agora sim, muito melhor, né?"
+    },
+    {
+      "start": 74.5,
+      "end": 77.0,
+      "text": "Aproveitei para imprimir um branco perolado também."
+    },
+    {
+      "start": 77.6,
+      "end": 79.1,
+      "text": "E aí, qual ficou melhor?"
+    }
+  ],
+  "duration": 82.2,
+  "model": "large-v3-turbo"
+}

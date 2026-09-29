@@ -1,0 +1,62 @@
+{
+  "text": "Isso aqui foi impresso e eu não pintei nada. Bem-vindo ao dia 238. Aliás, eu pintei sim, mas foi tudo dentro do fatiador. Foram algumas horas para pintar cada detalhe de todas as peças. E depois eu imprimi tudo utilizando a minha Snapmaker e o One sem desperdício de purga. Os detalhes impressionam e todas as peças saíram coloridas. Depois foi só passar cola e encaixar tudo. Não tem tinta e não tem verniz. É exatamente assim que saiu da impressora. E se essa qualidade te impressionou, a Snapmaker U1 está com 10% de desconto lá na Bambula Blue. E você já sabe, não esquece de me seguir pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.1,
+      "text": "Isso aqui foi impresso e eu não pintei nada."
+    },
+    {
+      "start": 3.5,
+      "end": 5.9,
+      "text": "Bem-vindo ao dia 238."
+    },
+    {
+      "start": 6.0,
+      "end": 9.6,
+      "text": "Aliás, eu pintei sim, mas foi tudo dentro do fatiador."
+    },
+    {
+      "start": 9.8,
+      "end": 13.4,
+      "text": "Foram algumas horas para pintar cada detalhe de todas as peças."
+    },
+    {
+      "start": 13.6,
+      "end": 18.1,
+      "text": "E depois eu imprimi tudo utilizando a minha Snapmaker e o One sem desperdício de purga."
+    },
+    {
+      "start": 18.2,
+      "end": 22.2,
+      "text": "Os detalhes impressionam e todas as peças saíram coloridas."
+    },
+    {
+      "start": 22.3,
+      "end": 24.9,
+      "text": "Depois foi só passar cola e encaixar tudo."
+    },
+    {
+      "start": 25.1,
+      "end": 26.8,
+      "text": "Não tem tinta e não tem verniz."
+    },
+    {
+      "start": 27.0,
+      "end": 29.4,
+      "text": "É exatamente assim que saiu da impressora."
+    },
+    {
+      "start": 29.4,
+      "end": 35.5,
+      "text": "E se essa qualidade te impressionou, a Snapmaker U1 está com 10% de desconto lá na Bambula Blue."
+    },
+    {
+      "start": 35.6,
+      "end": 39.6,
+      "text": "E você já sabe, não esquece de me seguir pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 40.1,
+  "model": "large-v3-turbo"
+}

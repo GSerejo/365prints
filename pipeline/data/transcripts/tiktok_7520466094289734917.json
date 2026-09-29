@@ -1,0 +1,47 @@
+{
+  "text": "Eu imprimi um Mário gigante sem precisar utilizar uma impressora multicolor. Bem-vindo ao dia 31 de 365 impressões 3D aqui em casa. Esse é um projeto multiparte em que você imprime todas as partes e cores de forma separada. Foram quase dois dias de impressão e um quilo de filamento. Isso tudo foi pra mostrar pra vocês Que não precisa de uma impressora multicolor Pra imprimir um produto colorido E aí, gostaram?",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Eu imprimi um Mário gigante sem precisar utilizar uma impressora multicolor."
+    },
+    {
+      "start": 5.0,
+      "end": 10.4,
+      "text": "Bem-vindo ao dia 31 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 10.7,
+      "end": 17.0,
+      "text": "Esse é um projeto multiparte em que você imprime todas as partes e cores de forma separada."
+    },
+    {
+      "start": 17.3,
+      "end": 22.4,
+      "text": "Foram quase dois dias de impressão e um quilo de filamento."
+    },
+    {
+      "start": 22.4,
+      "end": 58.5,
+      "text": "Isso tudo foi pra mostrar pra vocês"
+    },
+    {
+      "start": 58.5,
+      "end": 61.8,
+      "text": "Que não precisa de uma impressora multicolor"
+    },
+    {
+      "start": 61.8,
+      "end": 64.2,
+      "text": "Pra imprimir um produto colorido"
+    },
+    {
+      "start": 64.2,
+      "end": 67.2,
+      "text": "E aí, gostaram?"
+    }
+  ],
+  "duration": 67.8,
+  "model": "large-v3-turbo"
+}

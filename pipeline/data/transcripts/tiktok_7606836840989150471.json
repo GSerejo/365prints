@@ -1,0 +1,72 @@
+{
+  "text": "Transforme um desenho numa peça multiparte. Bem-vindo ao dia 171. Lá no MakerWorld vamos utilizar uma função do MakerLab de geração de chaveiros. Aqui é só o par a sua imagem em PNG ou JPG. Essa ferramenta basicamente converte cada cor em um objeto distinto. A ferramenta é bem intuitiva e depois de exportar e abrir no fatiador nós verificamos que os objetos já vêm separados em partes. Agora basicamente é selecionar cor por cor e separar em cada prato. A base fica separada e as pecinhas a gente precisa mexer Na compensação X e Y Para conseguir encaixar nela Aqui basicamente é a tolerância que você vai utilizar E eu fiz um vídeo completo que está disponível No meu canal de assinantes no Instagram Junto com as configurações e até mesmo o arquivo Disponibilizei para o pessoal Gostaram desse vídeo? Então me siga Para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 23.0,
+      "text": "Transforme um desenho numa peça multiparte. Bem-vindo ao dia 171. Lá no MakerWorld vamos utilizar uma função do MakerLab de geração de chaveiros."
+    },
+    {
+      "start": 23.0,
+      "end": 29.9,
+      "text": "Aqui é só o par a sua imagem em PNG ou JPG. Essa ferramenta basicamente converte cada cor em um objeto distinto."
+    },
+    {
+      "start": 30.0,
+      "end": 35.8,
+      "text": "A ferramenta é bem intuitiva e depois de exportar e abrir no fatiador nós verificamos que os objetos já vêm separados em partes."
+    },
+    {
+      "start": 35.8,
+      "end": 42.1,
+      "text": "Agora basicamente é selecionar cor por cor e separar em cada prato. A base fica separada e as pecinhas a gente precisa mexer"
+    },
+    {
+      "start": 42.1,
+      "end": 43.7,
+      "text": "Na compensação X e Y"
+    },
+    {
+      "start": 43.7,
+      "end": 45.0,
+      "text": "Para conseguir encaixar nela"
+    },
+    {
+      "start": 45.0,
+      "end": 47.2,
+      "text": "Aqui basicamente é a tolerância que você vai utilizar"
+    },
+    {
+      "start": 47.2,
+      "end": 49.0,
+      "text": "E eu fiz um vídeo completo que está disponível"
+    },
+    {
+      "start": 49.0,
+      "end": 50.7,
+      "text": "No meu canal de assinantes no Instagram"
+    },
+    {
+      "start": 50.7,
+      "end": 53.1,
+      "text": "Junto com as configurações e até mesmo o arquivo"
+    },
+    {
+      "start": 53.1,
+      "end": 54.3,
+      "text": "Disponibilizei para o pessoal"
+    },
+    {
+      "start": 54.3,
+      "end": 56.7,
+      "text": "Gostaram desse vídeo? Então me siga"
+    },
+    {
+      "start": 56.7,
+      "end": 58.8,
+      "text": "Para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 59.1,
+  "model": "large-v3-turbo"
+}

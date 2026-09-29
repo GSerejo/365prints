@@ -1,0 +1,107 @@
+{
+  "text": "O bico da minha impressora entupiu. Bora desentupir utilizando o método chamado Cold Pool. Bem-vindo ao dia 39 de 365 impressões 3D aqui em casa. Com o hotend frio e depois de aberto a proteção, tire a capinha de silicone. Mas antes, pressione essa alavanca aqui pra cortar o filamento que tá no bico. Desengate essa presilha e aí você consegue tirar o hotend. Puxe o restante de filamento. Recoloque o hotend na impressora Aqueça o bico até 250 graus Agora com o bico aquecido, cuidado para não tocar na garganta Nessa parte de baixo Para retirá-lo, pegue nessa parte superior do trocador de calor E cuidado para não se queimar Com outro pedaço de filamento, pressione ele no hotend O bico vai esfriando e você vai ver que não vai conseguir mais empurrar Quando ele estiver frio, vai puxando lentamente Esse é o cold pool Até desentupir Para verificar se deu certo, é só utilizar a agulha E se a agulha estiver atravessando tranquilamente, processo concluído com sucesso Se não deu certo, é só repetir todas as etapas",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "O bico da minha impressora entupiu. Bora desentupir utilizando o método chamado Cold Pool."
+    },
+    {
+      "start": 5.5,
+      "end": 11.5,
+      "text": "Bem-vindo ao dia 39 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 11.6,
+      "end": 16.5,
+      "text": "Com o hotend frio e depois de aberto a proteção, tire a capinha de silicone."
+    },
+    {
+      "start": 16.6,
+      "end": 20.4,
+      "text": "Mas antes, pressione essa alavanca aqui pra cortar o filamento que tá no bico."
+    },
+    {
+      "start": 20.6,
+      "end": 24.1,
+      "text": "Desengate essa presilha e aí você consegue tirar o hotend."
+    },
+    {
+      "start": 24.9,
+      "end": 26.8,
+      "text": "Puxe o restante de filamento."
+    },
+    {
+      "start": 26.8,
+      "end": 28.8,
+      "text": "Recoloque o hotend na impressora"
+    },
+    {
+      "start": 28.8,
+      "end": 31.8,
+      "text": "Aqueça o bico até 250 graus"
+    },
+    {
+      "start": 31.8,
+      "end": 35.0,
+      "text": "Agora com o bico aquecido, cuidado para não tocar na garganta"
+    },
+    {
+      "start": 35.0,
+      "end": 36.0,
+      "text": "Nessa parte de baixo"
+    },
+    {
+      "start": 36.0,
+      "end": 39.3,
+      "text": "Para retirá-lo, pegue nessa parte superior do trocador de calor"
+    },
+    {
+      "start": 39.3,
+      "end": 41.1,
+      "text": "E cuidado para não se queimar"
+    },
+    {
+      "start": 41.1,
+      "end": 44.2,
+      "text": "Com outro pedaço de filamento, pressione ele no hotend"
+    },
+    {
+      "start": 44.2,
+      "end": 47.9,
+      "text": "O bico vai esfriando e você vai ver que não vai conseguir mais empurrar"
+    },
+    {
+      "start": 47.9,
+      "end": 50.8,
+      "text": "Quando ele estiver frio, vai puxando lentamente"
+    },
+    {
+      "start": 50.8,
+      "end": 51.8,
+      "text": "Esse é o cold pool"
+    },
+    {
+      "start": 51.8,
+      "end": 53.5,
+      "text": "Até desentupir"
+    },
+    {
+      "start": 53.5,
+      "end": 56.5,
+      "text": "Para verificar se deu certo, é só utilizar a agulha"
+    },
+    {
+      "start": 56.5,
+      "end": 60.9,
+      "text": "E se a agulha estiver atravessando tranquilamente, processo concluído com sucesso"
+    },
+    {
+      "start": 60.9,
+      "end": 64.2,
+      "text": "Se não deu certo, é só repetir todas as etapas"
+    }
+  ],
+  "duration": 65.1,
+  "model": "large-v3-turbo"
+}

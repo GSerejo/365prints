@@ -1,0 +1,102 @@
+{
+  "text": "Olha esse acabamento, isso não parece uma impressão 3D. Bem-vindo ao dia 101 e hoje eu vou te falar 3 motivos para você utilizar o PLA com fibra de carbono. Esse é o PLA CF, é o nosso PLA comum mas reforçado com fibras de carbono picadas, o que dá esse aspecto texturizado e transforma um plástico comum em um material de alta performance. E o motivo número 1 é o acabamento profissional. O PLACF entrega um visual fosco e texturizado, que é excelente para disfarçar as linhas de camada. O motivo número 2 é a rigidez. A infusão da fibra de carbono aumenta significativamente a dureza da peça. O motivo número 3 é a printabilidade. É bem fácil de imprimir. É tão fácil quanto o PLA convencional, mas com muito menos warping ou empenamento. Mas atenção, as fibras de carbono são abrasivas. Então você vai precisar obrigatoriamente de um bico de aço endurecido Que são esses com o dissipador preto E se tiver problemas com entupimento, utilize um diâmetro maior como 0.6 ou até mesmo 0.8 E pra tornar tua impressora ainda mais durável, indicaria uma extrusora de aço endurecido também E os links desses acessórios estão lá no link da bio E vocês pessoal, já tiveram alguma experiência com PLACF? Me conta aí nos comentários",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Olha esse acabamento, isso não parece uma impressão 3D."
+    },
+    {
+      "start": 5.1,
+      "end": 12.2,
+      "text": "Bem-vindo ao dia 101 e hoje eu vou te falar 3 motivos para você utilizar o PLA com fibra de carbono."
+    },
+    {
+      "start": 12.5,
+      "end": 18.6,
+      "text": "Esse é o PLA CF, é o nosso PLA comum mas reforçado com fibras de carbono picadas,"
+    },
+    {
+      "start": 18.7,
+      "end": 24.4,
+      "text": "o que dá esse aspecto texturizado e transforma um plástico comum em um material de alta performance."
+    },
+    {
+      "start": 24.4,
+      "end": 27.5,
+      "text": "E o motivo número 1 é o acabamento profissional."
+    },
+    {
+      "start": 27.6,
+      "end": 34.1,
+      "text": "O PLACF entrega um visual fosco e texturizado, que é excelente para disfarçar as linhas de camada."
+    },
+    {
+      "start": 34.3,
+      "end": 36.2,
+      "text": "O motivo número 2 é a rigidez."
+    },
+    {
+      "start": 36.4,
+      "end": 41.0,
+      "text": "A infusão da fibra de carbono aumenta significativamente a dureza da peça."
+    },
+    {
+      "start": 41.1,
+      "end": 43.7,
+      "text": "O motivo número 3 é a printabilidade."
+    },
+    {
+      "start": 43.8,
+      "end": 45.5,
+      "text": "É bem fácil de imprimir."
+    },
+    {
+      "start": 45.7,
+      "end": 50.9,
+      "text": "É tão fácil quanto o PLA convencional, mas com muito menos warping ou empenamento."
+    },
+    {
+      "start": 50.9,
+      "end": 54.3,
+      "text": "Mas atenção, as fibras de carbono são abrasivas."
+    },
+    {
+      "start": 54.4,
+      "end": 58.5,
+      "text": "Então você vai precisar obrigatoriamente de um bico de aço endurecido"
+    },
+    {
+      "start": 58.5,
+      "end": 60.5,
+      "text": "Que são esses com o dissipador preto"
+    },
+    {
+      "start": 60.5,
+      "end": 66.5,
+      "text": "E se tiver problemas com entupimento, utilize um diâmetro maior como 0.6 ou até mesmo 0.8"
+    },
+    {
+      "start": 66.5,
+      "end": 71.8,
+      "text": "E pra tornar tua impressora ainda mais durável, indicaria uma extrusora de aço endurecido também"
+    },
+    {
+      "start": 71.8,
+      "end": 75.1,
+      "text": "E os links desses acessórios estão lá no link da bio"
+    },
+    {
+      "start": 75.1,
+      "end": 80.0,
+      "text": "E vocês pessoal, já tiveram alguma experiência com PLACF?"
+    },
+    {
+      "start": 80.3,
+      "end": 81.6,
+      "text": "Me conta aí nos comentários"
+    }
+  ],
+  "duration": 82.6,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,82 @@
+{
+  "text": "Eu testei a nova cola do mercado e o seu acelerador, que promete não manchar o PETG. Será? Bem-vindo ao dia 243! Primeiro vamos testar a colagem. Um pouquinho de cola numa parte da peça e o acelerador na outra parte. Eu exagerei aqui pra ver se manchava. Aliás, o spray parece ser bem econômico. Agora é só posicionar a outra peça com cola e aguardar um pouquinho. A colagem é basicamente instantânea, assim como o outro produto. Agora vamos ver se não manchou mesmo. Aparentemente tudo ok e o PETG está com a sua cor natural, sem aquele amarelado. Só pra gente comparar, eu espirrei um pouco do outro produto no PETG. E esse era o problema que tínhamos, ele fica um pouco amarelado. Coloquei dois testes lado a lado, apenas com o acelerador e a diferença é significativa. Problema resolvido no PETG branco. E se você gostar desse vídeo, me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.9,
+      "text": "Eu testei a nova cola do mercado e o seu acelerador, que promete não manchar o PETG. Será?"
+    },
+    {
+      "start": 7.2,
+      "end": 9.8,
+      "text": "Bem-vindo ao dia 243!"
+    },
+    {
+      "start": 10.0,
+      "end": 11.6,
+      "text": "Primeiro vamos testar a colagem."
+    },
+    {
+      "start": 11.7,
+      "end": 15.6,
+      "text": "Um pouquinho de cola numa parte da peça e o acelerador na outra parte."
+    },
+    {
+      "start": 15.8,
+      "end": 17.6,
+      "text": "Eu exagerei aqui pra ver se manchava."
+    },
+    {
+      "start": 17.8,
+      "end": 20.1,
+      "text": "Aliás, o spray parece ser bem econômico."
+    },
+    {
+      "start": 20.3,
+      "end": 23.9,
+      "text": "Agora é só posicionar a outra peça com cola e aguardar um pouquinho."
+    },
+    {
+      "start": 25.0,
+      "end": 28.8,
+      "text": "A colagem é basicamente instantânea, assim como o outro produto."
+    },
+    {
+      "start": 28.8,
+      "end": 30.5,
+      "text": "Agora vamos ver se não manchou mesmo."
+    },
+    {
+      "start": 31.1,
+      "end": 35.6,
+      "text": "Aparentemente tudo ok e o PETG está com a sua cor natural, sem aquele amarelado."
+    },
+    {
+      "start": 35.7,
+      "end": 38.9,
+      "text": "Só pra gente comparar, eu espirrei um pouco do outro produto no PETG."
+    },
+    {
+      "start": 39.2,
+      "end": 42.6,
+      "text": "E esse era o problema que tínhamos, ele fica um pouco amarelado."
+    },
+    {
+      "start": 42.8,
+      "end": 48.1,
+      "text": "Coloquei dois testes lado a lado, apenas com o acelerador e a diferença é significativa."
+    },
+    {
+      "start": 48.2,
+      "end": 50.1,
+      "text": "Problema resolvido no PETG branco."
+    },
+    {
+      "start": 50.2,
+      "end": 53.8,
+      "text": "E se você gostar desse vídeo, me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 54.4,
+  "model": "large-v3-turbo"
+}

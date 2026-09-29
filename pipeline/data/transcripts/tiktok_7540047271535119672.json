@@ -1,0 +1,147 @@
+{
+  "text": "Olha o que o suporte automático fez com a mão do meu dragão. O suporte árvore padrão é ótimo, mas em modelos com detalhes muito finos e usando um PLA Silk que é mais difícil de remover, ele pode se entrelaçar e destruir tudo. Bem-vindo ao dia 68 e hoje eu vou falar como o suporte árvore slim pode te ajudar a resolver esse problema. Como referência vamos dar uma olhada no suporte automático com ângulo de até 25. É bastante suporte, né? Esse modelo também é um teste de tortura. Vai ser difícil remover esse suporte nos dedos. O modelo também parece não otimizado para impressão 3D. Parece feito numa IA mesmo. Mas vamos ver o que dá para melhorar. Utilizando a pintura manual de suporte, a gente vai tentar diminuir o número de galhos. Eu pintei só a pontinha dos dedos e só um pontinho na palma da mão para tentar diminuir a densidade do suporte ali. Depois de pintado, eu coloquei na opção manual. E lembre-se, eu não estou alterando as configurações de suporte aqui embaixo A ideia principal desse vídeo é conseguir imprimir as mãos mudando o estilo de geração de suportes Opa, já melhorou bem, veja que os dedos já estão mais independentes E isso apenas com uma pintura manual Mas os suportes ainda estão bem grossos Agora mudamos para o estilo slim Agora sim temos a possibilidade de imprimir esse modelo Veja como o suporte slim mais a pintura manual conseguiram separar mais o suporte da peça Por fim a impressão deu super certo Agora é só remover tudo com muito cuidado Só umas pontinhas dos dedos ficaram presas, mas nada grave E sim, uma mão tem 4 dedos e a outra tem 5 Agora se você gostou desse vídeo, clica no botão repostar É uma nova ferramenta do Instagram e a gente está testando E não se esqueça de me seguir para ter conteúdo de 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 16.1,
+      "text": "Olha o que o suporte automático fez com a mão do meu dragão. O suporte árvore padrão é ótimo, mas em modelos com detalhes muito finos e usando um PLA Silk que é mais difícil de remover, ele pode se entrelaçar e destruir tudo."
+    },
+    {
+      "start": 16.1,
+      "end": 23.2,
+      "text": "Bem-vindo ao dia 68 e hoje eu vou falar como o suporte árvore slim pode te ajudar a resolver esse problema."
+    },
+    {
+      "start": 23.4,
+      "end": 27.7,
+      "text": "Como referência vamos dar uma olhada no suporte automático com ângulo de até 25."
+    },
+    {
+      "start": 27.7,
+      "end": 29.4,
+      "text": "É bastante suporte, né?"
+    },
+    {
+      "start": 29.6,
+      "end": 31.8,
+      "text": "Esse modelo também é um teste de tortura."
+    },
+    {
+      "start": 31.9,
+      "end": 34.7,
+      "text": "Vai ser difícil remover esse suporte nos dedos."
+    },
+    {
+      "start": 34.8,
+      "end": 38.0,
+      "text": "O modelo também parece não otimizado para impressão 3D."
+    },
+    {
+      "start": 38.2,
+      "end": 39.5,
+      "text": "Parece feito numa IA mesmo."
+    },
+    {
+      "start": 39.7,
+      "end": 41.3,
+      "text": "Mas vamos ver o que dá para melhorar."
+    },
+    {
+      "start": 41.4,
+      "end": 46.1,
+      "text": "Utilizando a pintura manual de suporte, a gente vai tentar diminuir o número de galhos."
+    },
+    {
+      "start": 46.3,
+      "end": 50.5,
+      "text": "Eu pintei só a pontinha dos dedos e só um pontinho na palma da mão"
+    },
+    {
+      "start": 50.5,
+      "end": 53.0,
+      "text": "para tentar diminuir a densidade do suporte ali."
+    },
+    {
+      "start": 53.3,
+      "end": 55.3,
+      "text": "Depois de pintado, eu coloquei na opção manual."
+    },
+    {
+      "start": 55.3,
+      "end": 59.1,
+      "text": "E lembre-se, eu não estou alterando as configurações de suporte aqui embaixo"
+    },
+    {
+      "start": 59.1,
+      "end": 65.3,
+      "text": "A ideia principal desse vídeo é conseguir imprimir as mãos mudando o estilo de geração de suportes"
+    },
+    {
+      "start": 65.3,
+      "end": 69.0,
+      "text": "Opa, já melhorou bem, veja que os dedos já estão mais independentes"
+    },
+    {
+      "start": 69.0,
+      "end": 71.4,
+      "text": "E isso apenas com uma pintura manual"
+    },
+    {
+      "start": 71.4,
+      "end": 73.5,
+      "text": "Mas os suportes ainda estão bem grossos"
+    },
+    {
+      "start": 73.5,
+      "end": 75.4,
+      "text": "Agora mudamos para o estilo slim"
+    },
+    {
+      "start": 75.4,
+      "end": 78.7,
+      "text": "Agora sim temos a possibilidade de imprimir esse modelo"
+    },
+    {
+      "start": 78.7,
+      "end": 84.2,
+      "text": "Veja como o suporte slim mais a pintura manual conseguiram separar mais o suporte da peça"
+    },
+    {
+      "start": 84.2,
+      "end": 86.5,
+      "text": "Por fim a impressão deu super certo"
+    },
+    {
+      "start": 86.5,
+      "end": 89.3,
+      "text": "Agora é só remover tudo com muito cuidado"
+    },
+    {
+      "start": 89.3,
+      "end": 92.8,
+      "text": "Só umas pontinhas dos dedos ficaram presas, mas nada grave"
+    },
+    {
+      "start": 92.8,
+      "end": 101.1,
+      "text": "E sim, uma mão tem 4 dedos e a outra tem 5"
+    },
+    {
+      "start": 101.1,
+      "end": 105.0,
+      "text": "Agora se você gostou desse vídeo, clica no botão repostar"
+    },
+    {
+      "start": 105.0,
+      "end": 107.7,
+      "text": "É uma nova ferramenta do Instagram e a gente está testando"
+    },
+    {
+      "start": 107.7,
+      "end": 111.5,
+      "text": "E não se esqueça de me seguir para ter conteúdo de 3D todos os dias"
+    }
+  ],
+  "duration": 113.2,
+  "model": "large-v3-turbo"
+}

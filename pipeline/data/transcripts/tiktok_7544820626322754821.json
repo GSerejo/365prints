@@ -1,0 +1,87 @@
+{
+  "text": "Muitas pessoas me perguntam se um bico de 0.2 milímetros melhora a impressão de peças pequenas. A resposta é sim e muito. Bem-vindo ao dia 78. E essa resposta parece ser bem óbvia, mas vamos fazer uma comparação para ninguém nunca mais esquecer. Imagine que você está pintando um quadro. Para os detalhes mais pequenos você usa um pincel mais fino, certo? O mesmo princípio se aplica a impressão 3D. Já no fatiador a gente identifica a diferença de detalhamento. Essas duas peças são bem parecidas. Mas olhando bem de perto, a gente verifica que o 04 não consegue entregar detalhes pequenos. Enquanto que com o Bico 02 você consegue um resultado muito mais nítido. E se você diminuir a escala, essa diferença ainda é muito maior. Mas atenção! Essa qualidade vem com preço. O tempo de impressão aumenta consideravelmente. O Bico 02 é a ferramenta ideal para quem busca o máximo de resolução em peças pequenas. E se você gostou dessa dica e quer aprender mais sobre impressão 3D, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Muitas pessoas me perguntam se um bico de 0.2 milímetros melhora a impressão de peças pequenas."
+    },
+    {
+      "start": 6.1,
+      "end": 7.8,
+      "text": "A resposta é sim e muito."
+    },
+    {
+      "start": 8.1,
+      "end": 9.9,
+      "text": "Bem-vindo ao dia 78."
+    },
+    {
+      "start": 10.1,
+      "end": 15.1,
+      "text": "E essa resposta parece ser bem óbvia, mas vamos fazer uma comparação para ninguém nunca mais esquecer."
+    },
+    {
+      "start": 15.2,
+      "end": 17.1,
+      "text": "Imagine que você está pintando um quadro."
+    },
+    {
+      "start": 17.2,
+      "end": 20.9,
+      "text": "Para os detalhes mais pequenos você usa um pincel mais fino, certo?"
+    },
+    {
+      "start": 21.0,
+      "end": 23.3,
+      "text": "O mesmo princípio se aplica a impressão 3D."
+    },
+    {
+      "start": 23.3,
+      "end": 27.5,
+      "text": "Já no fatiador a gente identifica a diferença de detalhamento."
+    },
+    {
+      "start": 27.7,
+      "end": 29.5,
+      "text": "Essas duas peças são bem parecidas."
+    },
+    {
+      "start": 29.5,
+      "end": 34.7,
+      "text": "Mas olhando bem de perto, a gente verifica que o 04 não consegue entregar detalhes pequenos."
+    },
+    {
+      "start": 35.3,
+      "end": 39.2,
+      "text": "Enquanto que com o Bico 02 você consegue um resultado muito mais nítido."
+    },
+    {
+      "start": 41.0,
+      "end": 44.5,
+      "text": "E se você diminuir a escala, essa diferença ainda é muito maior."
+    },
+    {
+      "start": 46.0,
+      "end": 48.7,
+      "text": "Mas atenção! Essa qualidade vem com preço."
+    },
+    {
+      "start": 49.0,
+      "end": 51.3,
+      "text": "O tempo de impressão aumenta consideravelmente."
+    },
+    {
+      "start": 51.3,
+      "end": 56.3,
+      "text": "O Bico 02 é a ferramenta ideal para quem busca o máximo de resolução em peças pequenas."
+    },
+    {
+      "start": 56.3,
+      "end": 61.6,
+      "text": "E se você gostou dessa dica e quer aprender mais sobre impressão 3D, é só me seguir."
+    }
+  ],
+  "duration": 62.1,
+  "model": "large-v3-turbo"
+}

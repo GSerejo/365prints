@@ -1,0 +1,57 @@
+{
+  "text": "Com esse aplicativo eu espelhei a tela do meu Windows no iPad. Bem-vindo ao dia 178 e eu utilizei isso pra pintar algumas peças. A ligação é por Wi-Fi, então você pode utilizar seu iPad longe do computador. Mas eu gosto dessa configuração, fazendo os detalhes pequenos no iPad e o restante no computador. E pra primeira vez o resultado ficou bem legal. Primeiro eu entrei nesse site e baixei o aplicativo pra Windows. Agora é só utilizar esse aplicativo no iPad pra sincronizar. E mesmo no Wi-Fi, o atraso eu achei quase imperceptível. O aplicativo é vitalício e custa R$ 79,00. E pra ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Com esse aplicativo eu espelhei a tela do meu Windows no iPad."
+    },
+    {
+      "start": 4.0,
+      "end": 8.6,
+      "text": "Bem-vindo ao dia 178 e eu utilizei isso pra pintar algumas peças."
+    },
+    {
+      "start": 8.7,
+      "end": 12.9,
+      "text": "A ligação é por Wi-Fi, então você pode utilizar seu iPad longe do computador."
+    },
+    {
+      "start": 13.0,
+      "end": 18.4,
+      "text": "Mas eu gosto dessa configuração, fazendo os detalhes pequenos no iPad e o restante no computador."
+    },
+    {
+      "start": 18.5,
+      "end": 20.8,
+      "text": "E pra primeira vez o resultado ficou bem legal."
+    },
+    {
+      "start": 20.9,
+      "end": 24.0,
+      "text": "Primeiro eu entrei nesse site e baixei o aplicativo pra Windows."
+    },
+    {
+      "start": 24.1,
+      "end": 27.5,
+      "text": "Agora é só utilizar esse aplicativo no iPad pra sincronizar."
+    },
+    {
+      "start": 27.5,
+      "end": 30.5,
+      "text": "E mesmo no Wi-Fi, o atraso eu achei quase imperceptível."
+    },
+    {
+      "start": 30.6,
+      "end": 33.6,
+      "text": "O aplicativo é vitalício e custa R$ 79,00."
+    },
+    {
+      "start": 33.8,
+      "end": 36.5,
+      "text": "E pra ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 36.8,
+  "model": "large-v3-turbo"
+}

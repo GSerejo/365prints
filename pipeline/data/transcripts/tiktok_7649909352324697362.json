@@ -1,0 +1,102 @@
+{
+  "text": "Parece resina, mas é PLA. Veja as configurações que eu utilizei para deixar esse acabamento, sem nenhum pós-processamento. Bem-vindo ao dia 217. Primeiro, eu utilizei o perfil de 0.08 de altura de camada, que já trabalha com velocidades mais baixas. E sim, é claro que é mais demorado, mas eu estou preocupado aqui com a qualidade, então um pouquinho de paciência. Segundo, eu altero para não aplicado apenas uma parede na camada superior. E a ordem de geração de paredes vai ser parede interna, externa e interna. E para ela funcionar vamos mudar para 3 o número de paredes. O padrão concêntrico para a superfície superior também ajuda a diminuir as linhas de impressão. Agora vamos reduzir o preenchimento primeiro para economizar material e depois para reduzir o efeito da contração do preenchimento interno nas paredes externas. E é basicamente isso, agora vamos para algumas explicações. A ordem de paredes escolhida pode prejudicar os overhangs. Mas nesse caso, as maiores saliências ou overhangs estão nas costas desse objeto, numa região não visível. E nessa ordem, imprimimos a parede interna, depois a parede externa. E isso dá tempo para a parede externa se solidificar antes em contato com a interna, aumentando a precisão. E por último, conectamos as duas com a impressão da parede interna. Se vocês tiverem uma peça com mais saliências, assista o meu vídeo do dia 157. E pra esse projeto eu utilizei o Multifilamate Beige BBL, que funcionou muito bem com perfil genérico PLA High Speed sem nenhuma calibração adicional. E essa peça foi impressa na A1. Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.3,
+      "text": "Parece resina, mas é PLA. Veja as configurações que eu utilizei para deixar esse acabamento, sem nenhum pós-processamento."
+    },
+    {
+      "start": 8.6,
+      "end": 16.6,
+      "text": "Bem-vindo ao dia 217. Primeiro, eu utilizei o perfil de 0.08 de altura de camada, que já trabalha com velocidades mais baixas."
+    },
+    {
+      "start": 16.7,
+      "end": 22.1,
+      "text": "E sim, é claro que é mais demorado, mas eu estou preocupado aqui com a qualidade, então um pouquinho de paciência."
+    },
+    {
+      "start": 22.2,
+      "end": 26.4,
+      "text": "Segundo, eu altero para não aplicado apenas uma parede na camada superior."
+    },
+    {
+      "start": 26.4,
+      "end": 30.5,
+      "text": "E a ordem de geração de paredes vai ser parede interna, externa e interna."
+    },
+    {
+      "start": 30.5,
+      "end": 33.4,
+      "text": "E para ela funcionar vamos mudar para 3 o número de paredes."
+    },
+    {
+      "start": 33.6,
+      "end": 38.0,
+      "text": "O padrão concêntrico para a superfície superior também ajuda a diminuir as linhas de impressão."
+    },
+    {
+      "start": 38.1,
+      "end": 41.0,
+      "text": "Agora vamos reduzir o preenchimento primeiro para economizar material"
+    },
+    {
+      "start": 41.0,
+      "end": 46.1,
+      "text": "e depois para reduzir o efeito da contração do preenchimento interno nas paredes externas."
+    },
+    {
+      "start": 46.3,
+      "end": 49.2,
+      "text": "E é basicamente isso, agora vamos para algumas explicações."
+    },
+    {
+      "start": 49.4,
+      "end": 52.3,
+      "text": "A ordem de paredes escolhida pode prejudicar os overhangs."
+    },
+    {
+      "start": 52.3,
+      "end": 58.4,
+      "text": "Mas nesse caso, as maiores saliências ou overhangs estão nas costas desse objeto, numa região não visível."
+    },
+    {
+      "start": 58.5,
+      "end": 63.0,
+      "text": "E nessa ordem, imprimimos a parede interna, depois a parede externa."
+    },
+    {
+      "start": 63.1,
+      "end": 68.2,
+      "text": "E isso dá tempo para a parede externa se solidificar antes em contato com a interna, aumentando a precisão."
+    },
+    {
+      "start": 68.3,
+      "end": 71.1,
+      "text": "E por último, conectamos as duas com a impressão da parede interna."
+    },
+    {
+      "start": 71.2,
+      "end": 75.6,
+      "text": "Se vocês tiverem uma peça com mais saliências, assista o meu vídeo do dia 157."
+    },
+    {
+      "start": 75.6,
+      "end": 85.1,
+      "text": "E pra esse projeto eu utilizei o Multifilamate Beige BBL, que funcionou muito bem com perfil genérico PLA High Speed sem nenhuma calibração adicional."
+    },
+    {
+      "start": 85.2,
+      "end": 87.0,
+      "text": "E essa peça foi impressa na A1."
+    },
+    {
+      "start": 87.1,
+      "end": 90.9,
+      "text": "Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 91.3,
+  "model": "large-v3-turbo"
+}

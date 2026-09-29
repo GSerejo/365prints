@@ -1,0 +1,92 @@
+{
+  "text": "Tá começando na impressão 3D? Exemplo prático de altura de camada em menos de um minuto. Bem-vindo ao dia 244! Sua impressora monta peça em camadas empilhadas, tipo uma pilha de panquecas. A altura de cada camada é a espessura de cada panqueca. Nesse exemplo, a altura padrão de 0,20 milímetros resultou em 300 camadas, enquanto que uma altura menor de 0,08 milímetros precisa de 748 camadas. É mais panqueca pra fazer, quer dizer, camadas, e por isso demora mais. E se você muda no fatiador, na aba qualidade, eu já pego um perfil pronto que é mais fácil. Cada um já tem uma altura específica. Nas partes retas, como na face do dragão, a diminuição da altura de camada faz pouca diferença. E talvez nesses pontos o aumento do tempo não seja justificável. Agora na curva, cada camada se desloca para acompanhar o formato, e isso vira um degrau. Camada grossa, degrau que você conta no dedo. À medida que diminuímos, camada mais fina, mais resolução e superfície mais lisa Portanto, para mais qualidade, a diminuição da altura de camada nesses casos se justifica Agora envia para aquele amigo que está iniciando E não se esqueça de me seguir para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Tá começando na impressão 3D? Exemplo prático de altura de camada em menos de um minuto."
+    },
+    {
+      "start": 6.4,
+      "end": 8.7,
+      "text": "Bem-vindo ao dia 244!"
+    },
+    {
+      "start": 8.8,
+      "end": 13.4,
+      "text": "Sua impressora monta peça em camadas empilhadas, tipo uma pilha de panquecas."
+    },
+    {
+      "start": 13.6,
+      "end": 16.9,
+      "text": "A altura de cada camada é a espessura de cada panqueca."
+    },
+    {
+      "start": 16.9,
+      "end": 22.1,
+      "text": "Nesse exemplo, a altura padrão de 0,20 milímetros resultou em 300 camadas,"
+    },
+    {
+      "start": 22.2,
+      "end": 27.8,
+      "text": "enquanto que uma altura menor de 0,08 milímetros precisa de 748 camadas."
+    },
+    {
+      "start": 27.8,
+      "end": 32.1,
+      "text": "É mais panqueca pra fazer, quer dizer, camadas, e por isso demora mais."
+    },
+    {
+      "start": 32.2,
+      "end": 37.1,
+      "text": "E se você muda no fatiador, na aba qualidade, eu já pego um perfil pronto que é mais fácil."
+    },
+    {
+      "start": 37.2,
+      "end": 38.9,
+      "text": "Cada um já tem uma altura específica."
+    },
+    {
+      "start": 39.0,
+      "end": 44.6,
+      "text": "Nas partes retas, como na face do dragão, a diminuição da altura de camada faz pouca diferença."
+    },
+    {
+      "start": 44.7,
+      "end": 48.4,
+      "text": "E talvez nesses pontos o aumento do tempo não seja justificável."
+    },
+    {
+      "start": 48.6,
+      "end": 54.0,
+      "text": "Agora na curva, cada camada se desloca para acompanhar o formato, e isso vira um degrau."
+    },
+    {
+      "start": 54.2,
+      "end": 57.1,
+      "text": "Camada grossa, degrau que você conta no dedo."
+    },
+    {
+      "start": 57.1,
+      "end": 62.4,
+      "text": "À medida que diminuímos, camada mais fina, mais resolução e superfície mais lisa"
+    },
+    {
+      "start": 62.4,
+      "end": 68.0,
+      "text": "Portanto, para mais qualidade, a diminuição da altura de camada nesses casos se justifica"
+    },
+    {
+      "start": 68.0,
+      "end": 70.4,
+      "text": "Agora envia para aquele amigo que está iniciando"
+    },
+    {
+      "start": 70.4,
+      "end": 73.6,
+      "text": "E não se esqueça de me seguir para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 73.9,
+  "model": "large-v3-turbo"
+}

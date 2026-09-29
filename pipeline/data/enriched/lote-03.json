@@ -1,0 +1,519 @@
+{
+  "tiktok_7527110643804015878": {
+    "title": "Como resolver warping (peça empenando) com brim pintado",
+    "summary": "Explica por que as bordas empenam (diferença de temperatura e vento em impressora aberta) e resolve com brim pintado no Bambu Studio, colocado só nas pontas da peça. Também cita outras soluções: brim completo, cola e uma placa especial.",
+    "category": "Problemas e soluções",
+    "tags": [
+      "warping",
+      "brim",
+      "aderência",
+      "Bambu Studio"
+    ],
+    "keywords": [
+      "empenamento",
+      "empenando",
+      "peca empenou",
+      "bordas levantando",
+      "canto levantando",
+      "painted brim",
+      "brim pintado",
+      "mouse ears",
+      "aba"
+    ]
+  },
+  "tiktok_7527426754101792005": {
+    "title": "Review da placa BIQU Cryogrip Frostbite",
+    "summary": "Teste da placa BIQU Cryogrip Pro Frostbite na Bambu Lab: grande aderência mesmo com a mesa fria (PLA a 30 °C, PETG a 60 °C), sem cola nem brim. Para tirar peças largas, basta dobrar a placa ou colocar no freezer.",
+    "category": "Manutenção e upgrades",
+    "tags": [
+      "placa de impressão",
+      "aderência",
+      "upgrade",
+      "review"
+    ],
+    "keywords": [
+      "biqu",
+      "cryogrip",
+      "frostbite",
+      "mesa fria",
+      "build plate",
+      "placa magnetica",
+      "warping",
+      "sem cola",
+      "petg grudando"
+    ]
+  },
+  "tiktok_7527799122171120901": {
+    "title": "Tripé modular para criadores de conteúdo",
+    "summary": "Um tripé modular e articulado do MakerWorld, impresso em PETG, com hastes de altura ajustável, versões de mesa e de chão e suportes para celular, iluminação e fundo.",
+    "category": "Coisas úteis para imprimir",
+    "tags": [
+      "tripé",
+      "PETG",
+      "criador de conteúdo",
+      "MakerWorld"
+    ],
+    "keywords": [
+      "suporte de celular",
+      "gravar video",
+      "tripod",
+      "suporte de camera",
+      "iluminacao",
+      "setup de gravacao"
+    ]
+  },
+  "tiktok_7528237709463276856": {
+    "title": "Arquivos STL dos letreiros bíblicos à venda na Cults3D",
+    "summary": "Aviso de que os arquivos da coleção de letreiros bíblicos estão disponíveis na Cults3D, todos multipartes e com licença para uso pessoal.",
+    "category": "Personalização no fatiador",
+    "tags": [
+      "letreiro",
+      "STL",
+      "Cults3D",
+      "multipartes"
+    ],
+    "keywords": [
+      "cults",
+      "cult3d",
+      "comprar stl",
+      "letreiro biblico",
+      "arquivo 3d",
+      "ore e confie"
+    ],
+    "instagram": "DMO0n5RRSJX"
+  },
+  "tiktok_7528564959500979461": {
+    "title": "Dicas para deixar a camada de topo lisinha",
+    "summary": "Receita para uma superfície superior lisa: torre de temperatura, calibração de dinâmica de fluxo e de vazão, filamento seco, velocidade menor na superfície superior, pelo menos 5 camadas de topo, padrão monotônico, preenchimento giroide e, principalmente, PLA fosco.",
+    "category": "Acabamento e qualidade",
+    "tags": [
+      "camada de topo",
+      "superfície superior",
+      "PLA fosco",
+      "calibração"
+    ],
+    "keywords": [
+      "top layer",
+      "topo liso",
+      "top surface",
+      "monotonic",
+      "monotonico",
+      "giroide",
+      "gyroid",
+      "linhas no topo",
+      "acabamento",
+      "matte"
+    ]
+  },
+  "tiktok_7528949193524694278": {
+    "title": "Placa com QR Code do Wi-Fi",
+    "summary": "No MakerWorld você busca \"Wi-Fi QR Code Sign\", personaliza com os dados da sua rede e baixa. O QR fica em alto relevo, então dá para trocar a cor com uma pausa, sem impressora multicolor. São 25 minutos e cerca de R$ 1.",
+    "category": "Personalização no fatiador",
+    "tags": [
+      "QR Code",
+      "Wi-Fi",
+      "MakerWorld",
+      "personalizado"
+    ],
+    "keywords": [
+      "qrcode",
+      "wifi",
+      "senha do wifi",
+      "placa wifi",
+      "parametric model maker",
+      "pausa para trocar cor",
+      "comercio"
+    ]
+  },
+  "tiktok_7529625055991582008": {
+    "title": "Batman multipartes: peça que não firmava na mesa",
+    "summary": "O torso do Batman tocava a mesa só em dois pontinhos e ficava instável sobre os suportes. A solução foi afundar a peça um pouco na mesa (numa área de encaixe) para aumentar o contato. Sempre revise o posicionamento antes de imprimir.",
+    "category": "Suportes",
+    "tags": [
+      "action figure",
+      "multipartes",
+      "posicionamento",
+      "suportes"
+    ],
+    "keywords": [
+      "batman",
+      "dc",
+      "peca soltando",
+      "contato com a mesa",
+      "afundar peca",
+      "orientacao",
+      "boneco"
+    ]
+  },
+  "tiktok_7530025178852494598": {
+    "title": "PLA normal ou fosco para peças decorativas?",
+    "summary": "Comparação lado a lado: o brilho do PLA comum realça as linhas de impressão na superfície superior, enquanto o fosco as disfarça. Mesmo com ironing as linhas continuam. Se preferir o brilhante, vire o topo para a mesa.",
+    "category": "Filamentos",
+    "tags": [
+      "PLA fosco",
+      "PLA",
+      "acabamento",
+      "camada de topo"
+    ],
+    "keywords": [
+      "matte vs brilhante",
+      "pla matte",
+      "pla fosco ou normal",
+      "linhas de impressao",
+      "ironing",
+      "passar ferro",
+      "decoracao",
+      "voolt3d",
+      "esun"
+    ]
+  },
+  "tiktok_7530404403837259064": {
+    "title": "Comprei minha impressora 3D, e agora? Primeiros passos",
+    "summary": "Roteiro para iniciantes: aprender o fatiador (o que é G-code e os presets), usar a wiki do fabricante, ChatGPT e YouTube para tirar dúvidas, baixar modelos prontos nas bibliotecas e calibrar o filamento quando a qualidade exigir.",
+    "category": "Calibração e configurações",
+    "tags": [
+      "iniciantes",
+      "fatiador",
+      "primeiros passos",
+      "Bambu Studio"
+    ],
+    "keywords": [
+      "comecar",
+      "iniciante",
+      "primeira impressora",
+      "gcode",
+      "slicer",
+      "wiki bambu",
+      "chatgpt",
+      "por onde comecar",
+      "tutorial"
+    ]
+  },
+  "tiktok_7530773844676595000": {
+    "title": "Coisas úteis para imprimir com pouco filamento",
+    "summary": "Ideias para acabar com rolos no fim: organizador de cabos, prendedores, abridor de latas, presilhas de saco, potes de sílica, clipes de ponta de filamento e mais. A dica final é usar a impressão por objeto para aproveitar o último metro.",
+    "category": "Coisas úteis para imprimir",
+    "tags": [
+      "pouco filamento",
+      "ideias",
+      "sobras",
+      "impressão por objeto"
+    ],
+    "keywords": [
+      "final do carretel",
+      "resto de filamento",
+      "rolo acabando",
+      "print by object",
+      "clip de filamento",
+      "organizador de cabo",
+      "coisas pequenas"
+    ]
+  },
+  "tiktok_7531136644037070136": {
+    "title": "Preenchimento Lightning: 70% menos filamento em peças decorativas",
+    "summary": "Trocar o preenchimento para Lightning (relâmpago) economizou 234 g e quase 3 horas na mesma peça, com o mesmo acabamento. É indicado para peças decorativas que não precisam de resistência.",
+    "category": "Calibração e configurações",
+    "tags": [
+      "preenchimento",
+      "infill",
+      "economia",
+      "Lightning"
+    ],
+    "keywords": [
+      "lightning infill",
+      "iluminacao",
+      "relampago",
+      "economizar filamento",
+      "imprimir mais rapido",
+      "peca decorativa",
+      "sparse infill"
+    ]
+  },
+  "tiktok_7531914599751241016": {
+    "title": "Bolsa impressa em 3D: resolvendo fiapos e suportes caindo",
+    "summary": "Uma bolsa orgânica da Cults3D em PLA Silk. Os fiapos foram resolvidos ajustando a retração (1 mm a 40 mm/s), evitando cruzar paredes e retraindo ao mudar de camada. Os suportes internos que caíam foram resolvidos com velocidade menor. Custo total: R$ 79.",
+    "category": "Problemas e soluções",
+    "tags": [
+      "stringing",
+      "retração",
+      "PLA Silk",
+      "suportes"
+    ],
+    "keywords": [
+      "fiapos",
+      "teia de aranha",
+      "stringing",
+      "retracao",
+      "retraction",
+      "avoid crossing walls",
+      "bolsa",
+      "cults3d",
+      "suporte caiu"
+    ]
+  },
+  "tiktok_7532302731994828037": {
+    "title": "Altura de camada variável para sumir com os degraus",
+    "summary": "Camada de 0,08 mm melhora o acabamento, mas dobra o tempo. A altura de camada variável (adaptativa + suave) do Bambu Studio dá qualidade onde precisa e velocidade no resto, economizando 40 minutos. Dica extra: gerador de paredes Arachne.",
+    "category": "Acabamento e qualidade",
+    "tags": [
+      "altura de camada variável",
+      "linhas de camada",
+      "Bambu Studio",
+      "Arachne"
+    ],
+    "keywords": [
+      "variable layer height",
+      "camada adaptativa",
+      "adaptive",
+      "degraus",
+      "linhas de impressao",
+      "0.08",
+      "stair stepping",
+      "suavizar"
+    ]
+  },
+  "tiktok_7532986612351913272": {
+    "title": "Donatello multipartes: dicas de impressão",
+    "summary": "Um Donatello das Tartarugas Ninja em 7 cores separadas por mesa (400 g, 21 horas), com a máscara unida ao rosto no próprio fatiador e altura de camada variável para mais qualidade. Modelo da Cults3D.",
+    "category": "Coisas úteis para imprimir",
+    "tags": [
+      "action figure",
+      "multipartes",
+      "altura de camada variável"
+    ],
+    "keywords": [
+      "donatello",
+      "tartarugas ninja",
+      "tmnt",
+      "unir pecas",
+      "merge",
+      "boneco",
+      "cults3d"
+    ]
+  },
+  "tiktok_7533439570789010693": {
+    "title": "Como evitar suportes indesejados que estragam o acabamento",
+    "summary": "A aba do boné do Donatello saía marcada pelos suportes. Ele explica o ângulo limite (30°) e a opção de suporte só em áreas críticas, e resolve girando a peça 45° e pintando suportes manuais só nas regiões de encaixe.",
+    "category": "Suportes",
+    "tags": [
+      "suportes manuais",
+      "ângulo de suporte",
+      "orientação da peça",
+      "overhang"
+    ],
+    "keywords": [
+      "pintar suporte",
+      "support painting",
+      "threshold angle",
+      "angulo limite",
+      "on build plate only",
+      "areas criticas",
+      "marca de suporte",
+      "saliencia"
+    ]
+  },
+  "tiktok_7533752919796108550": {
+    "title": "A orientação da peça muda o acabamento",
+    "summary": "Girar a peça mais de 30° e usar altura de camada variável leva os degraus para uma área escondida. Uma peça mais alta na mesa muda de seção mais suavemente, e as linhas ficam menos visíveis.",
+    "category": "Acabamento e qualidade",
+    "tags": [
+      "orientação da peça",
+      "linhas de camada",
+      "altura de camada variável"
+    ],
+    "keywords": [
+      "orientacao",
+      "rotacionar",
+      "girar peca",
+      "degraus",
+      "acabamento",
+      "donatello"
+    ]
+  },
+  "tiktok_7534877289868201222": {
+    "title": "Manutenção da Bambu Lab A1: limpeza dos coolers",
+    "summary": "Parte 1 da manutenção preventiva da A1/A1 mini: tirar três parafusos, remover o cooler e limpar com aspirador, palito ou pinça sem arrebentar os fios. Cooler sujo pode causar problema de overhang.",
+    "category": "Manutenção e upgrades",
+    "tags": [
+      "manutenção",
+      "Bambu Lab A1",
+      "cooler",
+      "limpeza"
+    ],
+    "keywords": [
+      "ventoinha",
+      "fan",
+      "a1 mini",
+      "limpar cooler",
+      "manutencao preventiva",
+      "overhang ruim",
+      "poeira",
+      "pelo de gato"
+    ]
+  },
+  "tiktok_7535232027671547141": {
+    "title": "Como e quando lubrificar os eixos da Bambu Lab A1",
+    "summary": "Parte 2 da manutenção: limpar e lubrificar os eixos Y e X uma vez por mês com o lubrificante que vem com a impressora, e o eixo Z a cada 3 meses com graxa Super Lube. No fim, rodar uma calibração.",
+    "category": "Manutenção e upgrades",
+    "tags": [
+      "manutenção",
+      "lubrificação",
+      "Bambu Lab A1",
+      "eixos"
+    ],
+    "keywords": [
+      "lubrificar",
+      "graxa",
+      "super lube",
+      "eixo z",
+      "eixo y",
+      "eixo x",
+      "trilho",
+      "a1 mini",
+      "manutencao preventiva",
+      "barulho"
+    ]
+  },
+  "tiktok_7535664889663065400": {
+    "title": "Os melhores utensílios de cozinha para imprimir",
+    "summary": "Uma seleção para a cozinha: quebrador de ovos, dosadores, paliteiro, apoio de utensílios, prendedores de saco, suporte de toalha, organizador de temperos, suporte de papel toalha, limpador de balcão e suporte para sacolas em PETG.",
+    "category": "Coisas úteis para imprimir",
+    "tags": [
+      "cozinha",
+      "utensílios",
+      "ideias"
+    ],
+    "keywords": [
+      "quebrador de ovo",
+      "dosador",
+      "paliteiro",
+      "tempero",
+      "porta tempero",
+      "sacola de mercado",
+      "prendedor de saco",
+      "toalha"
+    ]
+  },
+  "tiktok_7535971561984052486": {
+    "title": "Filamento de qualidade é o melhor investimento",
+    "summary": "Linhas numa transição de preenchimento não sumiam com nenhuma calibração, secagem ou ajuste de velocidade. Com filamento de melhor qualidade, a peça saiu boa sem calibrar. Ter 1 kg de um bom filamento como referência economiza tempo.",
+    "category": "Filamentos",
+    "tags": [
+      "qualidade do filamento",
+      "diagnóstico",
+      "linhas na parede"
+    ],
+    "keywords": [
+      "filamento ruim",
+      "filamento barato",
+      "marca de filamento",
+      "linhas horizontais",
+      "banding",
+      "inconsistencia",
+      "bambu lab filamento"
+    ]
+  },
+  "tiktok_7536599172611329285": {
+    "title": "Costura cachecol (scarf seam) para esconder a emenda",
+    "summary": "Explica os tipos de costura (alinhada, traseira, aleatória, mais próxima) e a costura cachecol, que faz uma rampa de vazão no início e no fim da linha e praticamente some com a emenda.",
+    "category": "Acabamento e qualidade",
+    "tags": [
+      "costura",
+      "scarf seam",
+      "Bambu Studio",
+      "acabamento"
+    ],
+    "keywords": [
+      "seam",
+      "costura cachecol",
+      "emenda",
+      "zits",
+      "pontinhos na parede",
+      "cicatriz",
+      "seam position",
+      "z seam"
+    ]
+  },
+  "tiktok_7537787819733863685": {
+    "title": "Destaques da atualização do Bambu Studio (aba Calibração, texto, fuzzy skin)",
+    "summary": "Novidades: aba de calibração como a do Orca Slicer (modo desenvolvedor), ferramenta de texto com mais fontes e baixo relevo, pintura de fuzzy skin, pintura de áreas conectadas e costura cachecol nas configurações de qualidade.",
+    "category": "Calibração e configurações",
+    "tags": [
+      "Bambu Studio",
+      "atualização",
+      "fuzzy skin",
+      "calibração"
+    ],
+    "keywords": [
+      "update",
+      "novidades",
+      "orca slicer",
+      "modo desenvolvedor",
+      "texto",
+      "pele felpuda",
+      "textura",
+      "scarf seam"
+    ]
+  },
+  "tiktok_7538179522869382405": {
+    "title": "Como colocar um objeto em cima de outro no fatiador",
+    "summary": "Dúvida de seguidor: selecionar os dois objetos, unir (merge), mover o logo para cima da placa e ajustar a escala. Para o texto não embolar, ele troca o gerador de paredes para Arachne.",
+    "category": "Personalização no fatiador",
+    "tags": [
+      "Bambu Studio",
+      "unir objetos",
+      "logo",
+      "Arachne"
+    ],
+    "keywords": [
+      "merge",
+      "mesclar",
+      "unir",
+      "sobrepor",
+      "logo em cima",
+      "objeto afundando",
+      "placa personalizada",
+      "texto embolado"
+    ]
+  },
+  "tiktok_7538556931565292856": {
+    "title": "Mouse impresso em 3D e personalizado",
+    "summary": "Um mouse gratuito do MakerWorld com o kit eletrônico MH002, carcaça em PLA Sparkle e interior fluorescente, personalizado com texto em baixo relevo de 0,5 mm. Custou R$ 18 de impressão e R$ 33 de componentes.",
+    "category": "Coisas úteis para imprimir",
+    "tags": [
+      "mouse",
+      "eletrônica",
+      "personalizado",
+      "MakerWorld"
+    ],
+    "keywords": [
+      "mouse 3d",
+      "mh002",
+      "periferico",
+      "baixo relevo",
+      "texto no fatiador",
+      "svg logo",
+      "setup"
+    ]
+  },
+  "tiktok_7538937142718860550": {
+    "title": "Como fazer timelapse da impressão com câmera externa",
+    "summary": "A câmera da A1 não grava na vertical. Com o timelapse suave, a cabeça vai até o fim do trilho a cada camada. Ele mostra disparadores por Bluetooth e infravermelho e o dispositivo CyberBrick, que dispara câmera ou celular por Bluetooth, P2 ou USB-C.",
+    "category": "Manutenção e upgrades",
+    "tags": [
+      "timelapse",
+      "acessório",
+      "Bambu Lab A1",
+      "CyberBrick"
+    ],
+    "keywords": [
+      "time lapse",
+      "gravar impressao",
+      "disparador",
+      "camera externa",
+      "bluetooth shutter",
+      "cyberbrick",
+      "video da impressao"
+    ]
+  }
+}

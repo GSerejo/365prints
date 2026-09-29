@@ -1,0 +1,27 @@
+{
+  "text": "Hoje eu imprimi o Pikachu. Bem-vindo ao dia 35 de 365 impressões 3D aqui em casa. Esse é um projeto multi-parts, ou seja, você não precisa de uma impressora multicolor. Foram mais de 13 horas de impressão e 321 gramas gastos de PLA. Agora a turma está quase completa.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.8,
+      "text": "Hoje eu imprimi o Pikachu. Bem-vindo ao dia 35 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 8.9,
+      "end": 15.1,
+      "text": "Esse é um projeto multi-parts, ou seja, você não precisa de uma impressora multicolor."
+    },
+    {
+      "start": 15.4,
+      "end": 21.1,
+      "text": "Foram mais de 13 horas de impressão e 321 gramas gastos de PLA."
+    },
+    {
+      "start": 21.5,
+      "end": 44.7,
+      "text": "Agora a turma está quase completa."
+    }
+  ],
+  "duration": 49.9,
+  "model": "large-v3-turbo"
+}

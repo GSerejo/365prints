@@ -1,0 +1,17 @@
+{
+  "text": "Bora dar uma cor pra essa casa inteiramente cinza? Dia 9 de 365 impressões 3D aqui em casa. Hoje foi o dia de imprimir um vaso que demorou cerca de 16 horas de impressão. Novamente eu utilizei o filamento PETG da Bambu Lab. Ele é mais resistente à água e por isso é ideal pra vasos. Depois de encaixar os pezinhos, vamos ver como é que ficou. Esse até o Alfredo gostou.",
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 17.0,
+      "text": "Bora dar uma cor pra essa casa inteiramente cinza? Dia 9 de 365 impressões 3D aqui em casa. Hoje foi o dia de imprimir um vaso que demorou cerca de 16 horas de impressão."
+    },
+    {
+      "start": 19.5,
+      "end": 50.0,
+      "text": "Novamente eu utilizei o filamento PETG da Bambu Lab. Ele é mais resistente à água e por isso é ideal pra vasos. Depois de encaixar os pezinhos, vamos ver como é que ficou. Esse até o Alfredo gostou."
+    }
+  ],
+  "duration": 55.8,
+  "model": "large-v3-turbo"
+}

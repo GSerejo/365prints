@@ -1,0 +1,52 @@
+{
+  "text": "Utilizando um recurso no fatiador eu reduzi a impressão dessa peça em 24 horas. Bem-vindo ao dia 111, como essa peça tinha muitos detalhes eu resolvi testar a altura de camada de 0.12mm. E no fatiamento normal a gente verifica que a impressão do modelo iria demorar 2 dias e 3 horas. E quase 1 dia e 12 horas seriam apenas para o preenchimento interno. E é nesse momento que ativamos lá na aba força a combinação de preenchimento. Assim reduzimos em 24 horas a impressão do preenchimento interno e consequentemente o tempo total. Isso acontece porque o preenchimento interno é impresso em uma altura de camada maior do que as paredes. Tudo isso visando reduzir o tempo. E aí, gostaram dessa dica? Me sigam para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 5.7,
+      "text": "Utilizando um recurso no fatiador eu reduzi a impressão dessa peça em 24 horas."
+    },
+    {
+      "start": 6.1,
+      "end": 13.3,
+      "text": "Bem-vindo ao dia 111, como essa peça tinha muitos detalhes eu resolvi testar a altura de camada de 0.12mm."
+    },
+    {
+      "start": 13.6,
+      "end": 18.9,
+      "text": "E no fatiamento normal a gente verifica que a impressão do modelo iria demorar 2 dias e 3 horas."
+    },
+    {
+      "start": 19.1,
+      "end": 22.8,
+      "text": "E quase 1 dia e 12 horas seriam apenas para o preenchimento interno."
+    },
+    {
+      "start": 23.0,
+      "end": 26.8,
+      "text": "E é nesse momento que ativamos lá na aba força a combinação de preenchimento."
+    },
+    {
+      "start": 26.8,
+      "end": 32.6,
+      "text": "Assim reduzimos em 24 horas a impressão do preenchimento interno e consequentemente o tempo total."
+    },
+    {
+      "start": 32.8,
+      "end": 37.5,
+      "text": "Isso acontece porque o preenchimento interno é impresso em uma altura de camada maior do que as paredes."
+    },
+    {
+      "start": 37.8,
+      "end": 39.5,
+      "text": "Tudo isso visando reduzir o tempo."
+    },
+    {
+      "start": 39.7,
+      "end": 43.5,
+      "text": "E aí, gostaram dessa dica? Me sigam para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 44.1,
+  "model": "large-v3-turbo"
+}

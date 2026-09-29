@@ -1,0 +1,72 @@
+{
+  "text": "Dia 2 de 365 impressões 3D aqui em casa. Minhas ferramentas viviam desorganizadas, então eu fui procurar uma solução com as impressões 3D. Novamente entrei no site da Bambu Lab, o MakerWorld, para encontrar alguma coisa para organizar minhas ferramentas. Encontrei um sistema de painéis perfurados, chamado Ikea SCAD. Nesse sistema você encontra diversos suportes para vários tipos de coisa, até para pergênico, imagina só. Eu fui procurando, encontrei suportes para chave de fenda, chave Philips e vários outros. Tem suporte para tudo que você possa imaginar. Fiz o download dos suportes e comecei as impressões. Depois de tudo impresso, é hora de começar a montar tudo. E deu um pouco de trabalho, para ser sincero. A bateria da câmera acabou, mas o resultado foi esse. Depois de algumas horas e com tudo impresso na impressora 3D, as placas, os suportes... Finalmente, minhas ferramentas estão organizadas. E... problema resolvido.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 12.6,
+      "text": "Dia 2 de 365 impressões 3D aqui em casa. Minhas ferramentas viviam desorganizadas, então eu fui procurar uma solução com as impressões 3D."
+    },
+    {
+      "start": 13.6,
+      "end": 20.6,
+      "text": "Novamente entrei no site da Bambu Lab, o MakerWorld, para encontrar alguma coisa para organizar minhas ferramentas."
+    },
+    {
+      "start": 20.6,
+      "end": 27.1,
+      "text": "Encontrei um sistema de painéis perfurados, chamado Ikea SCAD."
+    },
+    {
+      "start": 27.8,
+      "end": 34.0,
+      "text": "Nesse sistema você encontra diversos suportes para vários tipos de coisa, até para pergênico, imagina só."
+    },
+    {
+      "start": 34.0,
+      "end": 40.3,
+      "text": "Eu fui procurando, encontrei suportes para chave de fenda, chave Philips e vários outros."
+    },
+    {
+      "start": 41.2,
+      "end": 44.0,
+      "text": "Tem suporte para tudo que você possa imaginar."
+    },
+    {
+      "start": 46.5,
+      "end": 49.5,
+      "text": "Fiz o download dos suportes e comecei as impressões."
+    },
+    {
+      "start": 49.5,
+      "end": 57.1,
+      "text": "Depois de tudo impresso, é hora de começar a montar tudo."
+    },
+    {
+      "start": 57.6,
+      "end": 59.5,
+      "text": "E deu um pouco de trabalho, para ser sincero."
+    },
+    {
+      "start": 65.6,
+      "end": 68.8,
+      "text": "A bateria da câmera acabou, mas o resultado foi esse."
+    },
+    {
+      "start": 70.9,
+      "end": 77.3,
+      "text": "Depois de algumas horas e com tudo impresso na impressora 3D, as placas, os suportes..."
+    },
+    {
+      "start": 79.4,
+      "end": 82.6,
+      "text": "Finalmente, minhas ferramentas estão organizadas."
+    },
+    {
+      "start": 83.1,
+      "end": 86.8,
+      "text": "E... problema resolvido."
+    }
+  ],
+  "duration": 88.0,
+  "model": "large-v3-turbo"
+}

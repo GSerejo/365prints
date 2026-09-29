@@ -1,0 +1,62 @@
+{
+  "text": "Encontre a transição ideal para o seu filamento dual color. Bem-vindo ao dia 166 e primeiro a gente imprime esse teste. Com ele vemos o ângulo ideal para a transição das cores. Eu determinei que era esse ponto a 45 graus. Agora é só reorientar o objeto para aquela direção. A frente do barco ficou virada para a face que é a transição da cor e agora é só imprimir. E o resultado foi esse. Dava para ter girado um pouquinho mais, talvez nos 50 graus. Esse é o filamento fosco, verde e rosa da Multifil E pra ter conteúdo 3D todos os dias Não esquece de me seguir",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.6,
+      "text": "Encontre a transição ideal para o seu filamento dual color."
+    },
+    {
+      "start": 4.0,
+      "end": 7.5,
+      "text": "Bem-vindo ao dia 166 e primeiro a gente imprime esse teste."
+    },
+    {
+      "start": 7.6,
+      "end": 10.5,
+      "text": "Com ele vemos o ângulo ideal para a transição das cores."
+    },
+    {
+      "start": 10.5,
+      "end": 13.4,
+      "text": "Eu determinei que era esse ponto a 45 graus."
+    },
+    {
+      "start": 13.6,
+      "end": 16.6,
+      "text": "Agora é só reorientar o objeto para aquela direção."
+    },
+    {
+      "start": 16.7,
+      "end": 21.0,
+      "text": "A frente do barco ficou virada para a face que é a transição da cor e agora é só imprimir."
+    },
+    {
+      "start": 21.1,
+      "end": 22.1,
+      "text": "E o resultado foi esse."
+    },
+    {
+      "start": 23.6,
+      "end": 26.9,
+      "text": "Dava para ter girado um pouquinho mais, talvez nos 50 graus."
+    },
+    {
+      "start": 26.9,
+      "end": 29.8,
+      "text": "Esse é o filamento fosco, verde e rosa da Multifil"
+    },
+    {
+      "start": 29.8,
+      "end": 31.6,
+      "text": "E pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 31.6,
+      "end": 32.9,
+      "text": "Não esquece de me seguir"
+    }
+  ],
+  "duration": 33.1,
+  "model": "large-v3-turbo"
+}

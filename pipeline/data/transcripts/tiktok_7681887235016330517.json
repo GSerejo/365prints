@@ -1,0 +1,317 @@
+{
+  "text": "Como fazer essa lembrança pro dia dos pais? E fica até o final porque eu falo de um erro que quase todo mundo comete. Bem-vindo ao dia 251. Primeiro vamos pesquisar uma silhueta de pai e filho. Preste atenção na imagem que escolheram. O eixo Z vai estar aqui embaixo na impressão. Então essa imagem, por exemplo, terá muitos suportes. Essa outra também não dá porque tem uma parte aérea. Olhando um pouquinho mais, eu escolhi essa imagem aqui. Ela está toda conectada, mas teremos suportes, Principalmente no queixo e na bunda Botão direito e salvar imagem com Agora vamos fazer o upload daquela imagem Nesse site para converter em SVG O bom desse site é que dá pra ver o resultado Em SVG e aqui a gente pode escolher Algumas alternativas Eu escolhi o interno 1 E aí é só fazer o download No Bambu Studio vamos adicionar aquele SVG Que salvamos Vou reduzir aqui com a ferramenta escala E vou virá-lo na orientação de impressão Novamente com a ferramenta escala Eu desmarco escala uniforme e ajusto a espessura em Y Vou arredondar os outros eixos para ficar mais fácil. Agora eu adiciono o texto para escrever te amo. Agora é só escolher a fonte e diminuir a lacuna de texto para deixar as letras unidas. E isso é extremamente importante. Da mesma maneira que eu adicionei aquele outro SVG, eu vou adicionar um SVG de coração para fazer a ligação entre o T e o amo. Com a ferramenta escala, escala uniforme, vou ajustar para 15 centímetros em Y coração. E fiz o mesmo para a palavra T. É importante unir as peças. Ctrl C e Ctrl V no T para escrever a palavra amo. Agora é só editar o texto e reposicionar a palavra amo do lado do coração. Agora seleciono tudo e com a ferramenta mover vou alinhar todos os objetos no centro em Y. Seleciono a palavra amo, clico em mover e arrasto para encostar no coração. Eu ainda diminui um pouco a lacuna do texto da palavra amo. Vou deixar os três objetos com 5 milímetros em Z. Seleciono tudo novamente e com a ferramenta boleana vamos fazer uma união. Agora precisamos deixar as palavras na mesma dimensão da figura Eu achei que o texto ficou um pouco esticado Então vou diminuir ambas em Y para 10 milímetros Botão direito nas duas peças e centro Selecionamos ambas e vamos utilizar a ferramenta de interseção E agora a gente pode ver que deu errado Provavelmente porque um dos modelos está com uma linha aberta Então nós precisamos corrigir Depois de um CTRL Z, botão direito, corrigir o modelo na figura e também nas palavras Depois de centralizar ambas de novo Selecionamos e vamos utilizar novamente a interseção Agora sim, muita gente estava com dúvida nisso Por isso fiz detalhado Agora botão direito na peça Adicionar parte negativa Toro para fazer o furo do chaveiro E é só posicionar Eu mudei a cor para preto E depois de pronto a gente pode mexer na altura um pouquinho Como tem bastante curvatura Vale diminuir a altura de camada E também não se esqueça de ativar os suportes Esse PLA brilhoso é o PLA Galaxy da Multifila E o kit chaveiros também Esse arquivo está disponível no grupo de assinantes. E para ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.9,
+      "text": "Como fazer essa lembrança pro dia dos pais? E fica até o final porque eu falo de um erro que quase todo mundo comete."
+    },
+    {
+      "start": 8.2,
+      "end": 13.6,
+      "text": "Bem-vindo ao dia 251. Primeiro vamos pesquisar uma silhueta de pai e filho."
+    },
+    {
+      "start": 13.7,
+      "end": 17.8,
+      "text": "Preste atenção na imagem que escolheram. O eixo Z vai estar aqui embaixo na impressão."
+    },
+    {
+      "start": 17.9,
+      "end": 23.4,
+      "text": "Então essa imagem, por exemplo, terá muitos suportes. Essa outra também não dá porque tem uma parte aérea."
+    },
+    {
+      "start": 23.4,
+      "end": 28.9,
+      "text": "Olhando um pouquinho mais, eu escolhi essa imagem aqui. Ela está toda conectada, mas teremos suportes,"
+    },
+    {
+      "start": 28.9,
+      "end": 30.7,
+      "text": "Principalmente no queixo e na bunda"
+    },
+    {
+      "start": 30.7,
+      "end": 32.7,
+      "text": "Botão direito e salvar imagem com"
+    },
+    {
+      "start": 32.7,
+      "end": 34.9,
+      "text": "Agora vamos fazer o upload daquela imagem"
+    },
+    {
+      "start": 34.9,
+      "end": 37.0,
+      "text": "Nesse site para converter em SVG"
+    },
+    {
+      "start": 37.0,
+      "end": 38.8,
+      "text": "O bom desse site é que dá pra ver o resultado"
+    },
+    {
+      "start": 38.8,
+      "end": 40.9,
+      "text": "Em SVG e aqui a gente pode escolher"
+    },
+    {
+      "start": 40.9,
+      "end": 42.2,
+      "text": "Algumas alternativas"
+    },
+    {
+      "start": 42.2,
+      "end": 43.8,
+      "text": "Eu escolhi o interno 1"
+    },
+    {
+      "start": 43.8,
+      "end": 45.2,
+      "text": "E aí é só fazer o download"
+    },
+    {
+      "start": 45.2,
+      "end": 48.4,
+      "text": "No Bambu Studio vamos adicionar aquele SVG"
+    },
+    {
+      "start": 48.4,
+      "end": 49.2,
+      "text": "Que salvamos"
+    },
+    {
+      "start": 49.2,
+      "end": 51.3,
+      "text": "Vou reduzir aqui com a ferramenta escala"
+    },
+    {
+      "start": 51.3,
+      "end": 53.6,
+      "text": "E vou virá-lo na orientação de impressão"
+    },
+    {
+      "start": 53.6,
+      "end": 55.1,
+      "text": "Novamente com a ferramenta escala"
+    },
+    {
+      "start": 55.1,
+      "end": 58.1,
+      "text": "Eu desmarco escala uniforme e ajusto a espessura em Y"
+    },
+    {
+      "start": 58.1,
+      "end": 60.8,
+      "text": "Vou arredondar os outros eixos para ficar mais fácil."
+    },
+    {
+      "start": 60.9,
+      "end": 63.3,
+      "text": "Agora eu adiciono o texto para escrever te amo."
+    },
+    {
+      "start": 63.4,
+      "end": 67.9,
+      "text": "Agora é só escolher a fonte e diminuir a lacuna de texto para deixar as letras unidas."
+    },
+    {
+      "start": 68.0,
+      "end": 69.5,
+      "text": "E isso é extremamente importante."
+    },
+    {
+      "start": 69.7,
+      "end": 72.0,
+      "text": "Da mesma maneira que eu adicionei aquele outro SVG,"
+    },
+    {
+      "start": 72.1,
+      "end": 76.8,
+      "text": "eu vou adicionar um SVG de coração para fazer a ligação entre o T e o amo."
+    },
+    {
+      "start": 77.0,
+      "end": 81.8,
+      "text": "Com a ferramenta escala, escala uniforme, vou ajustar para 15 centímetros em Y coração."
+    },
+    {
+      "start": 82.0,
+      "end": 83.6,
+      "text": "E fiz o mesmo para a palavra T."
+    },
+    {
+      "start": 83.7,
+      "end": 85.7,
+      "text": "É importante unir as peças."
+    },
+    {
+      "start": 85.7,
+      "end": 88.7,
+      "text": "Ctrl C e Ctrl V no T para escrever a palavra amo."
+    },
+    {
+      "start": 88.8,
+      "end": 92.7,
+      "text": "Agora é só editar o texto e reposicionar a palavra amo do lado do coração."
+    },
+    {
+      "start": 92.9,
+      "end": 97.7,
+      "text": "Agora seleciono tudo e com a ferramenta mover vou alinhar todos os objetos no centro em Y."
+    },
+    {
+      "start": 97.9,
+      "end": 101.6,
+      "text": "Seleciono a palavra amo, clico em mover e arrasto para encostar no coração."
+    },
+    {
+      "start": 101.7,
+      "end": 104.7,
+      "text": "Eu ainda diminui um pouco a lacuna do texto da palavra amo."
+    },
+    {
+      "start": 104.8,
+      "end": 107.7,
+      "text": "Vou deixar os três objetos com 5 milímetros em Z."
+    },
+    {
+      "start": 107.8,
+      "end": 112.1,
+      "text": "Seleciono tudo novamente e com a ferramenta boleana vamos fazer uma união."
+    },
+    {
+      "start": 112.1,
+      "end": 115.7,
+      "text": "Agora precisamos deixar as palavras na mesma dimensão da figura"
+    },
+    {
+      "start": 115.7,
+      "end": 117.7,
+      "text": "Eu achei que o texto ficou um pouco esticado"
+    },
+    {
+      "start": 117.7,
+      "end": 120.9,
+      "text": "Então vou diminuir ambas em Y para 10 milímetros"
+    },
+    {
+      "start": 120.9,
+      "end": 123.1,
+      "text": "Botão direito nas duas peças e centro"
+    },
+    {
+      "start": 123.1,
+      "end": 126.8,
+      "text": "Selecionamos ambas e vamos utilizar a ferramenta de interseção"
+    },
+    {
+      "start": 126.8,
+      "end": 129.9,
+      "text": "E agora a gente pode ver que deu errado"
+    },
+    {
+      "start": 129.9,
+      "end": 132.7,
+      "text": "Provavelmente porque um dos modelos está com uma linha aberta"
+    },
+    {
+      "start": 132.7,
+      "end": 134.3,
+      "text": "Então nós precisamos corrigir"
+    },
+    {
+      "start": 134.3,
+      "end": 139.2,
+      "text": "Depois de um CTRL Z, botão direito, corrigir o modelo na figura e também nas palavras"
+    },
+    {
+      "start": 139.2,
+      "end": 141.2,
+      "text": "Depois de centralizar ambas de novo"
+    },
+    {
+      "start": 141.2,
+      "end": 144.3,
+      "text": "Selecionamos e vamos utilizar novamente a interseção"
+    },
+    {
+      "start": 144.3,
+      "end": 146.3,
+      "text": "Agora sim, muita gente estava com dúvida nisso"
+    },
+    {
+      "start": 146.3,
+      "end": 147.5,
+      "text": "Por isso fiz detalhado"
+    },
+    {
+      "start": 147.5,
+      "end": 149.0,
+      "text": "Agora botão direito na peça"
+    },
+    {
+      "start": 149.0,
+      "end": 150.6,
+      "text": "Adicionar parte negativa"
+    },
+    {
+      "start": 150.6,
+      "end": 152.7,
+      "text": "Toro para fazer o furo do chaveiro"
+    },
+    {
+      "start": 152.7,
+      "end": 153.7,
+      "text": "E é só posicionar"
+    },
+    {
+      "start": 153.7,
+      "end": 155.0,
+      "text": "Eu mudei a cor para preto"
+    },
+    {
+      "start": 155.0,
+      "end": 157.9,
+      "text": "E depois de pronto a gente pode mexer na altura um pouquinho"
+    },
+    {
+      "start": 157.9,
+      "end": 159.2,
+      "text": "Como tem bastante curvatura"
+    },
+    {
+      "start": 159.2,
+      "end": 161.2,
+      "text": "Vale diminuir a altura de camada"
+    },
+    {
+      "start": 161.2,
+      "end": 163.8,
+      "text": "E também não se esqueça de ativar os suportes"
+    },
+    {
+      "start": 163.8,
+      "end": 167.2,
+      "text": "Esse PLA brilhoso é o PLA Galaxy da Multifila"
+    },
+    {
+      "start": 167.2,
+      "end": 168.8,
+      "text": "E o kit chaveiros também"
+    },
+    {
+      "start": 168.8,
+      "end": 171.3,
+      "text": "Esse arquivo está disponível no grupo de assinantes."
+    },
+    {
+      "start": 171.4,
+      "end": 174.1,
+      "text": "E para ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 174.4,
+  "model": "large-v3-turbo"
+}

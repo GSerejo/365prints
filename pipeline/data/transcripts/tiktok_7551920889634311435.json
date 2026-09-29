@@ -1,0 +1,167 @@
+{
+  "text": "Qual o bico utilizar na sua impressora 3D? Bem-vindo ao dia 91 e hoje você vai aprender qual o bico utilizar e porquê. O bico padrão que vem na maioria das impressoras é o bico 04 de aço inoxidado. Ele oferece o melhor equilíbrio entre velocidade e qualidade. Agora uma ilustração para vocês entenderem bem rápido. Quanto maior o diâmetro, maior a velocidade de impressão. O orifício é maior e a impressora consegue extrudar mais material por segundo. Olha esse suporte de papel toalha com bico de 0.8, demora aproximadamente 5 horas e 16 minutos. É menos da metade do tempo do bico 04. Maior diâmetro também resulta em peças mais resistentes, pois as linhas são mais grossas e aderem melhor. É ótimo para impressões maiores e mais volumosas, pois imprime peças muito resistentes e sólidas rapidamente. Porém como a largura e o diâmetro são maiores, ele sacrifica os detalhes. E é por isso que nós temos os bicos de 0.2 milímetros. Quanto menor o diâmetro, maior a resolução. Veja a diferença de detalhamento de um bico 0.2 comparado com um bico 0.4. Ele é ideal para detalhes finos e impressão de alta resolução, como chaveiros pequenos que eu expliquei lá no dia 78. Outro ponto importante é a diferença de material. O de aço inoxidável com esse espador de calor cinza pode ser utilizado em filamentos que não contém partículas abrasivas. como o PLA e o PETG, por exemplo. Já o de aço temperado ou endurecido possui um dissipador de calor preto e pode ser utilizado para qualquer filamento, incluindo aqueles que contêm partículas abrasivas. Nesse caso, o bico passa por um processo que torna mais duro e durável e é ideal para filamentos com fibra de carbono ou fibra de vidro ou até filamentos que brilham no escuro. E quando utilizar esses materiais, eu sugiro um bico de tamanho adequado, como 0.6 ou 0.8, para evitar entupimentos. Por isso, na minha opinião, o upgrade importante é ter um bico de aço endurecido. Aliás, as versões de 0.6 e 0.8 já são. Agora não esquece de salvar esse vídeo para quando você tiver dúvidas em qual bico utilizar. E para ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.3,
+      "text": "Qual o bico utilizar na sua impressora 3D?"
+    },
+    {
+      "start": 3.4,
+      "end": 8.7,
+      "text": "Bem-vindo ao dia 91 e hoje você vai aprender qual o bico utilizar e porquê."
+    },
+    {
+      "start": 9.0,
+      "end": 13.9,
+      "text": "O bico padrão que vem na maioria das impressoras é o bico 04 de aço inoxidado."
+    },
+    {
+      "start": 13.9,
+      "end": 17.4,
+      "text": "Ele oferece o melhor equilíbrio entre velocidade e qualidade."
+    },
+    {
+      "start": 17.9,
+      "end": 20.4,
+      "text": "Agora uma ilustração para vocês entenderem bem rápido."
+    },
+    {
+      "start": 20.5,
+      "end": 23.7,
+      "text": "Quanto maior o diâmetro, maior a velocidade de impressão."
+    },
+    {
+      "start": 23.9,
+      "end": 27.7,
+      "text": "O orifício é maior e a impressora consegue extrudar mais material por segundo."
+    },
+    {
+      "start": 27.7,
+      "end": 33.7,
+      "text": "Olha esse suporte de papel toalha com bico de 0.8, demora aproximadamente 5 horas e 16 minutos."
+    },
+    {
+      "start": 34.0,
+      "end": 36.7,
+      "text": "É menos da metade do tempo do bico 04."
+    },
+    {
+      "start": 36.9,
+      "end": 42.7,
+      "text": "Maior diâmetro também resulta em peças mais resistentes, pois as linhas são mais grossas e aderem melhor."
+    },
+    {
+      "start": 43.1,
+      "end": 49.7,
+      "text": "É ótimo para impressões maiores e mais volumosas, pois imprime peças muito resistentes e sólidas rapidamente."
+    },
+    {
+      "start": 49.9,
+      "end": 54.0,
+      "text": "Porém como a largura e o diâmetro são maiores, ele sacrifica os detalhes."
+    },
+    {
+      "start": 54.0,
+      "end": 57.5,
+      "text": "E é por isso que nós temos os bicos de 0.2 milímetros."
+    },
+    {
+      "start": 57.7,
+      "end": 60.4,
+      "text": "Quanto menor o diâmetro, maior a resolução."
+    },
+    {
+      "start": 60.9,
+      "end": 65.5,
+      "text": "Veja a diferença de detalhamento de um bico 0.2 comparado com um bico 0.4."
+    },
+    {
+      "start": 65.8,
+      "end": 69.6,
+      "text": "Ele é ideal para detalhes finos e impressão de alta resolução,"
+    },
+    {
+      "start": 69.8,
+      "end": 73.1,
+      "text": "como chaveiros pequenos que eu expliquei lá no dia 78."
+    },
+    {
+      "start": 73.3,
+      "end": 75.8,
+      "text": "Outro ponto importante é a diferença de material."
+    },
+    {
+      "start": 76.1,
+      "end": 79.2,
+      "text": "O de aço inoxidável com esse espador de calor cinza"
+    },
+    {
+      "start": 79.2,
+      "end": 83.0,
+      "text": "pode ser utilizado em filamentos que não contém partículas abrasivas."
+    },
+    {
+      "start": 83.0,
+      "end": 85.3,
+      "text": "como o PLA e o PETG, por exemplo."
+    },
+    {
+      "start": 85.5,
+      "end": 89.7,
+      "text": "Já o de aço temperado ou endurecido possui um dissipador de calor preto"
+    },
+    {
+      "start": 89.7,
+      "end": 94.7,
+      "text": "e pode ser utilizado para qualquer filamento, incluindo aqueles que contêm partículas abrasivas."
+    },
+    {
+      "start": 94.8,
+      "end": 98.4,
+      "text": "Nesse caso, o bico passa por um processo que torna mais duro e durável"
+    },
+    {
+      "start": 98.4,
+      "end": 101.9,
+      "text": "e é ideal para filamentos com fibra de carbono ou fibra de vidro"
+    },
+    {
+      "start": 101.9,
+      "end": 104.0,
+      "text": "ou até filamentos que brilham no escuro."
+    },
+    {
+      "start": 104.3,
+      "end": 107.9,
+      "text": "E quando utilizar esses materiais, eu sugiro um bico de tamanho adequado,"
+    },
+    {
+      "start": 108.0,
+      "end": 111.3,
+      "text": "como 0.6 ou 0.8, para evitar entupimentos."
+    },
+    {
+      "start": 111.3,
+      "end": 115.4,
+      "text": "Por isso, na minha opinião, o upgrade importante é ter um bico de aço endurecido."
+    },
+    {
+      "start": 115.5,
+      "end": 118.5,
+      "text": "Aliás, as versões de 0.6 e 0.8 já são."
+    },
+    {
+      "start": 118.7,
+      "end": 123.1,
+      "text": "Agora não esquece de salvar esse vídeo para quando você tiver dúvidas em qual bico utilizar."
+    },
+    {
+      "start": 123.7,
+      "end": 126.5,
+      "text": "E para ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 126.8,
+  "model": "large-v3-turbo"
+}

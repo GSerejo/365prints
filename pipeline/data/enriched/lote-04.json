@@ -1,0 +1,214 @@
+{
+  "tiktok_7539310350504578360": {
+    "title": "3 jeitos de guardar filamento: ziplock, saco a vácuo e container",
+    "summary": "Compara três formas de armazenar: ziplock comum (vedação fraca, bom para PLA), ziplock a vácuo com bombinha (umidade em 10%, PLA e PETG) e container grande com sílica (a melhor vedação, obrigatório para TPU).",
+    "category": "Filamentos",
+    "tags": ["umidade", "armazenamento", "sílica", "TPU"],
+    "keywords": ["saco a vacuo", "ziplock", "container", "dry box", "caixa seca", "guardar filamento", "higrometro", "filamento estalando", "quebrando"]
+  },
+  "tiktok_7540047271535119672": {
+    "title": "Suporte árvore slim para detalhes pequenos (mão de dragão)",
+    "summary": "O suporte automático se enroscava nos dedos do dragão em PLA Silk. Pintando suporte só nas pontas dos dedos e trocando o estilo para árvore slim, os galhos ficaram finos e separados, e a peça saiu inteira.",
+    "category": "Suportes",
+    "tags": ["suporte árvore", "slim", "pintura de suporte", "PLA Silk"],
+    "keywords": ["tree support", "tree slim", "suporte organico", "detalhe fino", "dedos", "dragao", "suporte dificil de remover", "support painting"]
+  },
+  "tiktok_7540452132160294200": {
+    "title": "Os melhores acessórios para imprimir para a Bambu Lab A1",
+    "summary": "Espátula com lâminas plásticas que não riscam a mesa, suporte para placas extras, coletor de resíduos grande, ferramentas de lubrificação, caixa de acessórios e suporte independente para o AMS Lite (em PETG).",
+    "category": "Manutenção e upgrades",
+    "tags": ["acessórios", "Bambu Lab A1", "AMS Lite", "espátula"],
+    "keywords": ["upgrades imprimiveis", "acessorios a1", "suporte ams lite", "coletor de purga", "poop chute", "caixa de bicos", "ptfe", "organizacao da bancada"]
+  },
+  "tiktok_7541066653207989510": {
+    "title": "Placa fria barata: teste com PLA e PETG",
+    "summary": "Teste de uma placa fria do AliExpress (cerca de R$ 142): boa aderência com PLA a 35–45 °C e PETG a 50–70 °C, remoção fácil e acabamento fosco e liso na base, diferente da PEI e da Cryogrip.",
+    "category": "Manutenção e upgrades",
+    "tags": ["placa de impressão", "placa fria", "aderência", "review"],
+    "keywords": ["cool plate", "cold plate", "aliexpress", "placa barata", "mesa fria", "warping", "acabamento fosco na base", "cryogrip"]
+  },
+  "tiktok_7541509388616420613": {
+    "title": "Vale a pena usar o passar ferro (ironing)?",
+    "summary": "Depois de muitos testes de vazão, velocidade e espaçamento, o ironing funcionou em amostras pequenas, mas marcou as bordas e foi inconsistente em áreas maiores, além de aumentar muito o tempo. A conclusão dele é não usar.",
+    "category": "Acabamento e qualidade",
+    "tags": ["ironing", "passar ferro", "camada de topo", "teste"],
+    "keywords": ["ironing", "passar a ferro", "topo liso", "top surface", "alisar superficie", "vale a pena ironing"]
+  },
+  "tiktok_7541898321036594437": {
+    "title": "Suporte de celular do Gengar multipartes",
+    "summary": "Um suporte de celular do Gengar, do MakerWorld, sem suportes e multipartes. Use altura de camada variável no topo arredondado. Sem AMS, dá para pintar os olhos com caneta.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["Pokémon", "suporte de celular", "multipartes"],
+    "keywords": ["gengar", "pokemon", "phone stand", "suporte celular", "canetinha", "pintar olho"]
+  },
+  "tiktok_7542629607409716485": {
+    "title": "Bico raspando na peça: causas e soluções",
+    "summary": "Checklist: apertar os parafusos do hotend, trocar o preenchimento grid por giroide ou linhas, desativar \"reduzir retrações de preenchimento\" e aumentar o Z-hop (tipo espiral). Também lavar a placa, secar o filamento e conferir se o bico não está torto.",
+    "category": "Problemas e soluções",
+    "tags": ["bico raspando", "Z-hop", "preenchimento", "hotend"],
+    "keywords": ["nozzle scraping", "barulho do bico", "bico batendo", "arrastando", "z hop", "giroide", "gyroid", "grid infill", "reduce infill retraction", "parafusos do hotend", "colisao"]
+  },
+  "tiktok_7543016044693130501": {
+    "title": "Abajur impresso que liga pela Alexa",
+    "summary": "Um abajur impresso em 3D com soquete, fio e plugue, ligado a uma tomada inteligente para acender por comando de voz. Base em PLA bronze e cúpula bege.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["luminária", "automação", "Alexa", "casa inteligente"],
+    "keywords": ["abajur", "tomada inteligente", "smart plug", "lampada inteligente", "alexa", "luminaria", "automacao residencial"]
+  },
+  "tiktok_7544134999549791544": {
+    "title": "Como calibrar TPU: temperatura, vazão e dinâmica de fluxo",
+    "summary": "O Benchy em TPU saiu ruim nas pontes e overhangs. Ele fez torre de temperatura (230 °C), teste de vazão (1,1) e dinâmica de fluxo com faixa de 0 a 2 (a maior melhora), manteve a retração padrão e desligou a calibração automática antes de imprimir.",
+    "category": "Calibração e configurações",
+    "tags": ["TPU", "calibração", "dinâmica de fluxo", "fator K"],
+    "keywords": ["calibrar tpu", "flow rate", "pressure advance", "fator k", "k factor", "tpu 95a", "tpu hf", "benchy tpu", "ponte", "overhang"]
+  },
+  "tiktok_7544213546305850629": {
+    "day": 76,
+    "title": "Os 3 sites que ele mais usa para baixar STL",
+    "summary": "Thangs para decoração (com modelos premium grátis na primeira semana), Cults3D para personagens multipartes (geralmente pagos) e MakerWorld, gratuito e com perfil de impressão pronto.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["STL", "MakerWorld", "Cults3D", "Thangs"],
+    "keywords": ["onde baixar stl", "site de modelos 3d", "arquivos 3d gratis", "thangs", "cults", "makerworld", "printables", "thingiverse", "modelos gratuitos"]
+  },
+  "tiktok_7544374475278716165": {
+    "title": "Chaveiro personalizado com logo usando o MakerLab",
+    "summary": "Com o gerador de chaveiros do MakerLab (funciona com qualquer impressora), você envia o logo em PNG ou JPG, ajusta tamanho, fundo, cantos e furo e baixa pronto. O arquivo vem com Arachne e ironing, que em peça pequena funcionou bem.",
+    "category": "Personalização no fatiador",
+    "tags": ["chaveiro", "MakerLab", "logo", "sem modelagem"],
+    "keywords": ["keychain", "chaveiro personalizado", "logo empresa", "makerlab", "image to keychain", "brinde", "vender chaveiro", "png para 3d"]
+  },
+  "tiktok_7544820626322754821": {
+    "title": "Bico 0.2 mm vale a pena?",
+    "summary": "Para detalhes pequenos, sim: como um pincel fino, o bico 0.2 mostra textos e logos que o 0.4 não consegue, e a diferença cresce em peças menores. O custo é um tempo de impressão bem maior.",
+    "category": "Manutenção e upgrades",
+    "tags": ["bico 0.2", "detalhes pequenos", "nozzle"],
+    "keywords": ["nozzle 0.2", "bico fino", "0.2mm", "alta resolucao", "texto pequeno", "logo pequeno", "miniatura"]
+  },
+  "tiktok_7545266379478502661": {
+    "title": "Relógio: camadas descolando e furo apertado",
+    "summary": "Dois problemas: camadas descoladas no fundo, resolvidas com +10 °C na temperatura, e um furo central pequeno demais no plano XZ. Em vez de deitar a peça, ele usou um cilindro de parte negativa maior para alargar o furo, mantendo a orientação ideal.",
+    "category": "Problemas e soluções",
+    "tags": ["parte negativa", "tolerância", "temperatura", "encaixe"],
+    "keywords": ["furo apertado", "furo pequeno", "negative part", "modificador", "compensacao xy", "delaminacao", "camadas descolando", "relogio", "precisao dimensional"]
+  },
+  "tiktok_7545631665461251384": {
+    "title": "Chaveiro colorido multipartes sem impressora multicolor",
+    "summary": "A partir do arquivo do MakerLab, ele une partes da mesma cor, duplica os logos e transforma as cópias em parte negativa para criar o encaixe (1,5 mm), usa compensação XY de 0,1 mm como folga e imprime cada cor separada, sem purga.",
+    "category": "Multicor e purga",
+    "tags": ["multipartes", "chaveiro", "parte negativa", "encaixe"],
+    "keywords": ["colorido sem ams", "sem purga", "encaixe", "tolerancia", "compensacao xy", "xy hole compensation", "negative part", "makerlab", "merge"]
+  },
+  "tiktok_7545982958012812549": {
+    "title": "Usar a purga para imprimir peças úteis (purgar no objeto)",
+    "summary": "Na impressão multicolor, a opção de purgar dentro de outros objetos usa o filamento da troca de cor para imprimir potes de sílica. O desperdício de um dado caiu de 25 g para cerca de 4 g.",
+    "category": "Multicor e purga",
+    "tags": ["purga", "flush into objects", "AMS", "economia"],
+    "keywords": ["purgar no objeto", "flush into object", "flush into infill", "reaproveitar purga", "desperdicio", "multicolor", "pote de silica"]
+  },
+  "tiktok_7546774081958333701": {
+    "day": 82,
+    "title": "10 dicas essenciais para quem está começando",
+    "summary": "Conselhos para iniciantes: veja quais filamentos sua impressora aceita, use o fatiador oficial, comece com peças simples e filamento da marca, não calibre sem motivo, evite mods, leia a wiki, lave a placa com água e sabão, aprenda os termos técnicos e aceite os erros.",
+    "category": "Calibração e configurações",
+    "tags": ["iniciantes", "dicas", "primeiros passos"],
+    "keywords": ["comecar", "iniciante", "novato", "primeira impressora", "dicas basicas", "wiki bambu", "limpar placa", "agua e sabao", "termos tecnicos"]
+  },
+  "tiktok_7547090336586222854": {
+    "title": "Impressora imprimindo no ar? Limpe a extrusora",
+    "summary": "A engrenagem da extrusora estava suja e patinava, sem empurrar o filamento. Ele segue o tutorial da wiki Bambu para desmontar e limpar (com o hotend frio e cuidado com o cabo flat do hub do AMS) e testa a extrusão.",
+    "category": "Problemas e soluções",
+    "tags": ["extrusora", "subextrusão", "limpeza", "manutenção"],
+    "keywords": ["imprimindo no ar", "nao sai filamento", "extrusora patinando", "engrenagem suja", "extruder", "under extrusion", "clicking", "tpu"]
+  },
+  "tiktok_7547854607800667398": {
+    "title": "Primeiras impressões da Bambu Lab P1S vs A1",
+    "summary": "A P1S é fechada (boa para ABS e ASA) e CoreXY, com o dobro de aceleração da A1, embora com o perfil padrão a diferença seja pequena. O painel é simples, e ele a considera a porta de entrada para materiais técnicos por metade do preço da X1.",
+    "category": "Impressoras",
+    "tags": ["Bambu Lab P1S", "Bambu Lab A1", "CoreXY", "ABS/ASA"],
+    "keywords": ["p1s", "a1", "comparacao", "impressora fechada", "enclosure", "corexy", "qual impressora comprar", "abs", "asa", "x1 carbon"]
+  },
+  "tiktok_7548204492257365253": {
+    "title": "Ordem das paredes: externa/interna para paredes mais lisas",
+    "summary": "Com a ordem interna/externa, a pressão empurra a parede externa e cria ondulações. Trocando para externa/interna, o letreiro ficou bem mais liso. Evite em peças com muitos overhangs.",
+    "category": "Acabamento e qualidade",
+    "tags": ["ordem das paredes", "paredes", "acabamento", "Bambu Studio"],
+    "keywords": ["wall order", "outer inner", "inner outer", "parede externa primeiro", "linhas aparentes", "ondulacao", "protuberancia"]
+  },
+  "tiktok_7548854426799295749": {
+    "title": "Como imprimir TPU na Bambu Lab A1",
+    "summary": "Dá para imprimir TPU em impressora aberta: use o suporte de carretel externo direto no cabeçote (sem AMS nem tubo longo), filamento seco e limite a velocidade volumétrica máxima (4 mm³/s no 95A HF, 2 mm³/s no 90A).",
+    "category": "Filamentos",
+    "tags": ["TPU", "Bambu Lab A1", "velocidade volumétrica", "flexível"],
+    "keywords": ["tpu na a1", "filamento flexivel", "tpu 95a", "tpu 90a", "max volumetric speed", "spool externo", "capinha", "tpu ams"]
+  },
+  "tiktok_7548940413776760120": {
+    "title": "Coisas úteis para imprimir com pouco TPU",
+    "summary": "Ideias em TPU: abraçadeiras de cabo, potes herméticos com vedação em TPU, funil dobrável, capinhas, limpa-vidros de PLA com TPU, suporte de cabos e um gerador de anéis de vedação.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["TPU", "ideias", "flexível"],
+    "keywords": ["abracadeira", "pote hermetico", "funil dobravel", "o-ring", "anel de vedacao", "rodo de vidro", "organizador de cabos"]
+  },
+  "tiktok_7549318698511633670": {
+    "title": "Organizador de gavetas sob medida no MakerWorld",
+    "summary": "Com o gerador paramétrico do MakerWorld, você informa largura e profundidade da gaveta, altura, cantos e as divisões. No fatiador, basta dividir em objetos e rearranjar em várias mesas.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["organização", "gaveta", "MakerWorld", "paramétrico"],
+    "keywords": ["organizador de gaveta", "gridfinity", "divisoria", "parametric model maker", "sob medida", "dividir objetos", "arrange"]
+  },
+  "tiktok_7550412932878699832": {
+    "title": "Pular objeto que soltou da mesa (Bambu Handy)",
+    "summary": "Se uma peça solta no meio da impressão, você não precisa cancelar tudo: no app Bambu Handy, use \"pular objeto\" para ignorar as peças que falharam e continuar as outras.",
+    "category": "Problemas e soluções",
+    "tags": ["Bambu Handy", "pular objeto", "peça soltou"],
+    "keywords": ["skip object", "peca soltou", "cancelar impressao", "bambu handy", "salvar impressao", "descolou da mesa"]
+  },
+  "tiktok_7550799319675456774": {
+    "title": "Enviar a mesma impressão para várias impressoras (multi-device)",
+    "summary": "Ative o gerenciamento de múltiplos dispositivos nas preferências do Bambu Studio para enviar um arquivo para até 6 impressoras de uma vez. Limitações: precisa do mesmo modelo fatiado, não funciona em modo LAN e o AMS deve estar mapeado igual.",
+    "category": "Calibração e configurações",
+    "tags": ["Bambu Studio", "multi-device", "farm", "produção"],
+    "keywords": ["multi device", "varias impressoras", "print farm", "farm manager", "enviar para todas", "producao em serie"]
+  },
+  "tiktok_7551920889634311435": {
+    "title": "Qual bico usar: 0.2, 0.4, 0.6, 0.8 e aço endurecido",
+    "summary": "Bico maior imprime mais rápido e mais resistente (0.8 levou menos da metade do tempo), bico menor dá mais detalhe. Filamentos abrasivos (fibra de carbono ou vidro, brilha no escuro) exigem bico de aço endurecido, de preferência 0.6 ou 0.8.",
+    "category": "Manutenção e upgrades",
+    "tags": ["bico", "nozzle", "aço endurecido", "fibra de carbono"],
+    "keywords": ["nozzle 0.6", "nozzle 0.8", "bico 0.4", "hardened steel", "aco temperado", "filamento abrasivo", "carbono", "glow in the dark", "trocar bico"]
+  },
+  "tiktok_7551920991887199499": {
+    "title": "Tênis impresso em TPU 90A: prós e contras",
+    "summary": "O tênis Bubbleberry do MakerWorld em TPU 90A: o timelapse no modo suave causou muito stringing, faltou suporte no perfil pronto e carretéis diferentes mudaram o tom. Sem timelapse e numa mesa só, a qualidade ficou excelente.",
+    "category": "Filamentos",
+    "tags": ["TPU", "tênis", "stringing", "MakerWorld"],
+    "keywords": ["tenis impresso", "sapato 3d", "bubbleberry", "tpu 90a", "fiapos", "soprador termico", "timelapse", "degrade"]
+  },
+  "tiktok_7552611753473953080": {
+    "title": "Acabar com restos de filamento com o Auto Refill do AMS",
+    "summary": "Configure os rolos quase vazios como mesma cor e material e ative o Auto Refill do Bambu Studio: quando um acaba, o AMS troca para o próximo. Bom para peças funcionais, como um pote de sílica.",
+    "category": "Multicor e purga",
+    "tags": ["AMS", "Auto Refill", "sobras", "Bambu Studio"],
+    "keywords": ["auto refill", "restos de filamento", "rolo acabando", "backup de filamento", "troca automatica", "final do carretel"]
+  },
+  "tiktok_7553403099470122252": {
+    "title": "Carregador sem fio CyberBrick impresso e montado",
+    "summary": "Um carregador de celular da linha CyberBrick da Bambu Lab: você imprime a carcaça em PLA e monta o kit eletrônico seguindo as instruções. É demorado, mas não exige conhecimento de eletrônica.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["CyberBrick", "eletrônica", "carregador"],
+    "keywords": ["carregador sem fio", "wireless charger", "cyberbrick", "kit eletronico", "hobby", "montagem"]
+  },
+  "tiktok_7554138794648194316": {
+    "title": "Resina epóxi para esconder as linhas de impressão",
+    "summary": "Uma peça impressa com o perfil padrão recebe duas demãos de resina epóxi (12 horas de secagem entre elas), e as bolhas saem com soprador térmico. A resina esconde as linhas de camada sem lixar.",
+    "category": "Acabamento e qualidade",
+    "tags": ["resina epóxi", "pós-processamento", "linhas de camada"],
+    "keywords": ["epoxi", "epoxy", "acabamento liso", "esconder linhas", "sem lixar", "pos processamento", "brilho", "verniz"]
+  },
+  "tiktok_7554787552868240696": {
+    "title": "Pés antivibração HULA na P1S: testado",
+    "summary": "O HULA é um projeto gratuito e universal de pés com rolamento que amortecem as forças em X e Y. Na P1S, numa bancada já firme, a vibração caiu pouco (1,07 G para 1,03 G) e ainda não houve diferença visível na qualidade.",
+    "category": "Manutenção e upgrades",
+    "tags": ["vibração", "HULA", "Bambu Lab P1S", "upgrade"],
+    "keywords": ["pes antivibratorios", "amortecedor", "ghosting", "ringing", "bancada tremendo", "barulho", "rolamento", "anti vibration feet"]
+  }
+}

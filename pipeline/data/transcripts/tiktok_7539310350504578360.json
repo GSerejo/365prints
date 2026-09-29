@@ -1,0 +1,97 @@
+{
+  "text": "Se o filamento está quebrando fácil ou estalando durante a extrusão, o problema pode ser a umidade. Hoje é o dia 67 e eu vou falar como eu armazendo meus filamentos. O número 1 é o ziplock normal. É simples, mas a vedação não é perfeita. Veja que o higrômetro está a 30% e a sílica satura bem rápido. E eu uso mais para PLA que sofre menos com a umidade. Mais detalhes para esse método tem lá no dia 36. O segundo é o ziplock a vácuo, com uma vedação bem mais eficiente. Veja o higrômetro marcando 10%. É bem mais fácil de utilizar usando essa pecinha aí, que um dos seguidores me indicou para imprimir. E com a bombinha elétrica demora uns 50 segundos para ficar pronto. Já notei que pode entrar um pouquinho de ar pela válvula, mas funciona bem para PLA e PETG. O terceiro é um container grande com sílica. É super prático e a vedação é a melhor de todas. Aqui a sílica está durando mais de dois meses sem saturar. TPU vai obrigatoriamente aqui e quando sobra espaço, PETG também. É isso pessoal, armazenar bem é deixar o filamento sempre pronto e não precisar de secadora. Se você quiser o link do Zip Lock e da Bombinha Vácuo é só digitar Eu Quero nos comentários. E me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 1.1,
+      "end": 7.3,
+      "text": "Se o filamento está quebrando fácil ou estalando durante a extrusão, o problema pode ser a umidade."
+    },
+    {
+      "start": 7.6,
+      "end": 11.6,
+      "text": "Hoje é o dia 67 e eu vou falar como eu armazendo meus filamentos."
+    },
+    {
+      "start": 11.9,
+      "end": 16.2,
+      "text": "O número 1 é o ziplock normal. É simples, mas a vedação não é perfeita."
+    },
+    {
+      "start": 16.5,
+      "end": 20.8,
+      "text": "Veja que o higrômetro está a 30% e a sílica satura bem rápido."
+    },
+    {
+      "start": 21.2,
+      "end": 23.9,
+      "text": "E eu uso mais para PLA que sofre menos com a umidade."
+    },
+    {
+      "start": 23.9,
+      "end": 26.9,
+      "text": "Mais detalhes para esse método tem lá no dia 36."
+    },
+    {
+      "start": 26.9,
+      "end": 31.2,
+      "text": "O segundo é o ziplock a vácuo, com uma vedação bem mais eficiente."
+    },
+    {
+      "start": 31.3,
+      "end": 33.6,
+      "text": "Veja o higrômetro marcando 10%."
+    },
+    {
+      "start": 33.6,
+      "end": 42.0,
+      "text": "É bem mais fácil de utilizar usando essa pecinha aí, que um dos seguidores me indicou para imprimir."
+    },
+    {
+      "start": 43.0,
+      "end": 46.3,
+      "text": "E com a bombinha elétrica demora uns 50 segundos para ficar pronto."
+    },
+    {
+      "start": 47.2,
+      "end": 52.2,
+      "text": "Já notei que pode entrar um pouquinho de ar pela válvula, mas funciona bem para PLA e PETG."
+    },
+    {
+      "start": 52.4,
+      "end": 55.0,
+      "text": "O terceiro é um container grande com sílica."
+    },
+    {
+      "start": 55.1,
+      "end": 57.9,
+      "text": "É super prático e a vedação é a melhor de todas."
+    },
+    {
+      "start": 57.9,
+      "end": 60.9,
+      "text": "Aqui a sílica está durando mais de dois meses sem saturar."
+    },
+    {
+      "start": 61.5,
+      "end": 66.0,
+      "text": "TPU vai obrigatoriamente aqui e quando sobra espaço, PETG também."
+    },
+    {
+      "start": 66.6,
+      "end": 71.7,
+      "text": "É isso pessoal, armazenar bem é deixar o filamento sempre pronto e não precisar de secadora."
+    },
+    {
+      "start": 71.9,
+      "end": 76.5,
+      "text": "Se você quiser o link do Zip Lock e da Bombinha Vácuo é só digitar Eu Quero nos comentários."
+    },
+    {
+      "start": 76.9,
+      "end": 79.4,
+      "text": "E me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 80.1,
+  "model": "large-v3-turbo"
+}

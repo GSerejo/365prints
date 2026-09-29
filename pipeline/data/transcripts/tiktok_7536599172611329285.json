@@ -1,0 +1,117 @@
+{
+  "text": "Problemas com costuras? Eu encontrei uma maneira de quase sumir com elas. Bem-vindo ao dia 62 e hoje eu vou falar do tipo de costura cachecol, que fica meio escondido no seu pateador. A costura é um ponto onde o bico finaliza uma linha e começa a próxima, como se fosse uma emenda da impressão. São aqueles pontinhos brancos ali. E as opções padrões são essas aqui. Tem a alinhada, a que fica na parte de trás do objeto. E lembrando que a parte de trás depende do posicionamento dele na mesa Tem a aleatória, que pra mim é a pior de todas Pelo menos pra objetos com geometrias definidas Ficam esses pontinhos espalhados E tem a mais próxima, que deixou essa cicatriz aí no meu objeto E tem a cachecol, que fica escondido lá no perfil do seu filamento Por padrão, essas configurações aqui já são boas Mas se você quiser se aprofundar, é só entrar no Wiki da Bamboo Agora para aplicar você escolhe contorno ou contorno e buraco. E eu escolhi contorno para aplicar apenas no contorno da peça. Olha aí na imagem. No início da linha a costura cachecol muda a vazão e cria uma rampa crescente. E na conclusão da linha a vazão diminui e a transição fica mais suave e a costura praticamente desaparece. E o resultado é esse? Muito melhor né? Você já testou essa costura nas suas impressões? Comenta aí o que você achou.",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 4.5,
+      "text": "Problemas com costuras? Eu encontrei uma maneira de quase sumir com elas."
+    },
+    {
+      "start": 5.0,
+      "end": 12.2,
+      "text": "Bem-vindo ao dia 62 e hoje eu vou falar do tipo de costura cachecol, que fica meio escondido no seu pateador."
+    },
+    {
+      "start": 12.5,
+      "end": 18.2,
+      "text": "A costura é um ponto onde o bico finaliza uma linha e começa a próxima, como se fosse uma emenda da impressão."
+    },
+    {
+      "start": 18.2,
+      "end": 22.2,
+      "text": "São aqueles pontinhos brancos ali. E as opções padrões são essas aqui."
+    },
+    {
+      "start": 22.8,
+      "end": 26.7,
+      "text": "Tem a alinhada, a que fica na parte de trás do objeto."
+    },
+    {
+      "start": 26.7,
+      "end": 30.8,
+      "text": "E lembrando que a parte de trás depende do posicionamento dele na mesa"
+    },
+    {
+      "start": 30.8,
+      "end": 34.1,
+      "text": "Tem a aleatória, que pra mim é a pior de todas"
+    },
+    {
+      "start": 34.1,
+      "end": 37.0,
+      "text": "Pelo menos pra objetos com geometrias definidas"
+    },
+    {
+      "start": 37.0,
+      "end": 38.9,
+      "text": "Ficam esses pontinhos espalhados"
+    },
+    {
+      "start": 38.9,
+      "end": 43.1,
+      "text": "E tem a mais próxima, que deixou essa cicatriz aí no meu objeto"
+    },
+    {
+      "start": 43.1,
+      "end": 47.1,
+      "text": "E tem a cachecol, que fica escondido lá no perfil do seu filamento"
+    },
+    {
+      "start": 47.1,
+      "end": 49.9,
+      "text": "Por padrão, essas configurações aqui já são boas"
+    },
+    {
+      "start": 49.9,
+      "end": 53.0,
+      "text": "Mas se você quiser se aprofundar, é só entrar no Wiki da Bamboo"
+    },
+    {
+      "start": 53.0,
+      "end": 57.1,
+      "text": "Agora para aplicar você escolhe contorno ou contorno e buraco."
+    },
+    {
+      "start": 57.3,
+      "end": 60.0,
+      "text": "E eu escolhi contorno para aplicar apenas no contorno da peça."
+    },
+    {
+      "start": 60.3,
+      "end": 61.0,
+      "text": "Olha aí na imagem."
+    },
+    {
+      "start": 61.2,
+      "end": 65.5,
+      "text": "No início da linha a costura cachecol muda a vazão e cria uma rampa crescente."
+    },
+    {
+      "start": 65.8,
+      "end": 71.2,
+      "text": "E na conclusão da linha a vazão diminui e a transição fica mais suave e a costura praticamente desaparece."
+    },
+    {
+      "start": 71.4,
+      "end": 72.5,
+      "text": "E o resultado é esse?"
+    },
+    {
+      "start": 72.9,
+      "end": 73.8,
+      "text": "Muito melhor né?"
+    },
+    {
+      "start": 73.9,
+      "end": 76.5,
+      "text": "Você já testou essa costura nas suas impressões?"
+    },
+    {
+      "start": 77.3,
+      "end": 78.6,
+      "text": "Comenta aí o que você achou."
+    }
+  ],
+  "duration": 79.4,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,201 @@
+{
+  "tiktok_7586034953234713874": {
+    "title": "Quadro estilo HueForge grátis no MakerLab",
+    "summary": "Uma ferramenta oficial e gratuita do MakerLab que faz quadros no estilo HueForge direto no navegador: você envia a foto e ela calcula as camadas e as trocas de cor, com paletas ajustáveis. O 3MF vem pronto e usa só 32 g de filamento.",
+    "category": "Personalização no fatiador",
+    "tags": ["HueForge", "MakerLab", "quadro", "foto"],
+    "keywords": ["hueforge gratis", "pixel to relief", "foto em relevo", "quadro de foto", "presente", "makerlab", "troca de cor por camada"]
+  },
+  "tiktok_7586791642892406034": {
+    "title": "Qual filamento aguenta calor? PLA, PETG, ABS, ASA e PC",
+    "summary": "Um teste com soprador térmico: o PLA amolece primeiro, depois o PETG, e ABS, ASA e policarbonato nem se mexem. A explicação é a temperatura de transição vítrea (PLA ~55 °C, PETG ~80 °C, ABS/ASA ~100 °C, PC ~145 °C).",
+    "category": "Filamentos",
+    "tags": ["resistência térmica", "ABS", "ASA", "policarbonato"],
+    "keywords": ["temperatura de transicao vitrea", "tg", "peca deformou no carro", "derreteu no sol", "pla derrete", "filamento para calor", "material de engenharia"]
+  },
+  "tiktok_7588278234333138194": {
+    "title": "Pontes melhores: fluxo 1,5 e velocidade 10 mm/s",
+    "summary": "Numa ponte a linha fica no ar e sai redonda. Aumentar o fluxo da ponte para 1,5 une as linhas vizinhas, e reduzir a velocidade para 10 mm/s dá tempo de esfriar. Há um teste completo no MakerWorld (vale para pontes de até 4,5 cm).",
+    "category": "Calibração e configurações",
+    "tags": ["pontes", "bridge", "fluxo", "velocidade"],
+    "keywords": ["bridge flow", "bridging", "ponte caindo", "ponte ruim", "fluxo de ponte", "bridge speed", "make wonderful things"]
+  },
+  "tiktok_7589757189011655944": {
+    "day": 148,
+    "title": "Protetor de parafuso para telha em ASA (anti-goteira)",
+    "summary": "Uma peça que acaba com infiltração em telha sanduíche e custa R$ 0,70 à venda: ele modelou no fatiador e imprimiu em ASA (resiste a sol e UV) por R$ 0,30, contando energia e desgaste da máquina.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["ASA", "área externa", "custo da impressão", "casa"],
+    "keywords": ["goteira", "infiltracao", "telha sanduiche", "parafuso de telha", "protecao uv", "asa ao sol", "vazamento"]
+  },
+  "tiktok_7589765067868998930": {
+    "title": "Olhos do Vegeta: mudar a orientação para não ter degraus",
+    "summary": "Na orientação original, a frente dos olhos virava superfície de topo cheia de linhas. Deitando para a frente virar parede e pintando a borda de trás de preto, o resultado ficou muito melhor (bico 0.4 e camada de 0,08).",
+    "category": "Acabamento e qualidade",
+    "tags": ["orientação da peça", "action figure", "pintura de cor"],
+    "keywords": ["vegeta", "dragon ball", "olhos", "degraus", "orientacao", "0.08", "pintar cor", "superficie de topo"]
+  },
+  "tiktok_7590885527876881671": {
+    "title": "Dicas para imprimir action figures com mais qualidade",
+    "summary": "O jeito dele: velocidades e acelerações menores, 5–8% de giroide, superfície de topo concêntrica sem opção de topo, rosto girado com camada de 0,08, altura variável só em partes pequenas e 0,24 nas bases retas para ganhar tempo.",
+    "category": "Acabamento e qualidade",
+    "tags": ["action figure", "altura de camada", "concêntrico", "qualidade"],
+    "keywords": ["boneco", "estatueta", "ciclope", "x-men", "action figures", "miniatura", "0.08", "variable layer height", "gyroid"]
+  },
+  "tiktok_7592003364183969031": {
+    "title": "Ponta fina derretendo: use uma torre de sacrifício",
+    "summary": "A ponta imprime tão rápido que não esfria, mesmo com o ventilador a 100%. Baixar a velocidade mínima arrisca heat creep e entupimento. A solução é imprimir outro objeto ou um cilindro ao lado para aumentar o tempo de camada.",
+    "category": "Problemas e soluções",
+    "tags": ["resfriamento", "heat creep", "tempo mínimo de camada"],
+    "keywords": ["ponta derretendo", "pontas finas", "minimum layer time", "heat creep", "torre de sacrificio", "cooling", "entupimento", "velocidade minima"]
+  },
+  "tiktok_7592746831562427666": {
+    "title": "PEBA: o filamento com rebote de tênis de corrida",
+    "summary": "O PEBA (polieter-bloco-amida) mistura a resistência do nylon com o rebote da borracha: enquanto o TPU absorve o impacto, o PEBA devolve a energia. É o material das espumas de tênis de maratona. Material enviado pela Multfila.",
+    "category": "Filamentos",
+    "tags": ["PEBA", "flexível", "material técnico", "Multfila"],
+    "keywords": ["peba", "pebax", "rebote", "elastico", "super shoes", "zoomx", "tpu vs peba", "tenis de corrida"]
+  },
+  "tiktok_7593484340881935624": {
+    "title": "Suporte em partes finas sem quebrar (cabelo do Superman)",
+    "summary": "Com camada de 0,08: 4 paredes para reforçar as pontas, suporte pintado à mão, distância Z superior de 0,12 mm, 4 camadas de interface e espaçamento de 0,2 mm. O suporte sai fácil e os detalhes ficam intactos.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "distância Z", "detalhes finos", "action figure"],
+    "keywords": ["top z distance", "support interface", "suporte quebrando a peca", "cabelo", "superman", "0.08", "suporte facil de remover"]
+  },
+  "tiktok_7594592809500331272": {
+    "title": "Parede precisa (Precise Wall) no Bambu Studio",
+    "summary": "No modo desenvolvedor, a opção \"parede precisa\" recalcula o espaço entre a parede interna e a externa, reduz a sobreposição que empurra a parede externa e melhora a consistência entre camadas e a precisão.",
+    "category": "Acabamento e qualidade",
+    "tags": ["parede precisa", "Precise Wall", "paredes", "Bambu Studio"],
+    "keywords": ["precise wall", "sobreposicao de parede", "wall overlap", "modo desenvolvedor", "irregularidade na parede", "parede ondulada"]
+  },
+  "tiktok_7596307875035680008": {
+    "title": "5 cores com um só AMS (trocando o rolo numa pausa)",
+    "summary": "Enquanto só 4 cores forem usadas ao mesmo tempo: adicione uma pausa depois da última camada de uma cor e troque o rolo no mesmo slot. No início, mapeie a 5ª cor para aquele slot.",
+    "category": "Multicor e purga",
+    "tags": ["AMS", "5 cores", "pausa", "multicolor"],
+    "keywords": ["mais de 4 cores", "5 cores", "trocar rolo no ams", "pausa", "mapear slot", "multicolor"]
+  },
+  "tiktok_7596307894589558034": {
+    "title": "Suporte giratório para AMS Lite e como reforçar a peça",
+    "summary": "O suporte vertical do MakerWorld (ID 796462) quebrou por ter sido impresso fraco. Dá para reforçar aumentando as paredes ou com um modificador 100% sólido na peça que flexiona. O modelo economiza espaço e mantém o carretel externo.",
+    "category": "Manutenção e upgrades",
+    "tags": ["AMS Lite", "Bambu Lab A1", "modificador", "resistência"],
+    "keywords": ["suporte ams lite", "ams lite em cima", "rotativo", "peca quebrou", "reforcar", "paredes", "modifier"]
+  },
+  "tiktok_7596788017667394823": {
+    "title": "PLA Silk com brilho de metal: 3 ajustes",
+    "summary": "Velocidade menor, principalmente na parede externa, menos aceleração e deslocamento, e parede precisa ligada. Com o PLA Silk bronze, a peça sai lisa e brilhante direto da impressora, sem lixa nem pintura.",
+    "category": "Acabamento e qualidade",
+    "tags": ["PLA Silk", "brilho", "velocidade", "parede precisa"],
+    "keywords": ["silk brilhante", "silk fosco", "brilho metalico", "outer wall speed", "aceleracao", "precise wall", "bronze"]
+  },
+  "tiktok_7597946184677805320": {
+    "day": 158,
+    "title": "Snapmaker U1: unboxing e a economia de purga",
+    "summary": "Primeiras impressões da Snapmaker U1: construção robusta, montagem demorada mas bem explicada e quatro cabeçotes (um por cor). Um Pikachu de 5 cores levaria 1h44 com 21 g de desperdício, contra mais de 6 horas e 80 g na A1.",
+    "category": "Impressoras",
+    "tags": ["Snapmaker U1", "multicolor", "troca de ferramenta", "purga"],
+    "keywords": ["snapmaker u1", "tool changer", "4 cabecotes", "sem purga", "multicor", "unboxing", "review"]
+  },
+  "tiktok_7598332124470562055": {
+    "title": "Snapmaker U1 vs Bambu A1: produtividade no multicolor",
+    "summary": "Gengars multicoloridos: a A1 levaria mais de 41 horas para 4 unidades, e a U1 fez 5 unidades em 17 horas a menos, porque cada cor tem sua extrusora e a troca leva 5 a 6 segundos. O preço das duas é bem diferente.",
+    "category": "Impressoras",
+    "tags": ["Snapmaker U1", "Bambu Lab A1", "comparativo", "purga"],
+    "keywords": ["u1 vs a1", "comparacao", "produtividade", "gengar", "desperdicio", "tool changer", "qual impressora"]
+  },
+  "tiktok_7598669057323240712": {
+    "title": "Suporte que sai fácil: distância Z e interface",
+    "summary": "O equilíbrio dele: distância Z de 0,24 mm (com camada de 0,20), 5 camadas de interface com 0,2 mm de espaçamento e interface a 40 mm/s. Os valores ideais dependem do filamento e da peça.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "distância Z", "remoção de suporte"],
+    "keywords": ["suporte grudado", "support z distance", "interface layers", "interface spacing", "remover suporte", "suporte facil", "lobo"]
+  },
+  "tiktok_7599788780664409351": {
+    "title": "PETG como interface de suporte no PLA (A1 vs Snapmaker U1)",
+    "summary": "Com PETG na interface e distância Z zero, o suporte solta sozinho e o acabamento fica ótimo. Na A1 com AMS, a purga (24 g) passou do peso da peça. Na U1, com uma extrusora para cada material, a purga foi zero e a impressão levou uma hora a menos.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "PETG", "PLA", "Snapmaker U1"],
+    "keywords": ["support interface petg", "pla petg", "suporte que solta", "distancia z zero", "multimaterial", "purga", "u1"]
+  },
+  "instagram_DT_tL2fANH-": { "hidden": true },
+  "tiktok_7600522408122010887": {
+    "title": "Esconder linhas do topo com densidade reduzida (atualização)",
+    "summary": "Uma atualização do Bambu Studio permite reduzir a densidade da superfície superior, criando uma textura leve que esconde as linhas de impressão. Por enquanto há poucos padrões.",
+    "category": "Acabamento e qualidade",
+    "tags": ["camada de topo", "textura", "Bambu Studio", "atualização"],
+    "keywords": ["top surface density", "densidade do topo", "esconder linhas", "textura no topo", "update"]
+  },
+  "tiktok_7600921895147703560": {
+    "title": "PLA Silk com efeito de aço escovado: configurações",
+    "summary": "Perfil de 0,16 High Quality, parede precisa, topo concêntrico com mais de uma parede, 3 paredes, 5% de giroide e suportes a 25° com Z de 0,2 e 4 camadas de interface de 0,2 mm. O resultado parece aço escovado.",
+    "category": "Acabamento e qualidade",
+    "tags": ["PLA Silk", "configurações", "0.16 High Quality"],
+    "keywords": ["aco escovado", "silk cinza", "0.16", "high quality", "precise wall", "concentrico", "perfil de impressao"]
+  },
+  "tiktok_7601600105602501906": {
+    "title": "Suavizar modelos facetados com malha de subdivisão",
+    "summary": "Modelo com a superfície \"poligonal\"? No Bambu Studio atualizado, clique com o botão direito e use a malha de subdivisão para suavizar. Pode aplicar mais de uma vez.",
+    "category": "Personalização no fatiador",
+    "tags": ["malha de subdivisão", "Bambu Studio", "modelo facetado"],
+    "keywords": ["subdivision", "suavizar malha", "low poly", "facetado", "stl ruim", "arredondar", "smooth"]
+  },
+  "tiktok_7603122607176649992": {
+    "title": "Snapmaker U1 vs Bambu Lab H2S no multicolor",
+    "summary": "Na mesma peça de 5 cores e com o perfil padrão 0,16, a H2S levou 28h48 e a U1 13h30, com qualidade parecida e muito menos purga na U1. A H2S tem volume maior e câmara ativa para materiais de engenharia.",
+    "category": "Impressoras",
+    "tags": ["Snapmaker U1", "Bambu Lab H2S", "comparativo", "multicolor"],
+    "keywords": ["u1 vs h2s", "h2s", "tool changer", "ams", "purga", "comparacao", "qual comprar"]
+  },
+  "tiktok_7603491508397903122": {
+    "title": "Filamento dual color: ache o ângulo da transição",
+    "summary": "Imprima o teste do MakerWorld (ID 1926449) para ver em que ângulo as duas cores se dividem (cerca de 45°) e oriente a peça para a transição cair no lado que você quer.",
+    "category": "Filamentos",
+    "tags": ["dual color", "PLA fosco", "orientação da peça"],
+    "keywords": ["bicolor", "dual color", "coextrusao", "transicao de cor", "angulo", "multfila", "barquinho"]
+  },
+  "tiktok_7604233345483984135": {
+    "title": "Teste de fluxo máximo para destravar a velocidade",
+    "summary": "Na aba de calibração (modo desenvolvedor), rode o teste de fluxo máximo de 5 a 30 mm³/s, pare quando aparecer subextrusão, meça a altura e ache o valor (~24). Com 23 no perfil do filamento, o cilindro caiu de 3h30 para 2h23.",
+    "category": "Calibração e configurações",
+    "tags": ["velocidade volumétrica", "fluxo máximo", "calibração", "velocidade"],
+    "keywords": ["max volumetric speed", "max flow test", "mm3/s", "imprimir rapido", "velocidade maxima", "perfil generico conservador"]
+  },
+  "tiktok_7604997599917067528": {
+    "title": "Limpar e lubrificar o fuso do eixo Z",
+    "summary": "Uma tira de pano sem fiapos com álcool isopropílico, duas voltas no fuso e puxar para tirar a graxa suja. Depois, graxa Super Lube no Z e óleo nos trilhos, sem exagero, e calibração completa no final.",
+    "category": "Manutenção e upgrades",
+    "tags": ["manutenção", "eixo Z", "lubrificação", "Super Lube"],
+    "keywords": ["fuso", "lead screw", "graxa suja", "limpar eixo z", "microfibra", "super lube", "manutencao preventiva"]
+  },
+  "tiktok_7605736678078057746": {
+    "title": "Estatueta em PLA Silk: 3 dicas de acabamento",
+    "summary": "Ordem de paredes externa/interna em peças verticais, bico a 230 °C para mais brilho no Silk e perfil 0,12 High Quality para os detalhes. Modelo ID 904433 em Silk ouro envelhecido.",
+    "category": "Acabamento e qualidade",
+    "tags": ["PLA Silk", "ordem das paredes", "temperatura", "0.12"],
+    "keywords": ["estatueta", "busto", "silk dourado", "outer inner", "wall order", "brilho", "0.12 high quality"]
+  },
+  "tiktok_7606091185639165191": {
+    "title": "Overhangs melhores com parede externa mais larga",
+    "summary": "Aumentar a largura da parede externa de 0,42 para 0,50 mm ancora melhor a linha e melhorou overhangs de 30°. Em ângulos menores pode piorar e muda um pouco a precisão dimensional. No filamento fosco quase não fez diferença.",
+    "category": "Acabamento e qualidade",
+    "tags": ["overhang", "largura de linha", "parede externa", "PLA Silk"],
+    "keywords": ["overhang", "saliencia", "line width", "largura da parede", "0.5", "outer wall", "curling"]
+  },
+  "tiktok_7606836840989150471": {
+    "title": "Transformar um desenho em peça multipartes",
+    "summary": "O gerador de chaveiros do MakerLab separa cada cor da imagem em um objeto. No fatiador, basta pôr cada cor numa mesa e ajustar a compensação XY para as peças encaixarem na base.",
+    "category": "Personalização no fatiador",
+    "tags": ["MakerLab", "multipartes", "desenho", "encaixe"],
+    "keywords": ["desenho para 3d", "imagem para 3d", "multipartes", "compensacao xy", "chaveiro", "makerlab"]
+  },
+  "tiktok_7608781034229910802": {
+    "title": "Camada menor = menos suporte",
+    "summary": "Com camada de 0,2 mm, cada degrau é largo e a camada fica sem apoio em ângulos inclinados. Com 0,1 mm, o salto lateral é menor e o ângulo limite de suporte cai, então camadas finas precisam de menos suporte.",
+    "category": "Suportes",
+    "tags": ["altura de camada", "ângulo de suporte", "overhang"],
+    "keywords": ["layer height", "menos suporte", "threshold angle", "0.1", "0.2", "saliencia"]
+  }
+}

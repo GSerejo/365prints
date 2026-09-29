@@ -1,0 +1,127 @@
+{
+  "text": "Como otimizar suas impressões de projetos multipartes. Bem-vindo ao dia 216. Em um projeto multipartes você imprime as cores separadas e monta tudo no final. Todos esses bonecos, por exemplo, são multipartes, inclusive os olhos. Normalmente esses projetos vêm com as cores separadas em placas. E para otimizar e ter mais praticidade, eu gosto de juntar as peças pequenas em uma placa só. Então, com o aparecimento da torre de purga, criamos um problema que é a troca de cor em todas as camadas. E para resolver isso a gente personaliza essa placa e muda a sequência de impressão por objeto A sua placa ficará com esse contorno quadrado em azul E o processo aqui é simples, a impressora vai imprimir cada objeto até o final e depois iniciar o outro Veja que há o aparecimento desses perímetros nas peças Esse é o perímetro de segurança para que a impressora consiga imprimir uma peça e depois imprimir a outra sem colisões Veja que os dois olhos estão sendo tratados como duas peças distintas, apesar da mesma cor E os dois perímetros estão se sobrepondo, então eu mesco os dois objetos Assim os dois olhos serão tratados pelo fatiador como uma peça só Em algumas situações haverá esse perímetro maior e esse erro na tela O fatiador está indicando que esse será o segundo objeto impresso E depois quando for imprimir os demais o cabeçote de impressão pode bater nele Vamos alterar a ordem de impressão arrastando o objeto em rosa ou maior lá para o final da placa Pronto, o erro sumiu e o objeto mais alto será impresso por último E depois de fatiado verificamos que a impressão está sendo feita por objeto Isso torna tudo mais prático com apenas 3 trocas de cor Seriam as trocas naturais, mesmo imprimindo em placas separadas. Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Como otimizar suas impressões de projetos multipartes."
+    },
+    {
+      "start": 4.0,
+      "end": 6.6,
+      "text": "Bem-vindo ao dia 216."
+    },
+    {
+      "start": 6.8,
+      "end": 10.9,
+      "text": "Em um projeto multipartes você imprime as cores separadas e monta tudo no final."
+    },
+    {
+      "start": 11.0,
+      "end": 14.3,
+      "text": "Todos esses bonecos, por exemplo, são multipartes, inclusive os olhos."
+    },
+    {
+      "start": 14.5,
+      "end": 17.7,
+      "text": "Normalmente esses projetos vêm com as cores separadas em placas."
+    },
+    {
+      "start": 17.8,
+      "end": 22.8,
+      "text": "E para otimizar e ter mais praticidade, eu gosto de juntar as peças pequenas em uma placa só."
+    },
+    {
+      "start": 22.8,
+      "end": 27.8,
+      "text": "Então, com o aparecimento da torre de purga, criamos um problema que é a troca de cor em todas as camadas."
+    },
+    {
+      "start": 27.8,
+      "end": 32.7,
+      "text": "E para resolver isso a gente personaliza essa placa e muda a sequência de impressão por objeto"
+    },
+    {
+      "start": 32.7,
+      "end": 35.4,
+      "text": "A sua placa ficará com esse contorno quadrado em azul"
+    },
+    {
+      "start": 35.4,
+      "end": 40.2,
+      "text": "E o processo aqui é simples, a impressora vai imprimir cada objeto até o final e depois iniciar o outro"
+    },
+    {
+      "start": 40.2,
+      "end": 43.0,
+      "text": "Veja que há o aparecimento desses perímetros nas peças"
+    },
+    {
+      "start": 43.0,
+      "end": 49.3,
+      "text": "Esse é o perímetro de segurança para que a impressora consiga imprimir uma peça e depois imprimir a outra sem colisões"
+    },
+    {
+      "start": 49.3,
+      "end": 53.7,
+      "text": "Veja que os dois olhos estão sendo tratados como duas peças distintas, apesar da mesma cor"
+    },
+    {
+      "start": 53.7,
+      "end": 57.6,
+      "text": "E os dois perímetros estão se sobrepondo, então eu mesco os dois objetos"
+    },
+    {
+      "start": 57.6,
+      "end": 61.3,
+      "text": "Assim os dois olhos serão tratados pelo fatiador como uma peça só"
+    },
+    {
+      "start": 61.3,
+      "end": 65.1,
+      "text": "Em algumas situações haverá esse perímetro maior e esse erro na tela"
+    },
+    {
+      "start": 65.1,
+      "end": 68.0,
+      "text": "O fatiador está indicando que esse será o segundo objeto impresso"
+    },
+    {
+      "start": 68.0,
+      "end": 72.0,
+      "text": "E depois quando for imprimir os demais o cabeçote de impressão pode bater nele"
+    },
+    {
+      "start": 72.0,
+      "end": 76.5,
+      "text": "Vamos alterar a ordem de impressão arrastando o objeto em rosa ou maior lá para o final da placa"
+    },
+    {
+      "start": 76.5,
+      "end": 80.7,
+      "text": "Pronto, o erro sumiu e o objeto mais alto será impresso por último"
+    },
+    {
+      "start": 80.7,
+      "end": 84.2,
+      "text": "E depois de fatiado verificamos que a impressão está sendo feita por objeto"
+    },
+    {
+      "start": 84.2,
+      "end": 87.2,
+      "text": "Isso torna tudo mais prático com apenas 3 trocas de cor"
+    },
+    {
+      "start": 87.2,
+      "end": 91.0,
+      "text": "Seriam as trocas naturais, mesmo imprimindo em placas separadas."
+    },
+    {
+      "start": 91.2,
+      "end": 94.7,
+      "text": "Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 95.2,
+  "model": "large-v3-turbo"
+}

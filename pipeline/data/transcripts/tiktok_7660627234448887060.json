@@ -1,0 +1,87 @@
+{
+  "text": "Recuperar malha, fazer molde, pintura automática, dividir objetos organicamente em multiparte, fazer articulados e cortar peças grandes. Esse programa faz tudo o que falta entre o modelo 3D e o seu fatiador. Bem-vindo ao dia 232, essa foi uma recomendação de um seguidor. Esse programa tá ainda na fase beta, mas dá pra testar ele gratuitamente. Eu testei ele pela primeira vez pra pintar a cabeça do Wolverine. A malha desse modelo é gigantesca E a pintura automática até adiantou um pouco o trabalho Com ajustes manuais que eu achei bem melhores que o do fatiador a pintura saiu Tem alguns recursos diferentes e eu acho que vale a pena testar por ser gratuito Esse suavizador de bordas por exemplo eu achei bem legal E quando você terminar o trabalho dá pra exportar automaticamente pra qualquer fatiador O autor disponibilizou diversos tutoriais Eu vou deixar ele marcado aqui embaixo O nome desse software é Aldia E se você gostar desse vídeo me siga pra ter conteúdo 3D todos os dias Tchau, tchau.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.6,
+      "text": "Recuperar malha, fazer molde, pintura automática, dividir objetos organicamente em multiparte, fazer articulados e cortar peças grandes."
+    },
+    {
+      "start": 11.7,
+      "end": 16.6,
+      "text": "Esse programa faz tudo o que falta entre o modelo 3D e o seu fatiador."
+    },
+    {
+      "start": 16.8,
+      "end": 21.3,
+      "text": "Bem-vindo ao dia 232, essa foi uma recomendação de um seguidor."
+    },
+    {
+      "start": 21.4,
+      "end": 25.4,
+      "text": "Esse programa tá ainda na fase beta, mas dá pra testar ele gratuitamente."
+    },
+    {
+      "start": 25.4,
+      "end": 28.6,
+      "text": "Eu testei ele pela primeira vez pra pintar a cabeça do Wolverine."
+    },
+    {
+      "start": 28.6,
+      "end": 30.6,
+      "text": "A malha desse modelo é gigantesca"
+    },
+    {
+      "start": 30.6,
+      "end": 33.1,
+      "text": "E a pintura automática até adiantou um pouco o trabalho"
+    },
+    {
+      "start": 33.1,
+      "end": 37.6,
+      "text": "Com ajustes manuais que eu achei bem melhores que o do fatiador a pintura saiu"
+    },
+    {
+      "start": 37.6,
+      "end": 41.6,
+      "text": "Tem alguns recursos diferentes e eu acho que vale a pena testar por ser gratuito"
+    },
+    {
+      "start": 41.6,
+      "end": 45.4,
+      "text": "Esse suavizador de bordas por exemplo eu achei bem legal"
+    },
+    {
+      "start": 45.4,
+      "end": 49.8,
+      "text": "E quando você terminar o trabalho dá pra exportar automaticamente pra qualquer fatiador"
+    },
+    {
+      "start": 49.8,
+      "end": 51.9,
+      "text": "O autor disponibilizou diversos tutoriais"
+    },
+    {
+      "start": 51.9,
+      "end": 53.3,
+      "text": "Eu vou deixar ele marcado aqui embaixo"
+    },
+    {
+      "start": 53.3,
+      "end": 54.8,
+      "text": "O nome desse software é Aldia"
+    },
+    {
+      "start": 54.8,
+      "end": 58.6,
+      "text": "E se você gostar desse vídeo me siga pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 58.6,
+      "end": 88.6,
+      "text": "Tchau, tchau."
+    }
+  ],
+  "duration": 59.2,
+  "model": "large-v3-turbo"
+}

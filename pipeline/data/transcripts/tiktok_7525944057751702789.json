@@ -1,0 +1,32 @@
+{
+  "text": "Hoje eu imprimi o Patrick, um suporte para o comedouro dos meus gatos. Patrick? É uma bela peça, sua execução é um tanto existente. Bem-vindo ao dia 40 de 365 Impressões 3D aqui em casa. Essa impressão demorou mais de 16 horas e foram quase 600 gramas de filamento. O Alfredo adorou. E vocês, gostaram?",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 5.7,
+      "text": "Hoje eu imprimi o Patrick, um suporte para o comedouro dos meus gatos."
+    },
+    {
+      "start": 5.7,
+      "end": 10.2,
+      "text": "Patrick? É uma bela peça, sua execução é um tanto existente."
+    },
+    {
+      "start": 10.2,
+      "end": 15.6,
+      "text": "Bem-vindo ao dia 40 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 15.7,
+      "end": 21.5,
+      "text": "Essa impressão demorou mais de 16 horas e foram quase 600 gramas de filamento."
+    },
+    {
+      "start": 22.5,
+      "end": 50.7,
+      "text": "O Alfredo adorou. E vocês, gostaram?"
+    }
+  ],
+  "duration": 51.4,
+  "model": "large-v3-turbo"
+}

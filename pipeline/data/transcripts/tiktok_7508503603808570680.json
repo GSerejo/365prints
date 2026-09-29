@@ -1,0 +1,42 @@
+{
+  "text": "Dia 6 de 365 impressões 3D aqui em casa. Eu havia impresso um suporte para carregar meu celular enquanto eu utilizava o computador. Mas eu queria uma coisa mais prática. Então eu fui lá no site da Bambu Lab e encontrei um suporte que utiliza indução magnética para facilitar a minha vida. Eu imprimi num PLA fosco da Elegu, vermelho, ele ficou bem bonito. Bem acabado também como é o padrão das impressões da Bambu Lab. Depois de impresso, só foi encaixar o carregador de indução magnética, que me custou mais ou menos R$ 78,00. Eu comprei no Mercado Livre e a impressão me custou R$ 12,00, considerando já o custo de energia elétrica e o hora máquina. Com um total então de R$ 90,00, eu finalizei o projeto. E agora tudo ficou mais fácil e prático aqui em casa. Problema resolvido.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.7,
+      "text": "Dia 6 de 365 impressões 3D aqui em casa. Eu havia impresso um suporte para carregar meu celular enquanto eu utilizava o computador."
+    },
+    {
+      "start": 9.4,
+      "end": 18.3,
+      "text": "Mas eu queria uma coisa mais prática. Então eu fui lá no site da Bambu Lab e encontrei um suporte que utiliza indução magnética para facilitar a minha vida."
+    },
+    {
+      "start": 19.0,
+      "end": 27.6,
+      "text": "Eu imprimi num PLA fosco da Elegu, vermelho, ele ficou bem bonito. Bem acabado também como é o padrão das impressões da Bambu Lab."
+    },
+    {
+      "start": 27.6,
+      "end": 34.7,
+      "text": "Depois de impresso, só foi encaixar o carregador de indução magnética, que me custou mais ou menos R$ 78,00."
+    },
+    {
+      "start": 34.7,
+      "end": 43.1,
+      "text": "Eu comprei no Mercado Livre e a impressão me custou R$ 12,00, considerando já o custo de energia elétrica e o hora máquina."
+    },
+    {
+      "start": 44.0,
+      "end": 51.2,
+      "text": "Com um total então de R$ 90,00, eu finalizei o projeto. E agora tudo ficou mais fácil e prático aqui em casa."
+    },
+    {
+      "start": 53.3,
+      "end": 54.8,
+      "text": "Problema resolvido."
+    }
+  ],
+  "duration": 58.5,
+  "model": "large-v3-turbo"
+}

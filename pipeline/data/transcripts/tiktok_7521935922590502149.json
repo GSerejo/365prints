@@ -1,0 +1,157 @@
+{
+  "text": "Como aumentar a velocidade da sua impressão e manter a qualidade como esse cubo que está na foto? Bem-vindo ao dia 34 de 365 Impressões 3D aqui em casa. Lá no nosso fatiador a gente verifica que existem velocidades padrões de impressão. E apesar da Bambu imprimir em até 500 milímetros por segundo, por questão de qualidade eu sugiro você não aumentar essas velocidades. Bom, mas espera aí, como eu vou imprimir mais rápido? Primeiro, no fatiamento, a gente verifica que essas velocidades não estão sendo atingidas. Ainda está imprimindo muito lento. Veja que em nenhum momento a gente chega no verdinho, que são velocidades acima de 200 milímetros por segundo. Isso ocorre devido a dois parâmetros específicos lá no seu filamento. O primeiro é a velocidade volumétrica máxima, que vem alimentado a 12, lá no seu fatiador. O segundo é lá na aba resfriamento, que é essa impressão lenta para melhor resfriamento de camada. Que você pode desabilitá-la em impressões que tem geometrias mais fáceis. Agora vem a pergunta, como aumentar a velocidade máxima volumétrica sem prejudicar a minha peça? E é isso que a gente vai descobrir. Lá no site da VomboLab a gente acha esse teste aqui de fluxo máximo. Esse teste altera aquele parâmetro de velocidade volumétrica máxima em 50. E aí você consegue imprimir nessas velocidades mais altas. Acompanhe a sua impressão, e assim que ela dar indícios de substrução, pare-a e meça a altura que ela imprimiu com qualidade. De acordo com o autor desse modelo, você pega a sua altura e soma 10, e aí você descobre a velocidade máxima volumétrica do seu filamento. Veja que eu fiz o mesmo teste com o filamento da Bambulab, e o resultado foi muito melhor. Mas vamos voltar ao exemplo anterior, e alterar a velocidade volumétrica para 18, com certa margem de segurança. Veja que agora sim atingimos velocidades mais altas no fatiamento E mesmo com velocidades altas o resultado foi bastante satisfatório Eu aproveitei e imprimi um bente também para dar uma olhada E eu acredito que eu consegui extrair o máximo desse filamento com qualidade Agora a dica mais importante Se você quiser imprimir mais rápido, procure filamentos com mais qualidade E esse teste pode funcionar como indicativo E até o próximo vídeo",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 7.9,
+      "text": "Como aumentar a velocidade da sua impressão e manter a qualidade como esse cubo que está na foto?"
+    },
+    {
+      "start": 8.2,
+      "end": 14.5,
+      "text": "Bem-vindo ao dia 34 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 14.8,
+      "end": 19.9,
+      "text": "Lá no nosso fatiador a gente verifica que existem velocidades padrões de impressão."
+    },
+    {
+      "start": 19.9,
+      "end": 28.5,
+      "text": "E apesar da Bambu imprimir em até 500 milímetros por segundo, por questão de qualidade eu sugiro você não aumentar essas velocidades."
+    },
+    {
+      "start": 28.5,
+      "end": 30.9,
+      "text": "Bom, mas espera aí, como eu vou imprimir mais rápido?"
+    },
+    {
+      "start": 31.3,
+      "end": 36.4,
+      "text": "Primeiro, no fatiamento, a gente verifica que essas velocidades não estão sendo atingidas."
+    },
+    {
+      "start": 36.8,
+      "end": 38.9,
+      "text": "Ainda está imprimindo muito lento."
+    },
+    {
+      "start": 39.0,
+      "end": 41.8,
+      "text": "Veja que em nenhum momento a gente chega no verdinho,"
+    },
+    {
+      "start": 42.1,
+      "end": 46.1,
+      "text": "que são velocidades acima de 200 milímetros por segundo."
+    },
+    {
+      "start": 46.4,
+      "end": 50.7,
+      "text": "Isso ocorre devido a dois parâmetros específicos lá no seu filamento."
+    },
+    {
+      "start": 51.0,
+      "end": 56.5,
+      "text": "O primeiro é a velocidade volumétrica máxima, que vem alimentado a 12, lá no seu fatiador."
+    },
+    {
+      "start": 56.5,
+      "end": 61.9,
+      "text": "O segundo é lá na aba resfriamento, que é essa impressão lenta para melhor resfriamento de camada."
+    },
+    {
+      "start": 62.0,
+      "end": 65.7,
+      "text": "Que você pode desabilitá-la em impressões que tem geometrias mais fáceis."
+    },
+    {
+      "start": 66.2,
+      "end": 71.9,
+      "text": "Agora vem a pergunta, como aumentar a velocidade máxima volumétrica sem prejudicar a minha peça?"
+    },
+    {
+      "start": 72.3,
+      "end": 73.4,
+      "text": "E é isso que a gente vai descobrir."
+    },
+    {
+      "start": 73.7,
+      "end": 77.0,
+      "text": "Lá no site da VomboLab a gente acha esse teste aqui de fluxo máximo."
+    },
+    {
+      "start": 77.3,
+      "end": 81.3,
+      "text": "Esse teste altera aquele parâmetro de velocidade volumétrica máxima em 50."
+    },
+    {
+      "start": 81.4,
+      "end": 84.0,
+      "text": "E aí você consegue imprimir nessas velocidades mais altas."
+    },
+    {
+      "start": 84.0,
+      "end": 90.8,
+      "text": "Acompanhe a sua impressão, e assim que ela dar indícios de substrução, pare-a e meça a altura que ela imprimiu com qualidade."
+    },
+    {
+      "start": 91.4,
+      "end": 99.8,
+      "text": "De acordo com o autor desse modelo, você pega a sua altura e soma 10, e aí você descobre a velocidade máxima volumétrica do seu filamento."
+    },
+    {
+      "start": 100.0,
+      "end": 105.1,
+      "text": "Veja que eu fiz o mesmo teste com o filamento da Bambulab, e o resultado foi muito melhor."
+    },
+    {
+      "start": 105.3,
+      "end": 111.9,
+      "text": "Mas vamos voltar ao exemplo anterior, e alterar a velocidade volumétrica para 18, com certa margem de segurança."
+    },
+    {
+      "start": 111.9,
+      "end": 116.2,
+      "text": "Veja que agora sim atingimos velocidades mais altas no fatiamento"
+    },
+    {
+      "start": 116.2,
+      "end": 120.9,
+      "text": "E mesmo com velocidades altas o resultado foi bastante satisfatório"
+    },
+    {
+      "start": 120.9,
+      "end": 123.5,
+      "text": "Eu aproveitei e imprimi um bente também para dar uma olhada"
+    },
+    {
+      "start": 123.5,
+      "end": 127.9,
+      "text": "E eu acredito que eu consegui extrair o máximo desse filamento com qualidade"
+    },
+    {
+      "start": 127.9,
+      "end": 130.9,
+      "text": "Agora a dica mais importante"
+    },
+    {
+      "start": 130.9,
+      "end": 135.7,
+      "text": "Se você quiser imprimir mais rápido, procure filamentos com mais qualidade"
+    },
+    {
+      "start": 135.7,
+      "end": 139.0,
+      "text": "E esse teste pode funcionar como indicativo"
+    },
+    {
+      "start": 139.0,
+      "end": 140.9,
+      "text": "E até o próximo vídeo"
+    }
+  ],
+  "duration": 143.8,
+  "model": "large-v3-turbo"
+}

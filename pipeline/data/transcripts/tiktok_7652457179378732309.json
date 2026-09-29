@@ -1,0 +1,102 @@
+{
+  "text": "Saia disso, pra isso. Bem-vindo ao dia 223. Uma região cheia de suportes e ainda na horizontal pode ser difícil de tirar. A base do suporte se desprende da interface e vira essa bagunça toda. Veja que o espaçamento da base é muito grande. No entanto, quando bem configurado, quando chegamos na interface, o suporte sai limpo. No fatiador, para esse tipo de geometria, eu utilizo o suporte normal. E normalmente, os três parâmetros que eu altero, eles afetam a interface. Eu expliquei lá no dia 160. E eles funcionaram bem para esse caso. A interface desprendeu fácil. O problema foi a base do suporte. Essa base está muito espaçada. E o que queremos fazer é diminuir esse espaçamento para o suporte sair como um bloco. Então, na aba suporte, vamos reduzir esse parâmetro aqui, que o nome já diz tudo. Além disso, podemos trocar o padrão da base para a grade, para entrelaçar ainda mais ela. E olha aí o resultado, a base do suporte virou um bloco só. Eu acabei não gravando quando eu removi. Mas depois de desprender, a base e a interface saíram tudo de uma vez e isso facilitou bastante. Ah, Uni, mas se isso é melhor, por que não é padrão no fatiador? Calma, cada geometria é um caso diferente e isso aumenta o tempo e o gasto de filamento. E se vocês gostaram dessa dica, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.8,
+      "text": "Saia disso, pra isso. Bem-vindo ao dia 223. Uma região cheia de suportes e ainda na horizontal pode ser difícil de tirar."
+    },
+    {
+      "start": 12.0,
+      "end": 19.0,
+      "text": "A base do suporte se desprende da interface e vira essa bagunça toda. Veja que o espaçamento da base é muito grande."
+    },
+    {
+      "start": 19.2,
+      "end": 23.6,
+      "text": "No entanto, quando bem configurado, quando chegamos na interface, o suporte sai limpo."
+    },
+    {
+      "start": 24.2,
+      "end": 28.6,
+      "text": "No fatiador, para esse tipo de geometria, eu utilizo o suporte normal."
+    },
+    {
+      "start": 28.7,
+      "end": 32.8,
+      "text": "E normalmente, os três parâmetros que eu altero, eles afetam a interface."
+    },
+    {
+      "start": 33.0,
+      "end": 34.6,
+      "text": "Eu expliquei lá no dia 160."
+    },
+    {
+      "start": 34.8,
+      "end": 36.4,
+      "text": "E eles funcionaram bem para esse caso."
+    },
+    {
+      "start": 36.5,
+      "end": 37.9,
+      "text": "A interface desprendeu fácil."
+    },
+    {
+      "start": 38.0,
+      "end": 39.8,
+      "text": "O problema foi a base do suporte."
+    },
+    {
+      "start": 39.9,
+      "end": 42.0,
+      "text": "Essa base está muito espaçada."
+    },
+    {
+      "start": 42.0,
+      "end": 46.0,
+      "text": "E o que queremos fazer é diminuir esse espaçamento para o suporte sair como um bloco."
+    },
+    {
+      "start": 46.1,
+      "end": 50.5,
+      "text": "Então, na aba suporte, vamos reduzir esse parâmetro aqui, que o nome já diz tudo."
+    },
+    {
+      "start": 50.5,
+      "end": 55.5,
+      "text": "Além disso, podemos trocar o padrão da base para a grade, para entrelaçar ainda mais ela."
+    },
+    {
+      "start": 55.6,
+      "end": 58.9,
+      "text": "E olha aí o resultado, a base do suporte virou um bloco só."
+    },
+    {
+      "start": 59.0,
+      "end": 61.1,
+      "text": "Eu acabei não gravando quando eu removi."
+    },
+    {
+      "start": 61.2,
+      "end": 66.5,
+      "text": "Mas depois de desprender, a base e a interface saíram tudo de uma vez e isso facilitou bastante."
+    },
+    {
+      "start": 66.6,
+      "end": 69.5,
+      "text": "Ah, Uni, mas se isso é melhor, por que não é padrão no fatiador?"
+    },
+    {
+      "start": 69.8,
+      "end": 75.2,
+      "text": "Calma, cada geometria é um caso diferente e isso aumenta o tempo e o gasto de filamento."
+    },
+    {
+      "start": 75.4,
+      "end": 79.4,
+      "text": "E se vocês gostaram dessa dica, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 80.1,
+  "model": "large-v3-turbo"
+}

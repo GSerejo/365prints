@@ -1,0 +1,57 @@
+{
+  "text": "Saia disso, pra isso, sem mudar a altura de camada. Bem-vindo ao dia 242. Pra fazer isso é só mudar a orientação do seu projeto. Vamos incliná-lo pra transferir o problema lá pra pontinha do símbolo. Eu não virei ele totalmente em 90 graus porque a superfície inferior não era 100% plana. A dica é incliná-lo mais que 40 graus. E com o contato com a base é pequeno, vamos utilizar os suportes manuais pra dar estabilidade na impressão. E é claro, o tempo de impressão vai aumentar e vai gastar mais material. Mas a diferença é absurda, mesmo com os dois utilizando 0.08mm de altura de camada. E se vocês gostaram desse vídeo, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.4,
+      "text": "Saia disso, pra isso, sem mudar a altura de camada."
+    },
+    {
+      "start": 4.8,
+      "end": 7.2,
+      "text": "Bem-vindo ao dia 242."
+    },
+    {
+      "start": 7.3,
+      "end": 10.6,
+      "text": "Pra fazer isso é só mudar a orientação do seu projeto."
+    },
+    {
+      "start": 10.7,
+      "end": 14.8,
+      "text": "Vamos incliná-lo pra transferir o problema lá pra pontinha do símbolo."
+    },
+    {
+      "start": 14.9,
+      "end": 20.4,
+      "text": "Eu não virei ele totalmente em 90 graus porque a superfície inferior não era 100% plana."
+    },
+    {
+      "start": 20.5,
+      "end": 22.8,
+      "text": "A dica é incliná-lo mais que 40 graus."
+    },
+    {
+      "start": 22.9,
+      "end": 28.5,
+      "text": "E com o contato com a base é pequeno, vamos utilizar os suportes manuais pra dar estabilidade na impressão."
+    },
+    {
+      "start": 28.5,
+      "end": 31.9,
+      "text": "E é claro, o tempo de impressão vai aumentar e vai gastar mais material."
+    },
+    {
+      "start": 32.1,
+      "end": 38.8,
+      "text": "Mas a diferença é absurda, mesmo com os dois utilizando 0.08mm de altura de camada."
+    },
+    {
+      "start": 38.9,
+      "end": 42.7,
+      "text": "E se vocês gostaram desse vídeo, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 43.2,
+  "model": "large-v3-turbo"
+}

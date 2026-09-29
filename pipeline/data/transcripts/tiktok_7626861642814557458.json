@@ -1,0 +1,52 @@
+{
+  "text": "Eu imprimi 38 cores na Snapmaker utilizando apenas 4 filamentos. Bem-vindo ao dia 193! E isso é possível graças a uma modificação do Snapmaker Orca, chamada Full Spectrum. Com os 4 filamentos carregados, você pode criar misturas de cores intercalando as camadas. Com close na peça e utilizando uma lente macro, você consegue ver que são camadas intercaladas. Mas dependendo da distância e das cores escolhidas, o seu olho mistura tudo. Isso ainda é experimental, mas se evoluir pode substituir muita coisa Se você quiser um tutorial para aprender a fazer é só engajar nos comentários E me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Eu imprimi 38 cores na Snapmaker utilizando apenas 4 filamentos."
+    },
+    {
+      "start": 5.4,
+      "end": 7.4,
+      "text": "Bem-vindo ao dia 193!"
+    },
+    {
+      "start": 7.7,
+      "end": 12.6,
+      "text": "E isso é possível graças a uma modificação do Snapmaker Orca, chamada Full Spectrum."
+    },
+    {
+      "start": 12.7,
+      "end": 17.5,
+      "text": "Com os 4 filamentos carregados, você pode criar misturas de cores intercalando as camadas."
+    },
+    {
+      "start": 17.7,
+      "end": 22.6,
+      "text": "Com close na peça e utilizando uma lente macro, você consegue ver que são camadas intercaladas."
+    },
+    {
+      "start": 22.7,
+      "end": 26.5,
+      "text": "Mas dependendo da distância e das cores escolhidas, o seu olho mistura tudo."
+    },
+    {
+      "start": 26.5,
+      "end": 30.4,
+      "text": "Isso ainda é experimental, mas se evoluir pode substituir muita coisa"
+    },
+    {
+      "start": 30.4,
+      "end": 33.9,
+      "text": "Se você quiser um tutorial para aprender a fazer é só engajar nos comentários"
+    },
+    {
+      "start": 33.9,
+      "end": 36.4,
+      "text": "E me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 36.7,
+  "model": "large-v3-turbo"
+}

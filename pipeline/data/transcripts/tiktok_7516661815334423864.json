@@ -1,0 +1,92 @@
+{
+  "text": "Hoje eu vou ensinar pra vocês como fazer esse letreiro, de forma simples e rápida, utilizando apenas ferramentas gratuitas. Dia 23, de 365 impressões 3D aqui em casa. Bom, vamos lá. Primeiro você abre o Canva, pode ser o gratuito mesmo, escreve o nome que você queira imprimir, ache uma fonte legal, de preferência uma fonte sem espaçamento entre as letras. Aí então é só salvar em PNG. Depois de salvo a gente precisa converter esse PNG em SVG. E eu utilizei esse site aqui. Aí dentro do Bamboo Studio é só importar o arquivo SVG que você acabou de converter. Com a ferramenta escala a gente pode aumentar a profundidade da peça. Agora com a ferramenta cortar a gente pode dividir a peça em duas partes. Para que a gente possa imprimir em duas cores. Agora é só mandar imprimir. Não esquece de imprimir uma por vez para economizar filamento. E o detalhe final é inverter a peça, tombar ela de forma que a parte da frente fique encostada na placa PEI para melhorar o acabamento. Com ambas as partes impressas é só utilizar uma super cola para juntá-las. Não exagere na cola porque pode ficar manchada a peça. Projeto finalizado.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.0,
+      "text": "Hoje eu vou ensinar pra vocês como fazer esse letreiro, de forma simples e rápida, utilizando apenas ferramentas gratuitas."
+    },
+    {
+      "start": 8.5,
+      "end": 13.4,
+      "text": "Dia 23, de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 14.6,
+      "end": 20.2,
+      "text": "Bom, vamos lá. Primeiro você abre o Canva, pode ser o gratuito mesmo, escreve o nome que você queira imprimir,"
+    },
+    {
+      "start": 20.5,
+      "end": 24.8,
+      "text": "ache uma fonte legal, de preferência uma fonte sem espaçamento entre as letras."
+    },
+    {
+      "start": 24.8,
+      "end": 27.3,
+      "text": "Aí então é só salvar em PNG."
+    },
+    {
+      "start": 27.5,
+      "end": 30.8,
+      "text": "Depois de salvo a gente precisa converter esse PNG em SVG."
+    },
+    {
+      "start": 31.5,
+      "end": 32.8,
+      "text": "E eu utilizei esse site aqui."
+    },
+    {
+      "start": 33.1,
+      "end": 38.4,
+      "text": "Aí dentro do Bamboo Studio é só importar o arquivo SVG que você acabou de converter."
+    },
+    {
+      "start": 38.9,
+      "end": 43.4,
+      "text": "Com a ferramenta escala a gente pode aumentar a profundidade da peça."
+    },
+    {
+      "start": 43.5,
+      "end": 47.5,
+      "text": "Agora com a ferramenta cortar a gente pode dividir a peça em duas partes."
+    },
+    {
+      "start": 47.7,
+      "end": 49.6,
+      "text": "Para que a gente possa imprimir em duas cores."
+    },
+    {
+      "start": 49.9,
+      "end": 51.3,
+      "text": "Agora é só mandar imprimir."
+    },
+    {
+      "start": 51.3,
+      "end": 54.7,
+      "text": "Não esquece de imprimir uma por vez para economizar filamento."
+    },
+    {
+      "start": 54.8,
+      "end": 63.2,
+      "text": "E o detalhe final é inverter a peça, tombar ela de forma que a parte da frente fique encostada na placa PEI para melhorar o acabamento."
+    },
+    {
+      "start": 63.3,
+      "end": 67.9,
+      "text": "Com ambas as partes impressas é só utilizar uma super cola para juntá-las."
+    },
+    {
+      "start": 68.2,
+      "end": 71.1,
+      "text": "Não exagere na cola porque pode ficar manchada a peça."
+    },
+    {
+      "start": 72.4,
+      "end": 73.8,
+      "text": "Projeto finalizado."
+    }
+  ],
+  "duration": 75.7,
+  "model": "large-v3-turbo"
+}

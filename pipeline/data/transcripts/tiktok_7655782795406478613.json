@@ -1,0 +1,172 @@
+{
+  "text": "Todo mundo fala que a primeira calibração do seu filamento é a temperatura. Você faz a torre, determina a temperatura ideal do seu filamento e usa esse valor pra sempre. Eu acho que não é bem assim. Bem-vindo ao dia 224. Pra mim, a calibração de temperatura é apenas uma referência. Pensa comigo num chuveiro elétrico. Você vai lá e fixa a potência, mais quente, por exemplo. Aí com o chuveiro ligado, se você aumentar a vazão de água, abrir mais a torneira, a água fica mais fria, certo? Em contrapartida, se você diminuir a vazão de água, a água vai ficar mais quente. No bico da sua impressora 3D acontece algo semelhante, quando você seta uma temperatura. Quanto mais material a extrusora manda para derreter, menos ele fica aqui dentro, então ele recebe menos calor. Agora, numa vazão menor, a extrusora está mandando menos material. Passa mais tempo aqui dentro aquecendo. Olha esse teste aqui. Eu setei a temperatura em 220 graus. Comecei com 1 milímetro cúbico por segundo e fui até 10. Até a região de 4 milímetros cúbicos, o PLA Silk está brilhoso. Depois disso, ele vira fosco. No fim das contas, o fornecimento de energia para derreter o PLA não depende só da temperatura. Depende também da vazão em que o filamento passa no bico. Se você muda alguma configuração do processo, altura de camada, largura de linha, velocidade, Você está mexendo na vazão E vai mudar o fornecimento de calor Você precisa relacionar a temperatura com a vazão Em que você vai imprimir o seu projeto Por que eu estou falando tudo isso? Porque eu vejo as pessoas falando em utilizar, por exemplo, 225 graus Mas se você não souber a vazão que você está imprimindo, o fluxo Esses 5 ou 10 graus de diferença Não faz sentido nenhum E agora eu quero saber a sua opinião Deixe aí nos comentários E me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Todo mundo fala que a primeira calibração do seu filamento é a temperatura."
+    },
+    {
+      "start": 4.4,
+      "end": 9.7,
+      "text": "Você faz a torre, determina a temperatura ideal do seu filamento e usa esse valor pra sempre."
+    },
+    {
+      "start": 9.8,
+      "end": 11.5,
+      "text": "Eu acho que não é bem assim."
+    },
+    {
+      "start": 11.9,
+      "end": 14.1,
+      "text": "Bem-vindo ao dia 224."
+    },
+    {
+      "start": 14.2,
+      "end": 18.5,
+      "text": "Pra mim, a calibração de temperatura é apenas uma referência."
+    },
+    {
+      "start": 18.8,
+      "end": 20.5,
+      "text": "Pensa comigo num chuveiro elétrico."
+    },
+    {
+      "start": 20.6,
+      "end": 23.6,
+      "text": "Você vai lá e fixa a potência, mais quente, por exemplo."
+    },
+    {
+      "start": 23.6,
+      "end": 29.8,
+      "text": "Aí com o chuveiro ligado, se você aumentar a vazão de água, abrir mais a torneira, a água fica mais fria, certo?"
+    },
+    {
+      "start": 29.8,
+      "end": 35.4,
+      "text": "Em contrapartida, se você diminuir a vazão de água, a água vai ficar mais quente."
+    },
+    {
+      "start": 35.6,
+      "end": 40.4,
+      "text": "No bico da sua impressora 3D acontece algo semelhante, quando você seta uma temperatura."
+    },
+    {
+      "start": 40.7,
+      "end": 47.6,
+      "text": "Quanto mais material a extrusora manda para derreter, menos ele fica aqui dentro, então ele recebe menos calor."
+    },
+    {
+      "start": 47.9,
+      "end": 52.0,
+      "text": "Agora, numa vazão menor, a extrusora está mandando menos material."
+    },
+    {
+      "start": 52.2,
+      "end": 54.6,
+      "text": "Passa mais tempo aqui dentro aquecendo."
+    },
+    {
+      "start": 54.6,
+      "end": 56.0,
+      "text": "Olha esse teste aqui."
+    },
+    {
+      "start": 56.2,
+      "end": 58.6,
+      "text": "Eu setei a temperatura em 220 graus."
+    },
+    {
+      "start": 58.6,
+      "end": 61.9,
+      "text": "Comecei com 1 milímetro cúbico por segundo e fui até 10."
+    },
+    {
+      "start": 62.1,
+      "end": 66.9,
+      "text": "Até a região de 4 milímetros cúbicos, o PLA Silk está brilhoso."
+    },
+    {
+      "start": 67.0,
+      "end": 68.4,
+      "text": "Depois disso, ele vira fosco."
+    },
+    {
+      "start": 68.5,
+      "end": 75.1,
+      "text": "No fim das contas, o fornecimento de energia para derreter o PLA não depende só da temperatura."
+    },
+    {
+      "start": 75.6,
+      "end": 79.7,
+      "text": "Depende também da vazão em que o filamento passa no bico."
+    },
+    {
+      "start": 80.0,
+      "end": 85.2,
+      "text": "Se você muda alguma configuração do processo, altura de camada, largura de linha, velocidade,"
+    },
+    {
+      "start": 85.2,
+      "end": 87.6,
+      "text": "Você está mexendo na vazão"
+    },
+    {
+      "start": 87.6,
+      "end": 89.9,
+      "text": "E vai mudar o fornecimento de calor"
+    },
+    {
+      "start": 89.9,
+      "end": 93.9,
+      "text": "Você precisa relacionar a temperatura com a vazão"
+    },
+    {
+      "start": 93.9,
+      "end": 96.2,
+      "text": "Em que você vai imprimir o seu projeto"
+    },
+    {
+      "start": 96.2,
+      "end": 97.7,
+      "text": "Por que eu estou falando tudo isso?"
+    },
+    {
+      "start": 97.8,
+      "end": 102.0,
+      "text": "Porque eu vejo as pessoas falando em utilizar, por exemplo, 225 graus"
+    },
+    {
+      "start": 102.0,
+      "end": 105.7,
+      "text": "Mas se você não souber a vazão que você está imprimindo, o fluxo"
+    },
+    {
+      "start": 105.7,
+      "end": 108.0,
+      "text": "Esses 5 ou 10 graus de diferença"
+    },
+    {
+      "start": 108.0,
+      "end": 109.4,
+      "text": "Não faz sentido nenhum"
+    },
+    {
+      "start": 109.4,
+      "end": 111.9,
+      "text": "E agora eu quero saber a sua opinião"
+    },
+    {
+      "start": 111.9,
+      "end": 113.2,
+      "text": "Deixe aí nos comentários"
+    },
+    {
+      "start": 113.2,
+      "end": 116.3,
+      "text": "E me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 116.5,
+  "model": "large-v3-turbo"
+}

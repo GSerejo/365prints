@@ -1,0 +1,47 @@
+{
+  "text": "Esconda as linhas da superfície de topo com essa nova atualização do Bambu Studio. Bem-vindo ao dia 162. Nessa nova versão você pode reduzir a densidade da superfície superior. E isso cria uma leve textura na peça. Ótimo para esconder as linhas de impressão e dar esse acabamento que nem parece impressão 3D. Mas ainda tem poucos padrões disponíveis. E para aprender a aplicar outros tipos de textura, assista meu vídeo do dia 113. Agora é só me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.3,
+      "text": "Esconda as linhas da superfície de topo com essa nova atualização do Bambu Studio."
+    },
+    {
+      "start": 4.8,
+      "end": 6.7,
+      "text": "Bem-vindo ao dia 162."
+    },
+    {
+      "start": 7.0,
+      "end": 11.4,
+      "text": "Nessa nova versão você pode reduzir a densidade da superfície superior."
+    },
+    {
+      "start": 11.5,
+      "end": 14.0,
+      "text": "E isso cria uma leve textura na peça."
+    },
+    {
+      "start": 14.1,
+      "end": 19.0,
+      "text": "Ótimo para esconder as linhas de impressão e dar esse acabamento que nem parece impressão 3D."
+    },
+    {
+      "start": 19.1,
+      "end": 21.5,
+      "text": "Mas ainda tem poucos padrões disponíveis."
+    },
+    {
+      "start": 21.6,
+      "end": 25.8,
+      "text": "E para aprender a aplicar outros tipos de textura, assista meu vídeo do dia 113."
+    },
+    {
+      "start": 25.8,
+      "end": 28.7,
+      "text": "Agora é só me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 29.1,
+  "model": "large-v3-turbo"
+}

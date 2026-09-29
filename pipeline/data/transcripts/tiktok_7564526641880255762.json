@@ -1,0 +1,102 @@
+{
+  "text": "Problemas na A1. Meu bico quase rasgou a placa de impressão. Bem-vindo ao dia 112. O peso do cabeçote é muito grande e no final da impressão o G-code desliga os motores, o que permite que a gravidade vença o atrito e puxe o eixo Z para baixo. E foi isso que aconteceu comigo. O cabeçote de impressão ficou abaixo do nível da placa no final de uma impressão. E eu não percebi que quando foi iniciar uma nova impressão o bico bateu na placa e perdeu a referência, O que transformou a minha A1 quase numa impressora de corte a laser E pra ser justo, na minha outra A1 esse problema não acontece Mesmo com o peso desse super ventilador que eu tô testando E pra resolver esse problema eu entrei lá no G-code da impressora E no G-code do fim da impressão eu fui lá na última linha e alterei esse parâmetro Tirei o eixo Z Esse M18 é o parâmetro que desliga os motores E o resultado? Agora o motor Z continua energizado, travado no lugar Enquanto os outros eixos permanecem desligados ao fim da impressão E não se esqueça, quando tiver um problema parecido Faça a calibração no menu da impressora E isso solucionou o meu problema Espero que tenham gostado desse vídeo E para ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 4.1,
+      "text": "Problemas na A1. Meu bico quase rasgou a placa de impressão."
+    },
+    {
+      "start": 4.6,
+      "end": 11.0,
+      "text": "Bem-vindo ao dia 112. O peso do cabeçote é muito grande e no final da impressão o G-code desliga os motores,"
+    },
+    {
+      "start": 11.1,
+      "end": 14.9,
+      "text": "o que permite que a gravidade vença o atrito e puxe o eixo Z para baixo."
+    },
+    {
+      "start": 15.2,
+      "end": 20.9,
+      "text": "E foi isso que aconteceu comigo. O cabeçote de impressão ficou abaixo do nível da placa no final de uma impressão."
+    },
+    {
+      "start": 20.9,
+      "end": 26.4,
+      "text": "E eu não percebi que quando foi iniciar uma nova impressão o bico bateu na placa e perdeu a referência,"
+    },
+    {
+      "start": 26.4,
+      "end": 30.0,
+      "text": "O que transformou a minha A1 quase numa impressora de corte a laser"
+    },
+    {
+      "start": 30.0,
+      "end": 33.6,
+      "text": "E pra ser justo, na minha outra A1 esse problema não acontece"
+    },
+    {
+      "start": 33.6,
+      "end": 36.9,
+      "text": "Mesmo com o peso desse super ventilador que eu tô testando"
+    },
+    {
+      "start": 36.9,
+      "end": 40.5,
+      "text": "E pra resolver esse problema eu entrei lá no G-code da impressora"
+    },
+    {
+      "start": 40.5,
+      "end": 44.9,
+      "text": "E no G-code do fim da impressão eu fui lá na última linha e alterei esse parâmetro"
+    },
+    {
+      "start": 44.9,
+      "end": 46.1,
+      "text": "Tirei o eixo Z"
+    },
+    {
+      "start": 46.1,
+      "end": 49.4,
+      "text": "Esse M18 é o parâmetro que desliga os motores"
+    },
+    {
+      "start": 49.4,
+      "end": 54.2,
+      "text": "E o resultado? Agora o motor Z continua energizado, travado no lugar"
+    },
+    {
+      "start": 54.2,
+      "end": 57.7,
+      "text": "Enquanto os outros eixos permanecem desligados ao fim da impressão"
+    },
+    {
+      "start": 57.7,
+      "end": 60.3,
+      "text": "E não se esqueça, quando tiver um problema parecido"
+    },
+    {
+      "start": 60.3,
+      "end": 62.4,
+      "text": "Faça a calibração no menu da impressora"
+    },
+    {
+      "start": 62.4,
+      "end": 64.4,
+      "text": "E isso solucionou o meu problema"
+    },
+    {
+      "start": 64.4,
+      "end": 66.0,
+      "text": "Espero que tenham gostado desse vídeo"
+    },
+    {
+      "start": 66.0,
+      "end": 68.7,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 69.1,
+  "model": "large-v3-turbo"
+}

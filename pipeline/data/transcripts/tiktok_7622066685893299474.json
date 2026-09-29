@@ -1,0 +1,77 @@
+{
+  "text": "Olha o estado dessa peça. Configuração certa, fatiamento sem erro e saiu isso. O culpado? Uma coisa que 90% das pessoas acham que é desperdício. Bem-vindo ao dia 188. Quando a extrusora fica parada, o filamento escorre pelo bico. Esses fios caem em cima da peça e arruinam tudo. A torre de purga resolve exatamente isso e não é só pela troca de cor. Ela estabiliza a pressão no bico e descarta os primeiros resquícios antes de voltar a imprimir na peça. Esse primeiro teste foi com a torre de purga desabilitada O filamento saiu todo grudado na superfície No segundo teste, diminuiu o volume da torre de purga E coloquei para purgar no preenchimento Mas mesmo assim, a economia de 5 gramas não adiantou em nada Porque as imperfeições estavam lá Agora, com a torre de purga no volume padrão O terceiro teste resultou numa superfície perfeita Tem coisa que não dá pra economizar Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.8,
+      "text": "Olha o estado dessa peça. Configuração certa, fatiamento sem erro e saiu isso. O culpado? Uma coisa que 90% das pessoas acham que é desperdício."
+    },
+    {
+      "start": 10.0,
+      "end": 17.6,
+      "text": "Bem-vindo ao dia 188. Quando a extrusora fica parada, o filamento escorre pelo bico. Esses fios caem em cima da peça e arruinam tudo."
+    },
+    {
+      "start": 17.7,
+      "end": 26.1,
+      "text": "A torre de purga resolve exatamente isso e não é só pela troca de cor. Ela estabiliza a pressão no bico e descarta os primeiros resquícios antes de voltar a imprimir na peça."
+    },
+    {
+      "start": 26.1,
+      "end": 28.8,
+      "text": "Esse primeiro teste foi com a torre de purga desabilitada"
+    },
+    {
+      "start": 28.8,
+      "end": 31.1,
+      "text": "O filamento saiu todo grudado na superfície"
+    },
+    {
+      "start": 31.1,
+      "end": 33.6,
+      "text": "No segundo teste, diminuiu o volume da torre de purga"
+    },
+    {
+      "start": 33.6,
+      "end": 35.4,
+      "text": "E coloquei para purgar no preenchimento"
+    },
+    {
+      "start": 35.4,
+      "end": 38.8,
+      "text": "Mas mesmo assim, a economia de 5 gramas não adiantou em nada"
+    },
+    {
+      "start": 38.8,
+      "end": 40.5,
+      "text": "Porque as imperfeições estavam lá"
+    },
+    {
+      "start": 40.5,
+      "end": 42.9,
+      "text": "Agora, com a torre de purga no volume padrão"
+    },
+    {
+      "start": 42.9,
+      "end": 45.4,
+      "text": "O terceiro teste resultou numa superfície perfeita"
+    },
+    {
+      "start": 45.4,
+      "end": 47.3,
+      "text": "Tem coisa que não dá pra economizar"
+    },
+    {
+      "start": 47.3,
+      "end": 48.3,
+      "text": "Gostaram desse vídeo?"
+    },
+    {
+      "start": 48.4,
+      "end": 51.1,
+      "text": "Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 51.5,
+  "model": "large-v3-turbo"
+}

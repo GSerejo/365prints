@@ -1,0 +1,102 @@
+{
+  "text": "Encontrei uma fita de LED que liga em qualquer conector USB, inclusive nos powerbanks. Bem-vindo ao dia 144! Essa fita de LED 5V é uma ótima solução para fazer seu lightbox interno na sua impressora 3D. Chega de esconder aquelas fontes grandes. É só conectar a fita direto no cabo USB e depois utilizar um plug para conectá-lo na tomada. Você pode ligá-la em qualquer USB e até mesmo no powerbank. E pra aprender a fazer esses lightbox é só olhar meu vídeo do dia 134 A instalação é simples, a fita já vem com uma dupla face Então é só colá-la em volta da lightbox Depois é só cortá-la nesses pontos específicos Agora é só conectar a fita no cabo USB E pra isso eu vou utilizar um ferro de solda e um pouco de estanho E eu não tenho muita prática com soldar alguma coisa Mas com um pouquinho de paciência deu certo E esse foi o resultado final E outra vantagem importante é que depois de 8 horas de uso ela não esquentou quase nada E isso protege a minha impressão em PLA E todo o material elétrico que eu utilizei nesse vídeo é lá do Atacadão CV E pra ter conteúdo 3D todos os dias, é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": "Encontrei uma fita de LED que liga em qualquer conector USB, inclusive nos powerbanks."
+    },
+    {
+      "start": 6.6,
+      "end": 8.5,
+      "text": "Bem-vindo ao dia 144!"
+    },
+    {
+      "start": 8.9,
+      "end": 15.0,
+      "text": "Essa fita de LED 5V é uma ótima solução para fazer seu lightbox interno na sua impressora 3D."
+    },
+    {
+      "start": 15.3,
+      "end": 17.3,
+      "text": "Chega de esconder aquelas fontes grandes."
+    },
+    {
+      "start": 17.4,
+      "end": 22.6,
+      "text": "É só conectar a fita direto no cabo USB e depois utilizar um plug para conectá-lo na tomada."
+    },
+    {
+      "start": 22.6,
+      "end": 25.8,
+      "text": "Você pode ligá-la em qualquer USB e até mesmo no powerbank."
+    },
+    {
+      "start": 25.8,
+      "end": 30.2,
+      "text": "E pra aprender a fazer esses lightbox é só olhar meu vídeo do dia 134"
+    },
+    {
+      "start": 30.2,
+      "end": 33.1,
+      "text": "A instalação é simples, a fita já vem com uma dupla face"
+    },
+    {
+      "start": 33.1,
+      "end": 35.6,
+      "text": "Então é só colá-la em volta da lightbox"
+    },
+    {
+      "start": 35.6,
+      "end": 38.3,
+      "text": "Depois é só cortá-la nesses pontos específicos"
+    },
+    {
+      "start": 38.3,
+      "end": 40.8,
+      "text": "Agora é só conectar a fita no cabo USB"
+    },
+    {
+      "start": 40.8,
+      "end": 44.0,
+      "text": "E pra isso eu vou utilizar um ferro de solda e um pouco de estanho"
+    },
+    {
+      "start": 44.0,
+      "end": 46.5,
+      "text": "E eu não tenho muita prática com soldar alguma coisa"
+    },
+    {
+      "start": 46.5,
+      "end": 48.7,
+      "text": "Mas com um pouquinho de paciência deu certo"
+    },
+    {
+      "start": 48.7,
+      "end": 50.0,
+      "text": "E esse foi o resultado final"
+    },
+    {
+      "start": 50.0,
+      "end": 54.7,
+      "text": "E outra vantagem importante é que depois de 8 horas de uso ela não esquentou quase nada"
+    },
+    {
+      "start": 54.7,
+      "end": 57.0,
+      "text": "E isso protege a minha impressão em PLA"
+    },
+    {
+      "start": 57.0,
+      "end": 60.5,
+      "text": "E todo o material elétrico que eu utilizei nesse vídeo é lá do Atacadão CV"
+    },
+    {
+      "start": 60.5,
+      "end": 63.5,
+      "text": "E pra ter conteúdo 3D todos os dias, é só me seguir"
+    }
+  ],
+  "duration": 63.7,
+  "model": "large-v3-turbo"
+}

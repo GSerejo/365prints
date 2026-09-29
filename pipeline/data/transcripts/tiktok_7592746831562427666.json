@@ -1,0 +1,67 @@
+{
+  "text": "Você já pensou em imprimir um filamento com potencial de rebote incrível dentro da sua casa? Isso não é TPU! Bem-vindo ao dia 152 e esse é o PEBA! Mas antes que você solte aquela piadinha, PEBA é o apelido de Polyether Bloco Amida. Ele é um híbrido de alto desempenho que mistura blocos de poliamida, ou seja, o nylon que dá força para não rasgar, com blocos macios de polyether que agem como molas. É literalmente a resistência do plástico com o rebote da borracha. E por esses motivos, esse filamento é utilizado em tênis de corrida de mais de mil dólares. Enquanto que o TPU absorve o impacto, o PEBA devolve a energia. E quem mandou esse material pra eu testar foi a Multifila. E vai estar disponível no Brasil a partir de março com um preço bem competitivo. E se vocês quiserem mais vídeos como esse, é só seguir o meu perfil.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.1,
+      "text": "Você já pensou em imprimir um filamento com potencial de rebote incrível dentro da sua casa?"
+    },
+    {
+      "start": 6.2,
+      "end": 8.2,
+      "text": "Isso não é TPU!"
+    },
+    {
+      "start": 8.8,
+      "end": 12.2,
+      "text": "Bem-vindo ao dia 152 e esse é o PEBA!"
+    },
+    {
+      "start": 12.3,
+      "end": 17.8,
+      "text": "Mas antes que você solte aquela piadinha, PEBA é o apelido de Polyether Bloco Amida."
+    },
+    {
+      "start": 17.9,
+      "end": 24.2,
+      "text": "Ele é um híbrido de alto desempenho que mistura blocos de poliamida, ou seja, o nylon que dá força para não rasgar,"
+    },
+    {
+      "start": 24.2,
+      "end": 27.4,
+      "text": "com blocos macios de polyether que agem como molas."
+    },
+    {
+      "start": 27.4,
+      "end": 31.2,
+      "text": "É literalmente a resistência do plástico com o rebote da borracha."
+    },
+    {
+      "start": 31.4,
+      "end": 36.8,
+      "text": "E por esses motivos, esse filamento é utilizado em tênis de corrida de mais de mil dólares."
+    },
+    {
+      "start": 37.0,
+      "end": 42.9,
+      "text": "Enquanto que o TPU absorve o impacto, o PEBA devolve a energia."
+    },
+    {
+      "start": 43.1,
+      "end": 45.4,
+      "text": "E quem mandou esse material pra eu testar foi a Multifila."
+    },
+    {
+      "start": 46.0,
+      "end": 50.6,
+      "text": "E vai estar disponível no Brasil a partir de março com um preço bem competitivo."
+    },
+    {
+      "start": 52.0,
+      "end": 56.9,
+      "text": "E se vocês quiserem mais vídeos como esse, é só seguir o meu perfil."
+    }
+  ],
+  "duration": 57.1,
+  "model": "large-v3-turbo"
+}

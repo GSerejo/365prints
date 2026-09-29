@@ -1,0 +1,132 @@
+{
+  "text": "Como imprimir 100 suportes na sua Bambu Lab? Bem-vindo ao dia 214! Nós vamos utilizar uma técnica experimental que eu expliquei no dia 213. Vamos precisar baixar um fork do Orc Slicer, o Wave Overhangs. E também o Bambu Connect, que é um software oficial da Bambu. Ele está na versão beta, mas eu utilizei aqui sem problema nenhum. Depois de baixar e instalar ambos, vamos abrir o Wave Overhangs. O Orc Slicer é muito semelhante ao Bambu Studio, então você não terá problemas. E depois de abrir seu projeto, você vai selecionar ou adicionar a sua impressora. Eu vou utilizar a 1 mesmo. E nesse modificador, a gente tem uma aba nova, o Wave Overhangs, que é a técnica que a gente vai utilizar. Vamos ativá-la e aqui podemos selecionar dois algoritmos. Eu testei só o primeiro. E assim como no Bamboo Studio, você pode ativar a visualização avançada para mexer em todos os parâmetros. E depois de configurado, a gente vai fatiar e ao invés de mandar imprimir, a gente vai exportar o G-Code. A extensão é essa mesmo, .gcode.3mf, então é só salvar. Agora vamos utilizar o Bamboo Connect para enviar o arquivo para a impressora. Vamos na aba Print para importar o gcode que a gente exportou. Agora é só clicar em Print, selecionar a impressora e enviar. E como vocês podem ver, meu botão Send está desabilitado porque minha impressora está ocupada. Eu sugiro vocês começarem a testar com geometria simples e ver a diferença com o fatiamento tradicional. E sim, dá pra utilizar essa técnica em outras impressoras, mas o vídeo aqui tem que ser rápido. Agora eu vou testar nesse modelo orgânico aqui. Ele tem ilhas, mas esse é um assunto pra um próximo vídeo. Até lá!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Como imprimir 100 suportes na sua Bambu Lab?"
+    },
+    {
+      "start": 3.2,
+      "end": 5.3,
+      "text": "Bem-vindo ao dia 214!"
+    },
+    {
+      "start": 5.4,
+      "end": 9.7,
+      "text": "Nós vamos utilizar uma técnica experimental que eu expliquei no dia 213."
+    },
+    {
+      "start": 9.8,
+      "end": 13.5,
+      "text": "Vamos precisar baixar um fork do Orc Slicer, o Wave Overhangs."
+    },
+    {
+      "start": 13.5,
+      "end": 16.6,
+      "text": "E também o Bambu Connect, que é um software oficial da Bambu."
+    },
+    {
+      "start": 16.7,
+      "end": 19.9,
+      "text": "Ele está na versão beta, mas eu utilizei aqui sem problema nenhum."
+    },
+    {
+      "start": 19.9,
+      "end": 23.3,
+      "text": "Depois de baixar e instalar ambos, vamos abrir o Wave Overhangs."
+    },
+    {
+      "start": 23.3,
+      "end": 27.2,
+      "text": "O Orc Slicer é muito semelhante ao Bambu Studio, então você não terá problemas."
+    },
+    {
+      "start": 27.2,
+      "end": 30.8,
+      "text": "E depois de abrir seu projeto, você vai selecionar ou adicionar a sua impressora."
+    },
+    {
+      "start": 30.9,
+      "end": 32.3,
+      "text": "Eu vou utilizar a 1 mesmo."
+    },
+    {
+      "start": 32.4,
+      "end": 37.3,
+      "text": "E nesse modificador, a gente tem uma aba nova, o Wave Overhangs, que é a técnica que a gente vai utilizar."
+    },
+    {
+      "start": 37.5,
+      "end": 40.5,
+      "text": "Vamos ativá-la e aqui podemos selecionar dois algoritmos."
+    },
+    {
+      "start": 40.6,
+      "end": 41.9,
+      "text": "Eu testei só o primeiro."
+    },
+    {
+      "start": 42.1,
+      "end": 46.9,
+      "text": "E assim como no Bamboo Studio, você pode ativar a visualização avançada para mexer em todos os parâmetros."
+    },
+    {
+      "start": 47.1,
+      "end": 52.4,
+      "text": "E depois de configurado, a gente vai fatiar e ao invés de mandar imprimir, a gente vai exportar o G-Code."
+    },
+    {
+      "start": 52.4,
+      "end": 57.6,
+      "text": "A extensão é essa mesmo, .gcode.3mf, então é só salvar."
+    },
+    {
+      "start": 57.8,
+      "end": 62.0,
+      "text": "Agora vamos utilizar o Bamboo Connect para enviar o arquivo para a impressora."
+    },
+    {
+      "start": 62.1,
+      "end": 65.3,
+      "text": "Vamos na aba Print para importar o gcode que a gente exportou."
+    },
+    {
+      "start": 66.2,
+      "end": 69.6,
+      "text": "Agora é só clicar em Print, selecionar a impressora e enviar."
+    },
+    {
+      "start": 69.7,
+      "end": 73.9,
+      "text": "E como vocês podem ver, meu botão Send está desabilitado porque minha impressora está ocupada."
+    },
+    {
+      "start": 74.1,
+      "end": 78.7,
+      "text": "Eu sugiro vocês começarem a testar com geometria simples e ver a diferença com o fatiamento tradicional."
+    },
+    {
+      "start": 78.7,
+      "end": 83.3,
+      "text": "E sim, dá pra utilizar essa técnica em outras impressoras, mas o vídeo aqui tem que ser rápido."
+    },
+    {
+      "start": 83.5,
+      "end": 85.7,
+      "text": "Agora eu vou testar nesse modelo orgânico aqui."
+    },
+    {
+      "start": 85.8,
+      "end": 88.4,
+      "text": "Ele tem ilhas, mas esse é um assunto pra um próximo vídeo."
+    },
+    {
+      "start": 88.5,
+      "end": 88.8,
+      "text": "Até lá!"
+    }
+  ],
+  "duration": 89.0,
+  "model": "large-v3-turbo"
+}

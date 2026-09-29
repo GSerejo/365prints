@@ -1,0 +1,367 @@
+{
+  "tiktok_7659893644396121364": {
+    "title": "Transformar uma imagem 2D em peça 3D multipartes",
+    "summary": "Arte feita no Canva (ou gerada por IA) enviada ao gerador de chaveiros do MakerLab, sem o fundo: cada cor vira uma parte. É só salvar em 3MF e abrir no fatiador para montar um letreiro multipartes.",
+    "category": "Personalização no fatiador",
+    "tags": ["MakerLab", "imagem para 3D", "multipartes", "letreiro"],
+    "keywords": ["imagem para 3d", "png para 3d", "canva", "makerlab", "image to keychain", "letreiro personalizado"]
+  },
+  "tiktok_7660627234448887060": {
+    "day": 232,
+    "title": "Aldia: programa grátis entre o modelo 3D e o fatiador",
+    "summary": "Software em beta gratuito (Windows) que recupera malhas, faz moldes, pintura automática, divide peças em multipartes, cria articulados e corta peças grandes. Ele testou a pintura na cabeça do Wolverine e exportou para o fatiador.",
+    "category": "Personalização no fatiador",
+    "tags": ["software", "pintura automática", "multipartes", "gratuito"],
+    "keywords": ["aldia", "reparar malha", "pintura automatica", "dividir modelo", "articulado", "cortar peca grande", "software gratis"]
+  },
+  "tiktok_7660627507250466068": {
+    "title": "Cor cara só na casca, não no miolo (Snapmaker Orca)",
+    "summary": "Ao pintar, o fatiador leva a cor até o preenchimento. No Orca, o parâmetro de largura da pintura na aba multimaterial (1 a 2 mm) deixa a cor só na casca e usa o filamento base no miolo: quase 50% menos preto. Tem mais trocas, e o Bambu Studio não tem essa opção.",
+    "category": "Multicor e purga",
+    "tags": ["pintura de cor", "Snapmaker Orca", "economia de filamento"],
+    "keywords": ["mmu painted depth", "profundidade da pintura", "cor so na casca", "economizar cor", "orca slicer", "preenchimento com outra cor"]
+  },
+  "tiktok_7663072193919847701": {
+    "title": "Action figures com mais qualidade: configurações e orientação",
+    "summary": "Perfis de 0,16, 0,12 ou 0,08, paredes interna/externa/interna com 3 paredes, topo concêntrico e 5% de giroide. O principal é a orientação: unir os olhos à cabeça (com 3% de folga) e virar o cabelo para o suporte ficar escondido, com PETG na interface.",
+    "category": "Acabamento e qualidade",
+    "tags": ["action figure", "orientação da peça", "0.08", "ordem das paredes"],
+    "keywords": ["boneco", "figure", "olhos", "cabelo", "franja", "orientacao", "petg interface", "high quality", "inner outer inner"]
+  },
+  "instagram_Da5YV_QOiwa": { "hidden": true },
+  "instagram_Da7zZc7u72d": { "hidden": true },
+  "tiktok_7664311878117575957": {
+    "title": "Torre de purga menor: só imprimir na troca de cor (Orca)",
+    "summary": "No Orca, uma função da aba multimaterial faz a torre ser impressa só quando há troca de cor, e não em toda camada. Economiza filamento e evita torres gigantes caindo. Está em beta, então cuidado com colisões.",
+    "category": "Multicor e purga",
+    "tags": ["torre de purga", "Orca", "economia", "Snapmaker U1"],
+    "keywords": ["prime tower", "torre de purga menor", "wipe tower", "economizar purga", "torre caindo", "orca slicer"]
+  },
+  "tiktok_7664313439245847829": {
+    "title": "Quando usar a altura de camada variável",
+    "summary": "Numa capa grande de seção quase constante e topo curvo, o modo adaptativo + suave usa 0,08 só no topo: acabamento igual ao de 0,08 na peça toda por 1 hora a mais, em vez de 9. Evite com Silk, que marca as transições.",
+    "category": "Acabamento e qualidade",
+    "tags": ["altura de camada variável", "adaptativa", "degraus"],
+    "keywords": ["variable layer height", "adaptativo", "smooth", "topo curvo", "economizar tempo", "silk marcas"]
+  },
+  "tiktok_7667644113210166549": {
+    "title": "Aplicar um logo colorido na peça (grafite em malha)",
+    "summary": "Com a ferramenta de grafite em malha do MakerLab, envie o 3MF ou STL e uma imagem colorida, remova o fundo, redimensione, posicione e aplique. Depois exporte em 3MF para o fatiador.",
+    "category": "Personalização no fatiador",
+    "tags": ["logo", "MakerLab", "pintura", "imagem colorida"],
+    "keywords": ["mesh graffiti", "grafite em malha", "logo colorido", "aplicar imagem", "decal", "makerlab", "caixa dobravel"]
+  },
+  "tiktok_7667644464940305685": {
+    "day": 238,
+    "title": "Wolverine multicolor pintado só no fatiador",
+    "summary": "Cada detalhe foi pintado no fatiador (horas de trabalho) e impresso na Snapmaker U1 sem purga. As peças saem coloridas, sem tinta nem verniz, e depois é só colar.",
+    "category": "Multicor e purga",
+    "tags": ["pintura de cor", "Snapmaker U1", "action figure", "multicolor"],
+    "keywords": ["wolverine", "x-men", "multicolor", "pintar no fatiador", "sem purga", "sem pintura", "busto"]
+  },
+  "tiktok_7669839864812096789": {
+    "title": "Porta-copo multipartes com preenchimento aparente",
+    "summary": "Dois discos (90 × 5 mm e 85 × 3 mm): o menor vira parte negativa na base para o encaixe. O miolo sem topo nem base mostra o preenchimento Hilbert a 30%, e a compensação de contorno de −0,25 mm dá a folga.",
+    "category": "Personalização no fatiador",
+    "tags": ["porta-copo", "parte negativa", "preenchimento aparente", "encaixe"],
+    "keywords": ["coaster", "porta copo", "hilbert curve", "infill aparente", "disco", "negative part", "compensacao de contorno"]
+  },
+  "tiktok_7670595036630846740": {
+    "title": "Impressão 3D não te deixa rico, sua ideia sim",
+    "summary": "Faturamento não é lucro. Revender arquivo pronto vira guerra de preço (anúncios que não cobrem o custo). Quem lucra cobra 2 a 3 vezes o custo porque cria algo: design próprio, personalização, solução para um problema.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["negócio", "precificação", "vender impressão 3D"],
+    "keywords": ["ganhar dinheiro", "lucro", "faturamento", "vender na shopee", "precificar", "negocio de impressao 3d", "farm"]
+  },
+  "tiktok_7670596603493010708": {
+    "title": "Letreiro personalizado com litofania",
+    "summary": "Um letreiro multipartes com litofania, feito sem software de modelagem e pensado para impressora de uma cor só. É a aula 10 do curso de letreiros (arquivo, impressão e LED).",
+    "category": "Personalização no fatiador",
+    "tags": ["litofania", "letreiro", "LED", "curso"],
+    "keywords": ["lithophane", "litofane", "foto iluminada", "letreiro com foto", "led"]
+  },
+  "tiktok_7673249106671832341": {
+    "title": "Mudar a orientação em vez de diminuir a camada",
+    "summary": "Inclinar a peça mais de 40° levou os degraus para a pontinha do símbolo. Como o contato com a mesa fica pequeno, ele usou suportes manuais. Com a mesma camada de 0,08, a diferença é enorme, custando mais tempo e material.",
+    "category": "Acabamento e qualidade",
+    "tags": ["orientação da peça", "degraus", "suportes manuais"],
+    "keywords": ["inclinar", "orientacao", "degraus", "stair stepping", "0.08", "pintar suporte"]
+  },
+  "tiktok_7673249317620141332": {
+    "title": "Cola que não amarela o PETG (Multbond)",
+    "summary": "Teste da cola instantânea Multbond com acelerador em spray: colagem imediata e o PETG branco sem o amarelado que outros aceleradores deixam.",
+    "category": "Acabamento e qualidade",
+    "tags": ["cola", "PETG", "acelerador"],
+    "keywords": ["super cola", "cianoacrilato", "acelerador", "amarelou", "petg branco", "colar pecas", "multbond", "multfila"]
+  },
+  "tiktok_7675887081708735765": {
+    "day": 244,
+    "title": "Altura de camada explicada: o mesmo dragão em 5 alturas",
+    "summary": "Camadas são como panquecas: 0,20 mm dá 300 camadas e 0,08 dá 748, então demora mais. Em partes retas quase não muda nada, mas nas curvas cada camada vira um degrau, e aí camadas finas valem a pena.",
+    "category": "Acabamento e qualidade",
+    "tags": ["altura de camada", "iniciantes", "degraus"],
+    "keywords": ["layer height", "o que e altura de camada", "0.08", "0.2", "degraus", "curvas", "iniciante"]
+  },
+  "instagram_DcUXpqNPRAm": { "hidden": true },
+  "instagram_DcUsWxdNSZf": { "hidden": true },
+  "instagram_DcU7FjsxsMB": { "hidden": true },
+  "instagram_DcVmQGAxG-S": { "hidden": true },
+  "instagram_DcWzD4kA6zQ": { "hidden": true },
+  "instagram_DcY73s4Re9f": { "hidden": true },
+  "instagram_DccJ1OFJJ_S": {
+    "title": "Letreiros direto no fatiador (bate-papo na Expo3D)",
+    "summary": "Numa conversa gravada na Expo3D, ele explica como cria letreiros personalizados direto no fatiador que você já usa, sem software 3D avançado.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "Expo3D", "sem modelagem"],
+    "keywords": ["expo3d", "letreiro no fatiador", "entrevista", "sem modelar", "letreiro personalizado"]
+  },
+  "instagram_DcemHfgtKaS": {
+    "title": "Primeiras impressões da Anycubic Kobra (4 cores)",
+    "summary": "A primeira Anycubic na bancada dele: 4 cores por R$ 3.269. É só o unboxing e as primeiras impressões, sem review. Os testes vêm depois.",
+    "category": "Impressoras",
+    "tags": ["Anycubic Kobra", "multicolor", "unboxing"],
+    "keywords": ["anycubic", "kobra", "kobra x", "impressora barata", "4 cores", "multicolor barato"]
+  },
+  "tiktok_7678415000586702100": {
+    "title": "Tecido 3D e articulados: 3 ajustes para não soltar",
+    "summary": "Primeira camada a 20 mm/s, velocidades e acelerações pela metade, sem \"reduzir retrações no preenchimento\", Z-hop de 0,5 a 0,6 e distância mínima de deslocamento de 1 mm. Placa PEI lavada (evite placa fria, que agarra demais).",
+    "category": "Problemas e soluções",
+    "tags": ["tecido 3D", "articulado", "Z-hop", "aderência"],
+    "keywords": ["chainmail", "tecido 3d", "fabric", "cota de malha", "print in place", "z hop", "peca soltando", "bico arrastando"]
+  },
+  "tiktok_7678415259115244820": {
+    "day": 246,
+    "title": "Buzz Lightyear de 50 cm sem impressora multicolor",
+    "summary": "Um modelo multipartes do MakerWorld (ID 3067478) escalado para 150%: cada cor impressa separadamente numa impressora de bico único, sem purga e sem pintura. Depois de escalar, confira se cada peça ainda cabe na mesa.",
+    "category": "Multicor e purga",
+    "tags": ["multipartes", "peça grande", "sem AMS", "action figure"],
+    "keywords": ["buzz lightyear", "toy story", "multipartes", "escala 150", "peca grande", "sem purga", "bico unico"]
+  },
+  "instagram_DchIKq0u5e3": {
+    "title": "Economizar filamento dourado: preto no preenchimento e no suporte",
+    "summary": "Num busto em filamento dourado, ele usou preto só no preenchimento e nos suportes para poupar o rolo da cor principal. Boa dica para quando o rolo está acabando.",
+    "category": "Multicor e purga",
+    "tags": ["economia de filamento", "preenchimento", "suporte"],
+    "keywords": ["infill outra cor", "suporte outra cor", "rolo acabando", "economizar filamento caro", "busto", "silk dourado"]
+  },
+  "instagram_Dcjv2nlsWqR": {
+    "title": "Chanfro na base feito no fatiador com um cone",
+    "summary": "O problema era o desenho da peça, não a impressora. Ele fez o chanfro no próprio fatiador: adicionou um cone como peça, virou de cabeça para baixo e afundou na mesa. O que fica acima do zero vira o chanfro, sem CAD.",
+    "category": "Personalização no fatiador",
+    "tags": ["chanfro", "primitivo", "sem CAD"],
+    "keywords": ["chanfro", "chamfer", "cone", "elephant foot", "pe de elefante", "base", "sem modelagem"]
+  },
+  "instagram_DcuDurhtvWy": {
+    "title": "Pikachu contaminado: quanto purgar na troca de cor",
+    "summary": "Em impressora de bico único, cada troca precisa expulsar a cor velha: purga de menos contamina (amarelo sujo de vermelho e preto), purga de mais vai para o lixo. A cartela de calibração mostra o valor exato: 1,15 g e 5 minutos.",
+    "category": "Multicor e purga",
+    "tags": ["purga", "volume de descarga", "contaminação de cor"],
+    "keywords": ["cor misturada", "contaminacao", "flushing volume", "purge calibration", "pikachu", "cor suja"]
+  },
+  "instagram_DcwjYmEtExm": {
+    "title": "9 criadores do MakerWorld para baixar modelos grátis",
+    "summary": "Os perfis do MakerWorld de onde vem a maior parte dos downloads dele: MIX.N.BITS, DANO98, USER_2941904494, THREEEDEE, PB94, MR_BIGSHOT, BUDWIN3D, SMOGGY3D e SAMPAN1120.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["MakerWorld", "modelos grátis", "criadores"],
+    "keywords": ["onde baixar stl", "makerworld", "mix n bits", "modelos gratis", "perfis para seguir", "designers"]
+  },
+  "instagram_DczbWgcutWK": {
+    "title": "Peça iluminada a pilha: sem fio, sem fonte, sem tomada",
+    "summary": "Um projeto iluminado que funciona só com três pilhas, sem fio nem tomada.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["LED", "pilha", "luminária"],
+    "keywords": ["pilha", "sem fio", "led a pilha", "luminaria sem tomada", "letreiro iluminado"]
+  },
+  "instagram_Dc4OtE9ORDN": {
+    "title": "Como usar as conchas de interface",
+    "summary": "Uso das conchas de interface (interface shells) do fatiador, que criam uma camada sólida entre as regiões de materiais ou cores diferentes.",
+    "category": "Multicor e purga",
+    "tags": ["interface shells", "conchas de interface", "multimaterial"],
+    "keywords": ["interface shells", "conchas de interface", "camada solida", "troca de cor", "multimaterial"]
+  },
+  "tiktok_7680663349834681621": {
+    "title": "Plaquinha NFC de avaliação para comércio",
+    "summary": "Grave a URL de avaliação do seu negócio numa tag NFC pelo app NFC Tools (defina uma senha para ninguém sobrescrever). A placa multipartes do MakerWorld tem uma pausa programada para colocar a tag no meio da impressão.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["NFC", "comércio", "avaliação", "pausa"],
+    "keywords": ["nfc", "tag nfc", "avaliacao google", "review", "nfc tools", "placa para loja", "embutir objeto", "pausa"]
+  },
+  "tiktok_7680663531997482260": {
+    "title": "Lacunas em letras pequenas: Arachne e linha de 0,32",
+    "summary": "O preview já mostrava buracos na medalha. O gerador clássico tampa vãos finos com linhas soltas, que falham. Trocar para Arachne e reduzir para 0,32 mm a largura da parede externa e do topo preencheu as letras com bico 0.4.",
+    "category": "Acabamento e qualidade",
+    "tags": ["lacunas", "Arachne", "largura de linha", "detalhes pequenos"],
+    "keywords": ["gap fill", "gap infill", "lacunas", "letras pequenas", "medalha", "line width", "0.32", "preview"]
+  },
+  "instagram_Dc_sLcDMLVH": {
+    "title": "Aplicação de resina na impressão 3D",
+    "summary": "Demonstração da aplicação de resina numa peça impressa para melhorar o acabamento.",
+    "category": "Acabamento e qualidade",
+    "tags": ["resina", "pós-processamento"],
+    "keywords": ["resina epoxi", "acabamento", "brilho", "esconder linhas", "pos processamento"]
+  },
+  "tiktok_7681886825857699092": {
+    "day": 249,
+    "title": "Primeira camada enrugada na A1: reaperte o hotend",
+    "summary": "Com o uso e a vibração, os parafusos do conjunto aquecedor da A1 afrouxam. Ele desmonta a capa, o bico e o aquecedor, reaperta os 4 parafusos (sem exagero), monta tudo de novo e recalibra.",
+    "category": "Problemas e soluções",
+    "tags": ["primeira camada", "Bambu Lab A1", "hotend", "manutenção"],
+    "keywords": ["primeira camada enrugada", "first layer ripples", "parafuso frouxo", "hotend solto", "reapertar", "a1", "calibrar"]
+  },
+  "tiktok_7681886978874543381": {
+    "title": "Letreiro \"PAI\" personalizado para o Dia dos Pais",
+    "summary": "As letras P, A e I recheadas com o que o pai gosta (truco, churrasco, Fórmula 1, futebol), todos ícones em SVG da internet importados no fatiador. O passo a passo está numa aula do curso de letreiros.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "Dia dos Pais", "SVG", "presente"],
+    "keywords": ["dia dos pais", "letreiro pai", "presente", "icones svg", "personalizado", "curso"]
+  },
+  "tiktok_7681887235016330517": {
+    "title": "Chaveiro \"Te amo\" com silhueta de pai e filho",
+    "summary": "Escolha uma silhueta toda conectada, converta em SVG, escreva \"te amo\" com um coração, una com booleana e faça a interseção com a silhueta. Se der erro, corrija a malha antes. Um toroide negativo faz o furo. Use suportes e camada menor.",
+    "category": "Personalização no fatiador",
+    "tags": ["chaveiro", "ambigrama", "Dia dos Pais", "operação booleana"],
+    "keywords": ["dia dos pais", "silhueta", "ambigrama", "intersecao", "corrigir modelo", "chaveiro", "te amo", "pla galaxy"]
+  },
+  "instagram_DdChsGBBA26": {
+    "title": "Como imprimir 5 cores na Snapmaker U1",
+    "summary": "Como passar das 4 extrusoras da Snapmaker U1 e imprimir uma peça de 5 cores.",
+    "category": "Multicor e purga",
+    "tags": ["Snapmaker U1", "5 cores", "multicolor"],
+    "keywords": ["snapmaker u1", "mais de 4 cores", "5 cores", "trocar filamento", "pausa"]
+  },
+  "tiktok_7683627138913783060": {
+    "title": "Suporte com buraco no preview: troque árvore orgânica por híbrida",
+    "summary": "O preview já mostrava suporte impresso no ar. Desligar a altura de camada independente do suporte não resolveu. O bug é do gerador de árvore orgânica, e trocar para árvore híbrida deixou o suporte estável.",
+    "category": "Suportes",
+    "tags": ["suporte árvore", "bug do fatiador", "árvore híbrida"],
+    "keywords": ["organic tree bug", "suporte no ar", "suporte falhando", "tree hybrid", "independent support layer height", "suporte caiu"]
+  },
+  "tiktok_7683627213605866772": {
+    "title": "Suporte árvore forte para peça quase toda aérea",
+    "summary": "Para a asa quase toda no ar, ele usou árvore forte com 4 a 5 camadas de interface, espaçamento de 0,1 mm e distância Z de 0,16 mm (camada de 0,12). O suporte sai numa peça só, puxando para baixo.",
+    "category": "Suportes",
+    "tags": ["suporte árvore", "interface de suporte", "distância Z"],
+    "keywords": ["tree strong", "arvore forte", "peca aerea", "asa", "interface spacing", "top z distance", "pikachu charizard"]
+  },
+  "tiktok_7683627378920164628": {
+    "title": "Empilhar peças: PLA + PETG + PLA numa impressão",
+    "summary": "Como PLA e PETG não grudam, dá para empilhar peças planas intercalando os materiais e aproveitar a altura da mesa. No fatiador é só subir cada peça até encostar na de baixo, e sem AMS basta trocar o filamento na altura certa.",
+    "category": "Multicor e purga",
+    "tags": ["empilhar peças", "PLA", "PETG", "produtividade"],
+    "keywords": ["stack printing", "empilhar", "pla petg nao grudam", "producao", "spinner", "aproveitar altura"]
+  },
+  "instagram_DdFFE42zPax": {
+    "title": "Atualização que reduz marcas no topo de peças com baixo relevo",
+    "summary": "Uma nova atualização do fatiador minimiza as marcas na superfície de topo de peças com baixo relevo.",
+    "category": "Acabamento e qualidade",
+    "tags": ["atualização", "baixo relevo", "camada de topo"],
+    "keywords": ["update", "baixo relevo", "marcas no topo", "emboss", "superficie superior"]
+  },
+  "instagram_DdHtNSEB5DZ": {
+    "title": "Trava de carretel para o AMS Lite",
+    "summary": "Uma trava impressa para prender o carretel no AMS Lite.",
+    "category": "Manutenção e upgrades",
+    "tags": ["AMS Lite", "acessório", "carretel"],
+    "keywords": ["ams lite", "trava", "spool lock", "carretel", "acessorio a1"]
+  },
+  "instagram_DdSFgfVBIxr": {
+    "title": "Encaixes perfeitos com as compensações XY",
+    "summary": "Como usar as compensações de furo e de contorno no plano XY do fatiador para acertar a folga dos encaixes.",
+    "category": "Calibração e configurações",
+    "tags": ["tolerância", "encaixe", "compensação XY"],
+    "keywords": ["xy hole compensation", "xy contour compensation", "folga", "encaixe", "tolerancia", "multipartes"]
+  },
+  "tiktok_7686213701195631893": {
+    "title": "Empilhar PLA e PETG: como fazer no fatiador",
+    "summary": "Duplique o objeto, mude um para PETG, mescle e suba 10 mm. Confira no preview se as camadas da interface estão 100% preenchidas. Se não, use um modificador de faixa de altura com preenchimento 100% nessa região.",
+    "category": "Multicor e purga",
+    "tags": ["empilhar peças", "modificador de faixa de altura", "PETG"],
+    "keywords": ["stack printing", "empilhar", "height range modifier", "interface 100%", "pla petg", "producao"]
+  },
+  "tiktok_7686213904841837845": {
+    "title": "Logo de parede de 1,2 m e gabarito de instalação",
+    "summary": "Converta o logo para SVG, escale para 1,2 m com 5 mm de espessura, crie a régua com diferença booleana, divida com a ferramenta de corte e conectores de cavilha, nomeie as peças e use −0,20 no contorno para a folga. Foram 250 g de PETG.",
+    "category": "Personalização no fatiador",
+    "tags": ["logo", "gabarito", "ferramenta de corte", "operação booleana"],
+    "keywords": ["logo na parede", "letreiro de empresa", "gabarito", "cortar peca grande", "conectores", "dowel", "cavilha", "pdf para svg"]
+  },
+  "tiktok_7686213989453384980": {
+    "title": "Instalar fontes novas no fatiador",
+    "summary": "Baixe a fonte no Google Fonts (licença comercial), extraia o ZIP, instale o .ttf para todos os usuários no Windows e reabra o Bambu Studio ou o Orca. A fonte aparece na ferramenta de texto.",
+    "category": "Personalização no fatiador",
+    "tags": ["fontes", "ferramenta de texto", "Google Fonts"],
+    "keywords": ["instalar fonte", "google fonts", "ttf", "fonte nova", "texto", "letreiro"]
+  },
+  "instagram_DdXOuUoPozc": {
+    "title": "Configurações de suporte preferidas dele",
+    "summary": "As configurações de suporte que ele mais usa no dia a dia.",
+    "category": "Suportes",
+    "tags": ["configurações", "suporte", "interface de suporte"],
+    "keywords": ["configuracao de suporte", "support settings", "distancia z", "interface", "suporte facil de remover"]
+  },
+  "instagram_DdcXn9st894": {
+    "day": 274,
+    "title": "Bico raspando no preenchimento",
+    "summary": "Como resolver o bico que raspa no preenchimento durante a impressão.",
+    "category": "Problemas e soluções",
+    "tags": ["bico raspando", "preenchimento", "Z-hop"],
+    "keywords": ["nozzle scraping", "bico raspando", "infill", "barulho", "z hop", "colisao"]
+  },
+  "tiktok_7688088832381766933": {
+    "title": "Logo em acrílico por R$ 550 vs impresso por R$ 35",
+    "summary": "O mesmo logo impresso em PETG: 250 g e cerca de 10 horas, R$ 23 de filamento e energia e R$ 35 no total, contando hora-máquina, depreciação, 10% de falha e o gabarito. Personalizado não tem concorrente, e quem faz o preço é você.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["precificação", "logo", "PETG", "negócio"],
+    "keywords": ["quanto cobrar", "preco", "custo da impressao", "acrilico", "logo empresa", "hora maquina", "margem de lucro"]
+  },
+  "tiktok_7688089037579488532": {
+    "title": "Estação de energia: dimensionar para suas impressoras",
+    "summary": "Com a estação, a impressora nem percebe a queda de luz. Olhe dois números: potência (W), para saber quantas máquinas liga ao mesmo tempo, e capacidade (Wh), para a autonomia. Duas A1 (~200 W) numa estação de 1.000 Wh aguentam cerca de 5 horas.",
+    "category": "Manutenção e upgrades",
+    "tags": ["queda de energia", "nobreak", "consumo de energia"],
+    "keywords": ["estacao de energia", "power station", "nobreak", "ups", "autonomia", "watts", "wh", "falta de luz", "bluetti"]
+  },
+  "tiktok_7688089247718411540": {
+    "title": "Blobs na parede da série H2: desligue o Arc Fitting",
+    "summary": "Não eram costura nem retração: o bico dava pausas e despejava material. O arc fitting do fatiador brigava com o Curve Planning do firmware. Desligar o ajuste de arco resolveu. Só faça isso em impressoras com Curve Planning (H2, P2, X2).",
+    "category": "Problemas e soluções",
+    "tags": ["blobs", "arc fitting", "Bambu Lab H2", "parede externa"],
+    "keywords": ["blobs", "zits", "arc fitting", "ajuste de arco", "curve planning", "h2s", "h2c", "p2s", "charmander"]
+  },
+  "instagram_DdkB9V1pl_R": {
+    "title": "PETG na interface do suporte: quando vira problema",
+    "summary": "Usar PETG na interface do suporte de peças em PLA pode dar errado se não estiver bem configurado.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "PETG", "PLA"],
+    "keywords": ["support interface petg", "petg no pla", "suporte", "configuracao", "multimaterial"]
+  },
+  "instagram_Ddmzd82O5nx": {
+    "title": "Troféus 3D com IA e o fatiador, sem modelar",
+    "summary": "Como criar troféus usando inteligência artificial e o fatiador, sem modelar nada.",
+    "category": "Personalização no fatiador",
+    "tags": ["troféu", "inteligência artificial", "sem modelagem"],
+    "keywords": ["trofeu", "ia", "ai", "image to 3d", "premio", "sem modelar"]
+  },
+  "instagram_DdpQgb_Bl4L": {
+    "day": 277,
+    "title": "Peças arrancadas da mesa? Aumente o Z-hop",
+    "summary": "Os mini Jesus impressos de ponta-cabeça na Kobra X eram arrancados, mesmo com placa lavada, cola e suporte extra. O que resolveu foi aumentar o Z-hop de 0,4 para 0,8 mm: com camada de 0,08 e várias peças na mesa, o bico parou de esbarrar.",
+    "category": "Problemas e soluções",
+    "tags": ["Z-hop", "peça soltou", "Anycubic Kobra X"],
+    "keywords": ["z hop", "peca arrancada", "bico batendo na peca", "descolou", "kobra x", "anycubic", "varias pecas na mesa"]
+  },
+  "instagram_DdrfKXyNnrG": {
+    "title": "Mini Jesus impresso na Anycubic Kobra X",
+    "summary": "Impressão de uma miniatura de Jesus na Anycubic Kobra X.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["miniatura", "Anycubic Kobra X", "religioso"],
+    "keywords": ["mini jesus", "miniatura", "kobra x", "anycubic", "decoracao religiosa"]
+  },
+  "instagram_DduUbxVhdiG": {
+    "title": "Letreiro de Natal",
+    "summary": "Um letreiro decorativo de Natal impresso em 3D.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "Natal", "decoração"],
+    "keywords": ["natal", "letreiro natalino", "decoracao de natal", "enfeite"]
+  }
+}

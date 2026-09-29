@@ -1,0 +1,67 @@
+{
+  "text": "Minha Bambu Lab A1 imprimiu por 10 horas fora da rede elétrica. Bem-vindo ao dia 205. Sempre tive problemas com queda de energia na minha região. Então fiz um experimento. Testei minha A1 na estação de energia portátil da Blueti. Comecei uma impressão que duraria mais de 13 horas e logo na fase de aquecimento tirei o Blueti da tomada. Essa estação tem 1024 Wh de capacidade. 10 horas depois a estação estava com 1% de energia Faltavam ainda 3 horas, mas a impressão rolou por 10 horas apenas na bateria Isso resolve o problema de interrupções por queda de energia Funcionando como um no-break poderoso E ainda é portátil, dá pra levar pra qualquer lugar E se você quiser saber mais sobre essa estação É só digitar eu quero nos comentários",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "Minha Bambu Lab A1 imprimiu por 10 horas fora da rede elétrica."
+    },
+    {
+      "start": 4.4,
+      "end": 9.5,
+      "text": "Bem-vindo ao dia 205. Sempre tive problemas com queda de energia na minha região."
+    },
+    {
+      "start": 9.7,
+      "end": 14.2,
+      "text": "Então fiz um experimento. Testei minha A1 na estação de energia portátil da Blueti."
+    },
+    {
+      "start": 14.3,
+      "end": 19.6,
+      "text": "Comecei uma impressão que duraria mais de 13 horas e logo na fase de aquecimento tirei o Blueti da tomada."
+    },
+    {
+      "start": 21.0,
+      "end": 24.2,
+      "text": "Essa estação tem 1024 Wh de capacidade."
+    },
+    {
+      "start": 24.2,
+      "end": 27.4,
+      "text": "10 horas depois a estação estava com 1% de energia"
+    },
+    {
+      "start": 27.4,
+      "end": 32.5,
+      "text": "Faltavam ainda 3 horas, mas a impressão rolou por 10 horas apenas na bateria"
+    },
+    {
+      "start": 32.5,
+      "end": 35.6,
+      "text": "Isso resolve o problema de interrupções por queda de energia"
+    },
+    {
+      "start": 35.6,
+      "end": 37.9,
+      "text": "Funcionando como um no-break poderoso"
+    },
+    {
+      "start": 37.9,
+      "end": 40.8,
+      "text": "E ainda é portátil, dá pra levar pra qualquer lugar"
+    },
+    {
+      "start": 40.8,
+      "end": 43.2,
+      "text": "E se você quiser saber mais sobre essa estação"
+    },
+    {
+      "start": 43.2,
+      "end": 45.0,
+      "text": "É só digitar eu quero nos comentários"
+    }
+  ],
+  "duration": 45.4,
+  "model": "large-v3-turbo"
+}

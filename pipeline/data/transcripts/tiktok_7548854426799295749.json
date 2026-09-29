@@ -1,0 +1,162 @@
+{
+  "text": "Dá pra imprimir material flexível numa impressora aberta? Bem-vindo ao dia 86, e é claro que dá! Essa capinha aí, por exemplo, eu imprimi na minha Bambu Lab A1. E ao contrário do que muitos pensam, você não precisa de uma impressora fechada pra imprimir o TPU. E aqui vão algumas dicas pra te ajudar. O TPU não combina com a AMS, você vai precisar do seu suporte pra expul externo. E evite colocá-lo no tubo PTFE, ele é um material extremamente flexível e pode agarrar no tubo e forçar a extrusora. Coloque ele direto no cabeçote de impressão. Assim o movimento fica mais fluido e evita que a sua extrusora patine. O TPU absorve mais umidade que o PLA, então é importante você guardá-lo em um lugar fechado com sílica. Eu até tentei utilizar esse suporte aí pra evitar ele pegar umidade durante a impressão. Só que eu não recomendo, porque eu tive problema com substrusão, porque o caminho dificultou a puxada da extrusora. E pra mim funcionou bem direto no spool externo. E se você tiver problemas com umidade na sua região ou qualquer outro tipo, o Wiki da Bamboo tem um manual completo de como usar o TPU. E sobre a qualidade, essa capinha aí tá bem feia, né? Essa já tá muito melhor, e a única coisa que eu mudei foi diminuir a velocidade de impressão. E a melhor forma de fazer isso é limitando na máxima vazão volumétrica lá no perfil do filamento. E eu tive bons resultados com 4mm³ por segundo Lembrando que isso muda de TPU para TPU E o que eu estou usando nesse momento é o 95HF da Bambulab Esse já é mais flexível, é o TPU 90A da Bambulab Que funcionou bem com uma vazão volumétrica máxima de 2mm³ por segundo E não se espante com fiapinhos com TPU tão flexível É só utilizar um soprador E antes de finalizar é bom destacar que existe um TPU para MS Só que eu achei ele muito rígido E ainda não encontrei utilidade para ele Espero que essas dicas tenham ajudado. E para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.8,
+      "text": "Dá pra imprimir material flexível numa impressora aberta?"
+    },
+    {
+      "start": 4.1,
+      "end": 7.2,
+      "text": "Bem-vindo ao dia 86, e é claro que dá!"
+    },
+    {
+      "start": 7.4,
+      "end": 10.8,
+      "text": "Essa capinha aí, por exemplo, eu imprimi na minha Bambu Lab A1."
+    },
+    {
+      "start": 11.0,
+      "end": 16.1,
+      "text": "E ao contrário do que muitos pensam, você não precisa de uma impressora fechada pra imprimir o TPU."
+    },
+    {
+      "start": 16.3,
+      "end": 18.5,
+      "text": "E aqui vão algumas dicas pra te ajudar."
+    },
+    {
+      "start": 18.7,
+      "end": 23.7,
+      "text": "O TPU não combina com a AMS, você vai precisar do seu suporte pra expul externo."
+    },
+    {
+      "start": 23.7,
+      "end": 31.2,
+      "text": "E evite colocá-lo no tubo PTFE, ele é um material extremamente flexível e pode agarrar no tubo e forçar a extrusora."
+    },
+    {
+      "start": 31.4,
+      "end": 34.4,
+      "text": "Coloque ele direto no cabeçote de impressão."
+    },
+    {
+      "start": 35.1,
+      "end": 38.8,
+      "text": "Assim o movimento fica mais fluido e evita que a sua extrusora patine."
+    },
+    {
+      "start": 38.9,
+      "end": 44.2,
+      "text": "O TPU absorve mais umidade que o PLA, então é importante você guardá-lo em um lugar fechado com sílica."
+    },
+    {
+      "start": 44.7,
+      "end": 48.9,
+      "text": "Eu até tentei utilizar esse suporte aí pra evitar ele pegar umidade durante a impressão."
+    },
+    {
+      "start": 48.9,
+      "end": 51.8,
+      "text": "Só que eu não recomendo, porque eu tive problema com substrusão,"
+    },
+    {
+      "start": 51.9,
+      "end": 54.5,
+      "text": "porque o caminho dificultou a puxada da extrusora."
+    },
+    {
+      "start": 54.7,
+      "end": 57.0,
+      "text": "E pra mim funcionou bem direto no spool externo."
+    },
+    {
+      "start": 57.0,
+      "end": 60.6,
+      "text": "E se você tiver problemas com umidade na sua região ou qualquer outro tipo,"
+    },
+    {
+      "start": 60.7,
+      "end": 63.5,
+      "text": "o Wiki da Bamboo tem um manual completo de como usar o TPU."
+    },
+    {
+      "start": 63.9,
+      "end": 67.1,
+      "text": "E sobre a qualidade, essa capinha aí tá bem feia, né?"
+    },
+    {
+      "start": 67.4,
+      "end": 72.1,
+      "text": "Essa já tá muito melhor, e a única coisa que eu mudei foi diminuir a velocidade de impressão."
+    },
+    {
+      "start": 72.1,
+      "end": 77.4,
+      "text": "E a melhor forma de fazer isso é limitando na máxima vazão volumétrica lá no perfil do filamento."
+    },
+    {
+      "start": 77.4,
+      "end": 81.2,
+      "text": "E eu tive bons resultados com 4mm³ por segundo"
+    },
+    {
+      "start": 81.2,
+      "end": 83.6,
+      "text": "Lembrando que isso muda de TPU para TPU"
+    },
+    {
+      "start": 83.6,
+      "end": 86.9,
+      "text": "E o que eu estou usando nesse momento é o 95HF da Bambulab"
+    },
+    {
+      "start": 86.9,
+      "end": 90.7,
+      "text": "Esse já é mais flexível, é o TPU 90A da Bambulab"
+    },
+    {
+      "start": 90.7,
+      "end": 94.6,
+      "text": "Que funcionou bem com uma vazão volumétrica máxima de 2mm³ por segundo"
+    },
+    {
+      "start": 94.6,
+      "end": 97.7,
+      "text": "E não se espante com fiapinhos com TPU tão flexível"
+    },
+    {
+      "start": 97.7,
+      "end": 99.6,
+      "text": "É só utilizar um soprador"
+    },
+    {
+      "start": 99.6,
+      "end": 103.0,
+      "text": "E antes de finalizar é bom destacar que existe um TPU para MS"
+    },
+    {
+      "start": 103.0,
+      "end": 104.6,
+      "text": "Só que eu achei ele muito rígido"
+    },
+    {
+      "start": 104.6,
+      "end": 106.9,
+      "text": "E ainda não encontrei utilidade para ele"
+    },
+    {
+      "start": 106.9,
+      "end": 108.9,
+      "text": "Espero que essas dicas tenham ajudado."
+    },
+    {
+      "start": 109.0,
+      "end": 111.6,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 112.2,
+  "model": "large-v3-turbo"
+}

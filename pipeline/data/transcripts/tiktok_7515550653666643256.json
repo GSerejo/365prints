@@ -1,0 +1,22 @@
+{
+  "text": "Dia 21 de 365 impressões 3D aqui em casa. Hoje foi o dia de a gente imprimir uma barraca, mas não é uma barraca qualquer não, é uma luminária. Para montar essa luminária eu utilizei uma lâmpada LED, a pilha que eu encontrei no Mercado Livre. As hastes da barraca eu utilizei o próprio filamento que eu utilizei para imprimir. Depois é só encaixar o LED na luminária e ligar. E olha aí ela pronta.",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 16.5,
+      "text": "Dia 21 de 365 impressões 3D aqui em casa. Hoje foi o dia de a gente imprimir uma barraca, mas não é uma barraca qualquer não, é uma luminária."
+    },
+    {
+      "start": 16.9,
+      "end": 34.4,
+      "text": "Para montar essa luminária eu utilizei uma lâmpada LED, a pilha que eu encontrei no Mercado Livre. As hastes da barraca eu utilizei o próprio filamento que eu utilizei para imprimir."
+    },
+    {
+      "start": 34.4,
+      "end": 40.7,
+      "text": "Depois é só encaixar o LED na luminária e ligar. E olha aí ela pronta."
+    }
+  ],
+  "duration": 43.5,
+  "model": "large-v3-turbo"
+}

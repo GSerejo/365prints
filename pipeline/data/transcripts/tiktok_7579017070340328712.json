@@ -1,0 +1,87 @@
+{
+  "text": "Como fazer uma Lightbox personalizada sem nenhum conhecimento em modelagem? Bem-vindo ao dia C34! Primeiro vamos acessar o site do MakerWorld e depois a ferramenta do MakerLab. Agora é só utilizar o criador de Lightbox. Vamos iniciar um novo projeto e depois é só fazer o upload da sua imagem. Esse processo é bem intuitivo e quando estiver tudo pronto é só dar o Next. Dentro dessa página a gente tem um preview que conseguimos ver o Lightbox pronto. Veja que a parte central do logo está aérea, então vamos ter que pôr um fundo Voltamos a aba Design e vamos inserir um círculo preto Agora no botão Layers a gente vai colocar esse círculo preto para o fundo Então vamos fazer o buraco para passar os cabos do LED E você pode ficar alternando entre a aba Design e Preview para dar uma olhada nas suas alterações Como ela é redonda a gente precisa colocar uma base e para isso a gente usa uma ferramenta lá na aba da direita Prontinho, com o Lightbox pronto, agora é só exportar Lembrando que você não precisa ter uma bambular para utilizar essa ferramenta do Maker Lab. Para iluminação eu utilizei essa plaquinha de LED e o link está lá na bio. Mas você também pode utilizar uma fita de LED em volta da Lightbox. Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 7.8,
+      "text": "Como fazer uma Lightbox personalizada sem nenhum conhecimento em modelagem? Bem-vindo ao dia C34!"
+    },
+    {
+      "start": 8.1,
+      "end": 15.7,
+      "text": "Primeiro vamos acessar o site do MakerWorld e depois a ferramenta do MakerLab. Agora é só utilizar o criador de Lightbox."
+    },
+    {
+      "start": 15.8,
+      "end": 19.5,
+      "text": "Vamos iniciar um novo projeto e depois é só fazer o upload da sua imagem."
+    },
+    {
+      "start": 19.8,
+      "end": 23.3,
+      "text": "Esse processo é bem intuitivo e quando estiver tudo pronto é só dar o Next."
+    },
+    {
+      "start": 23.3,
+      "end": 27.1,
+      "text": "Dentro dessa página a gente tem um preview que conseguimos ver o Lightbox pronto."
+    },
+    {
+      "start": 27.1,
+      "end": 30.2,
+      "text": "Veja que a parte central do logo está aérea, então vamos ter que pôr um fundo"
+    },
+    {
+      "start": 30.2,
+      "end": 33.8,
+      "text": "Voltamos a aba Design e vamos inserir um círculo preto"
+    },
+    {
+      "start": 33.8,
+      "end": 37.4,
+      "text": "Agora no botão Layers a gente vai colocar esse círculo preto para o fundo"
+    },
+    {
+      "start": 37.4,
+      "end": 40.2,
+      "text": "Então vamos fazer o buraco para passar os cabos do LED"
+    },
+    {
+      "start": 40.2,
+      "end": 44.7,
+      "text": "E você pode ficar alternando entre a aba Design e Preview para dar uma olhada nas suas alterações"
+    },
+    {
+      "start": 44.7,
+      "end": 50.2,
+      "text": "Como ela é redonda a gente precisa colocar uma base e para isso a gente usa uma ferramenta lá na aba da direita"
+    },
+    {
+      "start": 50.2,
+      "end": 53.4,
+      "text": "Prontinho, com o Lightbox pronto, agora é só exportar"
+    },
+    {
+      "start": 53.4,
+      "end": 58.2,
+      "text": "Lembrando que você não precisa ter uma bambular para utilizar essa ferramenta do Maker Lab."
+    },
+    {
+      "start": 58.7,
+      "end": 61.9,
+      "text": "Para iluminação eu utilizei essa plaquinha de LED e o link está lá na bio."
+    },
+    {
+      "start": 62.1,
+      "end": 65.3,
+      "text": "Mas você também pode utilizar uma fita de LED em volta da Lightbox."
+    },
+    {
+      "start": 65.6,
+      "end": 69.4,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 70.1,
+  "model": "large-v3-turbo"
+}

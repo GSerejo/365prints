@@ -1,0 +1,32 @@
+{
+  "text": "Estava cansado da fragilidade dessas capinhas de vidro. Bora resolver isso. Dia 8 de 365 impressões 3D aqui em casa. Lá no site da Bambu Lab, encontrei capinhas para todos os modelos de iPhone. E aí, é só imprimir. Essa impressão durou apenas 40 minutos e foi só 15 gramas de PLA. Então, vai ficar fácil eu trocar as capinhas agora. É claro, aproveitei para imprimir outra para a Mônica. Problema resolvido.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.2,
+      "text": "Estava cansado da fragilidade dessas capinhas de vidro. Bora resolver isso. Dia 8 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 11.3,
+      "end": 18.0,
+      "text": "Lá no site da Bambu Lab, encontrei capinhas para todos os modelos de iPhone. E aí, é só imprimir."
+    },
+    {
+      "start": 23.7,
+      "end": 33.3,
+      "text": "Essa impressão durou apenas 40 minutos e foi só 15 gramas de PLA. Então, vai ficar fácil eu trocar as capinhas agora."
+    },
+    {
+      "start": 33.3,
+      "end": 36.5,
+      "text": "É claro, aproveitei para imprimir outra para a Mônica."
+    },
+    {
+      "start": 38.2,
+      "end": 39.6,
+      "text": "Problema resolvido."
+    }
+  ],
+  "duration": 41.4,
+  "model": "large-v3-turbo"
+}

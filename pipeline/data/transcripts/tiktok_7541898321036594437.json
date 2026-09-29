@@ -1,0 +1,37 @@
+{
+  "text": "Eu imprimi esse suporte de celular. Bem-vindo ao dia 72. E hoje foi dia de imprimir esse modelo multi-parts do Pokémon Gengar. Esse modelinho você encontra lá no site da Bambu Lab. E a impressão dele é bem simples, sem suporte nenhum. Como a superfície de topo é esférica, lembre-se de utilizar a altura de camada variável que aprendemos lá no dia 54. E se você não tiver AMS pra imprimir o olho, é só pintar com canetinha. O roxo é um PLA lá da 3D Brothers. E as outras cores é a linha fosca da Bambulab. E para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.5,
+      "text": "Eu imprimi esse suporte de celular. Bem-vindo ao dia 72. E hoje foi dia de imprimir esse modelo multi-parts do Pokémon Gengar."
+    },
+    {
+      "start": 19.8,
+      "end": 25.9,
+      "text": "Esse modelinho você encontra lá no site da Bambu Lab. E a impressão dele é bem simples, sem suporte nenhum."
+    },
+    {
+      "start": 26.1,
+      "end": 32.6,
+      "text": "Como a superfície de topo é esférica, lembre-se de utilizar a altura de camada variável que aprendemos lá no dia 54."
+    },
+    {
+      "start": 32.6,
+      "end": 38.9,
+      "text": "E se você não tiver AMS pra imprimir o olho, é só pintar com canetinha. O roxo é um PLA lá da 3D Brothers."
+    },
+    {
+      "start": 38.9,
+      "end": 41.7,
+      "text": "E as outras cores é a linha fosca da Bambulab."
+    },
+    {
+      "start": 44.4,
+      "end": 47.4,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 47.8,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,72 @@
+{
+  "text": "Como fazer qualquer camisa multiparte sem nenhum conhecimento em modelagem? Bem-vindo ao dia 174. Abra o chat e utilize esse prompt aqui. E depois é só ajustar pra você chegar no resultado que você quer. Agora lá no MakerWorld vamos utilizar a função chaveiro dentro do MakerLab. Crie um projeto novo e upe a imagem que você criou. Eu não quero a sombra nem o contorno preto e eu vou trocar tudo pra amarelo. Cada cor virou uma parte e agora é só fazer o download em 3MF. No fatiador, botão direito e dividir por objetos. Agora é só separar as cores e virar os objetos para utilizar o acabamento da mesa. Facilita muito se você mesclar os objetos da mesma cor. E antes de imprimir, ajuste a compensação XY das peças azuis e verdes para criar uma tolerância e facilitar o encaixe. Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "text": "Como fazer qualquer camisa multiparte sem nenhum conhecimento em modelagem?"
+    },
+    {
+      "start": 7.9,
+      "end": 10.1,
+      "text": "Bem-vindo ao dia 174."
+    },
+    {
+      "start": 10.3,
+      "end": 12.5,
+      "text": "Abra o chat e utilize esse prompt aqui."
+    },
+    {
+      "start": 12.8,
+      "end": 16.0,
+      "text": "E depois é só ajustar pra você chegar no resultado que você quer."
+    },
+    {
+      "start": 16.1,
+      "end": 20.7,
+      "text": "Agora lá no MakerWorld vamos utilizar a função chaveiro dentro do MakerLab."
+    },
+    {
+      "start": 20.9,
+      "end": 23.3,
+      "text": "Crie um projeto novo e upe a imagem que você criou."
+    },
+    {
+      "start": 23.4,
+      "end": 26.4,
+      "text": "Eu não quero a sombra nem o contorno preto e eu vou trocar tudo pra amarelo."
+    },
+    {
+      "start": 26.4,
+      "end": 29.8,
+      "text": "Cada cor virou uma parte e agora é só fazer o download em 3MF."
+    },
+    {
+      "start": 29.8,
+      "end": 32.6,
+      "text": "No fatiador, botão direito e dividir por objetos."
+    },
+    {
+      "start": 32.9,
+      "end": 37.4,
+      "text": "Agora é só separar as cores e virar os objetos para utilizar o acabamento da mesa."
+    },
+    {
+      "start": 37.5,
+      "end": 40.2,
+      "text": "Facilita muito se você mesclar os objetos da mesma cor."
+    },
+    {
+      "start": 40.4,
+      "end": 47.0,
+      "text": "E antes de imprimir, ajuste a compensação XY das peças azuis e verdes para criar uma tolerância e facilitar o encaixe."
+    },
+    {
+      "start": 47.3,
+      "end": 50.8,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 51.1,
+  "model": "large-v3-turbo"
+}

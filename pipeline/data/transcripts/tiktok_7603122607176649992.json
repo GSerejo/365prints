@@ -1,0 +1,42 @@
+{
+  "text": "Snapmaker U1 vs Bambu Lab H2S. Bem-vindo ao dia 165, eu fiz essa comparação porque as duas estarão na mesma faixa de preço. O tempo de impressão foi 28 horas e 48 minutos pra H2S, enquanto que na Snapmaker demorou 13 horas e 30 minutos, duas horas a mais que mostrava o fatiador. Não ligue muito pra esse risquinho porque eu tive que pausar a impressão devido ao acúmulo de purga na calha. Foram 5 cores e a qualidade das duas está bem parecida Em ambas eu não otimizei nada e utilizei o perfil padrão de 0,16 high quality A diferença na purga é gigantesca e a torre de purga da Snap é um pouquinho maior Gostaram dessa comparação? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.2,
+      "text": "Snapmaker U1 vs Bambu Lab H2S. Bem-vindo ao dia 165, eu fiz essa comparação porque as duas estarão na mesma faixa de preço."
+    },
+    {
+      "start": 9.3,
+      "end": 19.0,
+      "text": "O tempo de impressão foi 28 horas e 48 minutos pra H2S, enquanto que na Snapmaker demorou 13 horas e 30 minutos, duas horas a mais que mostrava o fatiador."
+    },
+    {
+      "start": 19.1,
+      "end": 23.6,
+      "text": "Não ligue muito pra esse risquinho porque eu tive que pausar a impressão devido ao acúmulo de purga na calha."
+    },
+    {
+      "start": 23.6,
+      "end": 27.1,
+      "text": "Foram 5 cores e a qualidade das duas está bem parecida"
+    },
+    {
+      "start": 27.1,
+      "end": 31.9,
+      "text": "Em ambas eu não otimizei nada e utilizei o perfil padrão de 0,16 high quality"
+    },
+    {
+      "start": 31.9,
+      "end": 36.6,
+      "text": "A diferença na purga é gigantesca e a torre de purga da Snap é um pouquinho maior"
+    },
+    {
+      "start": 36.6,
+      "end": 40.7,
+      "text": "Gostaram dessa comparação? Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 40.8,
+  "model": "large-v3-turbo"
+}

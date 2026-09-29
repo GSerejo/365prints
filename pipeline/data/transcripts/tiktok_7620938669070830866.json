@@ -1,0 +1,232 @@
+{
+  "text": "Como eu faço esses displays personalizados, multipartes, de forma simples e rápida? Bem-vindo ao dia 186. A primeira coisa que eu faço é definir o modelo e eu utilizo o Canva mesmo. Utilizo o modelo pronto e edito e depois é só exportar em PNG. Então lá no MakerWorld, na aba MakerLab, eu utilizo a função de imagem para chaveiro. Agora é só criar um projeto novo e importar o PNG que a gente acabou de criar no Canva. O processo é bem intuitivo e a única alteração que eu fiz aqui foi alterar as cores para utilizar apenas duas. E a função de tudo isso é transformar aquele PNG em um arquivo 3MF em que as cores ficam divididas em objetos. E pra isso dar certo, não se esqueçam de salvar em 3MF. Agora é só abrir o arquivo no seu fatiador. E a placa ainda tava pequena e eu resolvi aumentar com a função escala em 130%. E na aba objetos a gente percebe que tem um monte de objetos, cada um representando uma parte da placa. Só pra você ter uma noção, o fundo da placa estava em branco. Eu selecionei o objeto respectivo do fundo e alterei a cor pra verde. Agora com o shift eu selecionei tudo que estava em branco e fiz uma subdivisão Agora temos duas mesclagens, o corpo submerso são as letras e o restante é a placa Então agora é só separar E para facilitar vamos utilizar o acabamento da mesa Eu virei a placa para a mesa e as letras também Agora vamos criar uma tolerância para encaixar as letras na placa Com a subfusão das letras que fizemos vamos na aba qualidade Vamos alterar a compensação de contorno e a compensação de furo E uma explicação detalhada de como fazer esses encaixes perfeitos está disponível no meu curso de letreiros no link Da bio, voltamos ao nosso projeto Agora vamos medir a plaquinha pra fazer a base É 130mm em X e 2,6mm em Z Agora botão direito Vamos adicionar um primitivo que é um cubo E vamos transformar num retângulo com essas dimensões Agora precisamos fazer o encaixe novamente Com outro retângulo Eu utilizei essas dimensões aqui Basicamente são as dimensões da base da placa com uma tolerância O retângulo menor é o encaixe Eu centralizei ele, mesclei os dois objetos E subi o retângulo menor em 1mm Agora com o botão direito no retângulo menor Vamos transformá-lo em parte negativa Prontinho, a base tá pronta E antes que eu esqueça, eu selecionei as letras E aumentei em Z em 3mm Pra ficar um alto relevo na placa Agora é só imprimir tudo e montar Não se esqueça de dar um like nesse vídeo e me seguir Pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": "Como eu faço esses displays personalizados, multipartes, de forma simples e rápida?"
+    },
+    {
+      "start": 6.6,
+      "end": 8.9,
+      "text": "Bem-vindo ao dia 186."
+    },
+    {
+      "start": 9.1,
+      "end": 12.2,
+      "text": "A primeira coisa que eu faço é definir o modelo e eu utilizo o Canva mesmo."
+    },
+    {
+      "start": 12.3,
+      "end": 15.4,
+      "text": "Utilizo o modelo pronto e edito e depois é só exportar em PNG."
+    },
+    {
+      "start": 15.6,
+      "end": 20.1,
+      "text": "Então lá no MakerWorld, na aba MakerLab, eu utilizo a função de imagem para chaveiro."
+    },
+    {
+      "start": 20.2,
+      "end": 24.2,
+      "text": "Agora é só criar um projeto novo e importar o PNG que a gente acabou de criar no Canva."
+    },
+    {
+      "start": 24.2,
+      "end": 29.3,
+      "text": "O processo é bem intuitivo e a única alteração que eu fiz aqui foi alterar as cores para utilizar apenas duas."
+    },
+    {
+      "start": 29.3,
+      "end": 35.5,
+      "text": "E a função de tudo isso é transformar aquele PNG em um arquivo 3MF em que as cores ficam divididas em objetos."
+    },
+    {
+      "start": 35.6,
+      "end": 39.3,
+      "text": "E pra isso dar certo, não se esqueçam de salvar em 3MF."
+    },
+    {
+      "start": 39.4,
+      "end": 41.7,
+      "text": "Agora é só abrir o arquivo no seu fatiador."
+    },
+    {
+      "start": 41.8,
+      "end": 45.3,
+      "text": "E a placa ainda tava pequena e eu resolvi aumentar com a função escala em 130%."
+    },
+    {
+      "start": 45.9,
+      "end": 50.5,
+      "text": "E na aba objetos a gente percebe que tem um monte de objetos, cada um representando uma parte da placa."
+    },
+    {
+      "start": 50.6,
+      "end": 52.9,
+      "text": "Só pra você ter uma noção, o fundo da placa estava em branco."
+    },
+    {
+      "start": 52.9,
+      "end": 56.4,
+      "text": "Eu selecionei o objeto respectivo do fundo e alterei a cor pra verde."
+    },
+    {
+      "start": 56.4,
+      "end": 60.6,
+      "text": "Agora com o shift eu selecionei tudo que estava em branco e fiz uma subdivisão"
+    },
+    {
+      "start": 60.6,
+      "end": 64.6,
+      "text": "Agora temos duas mesclagens, o corpo submerso são as letras e o restante é a placa"
+    },
+    {
+      "start": 64.6,
+      "end": 66.2,
+      "text": "Então agora é só separar"
+    },
+    {
+      "start": 66.2,
+      "end": 68.7,
+      "text": "E para facilitar vamos utilizar o acabamento da mesa"
+    },
+    {
+      "start": 68.7,
+      "end": 71.4,
+      "text": "Eu virei a placa para a mesa e as letras também"
+    },
+    {
+      "start": 71.4,
+      "end": 74.5,
+      "text": "Agora vamos criar uma tolerância para encaixar as letras na placa"
+    },
+    {
+      "start": 74.5,
+      "end": 77.5,
+      "text": "Com a subfusão das letras que fizemos vamos na aba qualidade"
+    },
+    {
+      "start": 77.5,
+      "end": 80.8,
+      "text": "Vamos alterar a compensação de contorno e a compensação de furo"
+    },
+    {
+      "start": 80.8,
+      "end": 86.4,
+      "text": "E uma explicação detalhada de como fazer esses encaixes perfeitos está disponível no meu curso de letreiros no link"
+    },
+    {
+      "start": 86.4,
+      "end": 87.9,
+      "text": "Da bio, voltamos ao nosso projeto"
+    },
+    {
+      "start": 87.9,
+      "end": 90.1,
+      "text": "Agora vamos medir a plaquinha pra fazer a base"
+    },
+    {
+      "start": 90.1,
+      "end": 93.4,
+      "text": "É 130mm em X e 2,6mm em Z"
+    },
+    {
+      "start": 93.4,
+      "end": 94.3,
+      "text": "Agora botão direito"
+    },
+    {
+      "start": 94.3,
+      "end": 96.3,
+      "text": "Vamos adicionar um primitivo que é um cubo"
+    },
+    {
+      "start": 96.3,
+      "end": 98.8,
+      "text": "E vamos transformar num retângulo com essas dimensões"
+    },
+    {
+      "start": 98.8,
+      "end": 100.9,
+      "text": "Agora precisamos fazer o encaixe novamente"
+    },
+    {
+      "start": 100.9,
+      "end": 101.9,
+      "text": "Com outro retângulo"
+    },
+    {
+      "start": 101.9,
+      "end": 103.5,
+      "text": "Eu utilizei essas dimensões aqui"
+    },
+    {
+      "start": 103.5,
+      "end": 106.6,
+      "text": "Basicamente são as dimensões da base da placa com uma tolerância"
+    },
+    {
+      "start": 106.6,
+      "end": 108.1,
+      "text": "O retângulo menor é o encaixe"
+    },
+    {
+      "start": 108.1,
+      "end": 110.7,
+      "text": "Eu centralizei ele, mesclei os dois objetos"
+    },
+    {
+      "start": 110.7,
+      "end": 112.6,
+      "text": "E subi o retângulo menor em 1mm"
+    },
+    {
+      "start": 112.6,
+      "end": 114.6,
+      "text": "Agora com o botão direito no retângulo menor"
+    },
+    {
+      "start": 114.6,
+      "end": 116.7,
+      "text": "Vamos transformá-lo em parte negativa"
+    },
+    {
+      "start": 116.7,
+      "end": 118.2,
+      "text": "Prontinho, a base tá pronta"
+    },
+    {
+      "start": 118.2,
+      "end": 120.3,
+      "text": "E antes que eu esqueça, eu selecionei as letras"
+    },
+    {
+      "start": 120.3,
+      "end": 122.4,
+      "text": "E aumentei em Z em 3mm"
+    },
+    {
+      "start": 122.4,
+      "end": 124.2,
+      "text": "Pra ficar um alto relevo na placa"
+    },
+    {
+      "start": 124.2,
+      "end": 125.9,
+      "text": "Agora é só imprimir tudo e montar"
+    },
+    {
+      "start": 125.9,
+      "end": 128.0,
+      "text": "Não se esqueça de dar um like nesse vídeo e me seguir"
+    },
+    {
+      "start": 128.0,
+      "end": 129.8,
+      "text": "Pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 130.1,
+  "model": "large-v3-turbo"
+}

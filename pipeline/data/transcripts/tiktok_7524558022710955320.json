@@ -1,0 +1,257 @@
+{
+  "text": "Hoje eu testei PETG na interface do suporte e saí disso para isso, mas tem alguns poréns. Bem-vindo ao dia 37 de 365 impressões 3D aqui em casa. A primeira coisa que eu fiz foi encontrar um modelinho de teste de suportes lá no site da Bambu Lab. Com essas configurações eu imprimi meu teste de referência, que é toda peça com PLA, inclusive os suportes. Veja que com o mesmo filamento a impressão demora apenas 33 minutos e 6 gramas de PLA é usado. A remoção da primeira parte foi fácil, até que eu quebrei a peça. O acabamento não ficou lá grandes coisas, padrão para uma peça impressa rápido com o mesmo filamento. Agora vamos para o segundo teste, que é utilizar o PETG na interface do suporte. E isso só é possível com uma impressora multicolor. Os parâmetros que eu alterei foi a distância Z superior para zero, o padrão de interface retilíneo e o espaçamento da interface superior para zero milímetros também. Isso é uma sugestão da própria Bambu Studio. Levando em consideração o que eu ensinei lá no dia 33, dá uma olhada naquele vídeo, eu alterei o volume de purga para economizar filamento. E como a minha intenção não é esconder nada, esse foi um dos meus erros. E você já vai entender por quê. Antes disso, verifique que com a distância Z superior para zero, o PETG vai encostar no PLA E é isso mesmo que a gente quer, porque teoricamente esses dois filamentos não se aderem facilmente Verifiquem que o tempo de impressão aumentou consideravelmente e o gasto de filamento também O resultado não foi nada esperado, a peça ficou quebradiça A purga não foi suficiente para alterar todo o material de PETG, papel A ou vice-versa Então houve uma mistura dos dois filamentos E como os dois filamentos não aderem entre si facilmente E essa é a intenção de utilizar o PETG como interface A peça inteira ficou frágil O resultado com o que sobrou da peça já foi muito melhor Mas não é isso que eu queria E eu não me dei por vencido Então vamos para o terceiro teste Eu recorri para a central de ajuda da Bambulab e encontrei um perfil pronto Essas foram as configurações que eu utilizei e eu não mexi no volume de purga Para garantir que o meu PETG não ia se misturar com o PLA Apesar das cores mudarem Veja que com esse perfil a impressão vai demorar mais de duas horas E vai utilizar quase 40 gramas de filamento Mas o resultado foi muito melhor O PETG realmente ficou fácil de tirar E o acabamento ficou ótimo Aí vem a pergunta Vale a pena? Bom, eu utilizaria para superfícies retas Onde o tempo de impressão não é um problema Aí eu vejo bastante diferença na qualidade Agora, para superfícies mais inclinadas Eu não vi tanta diferença E acredito que pelo tempo de impressão e gasto de filamento Eu não usaria E antes que o pessoal comece a falar aí nos comentários comentários sim dá para melhorar os suportes com pela isso só foi um exemplo e deu um baita trabalhando fazer esse vídeo então por favor curta aí compartilhe salve o vídeo para você ver depois",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.3,
+      "text": "Hoje eu testei PETG na interface do suporte e saí disso para isso, mas tem alguns poréns."
+    },
+    {
+      "start": 6.5,
+      "end": 12.1,
+      "text": "Bem-vindo ao dia 37 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.1,
+      "end": 17.9,
+      "text": "A primeira coisa que eu fiz foi encontrar um modelinho de teste de suportes lá no site da Bambu Lab."
+    },
+    {
+      "start": 17.9,
+      "end": 24.3,
+      "text": "Com essas configurações eu imprimi meu teste de referência, que é toda peça com PLA, inclusive os suportes."
+    },
+    {
+      "start": 24.3,
+      "end": 31.3,
+      "text": "Veja que com o mesmo filamento a impressão demora apenas 33 minutos e 6 gramas de PLA é usado."
+    },
+    {
+      "start": 32.4,
+      "end": 39.6,
+      "text": "A remoção da primeira parte foi fácil, até que eu quebrei a peça."
+    },
+    {
+      "start": 42.7,
+      "end": 48.9,
+      "text": "O acabamento não ficou lá grandes coisas, padrão para uma peça impressa rápido com o mesmo filamento."
+    },
+    {
+      "start": 49.5,
+      "end": 55.1,
+      "text": "Agora vamos para o segundo teste, que é utilizar o PETG na interface do suporte."
+    },
+    {
+      "start": 55.1,
+      "end": 58.2,
+      "text": "E isso só é possível com uma impressora multicolor."
+    },
+    {
+      "start": 58.5,
+      "end": 62.0,
+      "text": "Os parâmetros que eu alterei foi a distância Z superior para zero,"
+    },
+    {
+      "start": 62.0,
+      "end": 68.3,
+      "text": "o padrão de interface retilíneo e o espaçamento da interface superior para zero milímetros também."
+    },
+    {
+      "start": 68.9,
+      "end": 71.7,
+      "text": "Isso é uma sugestão da própria Bambu Studio."
+    },
+    {
+      "start": 71.9,
+      "end": 76.2,
+      "text": "Levando em consideração o que eu ensinei lá no dia 33, dá uma olhada naquele vídeo,"
+    },
+    {
+      "start": 76.5,
+      "end": 79.2,
+      "text": "eu alterei o volume de purga para economizar filamento."
+    },
+    {
+      "start": 79.4,
+      "end": 83.3,
+      "text": "E como a minha intenção não é esconder nada, esse foi um dos meus erros."
+    },
+    {
+      "start": 83.4,
+      "end": 85.3,
+      "text": "E você já vai entender por quê."
+    },
+    {
+      "start": 85.3,
+      "end": 92.1,
+      "text": "Antes disso, verifique que com a distância Z superior para zero, o PETG vai encostar no PLA"
+    },
+    {
+      "start": 92.1,
+      "end": 98.6,
+      "text": "E é isso mesmo que a gente quer, porque teoricamente esses dois filamentos não se aderem facilmente"
+    },
+    {
+      "start": 98.6,
+      "end": 104.9,
+      "text": "Verifiquem que o tempo de impressão aumentou consideravelmente e o gasto de filamento também"
+    },
+    {
+      "start": 104.9,
+      "end": 109.8,
+      "text": "O resultado não foi nada esperado, a peça ficou quebradiça"
+    },
+    {
+      "start": 109.8,
+      "end": 117.2,
+      "text": "A purga não foi suficiente para alterar todo o material de PETG, papel A ou vice-versa"
+    },
+    {
+      "start": 117.2,
+      "end": 120.0,
+      "text": "Então houve uma mistura dos dois filamentos"
+    },
+    {
+      "start": 120.0,
+      "end": 124.3,
+      "text": "E como os dois filamentos não aderem entre si facilmente"
+    },
+    {
+      "start": 124.3,
+      "end": 127.7,
+      "text": "E essa é a intenção de utilizar o PETG como interface"
+    },
+    {
+      "start": 127.7,
+      "end": 130.8,
+      "text": "A peça inteira ficou frágil"
+    },
+    {
+      "start": 130.8,
+      "end": 134.4,
+      "text": "O resultado com o que sobrou da peça já foi muito melhor"
+    },
+    {
+      "start": 134.4,
+      "end": 136.2,
+      "text": "Mas não é isso que eu queria"
+    },
+    {
+      "start": 136.2,
+      "end": 137.8,
+      "text": "E eu não me dei por vencido"
+    },
+    {
+      "start": 137.8,
+      "end": 140.8,
+      "text": "Então vamos para o terceiro teste"
+    },
+    {
+      "start": 140.8,
+      "end": 145.6,
+      "text": "Eu recorri para a central de ajuda da Bambulab e encontrei um perfil pronto"
+    },
+    {
+      "start": 145.6,
+      "end": 149.7,
+      "text": "Essas foram as configurações que eu utilizei e eu não mexi no volume de purga"
+    },
+    {
+      "start": 149.7,
+      "end": 154.4,
+      "text": "Para garantir que o meu PETG não ia se misturar com o PLA"
+    },
+    {
+      "start": 154.4,
+      "end": 156.4,
+      "text": "Apesar das cores mudarem"
+    },
+    {
+      "start": 156.4,
+      "end": 160.8,
+      "text": "Veja que com esse perfil a impressão vai demorar mais de duas horas"
+    },
+    {
+      "start": 160.8,
+      "end": 164.8,
+      "text": "E vai utilizar quase 40 gramas de filamento"
+    },
+    {
+      "start": 164.8,
+      "end": 167.6,
+      "text": "Mas o resultado foi muito melhor"
+    },
+    {
+      "start": 167.6,
+      "end": 171.8,
+      "text": "O PETG realmente ficou fácil de tirar"
+    },
+    {
+      "start": 171.8,
+      "end": 174.1,
+      "text": "E o acabamento ficou ótimo"
+    },
+    {
+      "start": 174.1,
+      "end": 175.4,
+      "text": "Aí vem a pergunta"
+    },
+    {
+      "start": 175.4,
+      "end": 176.7,
+      "text": "Vale a pena?"
+    },
+    {
+      "start": 177.3,
+      "end": 180.6,
+      "text": "Bom, eu utilizaria para superfícies retas"
+    },
+    {
+      "start": 180.6,
+      "end": 183.3,
+      "text": "Onde o tempo de impressão não é um problema"
+    },
+    {
+      "start": 183.3,
+      "end": 186.0,
+      "text": "Aí eu vejo bastante diferença na qualidade"
+    },
+    {
+      "start": 186.0,
+      "end": 188.6,
+      "text": "Agora, para superfícies mais inclinadas"
+    },
+    {
+      "start": 188.6,
+      "end": 189.9,
+      "text": "Eu não vi tanta diferença"
+    },
+    {
+      "start": 189.9,
+      "end": 193.4,
+      "text": "E acredito que pelo tempo de impressão e gasto de filamento"
+    },
+    {
+      "start": 193.4,
+      "end": 194.7,
+      "text": "Eu não usaria"
+    },
+    {
+      "start": 194.7,
+      "end": 196.9,
+      "text": "E antes que o pessoal comece a falar aí nos comentários"
+    },
+    {
+      "start": 196.9,
+      "end": 203.6,
+      "text": "comentários sim dá para melhorar os suportes com pela isso só foi um exemplo e deu um baita"
+    },
+    {
+      "start": 203.6,
+      "end": 209.8,
+      "text": "trabalhando fazer esse vídeo então por favor curta aí compartilhe salve o vídeo para você ver depois"
+    }
+  ],
+  "duration": 216.5,
+  "model": "large-v3-turbo"
+}

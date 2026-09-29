@@ -1,0 +1,174 @@
+{
+  "instagram_Cu2kWtPsVoN": { "hidden": true },
+  "instagram_DEfbb9DOThe": { "hidden": true },
+  "tiktok_7514444263862635781": {
+    "title": "Guia rápido dos principais tipos de filamento",
+    "summary": "Carrossel comparando os filamentos mais comuns: qual é o mais fácil de usar, o mais resistente, qual aguenta calor e qual é flexível.",
+    "category": "Filamentos",
+    "tags": ["tipos de filamento", "PLA", "PETG", "TPU", "iniciantes"],
+    "keywords": ["qual filamento usar", "diferenca entre filamentos", "abs", "asa", "pla vs petg", "resistente ao calor", "flexivel", "guia de materiais"]
+  },
+  "tiktok_7570114655872503048": {
+    "title": "Onde baixar texturas grátis e aplicar no fatiador",
+    "summary": "Baixe padrões gratuitos no Hero Patterns, deixe em preto e branco, repita as células no Canva, salve em PNG transparente, converta para SVG e aplique no fatiador em baixo relevo de 0,8 mm.",
+    "category": "Personalização no fatiador",
+    "tags": ["textura", "SVG", "Hero Patterns", "Canva"],
+    "keywords": ["hero patterns", "texturas gratis", "padrao svg", "png para svg", "baixo relevo", "emboss", "canva"]
+  },
+  "tiktok_7571209645830769927": {
+    "title": "Texturas em superfícies curvas (cilindros)",
+    "summary": "O SVG não contorna 360° de um cilindro, mas a ferramenta de texto sim. Ele cria texturas com hífens (tijolinhos), fontes de símbolos e o modo de projeção surround, duplicando e girando as linhas de texto.",
+    "category": "Personalização no fatiador",
+    "tags": ["textura", "ferramenta de texto", "superfície curva"],
+    "keywords": ["cilindro", "textura curva", "surround", "projecao", "fonte de simbolos", "tijolinho", "vaso texturizado"]
+  },
+  "tiktok_7572207869693545735": {
+    "title": "Vale a pena desligar as calibrações automáticas?",
+    "summary": "A dinâmica de fluxo (fator K) pode ser calibrada uma vez por filamento e desligada, economizando 1 a 2 minutos, mas ele costuma deixar no automático. O nivelamento da mesa ele sempre mantém. Com bico 0.2, o recomendado é calibrar o fator K manualmente.",
+    "category": "Calibração e configurações",
+    "tags": ["calibração automática", "fator K", "nivelamento", "Bambu Studio"],
+    "keywords": ["pular calibracao", "flow dynamics", "pressure advance", "abl", "bed leveling", "tempo de inicio", "6 minutos", "bico 0.2"]
+  },
+  "tiktok_7572207901444492551": {
+    "title": "Imprimir por objeto: 4 cores numa placa sem 380 trocas",
+    "summary": "No Jerry multipartes, imprimir por camada daria mais de 380 trocas e 16 horas. Com \"imprimir por objeto\", peças da mesma cor unidas e as menores primeiro para o cabeçote não bater, a impressão caiu para 5 horas.",
+    "category": "Multicor e purga",
+    "tags": ["impressão por objeto", "multipartes", "AMS", "ordem de impressão"],
+    "keywords": ["print by object", "por objeto", "trocas de cor", "sequencia de impressao", "colisao", "jerry", "economizar purga"]
+  },
+  "tiktok_7572710913107594514": {
+    "title": "PC-FR: filamento antichamas que se autoextingue",
+    "summary": "O PC-FR é um policarbonato retardante de chamas: aditivos liberam gases que apagam o fogo. Na H2S com câmara aquecida (mesa a 110 °C, câmara a 60 °C) imprime sem warping. É indicado para peças perto de fontes de calor e eletrônicos.",
+    "category": "Filamentos",
+    "tags": ["PC-FR", "policarbonato", "retardante de chama", "Bambu Lab H2S"],
+    "keywords": ["pc fr", "policarbonato", "antichama", "fire retardant", "autoextinguivel", "alta temperatura", "eletronica", "camara aquecida"]
+  },
+  "tiktok_7573358367603805458": {
+    "title": "Modificadores: reforçar só a parte fina da peça",
+    "summary": "A haste fina do revólver do Eufrazino quebrava durante a impressão. Com um modificador em cubo só naquela região, ele colocou 100% de preenchimento ali e manteve 10% no resto da peça.",
+    "category": "Calibração e configurações",
+    "tags": ["modificador", "preenchimento", "peça fina", "resistência"],
+    "keywords": ["modifier", "height range modifier", "reforcar", "parte fina quebrando", "infill localizado", "100% infill", "eufrazino"]
+  },
+  "tiktok_7574042314247539975": {
+    "title": "A importância da torre de purga",
+    "summary": "O arquivo veio com a torre de purga desativada: sem ela, o bico perde pressão na troca de cor e o novo filamento sai falhando. A torre limpa a cor antiga e estabiliza o fluxo antes de voltar ao modelo.",
+    "category": "Multicor e purga",
+    "tags": ["torre de purga", "prime tower", "AMS", "multicolor"],
+    "keywords": ["prime tower", "torre de purga", "wipe tower", "falha na troca de cor", "subextrusao apos troca", "multicolor com falhas"]
+  },
+  "tiktok_7575305378460732690": {
+    "title": "Letreiros multipartes feitos só no Bambu Studio",
+    "summary": "Prévia de uma nova coleção de letreiros multipartes, inspirada no sucesso do dia 42, criada inteira no Bambu Studio, sem software de modelagem.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "multipartes", "Bambu Studio", "sem modelagem"],
+    "keywords": ["letreiro no fatiador", "letreiro multipartes", "sem modelar", "decoracao", "curso"]
+  },
+  "tiktok_7575652797765389576": {
+    "title": "Texturas mais profundas que o SVG permite (prévia)",
+    "summary": "Prévia de uma técnica para aplicar texturas personalizadas mais profundas do que o limite dos SVGs, usando só o fatiador, nos letreiros.",
+    "category": "Personalização no fatiador",
+    "tags": ["textura", "letreiro", "fatiador"],
+    "keywords": ["textura profunda", "svg limitado", "letreiro texturizado", "curso"]
+  },
+  "tiktok_7576784446607707410": {
+    "title": "3 dicas para detalhes pequenos com bico 0.4",
+    "summary": "Num chaveiro impresso de face para a mesa: gerador de paredes Arachne, padrão monotônico na superfície inferior e imprimir primeiro a cor dos detalhes finos. O resultado melhora muito, mas para textos minúsculos o bico 0.2 ainda é melhor.",
+    "category": "Acabamento e qualidade",
+    "tags": ["detalhes pequenos", "Arachne", "chaveiro", "bico 0.4"],
+    "keywords": ["texto pequeno", "letra pequena", "lacunas", "bottom surface pattern", "monotonic", "ordem das cores", "arachne", "chaveiro"]
+  },
+  "tiktok_7577145889995705608": {
+    "title": "Filamento úmido: bolhas e fiapos (seque antes de calibrar)",
+    "summary": "Bolhas e fiapos no Benchy de ABS e defeitos no PLA eram umidade, mesmo com o filamento vindo a vácuo. Depois de secar, o problema sumiu. Secar é a primeira calibração.",
+    "category": "Filamentos",
+    "tags": ["filamento úmido", "secagem", "ABS", "stringing"],
+    "keywords": ["secar filamento", "filamento molhado", "bolhas", "estalando", "fiapos", "secadora de filamento", "filament dryer", "benchy"]
+  },
+  "tiktok_7577541626973687048": {
+    "title": "Plaquinha de logo multipartes com conectores de encaixe",
+    "summary": "Tudo no Bambu Studio: importar o logo em SVG, alinhar e unir as letras com malha booleana, criar conectores com cubos, montar uma base de 3 mm, usar os conectores como parte negativa na base e aplicar compensação de furo de 0,10 mm.",
+    "category": "Personalização no fatiador",
+    "tags": ["logo", "multipartes", "operação booleana", "encaixe"],
+    "keywords": ["boolean", "malha booleana", "conectores", "negative part", "placa de logo", "letreiro de empresa", "compensacao de furo"]
+  },
+  "tiktok_7579017070340328712": {
+    "title": "Lightbox personalizada com o MakerLab",
+    "summary": "No gerador de lightbox do MakerLab (funciona com qualquer impressora): envie a imagem, adicione um fundo, o furo para o cabo do LED e uma base, e exporte. A iluminação pode ser uma plaquinha ou fita de LED.",
+    "category": "Personalização no fatiador",
+    "tags": ["lightbox", "MakerLab", "LED", "sem modelagem"],
+    "keywords": ["light box", "caixa de luz", "luminaria personalizada", "makerlab", "logo iluminado", "fita led"]
+  },
+  "tiktok_7579389722129190151": {
+    "title": "Calibração de vazão (flow rate) para topo liso",
+    "summary": "Lacunas na superfície do Gaguinho eram subextrusão. Na aba de calibração do Bambu Studio, ele faz a calibração manual de vazão em duas etapas (grossa, de 5 em 5%, e fina, de 1 em 1%) e salva num novo perfil de filamento.",
+    "category": "Calibração e configurações",
+    "tags": ["vazão", "flow rate", "calibração", "subextrusão"],
+    "keywords": ["flow ratio", "taxa de vazao", "calibrar fluxo", "lacunas no topo", "under extrusion", "gaps", "0.98", "perfil de filamento"]
+  },
+  "tiktok_7580077017685708039": {
+    "title": "Dinâmica de fluxo (fator K) explicada com pasta de dente",
+    "summary": "Na aceleração falta material e na desaceleração sobra. O fator K compensa isso aumentando a pressão da extrusora. K baixo demais ou alto demais causa falhas. A calibração automática costuma bastar, e a manual é para quando aparecem sobras ou faltas.",
+    "category": "Calibração e configurações",
+    "tags": ["fator K", "dinâmica de fluxo", "pressure advance", "calibração"],
+    "keywords": ["pressure advance", "k factor", "flow dynamics", "linear advance", "cantos com sobra", "falta de material", "calibracao manual"]
+  },
+  "tiktok_7581605177803722002": {
+    "title": "Troféu multipartes personalizado no fatiador",
+    "summary": "Um troféu de 60 mil seguidores: base do MakerWorld (ID 510872), plaquinha com logo em SVG e texto como modificador de cor, e o \"60K\" feito no fatiador. Os encaixes são criados com operação booleana de diferença.",
+    "category": "Personalização no fatiador",
+    "tags": ["troféu", "multipartes", "operação booleana", "encaixe"],
+    "keywords": ["trofeu", "premio", "boolean", "diferenca", "encaixe", "placa personalizada", "comemorativo"]
+  },
+  "tiktok_7581966519802875154": {
+    "title": "Encaixes perfeitos: quando mexer no furo e quando no contorno",
+    "summary": "A compensação de furo e a de contorno só atuam no plano XY. Então, quando o encaixe está no plano XZ, você altera a outra peça: aumenta o furo da base (+0,2) ou reduz o contorno da plaquinha (−0,2).",
+    "category": "Calibração e configurações",
+    "tags": ["tolerância", "encaixe", "compensação XY", "multipartes"],
+    "keywords": ["xy hole compensation", "xy contour compensation", "plano xz", "folga", "encaixe", "trofeu", "tolerancia"]
+  },
+  "tiktok_7583843619321154823": {
+    "title": "Olhos com resina para dar brilho (Hortelino)",
+    "summary": "Para aplicar resina nos olhos, ele rebaixou os olhos para a resina não escorrer e criou no fatiador uma base com encaixe (diferença booleana) para a cabeça secar parada. A resina não UV levou 7 horas para secar.",
+    "category": "Acabamento e qualidade",
+    "tags": ["resina", "pós-processamento", "action figure"],
+    "keywords": ["resina epoxi", "olhos brilhantes", "brilho", "hortelino", "base de apoio", "boolean"]
+  },
+  "tiktok_7584531556635643154": {
+    "title": "Quando vale colocar mais suporte (gorro de Papai Noel)",
+    "summary": "A ponta do gorro tocava a mesa só por pequenos suportes e podia se soltar. Com suportes manuais pintados nas saliências e mais alguns na ponta (área de encaixe), a peça fica estável.",
+    "category": "Suportes",
+    "tags": ["suportes manuais", "estabilidade", "Natal"],
+    "keywords": ["pintar suporte", "support painting", "peca soltando", "suporte extra", "gorro", "papai noel"]
+  },
+  "tiktok_7584531929857264914": {
+    "title": "Lacunas no topo de um suporte de Fórmula 1",
+    "summary": "As lacunas na superfície superior são subextrusão: primeiro calibre a vazão. Uma opção mais avançada é dividir o arquivo e imprimir a base de face para a mesa, encaixando os suportes do carro depois.",
+    "category": "Acabamento e qualidade",
+    "tags": ["subextrusão", "vazão", "camada de topo"],
+    "keywords": ["lacunas no topo", "gaps", "under extrusion", "flow rate", "formula 1", "suporte de carrinho", "dividir peca"]
+  },
+  "tiktok_7584532737457917202": {
+    "title": "O que imprimir para o Natal",
+    "summary": "Ideias do MakerWorld: presépio minimalista com fuzzy skin (2041041), cabana do Noel em PLA madeira (12682), bola ornamental (2080859), Papai Noel multipartes (1954376), guirlanda (1805490) e prato em forma de árvore (903059).",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["Natal", "decoração", "MakerWorld", "ideias"],
+    "keywords": ["natal", "presepio", "guirlanda", "papai noel", "enfeite", "pla madeira", "wood", "ceia", "decoracao natalina"]
+  },
+  "tiktok_7586034801891609864": {
+    "instagram": "DSVxANpD0GN",
+    "title": "Suporte que não precisava: letreiro modular",
+    "summary": "O letreiro ficou bonito, mas levou suporte onde não precisava: as pontes a impressora faz sozinha. Suporte é exceção, e antes de gerar vale perguntar se é limitação real ou hábito.",
+    "category": "Suportes",
+    "tags": ["pontes", "suportes desnecessários", "letreiro"],
+    "keywords": ["bridge", "ponte", "sem suporte", "suporte desnecessario", "economizar tempo", "pos processamento"]
+  },
+  "tiktok_7585329080770333959": {
+    "day": 144,
+    "title": "Fita de LED USB 5V para lightbox",
+    "summary": "Uma fita de LED 5V que liga em qualquer USB ou power bank: é só colar em volta da lightbox, cortar nos pontos marcados e soldar no cabo USB. Depois de 8 horas quase não esquenta, o que protege o PLA.",
+    "category": "Personalização no fatiador",
+    "tags": ["lightbox", "LED", "USB", "eletrônica"],
+    "keywords": ["fita led", "led usb", "5v", "power bank", "luz", "soldar", "iluminacao", "nao esquenta"]
+  }
+}

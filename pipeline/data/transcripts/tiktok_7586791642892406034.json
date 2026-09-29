@@ -1,0 +1,47 @@
+{
+  "text": "Qual material resiste mais ao calor? Bem-vindo ao dia 146, eu fiz um teste simples de resistência térmica. Alinhei todos esses materiais da mesma marca e liguei o soprador térmico. O PLA foi o primeiro a amolecer e depois foi o PETG. ABS, asa e policarbonato nem se mexeram. E isso acontece devido a temperatura de transição vítrea, que é a temperatura em que o plástico começa a amolecer. Ou seja, se sua peça ficar exposta a temperaturas mais elevadas, você vai precisar de um material de engenharia. Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "Qual material resiste mais ao calor?"
+    },
+    {
+      "start": 3.4,
+      "end": 7.7,
+      "text": "Bem-vindo ao dia 146, eu fiz um teste simples de resistência térmica."
+    },
+    {
+      "start": 7.8,
+      "end": 11.7,
+      "text": "Alinhei todos esses materiais da mesma marca e liguei o soprador térmico."
+    },
+    {
+      "start": 12.4,
+      "end": 15.8,
+      "text": "O PLA foi o primeiro a amolecer e depois foi o PETG."
+    },
+    {
+      "start": 16.0,
+      "end": 18.9,
+      "text": "ABS, asa e policarbonato nem se mexeram."
+    },
+    {
+      "start": 18.9,
+      "end": 24.8,
+      "text": "E isso acontece devido a temperatura de transição vítrea, que é a temperatura em que o plástico começa a amolecer."
+    },
+    {
+      "start": 24.8,
+      "end": 30.2,
+      "text": "Ou seja, se sua peça ficar exposta a temperaturas mais elevadas, você vai precisar de um material de engenharia."
+    },
+    {
+      "start": 30.3,
+      "end": 34.1,
+      "text": "Gostaram desse vídeo? Então me siga para ter conteúdo de 3D todos os dias."
+    }
+  ],
+  "duration": 34.7,
+  "model": "large-v3-turbo"
+}

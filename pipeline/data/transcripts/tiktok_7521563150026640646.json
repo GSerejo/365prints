@@ -1,0 +1,187 @@
+{
+  "text": "Bora reduzir esse gasto excessivo na troca de filamento numa impressão multicolor? Olha o tanto de filamento gasto na impressão da cabeça do Deadpool. Esse é o dia 33 de 365 impressões 3D aqui em casa. No fatiamento dessa peça, a gente vê que 23 gramas é apenas a troca dos filamentos. E o modelo representa apenas 2,69 gramas. A primeira dica para otimizar é preencher o teu prato com maior quantidade de peças possíveis. Isso é para tornar a impressão economicamente viável. Veja que agora 109 cabeças do Deadpool vão gastar a mesma quantidade de filamento na troca. Uma redução de desperdício de 99% por cabeça. Mas peraí, eu não quero imprimir 109 cabeças do Deadpool. Então vamos para a segunda dica. Aqui em volumes de carga a gente vê a quantidade padrão para trocar, por exemplo, do vermelho para o preto. Seriam 152 milímetros cúbicos. Do preto para o branco, por exemplo, é o maior gasto, 623. Mas será que isso está otimizado? Lá no site da Bambu Lab a gente encontra um modelinho de calibração de purga. Agora é só você trabalhar em pares das cores que você tem no projeto. Nesse caso, do preto para o vermelho e do vermelho para o preto. Você já vai entender melhor. Confira se a PURG está a zero para a impressão do modelo. Não esqueça de desligar essa calibração da dinâmica de fluxo. Agora com os testes impressos, é só a gente verificar quanto realmente gasta para trocar o filamento. E você vê isso no oleômetro mesmo. Eu considerei até uma margem de segurança. E você vai fazendo isso para todos os filamentos, para todas as trocas. E vai preenchendo a tabelinha do volume de descarga. Verifiquem que o maior desperdício era na troca do preto para o branco E de 623 eu coloquei em 200 com uma margem de segurança Depois de preenchido a tabela inteira Olha aí a redução de desperdício De 23 gramas a gente foi para 9 gramas na troca de filamento Uma redução de 60% E se a gente fosse imprimir 109 cabeças de Deadpool gastaríamos apenas 0,15 gramas por cabeça de desperdício",
+  "segments": [
+    {
+      "start": 0.3,
+      "end": 5.8,
+      "text": "Bora reduzir esse gasto excessivo na troca de filamento numa impressão multicolor?"
+    },
+    {
+      "start": 5.9,
+      "end": 10.2,
+      "text": "Olha o tanto de filamento gasto na impressão da cabeça do Deadpool."
+    },
+    {
+      "start": 10.3,
+      "end": 15.7,
+      "text": "Esse é o dia 33 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 16.0,
+      "end": 22.2,
+      "text": "No fatiamento dessa peça, a gente vê que 23 gramas é apenas a troca dos filamentos."
+    },
+    {
+      "start": 22.4,
+      "end": 27.4,
+      "text": "E o modelo representa apenas 2,69 gramas."
+    },
+    {
+      "start": 27.4,
+      "end": 34.8,
+      "text": "A primeira dica para otimizar é preencher o teu prato com maior quantidade de peças possíveis."
+    },
+    {
+      "start": 35.1,
+      "end": 38.3,
+      "text": "Isso é para tornar a impressão economicamente viável."
+    },
+    {
+      "start": 38.5,
+      "end": 45.5,
+      "text": "Veja que agora 109 cabeças do Deadpool vão gastar a mesma quantidade de filamento na troca."
+    },
+    {
+      "start": 45.6,
+      "end": 50.9,
+      "text": "Uma redução de desperdício de 99% por cabeça."
+    },
+    {
+      "start": 51.0,
+      "end": 55.4,
+      "text": "Mas peraí, eu não quero imprimir 109 cabeças do Deadpool."
+    },
+    {
+      "start": 55.4,
+      "end": 57.9,
+      "text": "Então vamos para a segunda dica."
+    },
+    {
+      "start": 58.0,
+      "end": 64.2,
+      "text": "Aqui em volumes de carga a gente vê a quantidade padrão para trocar, por exemplo, do vermelho para o preto."
+    },
+    {
+      "start": 64.3,
+      "end": 67.1,
+      "text": "Seriam 152 milímetros cúbicos."
+    },
+    {
+      "start": 67.6,
+      "end": 71.3,
+      "text": "Do preto para o branco, por exemplo, é o maior gasto, 623."
+    },
+    {
+      "start": 71.9,
+      "end": 74.7,
+      "text": "Mas será que isso está otimizado?"
+    },
+    {
+      "start": 75.6,
+      "end": 80.5,
+      "text": "Lá no site da Bambu Lab a gente encontra um modelinho de calibração de purga."
+    },
+    {
+      "start": 80.5,
+      "end": 84.3,
+      "text": "Agora é só você trabalhar em pares das cores que você tem no projeto."
+    },
+    {
+      "start": 84.3,
+      "end": 87.1,
+      "text": "Nesse caso, do preto para o vermelho e do vermelho para o preto."
+    },
+    {
+      "start": 87.2,
+      "end": 88.4,
+      "text": "Você já vai entender melhor."
+    },
+    {
+      "start": 88.6,
+      "end": 91.2,
+      "text": "Confira se a PURG está a zero para a impressão do modelo."
+    },
+    {
+      "start": 91.4,
+      "end": 95.2,
+      "text": "Não esqueça de desligar essa calibração da dinâmica de fluxo."
+    },
+    {
+      "start": 95.3,
+      "end": 101.1,
+      "text": "Agora com os testes impressos, é só a gente verificar quanto realmente gasta para trocar o filamento."
+    },
+    {
+      "start": 101.3,
+      "end": 103.0,
+      "text": "E você vê isso no oleômetro mesmo."
+    },
+    {
+      "start": 103.1,
+      "end": 105.8,
+      "text": "Eu considerei até uma margem de segurança."
+    },
+    {
+      "start": 106.0,
+      "end": 110.0,
+      "text": "E você vai fazendo isso para todos os filamentos, para todas as trocas."
+    },
+    {
+      "start": 110.3,
+      "end": 112.7,
+      "text": "E vai preenchendo a tabelinha do volume de descarga."
+    },
+    {
+      "start": 112.7,
+      "end": 116.7,
+      "text": "Verifiquem que o maior desperdício era na troca do preto para o branco"
+    },
+    {
+      "start": 116.7,
+      "end": 121.4,
+      "text": "E de 623 eu coloquei em 200 com uma margem de segurança"
+    },
+    {
+      "start": 121.4,
+      "end": 128.1,
+      "text": "Depois de preenchido a tabela inteira"
+    },
+    {
+      "start": 128.1,
+      "end": 131.4,
+      "text": "Olha aí a redução de desperdício"
+    },
+    {
+      "start": 131.4,
+      "end": 136.6,
+      "text": "De 23 gramas a gente foi para 9 gramas na troca de filamento"
+    },
+    {
+      "start": 136.6,
+      "end": 139.5,
+      "text": "Uma redução de 60%"
+    },
+    {
+      "start": 139.5,
+      "end": 143.5,
+      "text": "E se a gente fosse imprimir 109 cabeças de Deadpool"
+    },
+    {
+      "start": 143.5,
+      "end": 145.6,
+      "text": "gastaríamos apenas"
+    },
+    {
+      "start": 145.6,
+      "end": 147.4,
+      "text": "0,15 gramas"
+    },
+    {
+      "start": 147.4,
+      "end": 149.4,
+      "text": "por cabeça de desperdício"
+    }
+  ],
+  "duration": 154.2,
+  "model": "large-v3-turbo"
+}

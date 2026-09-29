@@ -1,0 +1,42 @@
+{
+  "text": "Problemas com regiões facetadas? Bem-vindo ao dia 164 e este é um problema do projeto. Mas com a nova atualização do Bambu Studio é possível resolver isso dentro do fatiador. Botão direito na peça e malha de subdivisão. Isso suaviza a superfície e você pode aplicar novamente para suavizar ainda mais. Rápido e fácil sem precisar de um software de modelagem. Gostaram dessa dica super rápida? Então me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 1.3,
+      "end": 3.4,
+      "text": "Problemas com regiões facetadas?"
+    },
+    {
+      "start": 3.8,
+      "end": 7.6,
+      "text": "Bem-vindo ao dia 164 e este é um problema do projeto."
+    },
+    {
+      "start": 7.7,
+      "end": 11.6,
+      "text": "Mas com a nova atualização do Bambu Studio é possível resolver isso dentro do fatiador."
+    },
+    {
+      "start": 11.6,
+      "end": 14.2,
+      "text": "Botão direito na peça e malha de subdivisão."
+    },
+    {
+      "start": 14.3,
+      "end": 18.5,
+      "text": "Isso suaviza a superfície e você pode aplicar novamente para suavizar ainda mais."
+    },
+    {
+      "start": 18.6,
+      "end": 21.3,
+      "text": "Rápido e fácil sem precisar de um software de modelagem."
+    },
+    {
+      "start": 21.3,
+      "end": 25.7,
+      "text": "Gostaram dessa dica super rápida? Então me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 26.1,
+  "model": "large-v3-turbo"
+}

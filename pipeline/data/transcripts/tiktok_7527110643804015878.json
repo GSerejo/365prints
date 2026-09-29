@@ -1,0 +1,137 @@
+{
+  "text": "Suas peças estão empenando? Isso pode ser mais comum do que parece, e geralmente acontece nas bordas. Mas bora resolver isso. Antes disso, vamos entender por que isso ocorre. Esse problema chama-se Warping, e ocorre porque há uma diferença de temperatura entre a mesa que está aquecida e a parte superior do objeto. E nas bordas, numa impressora aberta, o fluxo de ar é maior de ambos os lados e tende a resfriar o objeto mais rapidamente. rapidamente, ou seja, a parte de baixo fica mais quente e tende a se expandir, e por isso as bordas empenam. Para resolver isso, a gente precisa aumentar a aderência do objeto com a mesa. A prática usual seria aumentar a temperatura da placa, mas a diferença de temperatura ficará ainda maior. Então vamos ver como é que eu resolvi. Lá no Bambu Studio, nas opções de brim, você escolhe o tipo de brim pintado. Selecione o objeto e lá em cima você vai conseguir colocar brim apenas nas extremidades do objeto. Você ainda consegue colocar de forma manual com o mouse, onde você acha que pode ser necessário. Com os brins nas extremidades, é só fatiar e mandar imprimir. E olha aí a diferença! Os brins foram capazes de segurar as bordas do objeto, para fazer com que ele não empenhe. As diferenças ficaram ainda mais gritantes quando comparamos ambos os objetos. É claro, existem outras formas de resolver esse problema. colocar brim toda a peça utilizar uma cola para aumentar a aderência ou até mesmo a melhor que eu vou deixar para um próximo vídeo e é usando essa plaquinha aí quer a review dela? digita eu quero aí nos comentários",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 7.1,
+      "text": "Suas peças estão empenando? Isso pode ser mais comum do que parece, e geralmente acontece nas bordas."
+    },
+    {
+      "start": 7.2,
+      "end": 10.9,
+      "text": "Mas bora resolver isso. Antes disso, vamos entender por que isso ocorre."
+    },
+    {
+      "start": 11.0,
+      "end": 20.1,
+      "text": "Esse problema chama-se Warping, e ocorre porque há uma diferença de temperatura entre a mesa que está aquecida e a parte superior do objeto."
+    },
+    {
+      "start": 20.1,
+      "end": 27.1,
+      "text": "E nas bordas, numa impressora aberta, o fluxo de ar é maior de ambos os lados e tende a resfriar o objeto mais rapidamente."
+    },
+    {
+      "start": 27.1,
+      "end": 32.8,
+      "text": "rapidamente, ou seja, a parte de baixo fica mais quente e tende a se expandir, e por isso"
+    },
+    {
+      "start": 32.8,
+      "end": 33.9,
+      "text": "as bordas empenam."
+    },
+    {
+      "start": 34.3,
+      "end": 38.5,
+      "text": "Para resolver isso, a gente precisa aumentar a aderência do objeto com a mesa."
+    },
+    {
+      "start": 38.7,
+      "end": 43.2,
+      "text": "A prática usual seria aumentar a temperatura da placa, mas a diferença de temperatura"
+    },
+    {
+      "start": 43.2,
+      "end": 44.2,
+      "text": "ficará ainda maior."
+    },
+    {
+      "start": 44.7,
+      "end": 45.9,
+      "text": "Então vamos ver como é que eu resolvi."
+    },
+    {
+      "start": 46.3,
+      "end": 50.6,
+      "text": "Lá no Bambu Studio, nas opções de brim, você escolhe o tipo de brim pintado."
+    },
+    {
+      "start": 51.3,
+      "end": 56.4,
+      "text": "Selecione o objeto e lá em cima você vai conseguir colocar brim apenas nas extremidades"
+    },
+    {
+      "start": 56.4,
+      "end": 57.1,
+      "text": "do objeto."
+    },
+    {
+      "start": 57.1,
+      "end": 62.1,
+      "text": "Você ainda consegue colocar de forma manual com o mouse, onde você acha que pode ser necessário."
+    },
+    {
+      "start": 62.2,
+      "end": 65.1,
+      "text": "Com os brins nas extremidades, é só fatiar e mandar imprimir."
+    },
+    {
+      "start": 66.3,
+      "end": 68.3,
+      "text": "E olha aí a diferença!"
+    },
+    {
+      "start": 68.8,
+      "end": 73.8,
+      "text": "Os brins foram capazes de segurar as bordas do objeto, para fazer com que ele não empenhe."
+    },
+    {
+      "start": 74.2,
+      "end": 78.4,
+      "text": "As diferenças ficaram ainda mais gritantes quando comparamos ambos os objetos."
+    },
+    {
+      "start": 79.0,
+      "end": 82.1,
+      "text": "É claro, existem outras formas de resolver esse problema."
+    },
+    {
+      "start": 82.1,
+      "end": 83.7,
+      "text": "colocar brim toda a peça"
+    },
+    {
+      "start": 83.7,
+      "end": 86.1,
+      "text": "utilizar uma cola para aumentar a aderência"
+    },
+    {
+      "start": 86.1,
+      "end": 88.0,
+      "text": "ou até mesmo a melhor"
+    },
+    {
+      "start": 88.0,
+      "end": 90.0,
+      "text": "que eu vou deixar para um próximo vídeo"
+    },
+    {
+      "start": 90.0,
+      "end": 92.3,
+      "text": "e é usando essa plaquinha aí"
+    },
+    {
+      "start": 92.3,
+      "end": 94.3,
+      "text": "quer a review dela?"
+    },
+    {
+      "start": 94.9,
+      "end": 97.2,
+      "text": "digita eu quero aí nos comentários"
+    }
+  ],
+  "duration": 99.8,
+  "model": "large-v3-turbo"
+}

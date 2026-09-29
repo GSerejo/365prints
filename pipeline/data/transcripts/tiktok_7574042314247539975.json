@@ -1,0 +1,42 @@
+{
+  "text": "Eu esqueci um detalhe crucial e a impressão multicolor dessa peça não ficou legal. Bem-vindo ao dia 128. Esse arquivo veio com a torre de purga desativada, então na troca de filamento o bico ficava sem pressão e o filamento novo saia falhando. Esse detalhe me custou todo o projeto, mas só foi ativar a torre de purga que o problema foi resolvido. A torre tem duas funções, limpar a cor antiga e também estabilizar a pressão do novo filamento. Veja que depois da troca o branco é impresso na torre para estabilizar o fluxo também e só depois é impresso no modelo. E como sempre a pressa foi inimiga da perfeição, então não esqueça de checar essa opção.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.9,
+      "text": "Eu esqueci um detalhe crucial e a impressão multicolor dessa peça não ficou legal."
+    },
+    {
+      "start": 6.1,
+      "end": 8.1,
+      "text": "Bem-vindo ao dia 128."
+    },
+    {
+      "start": 8.7,
+      "end": 17.1,
+      "text": "Esse arquivo veio com a torre de purga desativada, então na troca de filamento o bico ficava sem pressão e o filamento novo saia falhando."
+    },
+    {
+      "start": 17.2,
+      "end": 22.0,
+      "text": "Esse detalhe me custou todo o projeto, mas só foi ativar a torre de purga que o problema foi resolvido."
+    },
+    {
+      "start": 22.0,
+      "end": 27.8,
+      "text": "A torre tem duas funções, limpar a cor antiga e também estabilizar a pressão do novo filamento."
+    },
+    {
+      "start": 27.8,
+      "end": 34.2,
+      "text": "Veja que depois da troca o branco é impresso na torre para estabilizar o fluxo também e só depois é impresso no modelo."
+    },
+    {
+      "start": 34.5,
+      "end": 39.6,
+      "text": "E como sempre a pressa foi inimiga da perfeição, então não esqueça de checar essa opção."
+    }
+  ],
+  "duration": 39.8,
+  "model": "large-v3-turbo"
+}

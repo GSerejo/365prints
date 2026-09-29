@@ -1,0 +1,132 @@
+{
+  "text": "Como empilhar peças de materiais diferentes e aproveitar a altura da mesa. Bem-vindo ao dia 255, direto ao ponto, CTRL-C e CTRL-V para duplicar o objeto. Já temos PLA e PETG como filamentos do projeto. Selecionamos um dos objetos, clicamos dois para mudar para PETG. Centralizamos o objeto e com a ferramenta mover, tentamos mover para cima. Ainda não é possível porque não está mesclado. Nava objeto com CTRL, selecionamos os dois, botão direito e mesclar. Agora selecionamos o amarelo em PLA e vamos na ferramenta escala Essa peça tem 10mm de altura Agora selecionamos o objeto em PETG e a ferramenta mover novamente Vamos movê-lo mais 10mm para cima Fatiamos para verificar a interface Na camada 50 em 10mm temos a última camada em PLA Logo depois na camada 51 em 10,2mm inicia-se a impressão do PETG Certifique-se que essas camadas estejam 100% preenchidas E aí está tudo pronto Se por acaso elas estiverem com menos preenchimento, precisamos adicionar um modificador. Botão direito e modificador de faixa de altura. Na esquerda, em objeto, selecionamos o modificador e vamos mudar a faixa desse modificador. A faixa deve estar na interface, eu escolhi 9,6 até 10,4. Com o modificador selecionado, vamos aba-força e descemos até o preenchimento interno para mudá-lo para 100%. Agora sim, na faixa do modificador, ou seja, na interface, o preenchimento estará em 100%. E para empilhar ainda mais, é a mesma lógica. Depois é só imprimir e destacar as peças. E se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Como empilhar peças de materiais diferentes e aproveitar a altura da mesa."
+    },
+    {
+      "start": 4.9,
+      "end": 10.2,
+      "text": "Bem-vindo ao dia 255, direto ao ponto, CTRL-C e CTRL-V para duplicar o objeto."
+    },
+    {
+      "start": 10.4,
+      "end": 13.4,
+      "text": "Já temos PLA e PETG como filamentos do projeto."
+    },
+    {
+      "start": 13.6,
+      "end": 16.9,
+      "text": "Selecionamos um dos objetos, clicamos dois para mudar para PETG."
+    },
+    {
+      "start": 17.1,
+      "end": 20.7,
+      "text": "Centralizamos o objeto e com a ferramenta mover, tentamos mover para cima."
+    },
+    {
+      "start": 20.8,
+      "end": 23.3,
+      "text": "Ainda não é possível porque não está mesclado."
+    },
+    {
+      "start": 23.3,
+      "end": 27.4,
+      "text": "Nava objeto com CTRL, selecionamos os dois, botão direito e mesclar."
+    },
+    {
+      "start": 27.4,
+      "end": 31.0,
+      "text": "Agora selecionamos o amarelo em PLA e vamos na ferramenta escala"
+    },
+    {
+      "start": 31.0,
+      "end": 33.1,
+      "text": "Essa peça tem 10mm de altura"
+    },
+    {
+      "start": 33.1,
+      "end": 36.8,
+      "text": "Agora selecionamos o objeto em PETG e a ferramenta mover novamente"
+    },
+    {
+      "start": 36.8,
+      "end": 39.4,
+      "text": "Vamos movê-lo mais 10mm para cima"
+    },
+    {
+      "start": 39.4,
+      "end": 41.4,
+      "text": "Fatiamos para verificar a interface"
+    },
+    {
+      "start": 41.4,
+      "end": 45.1,
+      "text": "Na camada 50 em 10mm temos a última camada em PLA"
+    },
+    {
+      "start": 45.1,
+      "end": 50.9,
+      "text": "Logo depois na camada 51 em 10,2mm inicia-se a impressão do PETG"
+    },
+    {
+      "start": 50.9,
+      "end": 54.5,
+      "text": "Certifique-se que essas camadas estejam 100% preenchidas"
+    },
+    {
+      "start": 54.5,
+      "end": 55.4,
+      "text": "E aí está tudo pronto"
+    },
+    {
+      "start": 55.4,
+      "end": 59.7,
+      "text": "Se por acaso elas estiverem com menos preenchimento, precisamos adicionar um modificador."
+    },
+    {
+      "start": 59.8,
+      "end": 62.4,
+      "text": "Botão direito e modificador de faixa de altura."
+    },
+    {
+      "start": 62.5,
+      "end": 67.0,
+      "text": "Na esquerda, em objeto, selecionamos o modificador e vamos mudar a faixa desse modificador."
+    },
+    {
+      "start": 67.1,
+      "end": 71.1,
+      "text": "A faixa deve estar na interface, eu escolhi 9,6 até 10,4."
+    },
+    {
+      "start": 71.1,
+      "end": 77.4,
+      "text": "Com o modificador selecionado, vamos aba-força e descemos até o preenchimento interno para mudá-lo para 100%."
+    },
+    {
+      "start": 77.4,
+      "end": 82.3,
+      "text": "Agora sim, na faixa do modificador, ou seja, na interface, o preenchimento estará em 100%."
+    },
+    {
+      "start": 82.3,
+      "end": 84.8,
+      "text": "E para empilhar ainda mais, é a mesma lógica."
+    },
+    {
+      "start": 84.8,
+      "end": 87.3,
+      "text": "Depois é só imprimir e destacar as peças."
+    },
+    {
+      "start": 87.4,
+      "end": 91.2,
+      "text": "E se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 91.6,
+  "model": "large-v3-turbo"
+}

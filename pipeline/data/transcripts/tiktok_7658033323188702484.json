@@ -1,0 +1,47 @@
+{
+  "text": "Dica rápida para utilizar o preenchimento como acabamento. Bem-vindo ao dia 227. No fatiador precisamos expor o preenchimento interno e para isso vamos zerar as camadas de topo, ou seja, da casca superior e também das camadas inferiores. E ao nosso gosto mexemos na densidade do preenchimento interno e também no padrão de preenchimento. Prontinho e depois de fatiado é só ver o resultado. Temos inúmeras possibilidades e agora é só testar aí. E se você quiser aprender o passo a passo para fazer letreiros como esses, entender o fatiador e encontrar as melhores configurações para cada projeto, comenta aí o quero que eu te mando o link do meu curso de letreiros com acesso vitalício.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Dica rápida para utilizar o preenchimento como acabamento."
+    },
+    {
+      "start": 4.1,
+      "end": 6.2,
+      "text": "Bem-vindo ao dia 227."
+    },
+    {
+      "start": 6.4,
+      "end": 15.9,
+      "text": "No fatiador precisamos expor o preenchimento interno e para isso vamos zerar as camadas de topo, ou seja, da casca superior e também das camadas inferiores."
+    },
+    {
+      "start": 16.1,
+      "end": 21.8,
+      "text": "E ao nosso gosto mexemos na densidade do preenchimento interno e também no padrão de preenchimento."
+    },
+    {
+      "start": 22.5,
+      "end": 24.9,
+      "text": "Prontinho e depois de fatiado é só ver o resultado."
+    },
+    {
+      "start": 25.2,
+      "end": 28.8,
+      "text": "Temos inúmeras possibilidades e agora é só testar aí."
+    },
+    {
+      "start": 28.8,
+      "end": 38.4,
+      "text": "E se você quiser aprender o passo a passo para fazer letreiros como esses, entender o fatiador e encontrar as melhores configurações para cada projeto,"
+    },
+    {
+      "start": 38.5,
+      "end": 43.0,
+      "text": "comenta aí o quero que eu te mando o link do meu curso de letreiros com acesso vitalício."
+    }
+  ],
+  "duration": 43.2,
+  "model": "large-v3-turbo"
+}

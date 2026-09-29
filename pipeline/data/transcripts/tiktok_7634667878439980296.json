@@ -1,0 +1,32 @@
+{
+  "text": "Eu fiz e imprimi esse letreiro para o dia das mães e ele também é um porta-foto. Bem-vindo ao dia 203. Tudo foi feito sem nenhum software de modelagem e até a foto foi impressa com o que eu ensinei lá no dia 145. E o passo a passo para fazer esses letreiros personalizados, inclusive as configurações de impressão, está disponível no meu curso. Se você tiver interesse para fazer esse e muito mais, é só digitar eu quero que eu te mando o link.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Eu fiz e imprimi esse letreiro para o dia das mães e ele também é um porta-foto."
+    },
+    {
+      "start": 5.4,
+      "end": 7.3,
+      "text": "Bem-vindo ao dia 203."
+    },
+    {
+      "start": 7.5,
+      "end": 14.2,
+      "text": "Tudo foi feito sem nenhum software de modelagem e até a foto foi impressa com o que eu ensinei lá no dia 145."
+    },
+    {
+      "start": 14.2,
+      "end": 20.8,
+      "text": "E o passo a passo para fazer esses letreiros personalizados, inclusive as configurações de impressão, está disponível no meu curso."
+    },
+    {
+      "start": 20.8,
+      "end": 25.2,
+      "text": "Se você tiver interesse para fazer esse e muito mais, é só digitar eu quero que eu te mando o link."
+    }
+  ],
+  "duration": 25.5,
+  "model": "large-v3-turbo"
+}

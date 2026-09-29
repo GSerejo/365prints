@@ -1,0 +1,72 @@
+{
+  "text": "Eu removi esse resíduo branco de super cola. Bem-vindo ao dia 118 e esses foram meus dois projetos para a brincadeira do Halloween. E para remover aquela parte branca, primeiro eu testei um soprador térmico, que não resolveu. Depois foi um removedor de esmalte à base de acetona, que parecia que ia dar certo, mas no final, quando a acetona evapora, o branco ainda está lá. E o que realmente minimizou foi um maçarico. Utilize a chama azul, mas cuidado que o PLA é extremamente sensível à temperatura. E na primeira tentativa eu exagerei um pouco O ideal é passar a chama bem rápido E pra confirmar a eficiência eu fiz um outro teste nesse projetinho que tinha dado errado Veja que a chama minimiza esses resíduos brancos Só que se aplicada em excesso traz um brilho diferente do PLA e pode até destruí-lo Então utilize com muita cautela Não se esqueça de conferir os outros modelos de Halloween feitos pelos makers marcados nesse post E pra ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Eu removi esse resíduo branco de super cola."
+    },
+    {
+      "start": 3.2,
+      "end": 8.3,
+      "text": "Bem-vindo ao dia 118 e esses foram meus dois projetos para a brincadeira do Halloween."
+    },
+    {
+      "start": 8.5,
+      "end": 13.5,
+      "text": "E para remover aquela parte branca, primeiro eu testei um soprador térmico, que não resolveu."
+    },
+    {
+      "start": 13.9,
+      "end": 21.1,
+      "text": "Depois foi um removedor de esmalte à base de acetona, que parecia que ia dar certo, mas no final, quando a acetona evapora, o branco ainda está lá."
+    },
+    {
+      "start": 21.1,
+      "end": 27.9,
+      "text": "E o que realmente minimizou foi um maçarico. Utilize a chama azul, mas cuidado que o PLA é extremamente sensível à temperatura."
+    },
+    {
+      "start": 27.9,
+      "end": 30.1,
+      "text": "E na primeira tentativa eu exagerei um pouco"
+    },
+    {
+      "start": 30.1,
+      "end": 32.0,
+      "text": "O ideal é passar a chama bem rápido"
+    },
+    {
+      "start": 32.0,
+      "end": 36.6,
+      "text": "E pra confirmar a eficiência eu fiz um outro teste nesse projetinho que tinha dado errado"
+    },
+    {
+      "start": 36.6,
+      "end": 39.3,
+      "text": "Veja que a chama minimiza esses resíduos brancos"
+    },
+    {
+      "start": 39.3,
+      "end": 43.9,
+      "text": "Só que se aplicada em excesso traz um brilho diferente do PLA e pode até destruí-lo"
+    },
+    {
+      "start": 43.9,
+      "end": 46.3,
+      "text": "Então utilize com muita cautela"
+    },
+    {
+      "start": 46.3,
+      "end": 50.9,
+      "text": "Não se esqueça de conferir os outros modelos de Halloween feitos pelos makers marcados nesse post"
+    },
+    {
+      "start": 50.9,
+      "end": 53.3,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 53.7,
+  "model": "large-v3-turbo"
+}

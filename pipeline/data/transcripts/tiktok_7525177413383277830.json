@@ -1,0 +1,47 @@
+{
+  "text": "Eu sou o Legendário 96551 e hoje eu imprimi uma lembrança do meu top, então bora ver como é que ficou. Bem-vindo ao dia 38 de 365 Impressões 3D aqui em casa. Depois de projetar tudo no Fusum 360, é só iniciar a impressão. Atenção, Legendários é uma marca registrada E eu não estou comercializando esse produto Se você quiser adquirir algum produto dos Legendários Procure um canal oficial E até a próxima",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.3,
+      "text": "Eu sou o Legendário 96551 e hoje eu imprimi uma lembrança do meu top, então bora ver como é que ficou."
+    },
+    {
+      "start": 9.5,
+      "end": 15.5,
+      "text": "Bem-vindo ao dia 38 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 15.7,
+      "end": 21.1,
+      "text": "Depois de projetar tudo no Fusum 360, é só iniciar a impressão."
+    },
+    {
+      "start": 21.1,
+      "end": 39.4,
+      "text": "Atenção, Legendários é uma marca registrada"
+    },
+    {
+      "start": 39.4,
+      "end": 42.1,
+      "text": "E eu não estou comercializando esse produto"
+    },
+    {
+      "start": 42.1,
+      "end": 45.5,
+      "text": "Se você quiser adquirir algum produto dos Legendários"
+    },
+    {
+      "start": 45.5,
+      "end": 47.5,
+      "text": "Procure um canal oficial"
+    },
+    {
+      "start": 47.5,
+      "end": 48.7,
+      "text": "E até a próxima"
+    }
+  ],
+  "duration": 48.7,
+  "model": "large-v3-turbo"
+}

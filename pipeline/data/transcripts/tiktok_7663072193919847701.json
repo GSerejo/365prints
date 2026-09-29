@@ -1,0 +1,177 @@
+{
+  "text": "Como imprimir Action Figures com mais qualidade? Bem-vindo ao dia 234! A regra de ouro é clara, quanto mais lento, melhor. É por isso que eu indico utilizar perfis com altura de camada menor. No mínimo, eu utilizo 0.16 e para peças menores 0.12 ou até mesmo 0.08. Além de uma melhor resolução para utilizar uma altura de camada menor, todos esses perfis já trabalham com velocidades e acelerações mais conservadoras. A aba qualidade, eu altero a ordem de paredes para interno, externo e interno. E eu já expliquei isso no dia 217. Ainda na aba qualidade, eu coloco não aplicado para apenas uma parede na casca superior. E para a ordem de paredes funcionar, eu coloco pelo menos três paredes. O padrão da superfície superior é o concêntrico e eu coloco o giroide com 5% de preenchimento. Nesses perfis high quality, apenas isso que eu altero. Para os suportes, assista o vídeo do dia 160. E agora o mais importante, a orientação. Modeladores bons já deixam pré-orientado, mas alguma coisa dá sempre para melhorar. Os olhos desse modelo vinham separados e nessa orientação as linhas de impressão são visíveis. É por isso que eu gosto de mesclar os olhos com a cabeça e posicioná-los manualmente. Esse trabalho requer paciência. Em geral, aumento 3% as peças de encaixe e aí não fica nenhum buraco visível. E esse é o resultado com 0,08 de altura de camada. A impressão dos olhos segue a orientação da cabeça, que é ótima para a qualidade. Poderia ter juntado também a sobrancelha, mas como era uma cor só, eu deixei separado. Outra mudança que eu fiz foi no cabelo. Olha essas pequenas pontinhas. O suporte sem marcar toda essa franja aqui, provavelmente essas pontinhas iriam quebrar na remoção. É por isso que eu reorientei o cabelo pra deixar o suporte numa região não visível. Dessa forma, a franja fica sem suporte. As marcas estão lá e eu até utilizei PETG na interface. Mas a frente do modelo fica sem nenhuma marca e com ótimo acabamento. E pra ganhar um pouco de tempo em algumas peças dá pra utilizar a altura de camada variável Eu não utilizo muito porque pra alguns filamentos como o Silk ficam marcas das transições E é claro que modelos bem divididos como esse com bons encaixes ajudam demais E se vocês gostaram desse vídeo não esqueça de me seguir pra ter conteúdo de 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "Como imprimir Action Figures com mais qualidade?"
+    },
+    {
+      "start": 3.8,
+      "end": 6.4,
+      "text": "Bem-vindo ao dia 234!"
+    },
+    {
+      "start": 6.5,
+      "end": 9.8,
+      "text": "A regra de ouro é clara, quanto mais lento, melhor."
+    },
+    {
+      "start": 10.0,
+      "end": 13.3,
+      "text": "É por isso que eu indico utilizar perfis com altura de camada menor."
+    },
+    {
+      "start": 13.4,
+      "end": 19.3,
+      "text": "No mínimo, eu utilizo 0.16 e para peças menores 0.12 ou até mesmo 0.08."
+    },
+    {
+      "start": 19.4,
+      "end": 22.5,
+      "text": "Além de uma melhor resolução para utilizar uma altura de camada menor,"
+    },
+    {
+      "start": 22.7,
+      "end": 26.5,
+      "text": "todos esses perfis já trabalham com velocidades e acelerações mais conservadoras."
+    },
+    {
+      "start": 26.5,
+      "end": 30.8,
+      "text": "A aba qualidade, eu altero a ordem de paredes para interno, externo e interno."
+    },
+    {
+      "start": 30.8,
+      "end": 33.1,
+      "text": "E eu já expliquei isso no dia 217."
+    },
+    {
+      "start": 33.2,
+      "end": 37.4,
+      "text": "Ainda na aba qualidade, eu coloco não aplicado para apenas uma parede na casca superior."
+    },
+    {
+      "start": 37.5,
+      "end": 40.8,
+      "text": "E para a ordem de paredes funcionar, eu coloco pelo menos três paredes."
+    },
+    {
+      "start": 40.9,
+      "end": 46.1,
+      "text": "O padrão da superfície superior é o concêntrico e eu coloco o giroide com 5% de preenchimento."
+    },
+    {
+      "start": 46.2,
+      "end": 49.4,
+      "text": "Nesses perfis high quality, apenas isso que eu altero."
+    },
+    {
+      "start": 49.5,
+      "end": 51.7,
+      "text": "Para os suportes, assista o vídeo do dia 160."
+    },
+    {
+      "start": 51.7,
+      "end": 54.7,
+      "text": "E agora o mais importante, a orientação."
+    },
+    {
+      "start": 55.6,
+      "end": 60.3,
+      "text": "Modeladores bons já deixam pré-orientado, mas alguma coisa dá sempre para melhorar."
+    },
+    {
+      "start": 60.3,
+      "end": 65.3,
+      "text": "Os olhos desse modelo vinham separados e nessa orientação as linhas de impressão são visíveis."
+    },
+    {
+      "start": 65.5,
+      "end": 70.1,
+      "text": "É por isso que eu gosto de mesclar os olhos com a cabeça e posicioná-los manualmente."
+    },
+    {
+      "start": 70.2,
+      "end": 72.1,
+      "text": "Esse trabalho requer paciência."
+    },
+    {
+      "start": 72.2,
+      "end": 76.7,
+      "text": "Em geral, aumento 3% as peças de encaixe e aí não fica nenhum buraco visível."
+    },
+    {
+      "start": 76.8,
+      "end": 80.6,
+      "text": "E esse é o resultado com 0,08 de altura de camada."
+    },
+    {
+      "start": 80.6,
+      "end": 84.6,
+      "text": "A impressão dos olhos segue a orientação da cabeça, que é ótima para a qualidade."
+    },
+    {
+      "start": 84.7,
+      "end": 89.4,
+      "text": "Poderia ter juntado também a sobrancelha, mas como era uma cor só, eu deixei separado."
+    },
+    {
+      "start": 89.5,
+      "end": 91.1,
+      "text": "Outra mudança que eu fiz foi no cabelo."
+    },
+    {
+      "start": 91.2,
+      "end": 92.8,
+      "text": "Olha essas pequenas pontinhas."
+    },
+    {
+      "start": 93.0,
+      "end": 97.6,
+      "text": "O suporte sem marcar toda essa franja aqui, provavelmente essas pontinhas iriam quebrar na remoção."
+    },
+    {
+      "start": 97.7,
+      "end": 102.3,
+      "text": "É por isso que eu reorientei o cabelo pra deixar o suporte numa região não visível."
+    },
+    {
+      "start": 102.6,
+      "end": 105.1,
+      "text": "Dessa forma, a franja fica sem suporte."
+    },
+    {
+      "start": 105.3,
+      "end": 108.2,
+      "text": "As marcas estão lá e eu até utilizei PETG na interface."
+    },
+    {
+      "start": 108.4,
+      "end": 112.6,
+      "text": "Mas a frente do modelo fica sem nenhuma marca e com ótimo acabamento."
+    },
+    {
+      "start": 112.6,
+      "end": 117.1,
+      "text": "E pra ganhar um pouco de tempo em algumas peças dá pra utilizar a altura de camada variável"
+    },
+    {
+      "start": 117.1,
+      "end": 121.5,
+      "text": "Eu não utilizo muito porque pra alguns filamentos como o Silk ficam marcas das transições"
+    },
+    {
+      "start": 121.5,
+      "end": 126.7,
+      "text": "E é claro que modelos bem divididos como esse com bons encaixes ajudam demais"
+    },
+    {
+      "start": 126.7,
+      "end": 132.3,
+      "text": "E se vocês gostaram desse vídeo não esqueça de me seguir pra ter conteúdo de 3D todos os dias"
+    }
+  ],
+  "duration": 132.8,
+  "model": "large-v3-turbo"
+}

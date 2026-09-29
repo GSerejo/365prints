@@ -1,0 +1,57 @@
+{
+  "text": "Você não precisa saber modelagem para aprender a fazer um letreiro iluminado. Bem-vindo ao dia 196! Praticamente tudo foi feito direto no fatiador com ferramentas que já estão disponíveis. Os encais, por exemplo, utilizam o recurso de parte negativa e as compensações de furo e contorno. Tudo isso para criar uma tolerância no seu letreiro personalizado. E eu já falei muito disso nesse perfil. Mas na aula 5 do meu curso de letreiros eu ensino passo a passo de como fazer esse modelo completo com LED por dentro. Se você quiser aprender todos os detalhes de como eu faço as letreiras e as configurações ideais, é só digitar eu quero nos comentários que eu te mando o link do meu curso com acesso vitalício. E pra ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Você não precisa saber modelagem para aprender a fazer um letreiro iluminado."
+    },
+    {
+      "start": 4.9,
+      "end": 6.7,
+      "text": "Bem-vindo ao dia 196!"
+    },
+    {
+      "start": 7.1,
+      "end": 11.6,
+      "text": "Praticamente tudo foi feito direto no fatiador com ferramentas que já estão disponíveis."
+    },
+    {
+      "start": 11.7,
+      "end": 17.2,
+      "text": "Os encais, por exemplo, utilizam o recurso de parte negativa e as compensações de furo e contorno."
+    },
+    {
+      "start": 17.3,
+      "end": 20.6,
+      "text": "Tudo isso para criar uma tolerância no seu letreiro personalizado."
+    },
+    {
+      "start": 20.6,
+      "end": 22.6,
+      "text": "E eu já falei muito disso nesse perfil."
+    },
+    {
+      "start": 22.7,
+      "end": 28.7,
+      "text": "Mas na aula 5 do meu curso de letreiros eu ensino passo a passo de como fazer esse modelo completo com LED por dentro."
+    },
+    {
+      "start": 28.7,
+      "end": 33.5,
+      "text": "Se você quiser aprender todos os detalhes de como eu faço as letreiras e as configurações ideais,"
+    },
+    {
+      "start": 33.6,
+      "end": 38.0,
+      "text": "é só digitar eu quero nos comentários que eu te mando o link do meu curso com acesso vitalício."
+    },
+    {
+      "start": 38.1,
+      "end": 40.6,
+      "text": "E pra ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 40.8,
+  "model": "large-v3-turbo"
+}

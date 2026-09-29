@@ -1,0 +1,202 @@
+{
+  "text": "Dicas para evitar suportes indesejados e melhorar o acabamento. Bem-vindo ao dia 56 e esse era o boné do Donatello. Com um grande problema, os suportes estragaram o acabamento da aba do boné. Então vamos ver o que a gente pode fazer. Por padrão, o ângulo limite dos suportes é 30 graus, ou seja, se o ângulo da superfície em relação ao horizonte for menor que 30 graus, o fatiador vai pôr suporte quando o tipo automático está biletado. E esse foi o problema inicial A peça ficou cheia de suporte e na remoção estragou o acabamento Alguns podem falar para diminuir o ângulo Ou habilitar essa função de oferecer suporte somente nas áreas críticas Nesse caso o fatiador analisa os ângulos das superfícies inclinadas E aplica suporte apenas nas áreas que não conseguem se sustentar sozinhas E pelo visto funcionou, porque os suportes sumiram Só que na prática a impressora não conseguiu suportar esse overhang na ponta da aba Podem existir várias soluções para esse caso Mas é que eu encontrei e vou falar a seguir Uma solução adequada é girar a peça num ângulo maior que 30 graus Eu utilizei 45 nesse caso Assim eu evitaria os suportes na frente da peça E com essa opção habilitada eu fatiei o modelo E novamente estamos sem suporte Só que a aderência da peça com a mesa é muito pequena Então vamos usar a opção de suportes manuais para entender um pouco mais Aqui você pode destacar as saliências Ou seja, as áreas inferiores a 30 graus ao ângulo que você desejar E na parte de trás do boné a gente verifica que precisa de suportes A gente pega o pincel e pinta as regiões Mas não será um problema porque ali é uma região de encaixe do laço do Donatello Na frente tem algumas saliências também Mas eu resolvi arriscar porque eram muito pequenas E pra evitar que a peça se solte da mesa Eu coloquei suporte nessa área que é de encaixe também Agora com o tipo manual habilitado a gente fatia o modelo Com suporte na região que a gente pintou é só mandar imprimir Mas não se esqueçam antes de utilizar a ferramenta de altura de camada variável Pra evitar esses degraus que eu expliquei no dia 54 E pronto, o boné é impresso com sucesso e com um bom acabamento na frente. Espero que essa dica tenha sido útil para você que está enfrentando dificuldade com os suportes. Agora, se você gostou, não se esqueça de me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Dicas para evitar suportes indesejados e melhorar o acabamento."
+    },
+    {
+      "start": 5.1,
+      "end": 10.1,
+      "text": "Bem-vindo ao dia 56 e esse era o boné do Donatello."
+    },
+    {
+      "start": 10.2,
+      "end": 15.2,
+      "text": "Com um grande problema, os suportes estragaram o acabamento da aba do boné."
+    },
+    {
+      "start": 15.3,
+      "end": 16.9,
+      "text": "Então vamos ver o que a gente pode fazer."
+    },
+    {
+      "start": 16.9,
+      "end": 26.1,
+      "text": "Por padrão, o ângulo limite dos suportes é 30 graus, ou seja, se o ângulo da superfície em relação ao horizonte for menor que 30 graus,"
+    },
+    {
+      "start": 26.2,
+      "end": 29.9,
+      "text": "o fatiador vai pôr suporte quando o tipo automático está biletado."
+    },
+    {
+      "start": 30.0,
+      "end": 31.9,
+      "text": "E esse foi o problema inicial"
+    },
+    {
+      "start": 31.9,
+      "end": 35.3,
+      "text": "A peça ficou cheia de suporte e na remoção estragou o acabamento"
+    },
+    {
+      "start": 35.3,
+      "end": 37.3,
+      "text": "Alguns podem falar para diminuir o ângulo"
+    },
+    {
+      "start": 37.3,
+      "end": 41.7,
+      "text": "Ou habilitar essa função de oferecer suporte somente nas áreas críticas"
+    },
+    {
+      "start": 41.7,
+      "end": 45.4,
+      "text": "Nesse caso o fatiador analisa os ângulos das superfícies inclinadas"
+    },
+    {
+      "start": 45.4,
+      "end": 49.3,
+      "text": "E aplica suporte apenas nas áreas que não conseguem se sustentar sozinhas"
+    },
+    {
+      "start": 49.3,
+      "end": 52.2,
+      "text": "E pelo visto funcionou, porque os suportes sumiram"
+    },
+    {
+      "start": 52.2,
+      "end": 56.6,
+      "text": "Só que na prática a impressora não conseguiu suportar esse overhang na ponta da aba"
+    },
+    {
+      "start": 56.6,
+      "end": 58.9,
+      "text": "Podem existir várias soluções para esse caso"
+    },
+    {
+      "start": 58.9,
+      "end": 61.1,
+      "text": "Mas é que eu encontrei e vou falar a seguir"
+    },
+    {
+      "start": 61.1,
+      "end": 65.1,
+      "text": "Uma solução adequada é girar a peça num ângulo maior que 30 graus"
+    },
+    {
+      "start": 65.1,
+      "end": 67.0,
+      "text": "Eu utilizei 45 nesse caso"
+    },
+    {
+      "start": 67.0,
+      "end": 69.3,
+      "text": "Assim eu evitaria os suportes na frente da peça"
+    },
+    {
+      "start": 69.3,
+      "end": 71.6,
+      "text": "E com essa opção habilitada eu fatiei o modelo"
+    },
+    {
+      "start": 71.6,
+      "end": 73.1,
+      "text": "E novamente estamos sem suporte"
+    },
+    {
+      "start": 73.1,
+      "end": 75.7,
+      "text": "Só que a aderência da peça com a mesa é muito pequena"
+    },
+    {
+      "start": 75.7,
+      "end": 79.1,
+      "text": "Então vamos usar a opção de suportes manuais para entender um pouco mais"
+    },
+    {
+      "start": 79.1,
+      "end": 81.0,
+      "text": "Aqui você pode destacar as saliências"
+    },
+    {
+      "start": 81.0,
+      "end": 84.5,
+      "text": "Ou seja, as áreas inferiores a 30 graus ao ângulo que você desejar"
+    },
+    {
+      "start": 84.5,
+      "end": 87.6,
+      "text": "E na parte de trás do boné a gente verifica que precisa de suportes"
+    },
+    {
+      "start": 87.6,
+      "end": 89.5,
+      "text": "A gente pega o pincel e pinta as regiões"
+    },
+    {
+      "start": 89.5,
+      "end": 93.7,
+      "text": "Mas não será um problema porque ali é uma região de encaixe do laço do Donatello"
+    },
+    {
+      "start": 93.7,
+      "end": 95.6,
+      "text": "Na frente tem algumas saliências também"
+    },
+    {
+      "start": 95.6,
+      "end": 97.9,
+      "text": "Mas eu resolvi arriscar porque eram muito pequenas"
+    },
+    {
+      "start": 97.9,
+      "end": 99.9,
+      "text": "E pra evitar que a peça se solte da mesa"
+    },
+    {
+      "start": 99.9,
+      "end": 102.5,
+      "text": "Eu coloquei suporte nessa área que é de encaixe também"
+    },
+    {
+      "start": 102.5,
+      "end": 105.5,
+      "text": "Agora com o tipo manual habilitado a gente fatia o modelo"
+    },
+    {
+      "start": 105.5,
+      "end": 108.5,
+      "text": "Com suporte na região que a gente pintou é só mandar imprimir"
+    },
+    {
+      "start": 108.5,
+      "end": 112.6,
+      "text": "Mas não se esqueçam antes de utilizar a ferramenta de altura de camada variável"
+    },
+    {
+      "start": 112.6,
+      "end": 115.3,
+      "text": "Pra evitar esses degraus que eu expliquei no dia 54"
+    },
+    {
+      "start": 115.3,
+      "end": 119.3,
+      "text": "E pronto, o boné é impresso com sucesso e com um bom acabamento na frente."
+    },
+    {
+      "start": 119.5,
+      "end": 123.5,
+      "text": "Espero que essa dica tenha sido útil para você que está enfrentando dificuldade com os suportes."
+    },
+    {
+      "start": 123.5,
+      "end": 125.8,
+      "text": "Agora, se você gostou, não se esqueça de me seguir."
+    }
+  ],
+  "duration": 126.1,
+  "model": "large-v3-turbo"
+}

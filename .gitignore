@@ -1,0 +1,8 @@
+# Vídeos, quadros e sessões baixados localmente (nunca versionar)
+pipeline/.cache/
+pipeline/.venv/
+__pycache__/
+*.session
+.env*
+node_modules/
+!.env.example

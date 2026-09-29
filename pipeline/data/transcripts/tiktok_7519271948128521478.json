@@ -1,0 +1,102 @@
+{
+  "text": "Imprimir colorido compensa? Será que vale a pena você que está iniciando a comprar um combo com AMS? É isso que eu vou responder aqui nesse vídeo hoje. Bem-vindo ao dia 28 de 365 Impressões 3D aqui em casa. Esse é o AMS, o dispositivo que possibilita a troca automática de cor em cada camada. Mas vamos ver se compensa. Primeiro, é importante destacar a diferença de preço. Agora, vamos para um exemplo prático. Esse é o Pokémon Gengar, fatiado numa impressão multicolor. Em cada camada, o AMS é responsável por trocar as quatro cores. E isso deixa o tempo de impressão bem alto e o consumo de filamento muito maior. Em contrapartida, temos a impressão multipartes, que é basicamente imprimir cada cor de forma separada, sem a utilização do AMS. E isso resulta numa economia gigantesca de tempo e de filamento. Portanto, se você estiver começando, ter uma impressora que imprime em multicor não é obrigatório. A diferença de preço, você pode comprar vários filamentos e várias cores diferentes. E na internet tem vários projetos multipartes, que são igual esse hook aqui, em que você imprime as partes separadas e depois junta no final. E isso é mais econômico no tempo e na quantidade de filamento utilizado. Gostou desse conteúdo? Então curta e compartilhe com seus amigos.",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 7.7,
+      "text": "Imprimir colorido compensa? Será que vale a pena você que está iniciando a comprar um combo com AMS?"
+    },
+    {
+      "start": 7.9,
+      "end": 10.2,
+      "text": "É isso que eu vou responder aqui nesse vídeo hoje."
+    },
+    {
+      "start": 10.9,
+      "end": 17.2,
+      "text": "Bem-vindo ao dia 28 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 17.4,
+      "end": 23.0,
+      "text": "Esse é o AMS, o dispositivo que possibilita a troca automática de cor em cada camada."
+    },
+    {
+      "start": 23.0,
+      "end": 27.5,
+      "text": "Mas vamos ver se compensa. Primeiro, é importante destacar a diferença de preço."
+    },
+    {
+      "start": 28.2,
+      "end": 30.6,
+      "text": "Agora, vamos para um exemplo prático."
+    },
+    {
+      "start": 30.8,
+      "end": 34.8,
+      "text": "Esse é o Pokémon Gengar, fatiado numa impressão multicolor."
+    },
+    {
+      "start": 35.0,
+      "end": 39.1,
+      "text": "Em cada camada, o AMS é responsável por trocar as quatro cores."
+    },
+    {
+      "start": 39.8,
+      "end": 45.9,
+      "text": "E isso deixa o tempo de impressão bem alto e o consumo de filamento muito maior."
+    },
+    {
+      "start": 46.2,
+      "end": 49.9,
+      "text": "Em contrapartida, temos a impressão multipartes,"
+    },
+    {
+      "start": 50.3,
+      "end": 54.8,
+      "text": "que é basicamente imprimir cada cor de forma separada, sem a utilização do AMS."
+    },
+    {
+      "start": 54.8,
+      "end": 59.6,
+      "text": "E isso resulta numa economia gigantesca de tempo e de filamento."
+    },
+    {
+      "start": 59.7,
+      "end": 66.1,
+      "text": "Portanto, se você estiver começando, ter uma impressora que imprime em multicor não é obrigatório."
+    },
+    {
+      "start": 66.4,
+      "end": 71.0,
+      "text": "A diferença de preço, você pode comprar vários filamentos e várias cores diferentes."
+    },
+    {
+      "start": 71.1,
+      "end": 75.7,
+      "text": "E na internet tem vários projetos multipartes, que são igual esse hook aqui,"
+    },
+    {
+      "start": 75.8,
+      "end": 79.1,
+      "text": "em que você imprime as partes separadas e depois junta no final."
+    },
+    {
+      "start": 79.2,
+      "end": 83.6,
+      "text": "E isso é mais econômico no tempo e na quantidade de filamento utilizado."
+    },
+    {
+      "start": 83.6,
+      "end": 84.7,
+      "text": "Gostou desse conteúdo?"
+    },
+    {
+      "start": 85.3,
+      "end": 87.5,
+      "text": "Então curta e compartilhe com seus amigos."
+    }
+  ],
+  "duration": 88.9,
+  "model": "large-v3-turbo"
+}

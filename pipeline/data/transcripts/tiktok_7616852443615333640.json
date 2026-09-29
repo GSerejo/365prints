@@ -1,0 +1,82 @@
+{
+  "text": "Papel filme na interface do suporte funciona? Bem-vindo ao dia 182 e além do papel filme eu testei canetinha acrílica e um marcador de texto. A ideia era criar uma barreira para que o suporte em PLA não funda na peça. E para isso eu coloquei a distância Z superior em 0 e o espaçamento da interface em 0 também. Então é só criar um pause na camada após a interface para dar tempo de colocar papel filme e pintar. Mas e aí, será que deu certo? Com o marcador de texto deu boa Mas a peça ficou manchada O mesmo resultado eu tive com a canetinha acrílica E o teste com papel filme de PVC A peça saiu inteirinha e com acabamento incrível na interface E isso pode ser uma alternativa em áreas planas Pra quem não quer gastar PETG Gostaram desse vídeo? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Papel filme na interface do suporte funciona?"
+    },
+    {
+      "start": 4.0,
+      "end": 10.2,
+      "text": "Bem-vindo ao dia 182 e além do papel filme eu testei canetinha acrílica e um marcador de texto."
+    },
+    {
+      "start": 10.3,
+      "end": 14.8,
+      "text": "A ideia era criar uma barreira para que o suporte em PLA não funda na peça."
+    },
+    {
+      "start": 14.9,
+      "end": 19.7,
+      "text": "E para isso eu coloquei a distância Z superior em 0 e o espaçamento da interface em 0 também."
+    },
+    {
+      "start": 19.8,
+      "end": 25.1,
+      "text": "Então é só criar um pause na camada após a interface para dar tempo de colocar papel filme e pintar."
+    },
+    {
+      "start": 25.2,
+      "end": 26.6,
+      "text": "Mas e aí, será que deu certo?"
+    },
+    {
+      "start": 26.6,
+      "end": 28.6,
+      "text": "Com o marcador de texto deu boa"
+    },
+    {
+      "start": 28.6,
+      "end": 30.2,
+      "text": "Mas a peça ficou manchada"
+    },
+    {
+      "start": 30.2,
+      "end": 33.6,
+      "text": "O mesmo resultado eu tive com a canetinha acrílica"
+    },
+    {
+      "start": 33.6,
+      "end": 35.6,
+      "text": "E o teste com papel filme de PVC"
+    },
+    {
+      "start": 35.6,
+      "end": 39.4,
+      "text": "A peça saiu inteirinha e com acabamento incrível na interface"
+    },
+    {
+      "start": 39.4,
+      "end": 42.1,
+      "text": "E isso pode ser uma alternativa em áreas planas"
+    },
+    {
+      "start": 42.1,
+      "end": 43.9,
+      "text": "Pra quem não quer gastar PETG"
+    },
+    {
+      "start": 43.9,
+      "end": 45.0,
+      "text": "Gostaram desse vídeo?"
+    },
+    {
+      "start": 45.1,
+      "end": 47.9,
+      "text": "Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 48.4,
+  "model": "large-v3-turbo"
+}

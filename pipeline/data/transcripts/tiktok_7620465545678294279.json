@@ -1,0 +1,37 @@
+{
+  "text": "Lá no dia 42 eu mostrei uma coleção de letreiros cristãos que eu criei. Aquilo explodiu, inspirou muita gente nos marketplaces e o hora e confio virou um sucesso absoluto de vendas. Bem-vindo ao dia 185. E a notícia boa é que eu acabei de liberar o curso onde eu te ensino a criar esses letreiros incríveis dentro do seu pateador. Além da modelagem fácil, eu mostro passo a passo de como configurar e imprimir com uma super qualidade. E se você quiser aprender essa técnica e fazer seus próprios letreiros, o curso está disponível no link da Bill.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "Lá no dia 42 eu mostrei uma coleção de letreiros cristãos que eu criei."
+    },
+    {
+      "start": 5.0,
+      "end": 12.4,
+      "text": "Aquilo explodiu, inspirou muita gente nos marketplaces e o hora e confio virou um sucesso absoluto de vendas."
+    },
+    {
+      "start": 12.9,
+      "end": 15.0,
+      "text": "Bem-vindo ao dia 185."
+    },
+    {
+      "start": 15.0,
+      "end": 21.7,
+      "text": "E a notícia boa é que eu acabei de liberar o curso onde eu te ensino a criar esses letreiros incríveis dentro do seu pateador."
+    },
+    {
+      "start": 21.7,
+      "end": 27.2,
+      "text": "Além da modelagem fácil, eu mostro passo a passo de como configurar e imprimir com uma super qualidade."
+    },
+    {
+      "start": 27.2,
+      "end": 33.2,
+      "text": "E se você quiser aprender essa técnica e fazer seus próprios letreiros, o curso está disponível no link da Bill."
+    }
+  ],
+  "duration": 33.5,
+  "model": "large-v3-turbo"
+}

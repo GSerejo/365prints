@@ -1,0 +1,297 @@
+{
+  "text": "Não adianta você ter uma Ferrari, comprar muitos acessórios, mas utilizar um combustível ruim. Entenderam o trocadilho, né? Hoje é o dia 61 e eu vou mostrar pra vocês que ter filamentos de qualidade é o melhor investimento que você pode fazer. O problema começou quando um seguidor tentou imprimir esse suporte de pincéis de maquiagem e a dificuldade era o aparecimento dessa bordinha aqui embaixo. E a causa mais provável dessas linhas é uma mudança significativa na estrutura interna da impressão. A impressora passa de uma seção densamente preenchida à base para uma seção mais oca. Muitos modeladores em 3D tentam mudar o seu modelo para evitar esse tipo de problema. Esse autor na tela aí é um exemplo. É um dos casos que ele tentou adicionar uma estrutura interna para reduzir a tensão e evitar essas linhas de expressão. E ele só conseguiu adicionando uma fuzz skin para disfarçar Mas eu não queria mexer no modelo e o problema estava lá Primeiro eu comecei com esse filamento aí que eu não vou falar a marca A ideia aqui não é queimar nenhum filamento Até porque eu já tive bons resultados com ele Portanto com o filamento calibrado e um bom bench eu comecei as impressões E os resultados foram desastrosos Eu parava a impressão porque as linhas estavam lá Eu passei por todas as etapas de calibração De forma minuciosa Aí começaram os testes Mudei o número de paredes, a ordem de impressão As velocidades, as acelerações A altura de camada E até refiz o teste de dinâmica de fluxo E antes que alguém me pergunte Eu alterava uma coisa por vezes e mandava imprimir Pra ver se aquela mudança teve efeito Foram horas de impressão, filamento jogado fora E só piorava Eu tenho certeza que alguém vai falar que é umidade Mas eu sequei o filamento e abri esse novo aí E com uma nova calibração Eu tive o mesmo problema Eu tava quase desistindo E ia falar que o problema era do modelo mesmo Foi quando eu comecei a observar a impressão E havia muitas inconsistências Partes boas, partes ruins Parece que o material não é homogêneo, né? E a conclusão que eu tive foi essa E veja bem, essa é a minha opinião Peças complexas, com textura e transições mais difíceis Expõem a verdade sobre o material E por que eu tô falando isso? Porque eu testei com um filamento de qualidade Simplesmente mandei imprimir sem calibração E antes que alguém fale, partindo daqui Agora dá pra melhorar Esse aí é o filamento da Bambu Lab E eu sei que é mais caro Mas minha dica final é Tenha sempre pelo menos 1kg de um bom filamento pra ter como referência Isso vai lhe economizar tempo e paciência E é claro, filamento ruim vai imprimir algumas peças bem feitas E eu não tô duvidando disso Então eu termino com outro trocadilho Se você quiser fazer um bolo de chocolate bom, utilize um chocolate de boa qualidade. E se você gostou desse vídeo, ele merece seu like.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.1,
+      "text": "Não adianta você ter uma Ferrari, comprar muitos acessórios, mas utilizar um combustível ruim."
+    },
+    {
+      "start": 8.3,
+      "end": 10.1,
+      "text": "Entenderam o trocadilho, né?"
+    },
+    {
+      "start": 10.3,
+      "end": 18.5,
+      "text": "Hoje é o dia 61 e eu vou mostrar pra vocês que ter filamentos de qualidade é o melhor investimento que você pode fazer."
+    },
+    {
+      "start": 18.5,
+      "end": 26.9,
+      "text": "O problema começou quando um seguidor tentou imprimir esse suporte de pincéis de maquiagem e a dificuldade era o aparecimento dessa bordinha aqui embaixo."
+    },
+    {
+      "start": 26.9,
+      "end": 33.7,
+      "text": "E a causa mais provável dessas linhas é uma mudança significativa na estrutura interna da impressão."
+    },
+    {
+      "start": 33.8,
+      "end": 39.4,
+      "text": "A impressora passa de uma seção densamente preenchida à base para uma seção mais oca."
+    },
+    {
+      "start": 39.7,
+      "end": 44.6,
+      "text": "Muitos modeladores em 3D tentam mudar o seu modelo para evitar esse tipo de problema."
+    },
+    {
+      "start": 44.8,
+      "end": 46.5,
+      "text": "Esse autor na tela aí é um exemplo."
+    },
+    {
+      "start": 46.9,
+      "end": 53.2,
+      "text": "É um dos casos que ele tentou adicionar uma estrutura interna para reduzir a tensão e evitar essas linhas de expressão."
+    },
+    {
+      "start": 53.2,
+      "end": 57.0,
+      "text": "E ele só conseguiu adicionando uma fuzz skin para disfarçar"
+    },
+    {
+      "start": 57.0,
+      "end": 60.2,
+      "text": "Mas eu não queria mexer no modelo e o problema estava lá"
+    },
+    {
+      "start": 60.2,
+      "end": 64.1,
+      "text": "Primeiro eu comecei com esse filamento aí que eu não vou falar a marca"
+    },
+    {
+      "start": 64.1,
+      "end": 66.2,
+      "text": "A ideia aqui não é queimar nenhum filamento"
+    },
+    {
+      "start": 66.2,
+      "end": 68.5,
+      "text": "Até porque eu já tive bons resultados com ele"
+    },
+    {
+      "start": 68.5,
+      "end": 72.8,
+      "text": "Portanto com o filamento calibrado e um bom bench eu comecei as impressões"
+    },
+    {
+      "start": 72.8,
+      "end": 75.7,
+      "text": "E os resultados foram desastrosos"
+    },
+    {
+      "start": 75.7,
+      "end": 78.2,
+      "text": "Eu parava a impressão porque as linhas estavam lá"
+    },
+    {
+      "start": 78.2,
+      "end": 81.3,
+      "text": "Eu passei por todas as etapas de calibração"
+    },
+    {
+      "start": 81.3,
+      "end": 83.1,
+      "text": "De forma minuciosa"
+    },
+    {
+      "start": 83.1,
+      "end": 84.6,
+      "text": "Aí começaram os testes"
+    },
+    {
+      "start": 84.6,
+      "end": 87.3,
+      "text": "Mudei o número de paredes, a ordem de impressão"
+    },
+    {
+      "start": 87.3,
+      "end": 89.7,
+      "text": "As velocidades, as acelerações"
+    },
+    {
+      "start": 89.7,
+      "end": 90.9,
+      "text": "A altura de camada"
+    },
+    {
+      "start": 90.9,
+      "end": 93.1,
+      "text": "E até refiz o teste de dinâmica de fluxo"
+    },
+    {
+      "start": 93.1,
+      "end": 94.3,
+      "text": "E antes que alguém me pergunte"
+    },
+    {
+      "start": 94.3,
+      "end": 96.8,
+      "text": "Eu alterava uma coisa por vezes e mandava imprimir"
+    },
+    {
+      "start": 96.8,
+      "end": 98.7,
+      "text": "Pra ver se aquela mudança teve efeito"
+    },
+    {
+      "start": 98.7,
+      "end": 101.3,
+      "text": "Foram horas de impressão, filamento jogado fora"
+    },
+    {
+      "start": 101.3,
+      "end": 102.5,
+      "text": "E só piorava"
+    },
+    {
+      "start": 102.5,
+      "end": 105.3,
+      "text": "Eu tenho certeza que alguém vai falar que é umidade"
+    },
+    {
+      "start": 105.3,
+      "end": 108.0,
+      "text": "Mas eu sequei o filamento e abri esse novo aí"
+    },
+    {
+      "start": 108.0,
+      "end": 109.7,
+      "text": "E com uma nova calibração"
+    },
+    {
+      "start": 109.7,
+      "end": 111.4,
+      "text": "Eu tive o mesmo problema"
+    },
+    {
+      "start": 111.4,
+      "end": 113.1,
+      "text": "Eu tava quase desistindo"
+    },
+    {
+      "start": 113.1,
+      "end": 115.4,
+      "text": "E ia falar que o problema era do modelo mesmo"
+    },
+    {
+      "start": 115.4,
+      "end": 118.4,
+      "text": "Foi quando eu comecei a observar a impressão"
+    },
+    {
+      "start": 118.4,
+      "end": 120.4,
+      "text": "E havia muitas inconsistências"
+    },
+    {
+      "start": 120.4,
+      "end": 122.3,
+      "text": "Partes boas, partes ruins"
+    },
+    {
+      "start": 122.3,
+      "end": 125.1,
+      "text": "Parece que o material não é homogêneo, né?"
+    },
+    {
+      "start": 125.1,
+      "end": 127.1,
+      "text": "E a conclusão que eu tive foi essa"
+    },
+    {
+      "start": 127.1,
+      "end": 129.5,
+      "text": "E veja bem, essa é a minha opinião"
+    },
+    {
+      "start": 129.5,
+      "end": 133.6,
+      "text": "Peças complexas, com textura e transições mais difíceis"
+    },
+    {
+      "start": 133.6,
+      "end": 136.4,
+      "text": "Expõem a verdade sobre o material"
+    },
+    {
+      "start": 136.4,
+      "end": 137.8,
+      "text": "E por que eu tô falando isso?"
+    },
+    {
+      "start": 137.8,
+      "end": 140.5,
+      "text": "Porque eu testei com um filamento de qualidade"
+    },
+    {
+      "start": 140.5,
+      "end": 143.6,
+      "text": "Simplesmente mandei imprimir sem calibração"
+    },
+    {
+      "start": 143.6,
+      "end": 146.0,
+      "text": "E antes que alguém fale, partindo daqui"
+    },
+    {
+      "start": 146.0,
+      "end": 147.3,
+      "text": "Agora dá pra melhorar"
+    },
+    {
+      "start": 147.3,
+      "end": 149.2,
+      "text": "Esse aí é o filamento da Bambu Lab"
+    },
+    {
+      "start": 149.2,
+      "end": 150.3,
+      "text": "E eu sei que é mais caro"
+    },
+    {
+      "start": 150.3,
+      "end": 151.6,
+      "text": "Mas minha dica final é"
+    },
+    {
+      "start": 151.6,
+      "end": 156.8,
+      "text": "Tenha sempre pelo menos 1kg de um bom filamento pra ter como referência"
+    },
+    {
+      "start": 156.8,
+      "end": 159.3,
+      "text": "Isso vai lhe economizar tempo e paciência"
+    },
+    {
+      "start": 159.3,
+      "end": 162.6,
+      "text": "E é claro, filamento ruim vai imprimir algumas peças bem feitas"
+    },
+    {
+      "start": 162.6,
+      "end": 164.2,
+      "text": "E eu não tô duvidando disso"
+    },
+    {
+      "start": 164.2,
+      "end": 166.7,
+      "text": "Então eu termino com outro trocadilho"
+    },
+    {
+      "start": 166.7,
+      "end": 172.2,
+      "text": "Se você quiser fazer um bolo de chocolate bom, utilize um chocolate de boa qualidade."
+    },
+    {
+      "start": 172.6,
+      "end": 175.7,
+      "text": "E se você gostou desse vídeo, ele merece seu like."
+    }
+  ],
+  "duration": 177.4,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,27 @@
+{
+  "text": "Dia 1 de 365 impressões 3D aqui em casa. Estava precisando de um suporte de roupas para não deixar as roupas jogadas em qualquer canto. Fui no site oficial da Bambu Lab para encontrar um modelinho que me agradava. Agora é só imprimir. Essa peça vai me custar mais ou menos R$ 6,91, considerando já o custo do filamento e da energia elétrica. Problema resolvido!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.9,
+      "text": "Dia 1 de 365 impressões 3D aqui em casa. Estava precisando de um suporte de roupas para não deixar as roupas jogadas em qualquer canto."
+    },
+    {
+      "start": 11.2,
+      "end": 19.6,
+      "text": "Fui no site oficial da Bambu Lab para encontrar um modelinho que me agradava. Agora é só imprimir."
+    },
+    {
+      "start": 20.4,
+      "end": 29.5,
+      "text": "Essa peça vai me custar mais ou menos R$ 6,91, considerando já o custo do filamento e da energia elétrica."
+    },
+    {
+      "start": 33.8,
+      "end": 35.5,
+      "text": "Problema resolvido!"
+    }
+  ],
+  "duration": 36.0,
+  "model": "large-v3-turbo"
+}

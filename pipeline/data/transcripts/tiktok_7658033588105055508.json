@@ -1,0 +1,87 @@
+{
+  "text": "Três dicas rápidas para melhorar a qualidade das suas pontes. Bem-vindo ao dia 228. Uma ponte é quando há extrusão de material de uma ponta até a outra completamente no ar. E num exemplo prático, nessa caixinha aqui, temos essa cavidade para encaixar o troféu. Durante a impressão, a extrusão se apoia nas bordas e evita os suportes. E para melhorar o acabamento dessa impressão no ar, eu utilizo essas três dicas. Primeiro, na aba velocidade, vamos diminuir a velocidade das pontes para aumentar o tempo de resfriamento. Agora na aba qualidade, vamos aumentar o fluxo das pontes para 1,5. E a explicação para melhora com essas duas dicas estão lá no vídeo do dia 147. E para a terceira dica, vamos analisar a direção dessa ponte. Na configuração padrão e automático, a distância desse apoio está grande. Agora lá na aba força, vamos alterar a direção da ponte neste parâmetro aqui. O ponto está zero é automático e o fatiador calcula sozinho. E por isso, vamos utilizar 180 graus. Agora sim, com a direção correta, a distância entre os apoios é a menor possível. Isso melhora a qualidade e também evita os suportes. E não se esqueça de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "text": "Três dicas rápidas para melhorar a qualidade das suas pontes."
+    },
+    {
+      "start": 3.8,
+      "end": 10.7,
+      "text": "Bem-vindo ao dia 228. Uma ponte é quando há extrusão de material de uma ponta até a outra completamente no ar."
+    },
+    {
+      "start": 10.9,
+      "end": 15.6,
+      "text": "E num exemplo prático, nessa caixinha aqui, temos essa cavidade para encaixar o troféu."
+    },
+    {
+      "start": 15.7,
+      "end": 19.3,
+      "text": "Durante a impressão, a extrusão se apoia nas bordas e evita os suportes."
+    },
+    {
+      "start": 19.5,
+      "end": 23.2,
+      "text": "E para melhorar o acabamento dessa impressão no ar, eu utilizo essas três dicas."
+    },
+    {
+      "start": 23.5,
+      "end": 28.4,
+      "text": "Primeiro, na aba velocidade, vamos diminuir a velocidade das pontes para aumentar o tempo de resfriamento."
+    },
+    {
+      "start": 28.4,
+      "end": 32.9,
+      "text": "Agora na aba qualidade, vamos aumentar o fluxo das pontes para 1,5."
+    },
+    {
+      "start": 32.9,
+      "end": 37.7,
+      "text": "E a explicação para melhora com essas duas dicas estão lá no vídeo do dia 147."
+    },
+    {
+      "start": 37.8,
+      "end": 40.9,
+      "text": "E para a terceira dica, vamos analisar a direção dessa ponte."
+    },
+    {
+      "start": 41.0,
+      "end": 45.2,
+      "text": "Na configuração padrão e automático, a distância desse apoio está grande."
+    },
+    {
+      "start": 45.3,
+      "end": 49.9,
+      "text": "Agora lá na aba força, vamos alterar a direção da ponte neste parâmetro aqui."
+    },
+    {
+      "start": 49.9,
+      "end": 52.9,
+      "text": "O ponto está zero é automático e o fatiador calcula sozinho."
+    },
+    {
+      "start": 52.9,
+      "end": 55.4,
+      "text": "E por isso, vamos utilizar 180 graus."
+    },
+    {
+      "start": 55.4,
+      "end": 59.7,
+      "text": "Agora sim, com a direção correta, a distância entre os apoios é a menor possível."
+    },
+    {
+      "start": 59.8,
+      "end": 63.2,
+      "text": "Isso melhora a qualidade e também evita os suportes."
+    },
+    {
+      "start": 63.3,
+      "end": 66.3,
+      "text": "E não se esqueça de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 66.7,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,42 @@
+{
+  "text": "Hoje não teve impressão, mas olha só o tanto de filamento que eu recebi aqui em casa. Agora sim eu vou conseguir concluir minha missão de imprimir 365 impressões 3D aqui em casa. Olha esse PETG verde musgo para imprimir os vasos. E esse vermelho esparco com pontinhos brilhantes. E esse translúcido, esse PETG para imprimir luminárias. Esse PLA azul fosco está bem bonito também. E aí, por qual eu começo?",
+  "segments": [
+    {
+      "start": 1.6,
+      "end": 8.8,
+      "text": "Hoje não teve impressão, mas olha só o tanto de filamento que eu recebi aqui em casa."
+    },
+    {
+      "start": 10.0,
+      "end": 16.5,
+      "text": "Agora sim eu vou conseguir concluir minha missão de imprimir 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 16.5,
+      "end": 20.2,
+      "text": "Olha esse PETG verde musgo para imprimir os vasos."
+    },
+    {
+      "start": 20.6,
+      "end": 23.0,
+      "text": "E esse vermelho esparco com pontinhos brilhantes."
+    },
+    {
+      "start": 23.7,
+      "end": 27.4,
+      "text": "E esse translúcido, esse PETG para imprimir luminárias."
+    },
+    {
+      "start": 27.6,
+      "end": 30.7,
+      "text": "Esse PLA azul fosco está bem bonito também."
+    },
+    {
+      "start": 30.7,
+      "end": 33.1,
+      "text": "E aí, por qual eu começo?"
+    }
+  ],
+  "duration": 34.2,
+  "model": "large-v3-turbo"
+}

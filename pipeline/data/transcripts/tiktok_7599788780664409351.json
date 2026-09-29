@@ -1,0 +1,92 @@
+{
+  "text": "E que tal suportes que saem assim, sem esforço e deixam a peça com um ótimo acabamento? Bem-vindo ao dia 161 e o segredo é utilizar PETG como interface no PLA ou vice-versa. Você vai precisar de um AMS e no fatiador, na aba suportes, você vai trocar a interface para PETG. E o Bambu Studio já autoriza alguns parâmetros aqui. A distância Z entre o suporte e a peça é zero porque o PLA não gruda no PETG. Por isso o espaçamento da interface é zero para maximizar a qualidade do acabamento. Mas em regiões com grande inclinação, não esperem um acabamento. Perfeito. O grande problema dessa técnica é o tempo de impressão e o gasto de filamento. São 24 gramas apenas na purga, em comparação com 23 gramas do modelo. É aí que temos o grande benefício de uma impressora com múltiplas extrusoras. Como a Snapmaker U1. Uma extrusora fica com PETG e a outra com PLA. E a impressora troca em 5 a 6 segundos. E agora com zero purga e uma hora de impressão a menos. Agora não esqueça de me seguir pra ter conteúdo 3D todos os dias. Se você tiver interesse nessa impressora, no link da minha bio tem um formular em que você vai ser avisado em primeira mão na pré-venda.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "E que tal suportes que saem assim, sem esforço e deixam a peça com um ótimo acabamento?"
+    },
+    {
+      "start": 5.1,
+      "end": 11.4,
+      "text": "Bem-vindo ao dia 161 e o segredo é utilizar PETG como interface no PLA ou vice-versa."
+    },
+    {
+      "start": 11.5,
+      "end": 16.4,
+      "text": "Você vai precisar de um AMS e no fatiador, na aba suportes, você vai trocar a interface para PETG."
+    },
+    {
+      "start": 16.6,
+      "end": 18.9,
+      "text": "E o Bambu Studio já autoriza alguns parâmetros aqui."
+    },
+    {
+      "start": 19.0,
+      "end": 23.6,
+      "text": "A distância Z entre o suporte e a peça é zero porque o PLA não gruda no PETG."
+    },
+    {
+      "start": 23.7,
+      "end": 28.1,
+      "text": "Por isso o espaçamento da interface é zero para maximizar a qualidade do acabamento."
+    },
+    {
+      "start": 28.1,
+      "end": 31.2,
+      "text": "Mas em regiões com grande inclinação, não esperem um acabamento."
+    },
+    {
+      "start": 31.3,
+      "end": 31.6,
+      "text": "Perfeito."
+    },
+    {
+      "start": 31.6,
+      "end": 35.7,
+      "text": "O grande problema dessa técnica é o tempo de impressão e o gasto de filamento."
+    },
+    {
+      "start": 35.8,
+      "end": 39.9,
+      "text": "São 24 gramas apenas na purga, em comparação com 23 gramas do modelo."
+    },
+    {
+      "start": 40.1,
+      "end": 43.7,
+      "text": "É aí que temos o grande benefício de uma impressora com múltiplas extrusoras."
+    },
+    {
+      "start": 43.9,
+      "end": 45.1,
+      "text": "Como a Snapmaker U1."
+    },
+    {
+      "start": 45.2,
+      "end": 48.0,
+      "text": "Uma extrusora fica com PETG e a outra com PLA."
+    },
+    {
+      "start": 48.1,
+      "end": 50.3,
+      "text": "E a impressora troca em 5 a 6 segundos."
+    },
+    {
+      "start": 50.5,
+      "end": 53.6,
+      "text": "E agora com zero purga e uma hora de impressão a menos."
+    },
+    {
+      "start": 53.8,
+      "end": 57.3,
+      "text": "Agora não esqueça de me seguir pra ter conteúdo 3D todos os dias."
+    },
+    {
+      "start": 57.3,
+      "end": 63.9,
+      "text": "Se você tiver interesse nessa impressora, no link da minha bio tem um formular em que você vai ser avisado em primeira mão na pré-venda."
+    }
+  ],
+  "duration": 64.1,
+  "model": "large-v3-turbo"
+}

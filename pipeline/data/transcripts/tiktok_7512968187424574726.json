@@ -1,0 +1,27 @@
+{
+  "text": "Hoje nós vamos imprimir 4 utensílios úteis para a cozinha. Então bora para o dia 16 de 365 Impressões 3D aqui em casa. O primeiro é um suporte para esponja. Em segundo lugar está prendedores para embalagens abertas. Na terceira colocação foi impresso um suporte para papel toalha. E por último um suporte de descanso para colheres. E aí, gostaram? Tem alguma ideia de utensílios que eu posso imprimir? Escreva aí nos comentários!",
+  "segments": [
+    {
+      "start": 0.1,
+      "end": 11.0,
+      "text": "Hoje nós vamos imprimir 4 utensílios úteis para a cozinha. Então bora para o dia 16 de 365 Impressões 3D aqui em casa."
+    },
+    {
+      "start": 11.7,
+      "end": 21.0,
+      "text": "O primeiro é um suporte para esponja. Em segundo lugar está prendedores para embalagens abertas."
+    },
+    {
+      "start": 21.0,
+      "end": 37.2,
+      "text": "Na terceira colocação foi impresso um suporte para papel toalha. E por último um suporte de descanso para colheres."
+    },
+    {
+      "start": 37.3,
+      "end": 43.7,
+      "text": "E aí, gostaram? Tem alguma ideia de utensílios que eu posso imprimir? Escreva aí nos comentários!"
+    }
+  ],
+  "duration": 44.7,
+  "model": "large-v3-turbo"
+}

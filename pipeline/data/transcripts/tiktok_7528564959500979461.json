@@ -1,0 +1,137 @@
+{
+  "text": "Dicas para deixar sua camada de topo lisinha. Esse é o dia 46 de 365 impressões 3D aqui em casa. Em geral o pessoal imprime nessa orientação para que o acabamento da frente fique encostado na placa PEI, deixando a peça texturizada. Eu queria imprimir nessa orientação para aproveitar o acabamento fosco do filamento e eu cheguei nessa qualidade com as dicas que eu vou dar a seguir. E fique ligado que a última é a mais importante. Primeiro, imprima uma torre de temperatura Para encontrar a temperatura ideal de impressão Se você não sabe fazer isso, dê uma olhada no meu vídeo do dia 26 Segundo, lá na aba de calibração do Bambu Estúdio Calibre a dinâmica de fluxo para evitar o excesso ou a falta de material no extrusor E depois, calibre a basão de filamento Essa calibração evita uma sobre-extrusão ou uma sub-extrusão Outra dica é, mantenha seus filamentos sempre sequinhos Fuja da umidade E se você quiser uma dica de como fazer isso, olhe meu vídeo do dia 36 Agora, lá no Bambu Studio, diminua a velocidade de impressão da superfície superior Eu normalmente utilizo 150 milímetros por segundo, com um filamento de boa qualidade Lá nas camadas de casca superior, mantenha pelo menos 5 camadas Mas você pode ir aumentando para aumentar a qualidade e a cobertura da peça O padrão de superfície superior eu gosto de usar essa linha monotônica Em todos os meus testes o perfil de preenchimento gireoide apresentou melhor qualidade na superfície superior Dito tudo isso, a última dica é Utilize filamentos matte, ou seja, foscos para impressão de peças decorativa O acabamento da superfície fica muito melhor Agora é a vez de vocês Testem todas essas dicas e verifiquem se a qualidade da sua superfície superior, ou seja, de topo, melhorou.",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 4.4,
+      "text": "Dicas para deixar sua camada de topo lisinha."
+    },
+    {
+      "start": 5.2,
+      "end": 10.8,
+      "text": "Esse é o dia 46 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 10.8,
+      "end": 18.5,
+      "text": "Em geral o pessoal imprime nessa orientação para que o acabamento da frente fique encostado na placa PEI, deixando a peça texturizada."
+    },
+    {
+      "start": 18.6,
+      "end": 26.0,
+      "text": "Eu queria imprimir nessa orientação para aproveitar o acabamento fosco do filamento e eu cheguei nessa qualidade com as dicas que eu vou dar a seguir."
+    },
+    {
+      "start": 26.3,
+      "end": 29.4,
+      "text": "E fique ligado que a última é a mais importante."
+    },
+    {
+      "start": 29.4,
+      "end": 32.2,
+      "text": "Primeiro, imprima uma torre de temperatura"
+    },
+    {
+      "start": 32.2,
+      "end": 34.8,
+      "text": "Para encontrar a temperatura ideal de impressão"
+    },
+    {
+      "start": 34.8,
+      "end": 38.4,
+      "text": "Se você não sabe fazer isso, dê uma olhada no meu vídeo do dia 26"
+    },
+    {
+      "start": 38.4,
+      "end": 41.6,
+      "text": "Segundo, lá na aba de calibração do Bambu Estúdio"
+    },
+    {
+      "start": 41.6,
+      "end": 47.5,
+      "text": "Calibre a dinâmica de fluxo para evitar o excesso ou a falta de material no extrusor"
+    },
+    {
+      "start": 47.5,
+      "end": 51.1,
+      "text": "E depois, calibre a basão de filamento"
+    },
+    {
+      "start": 51.1,
+      "end": 55.7,
+      "text": "Essa calibração evita uma sobre-extrusão ou uma sub-extrusão"
+    },
+    {
+      "start": 55.7,
+      "end": 59.9,
+      "text": "Outra dica é, mantenha seus filamentos sempre sequinhos"
+    },
+    {
+      "start": 59.9,
+      "end": 61.2,
+      "text": "Fuja da umidade"
+    },
+    {
+      "start": 61.2,
+      "end": 65.5,
+      "text": "E se você quiser uma dica de como fazer isso, olhe meu vídeo do dia 36"
+    },
+    {
+      "start": 65.5,
+      "end": 70.0,
+      "text": "Agora, lá no Bambu Studio, diminua a velocidade de impressão da superfície superior"
+    },
+    {
+      "start": 70.0,
+      "end": 75.0,
+      "text": "Eu normalmente utilizo 150 milímetros por segundo, com um filamento de boa qualidade"
+    },
+    {
+      "start": 75.0,
+      "end": 79.3,
+      "text": "Lá nas camadas de casca superior, mantenha pelo menos 5 camadas"
+    },
+    {
+      "start": 79.3,
+      "end": 82.9,
+      "text": "Mas você pode ir aumentando para aumentar a qualidade e a cobertura da peça"
+    },
+    {
+      "start": 82.9,
+      "end": 86.9,
+      "text": "O padrão de superfície superior eu gosto de usar essa linha monotônica"
+    },
+    {
+      "start": 86.9,
+      "end": 93.6,
+      "text": "Em todos os meus testes o perfil de preenchimento gireoide apresentou melhor qualidade na superfície superior"
+    },
+    {
+      "start": 93.6,
+      "end": 96.8,
+      "text": "Dito tudo isso, a última dica é"
+    },
+    {
+      "start": 96.8,
+      "end": 102.8,
+      "text": "Utilize filamentos matte, ou seja, foscos para impressão de peças decorativa"
+    },
+    {
+      "start": 102.8,
+      "end": 106.7,
+      "text": "O acabamento da superfície fica muito melhor"
+    },
+    {
+      "start": 106.7,
+      "end": 108.8,
+      "text": "Agora é a vez de vocês"
+    },
+    {
+      "start": 108.8,
+      "end": 116.9,
+      "text": "Testem todas essas dicas e verifiquem se a qualidade da sua superfície superior, ou seja, de topo, melhorou."
+    }
+  ],
+  "duration": 118.8,
+  "model": "large-v3-turbo"
+}

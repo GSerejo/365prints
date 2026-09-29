@@ -1,0 +1,47 @@
+{
+  "text": "Esse problema me revelou uma compatibilidade entre a Bambu Lab A1 e a H2S. Bem-vindo ao dia 184, e os fios do aquecedor e do termistor da H2S estavam quebrados. Mas eu tinha um conjunto aquecedor da A1 sobrando, e as conexões e dimensões eram idênticas. Agora calma, antes da solução eu estou testando um novo recurso do método. Então se puder, me dê o like agora, nesse exato momento, e se você não me segue, clica nesse botão aqui embaixo. Eu fiz o teste provisório, tudo encaixou perfeitamente, sem gambiar e tudo no plug and play. E o resultado? Temperatura estável e máquina de volta ao trabalho. Pelo visto, H2S e A1 compartilham o mesmo DNA no conjunto de aquecimento.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Esse problema me revelou uma compatibilidade entre a Bambu Lab A1 e a H2S."
+    },
+    {
+      "start": 5.5,
+      "end": 11.3,
+      "text": "Bem-vindo ao dia 184, e os fios do aquecedor e do termistor da H2S estavam quebrados."
+    },
+    {
+      "start": 11.4,
+      "end": 16.6,
+      "text": "Mas eu tinha um conjunto aquecedor da A1 sobrando, e as conexões e dimensões eram idênticas."
+    },
+    {
+      "start": 16.7,
+      "end": 20.1,
+      "text": "Agora calma, antes da solução eu estou testando um novo recurso do método."
+    },
+    {
+      "start": 20.1,
+      "end": 25.6,
+      "text": "Então se puder, me dê o like agora, nesse exato momento, e se você não me segue, clica nesse botão aqui embaixo."
+    },
+    {
+      "start": 25.6,
+      "end": 30.9,
+      "text": "Eu fiz o teste provisório, tudo encaixou perfeitamente, sem gambiar e tudo no plug and play."
+    },
+    {
+      "start": 31.0,
+      "end": 34.4,
+      "text": "E o resultado? Temperatura estável e máquina de volta ao trabalho."
+    },
+    {
+      "start": 34.5,
+      "end": 39.5,
+      "text": "Pelo visto, H2S e A1 compartilham o mesmo DNA no conjunto de aquecimento."
+    }
+  ],
+  "duration": 39.8,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,47 @@
+{
+  "text": "Eu imprimi uma capinha flexível na minha impressora 3D e me custou apenas R$ 11,00. Esse é o dia 30 de 365 impressões 3D aqui em casa. Tava cansado da fragilidade dessas capinhas de vidro, mas essa história vocês já conhecem. Essa capinha aí eu imprimi lá no dia 8 e descobri que o PLA é pouco resistente. Foi aí que eu fui atrás de um filamento flexível e esse aí é o TPU. Muito mais flexível que o PLA Agora sim, eu tenho uma capinha útil e resistente Para deixar meu celular protegido",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.1,
+      "text": "Eu imprimi uma capinha flexível na minha impressora 3D e me custou apenas R$ 11,00."
+    },
+    {
+      "start": 6.5,
+      "end": 12.1,
+      "text": "Esse é o dia 30 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.2,
+      "end": 18.5,
+      "text": "Tava cansado da fragilidade dessas capinhas de vidro, mas essa história vocês já conhecem."
+    },
+    {
+      "start": 18.5,
+      "end": 23.8,
+      "text": "Essa capinha aí eu imprimi lá no dia 8 e descobri que o PLA é pouco resistente."
+    },
+    {
+      "start": 24.4,
+      "end": 29.7,
+      "text": "Foi aí que eu fui atrás de um filamento flexível e esse aí é o TPU."
+    },
+    {
+      "start": 30.0,
+      "end": 32.9,
+      "text": "Muito mais flexível que o PLA"
+    },
+    {
+      "start": 32.9,
+      "end": 38.9,
+      "text": "Agora sim, eu tenho uma capinha útil e resistente"
+    },
+    {
+      "start": 38.9,
+      "end": 41.8,
+      "text": "Para deixar meu celular protegido"
+    }
+  ],
+  "duration": 43.3,
+  "model": "large-v3-turbo"
+}

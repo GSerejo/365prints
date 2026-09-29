@@ -1,0 +1,182 @@
+{
+  "text": "Você já deve ter ouvido esse som, é o bico raspando na impressão. Esse problema é ainda mais visível em peças altas e em alturas de camada muito pequenas, onde a margem de erro é mínima. Bem-vindo ao dia 73! E com a ajuda da inteligência artificial eu fiz uma busca aprofundada em dezenas de fóruns da comunidade e nos guias de manutenção da Bambu Lab. Com isso, fomos capazes de formular um relatório e eu identifiquei as causas principais e as soluções mais eficazes. e eu vou te mostrar como você pode resolver isso agora. Olha o tanto de referências usadas, isso já merece o like. A primeira coisa é checar o hardware. Muitos usuários descobriram que a vibração da impressora em alta velocidade faz com que os parafusos do conjunto do hotend se soltem. Você precisa apertar os três parafusos maiores e os quatro menores na parte de trás. Isso garante que o hotend não tenha folga, que é uma causa comum para uma altura de zen correta. A segunda categoria de problemas está nas configurações do seu pateador. Se você usa o preenchimento grid, que é o padrão, o bico é forçado a cruzar sobre as linhas já impressas na mesma camada. Isso cria colisões inevitáveis, especialmente em camadas muito finas. A solução simples é, mude para um preenchimento que não se cruze, como gireoide ou line. Outra configuração padrão que causa esse problema é reduzir retrações de preenchimento. Quando ativado, ela impede que o bico se levante durante os movimentos de deslocamento sobre o preenchimento. Para evitar a raspagem, basta desativar essa opção. Por fim, uma correção muito eficaz é aumentar o Z-Rope. Ele é a elevação do bico durante a movimentação para evitar colisões. Esse aumento vai dar uma margem de segurança extra. Um Z-Rope muito alto pode causar string em alguns casos. E para minimizar isso, escolha o tipo espiral. A comunidade sugeriu várias outras soluções que podem funcionar. O ideal é ir testando essas alternativas uma a uma para ver qual resolve seu problema. Lembre-se de sempre lavar a placa de impressão com água e detergente para garantir a aderência. Secar o filamento para evitar o empenamento e se nada funcionar uma calibração completa. Verifique também se o bico não está empenado, principalmente após o entupimento. Mas cuidado, ajustes profundos no fatiador podem mascarar problemas mecânicos. Naquele problema inicial eu só mudei o preenchimento para a girioide e já resolveu. No entanto o problema pode se pronunciar em peças mais altas. Se eu encontrar problemas vou seguir as outras dicas desse vídeo. Se você quiser o link para esse checklist é só digitar eu quero nos comentários. E me conta aí se você já teve esse problema.",
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 4.8,
+      "text": "Você já deve ter ouvido esse som, é o bico raspando na impressão."
+    },
+    {
+      "start": 12.0,
+      "end": 18.3,
+      "text": "Esse problema é ainda mais visível em peças altas e em alturas de camada muito pequenas, onde a margem de erro é mínima."
+    },
+    {
+      "start": 18.7,
+      "end": 20.4,
+      "text": "Bem-vindo ao dia 73!"
+    },
+    {
+      "start": 20.9,
+      "end": 28.7,
+      "text": "E com a ajuda da inteligência artificial eu fiz uma busca aprofundada em dezenas de fóruns da comunidade e nos guias de manutenção da Bambu Lab."
+    },
+    {
+      "start": 28.7,
+      "end": 35.0,
+      "text": "Com isso, fomos capazes de formular um relatório e eu identifiquei as causas principais e as soluções mais eficazes."
+    },
+    {
+      "start": 35.0,
+      "end": 37.7,
+      "text": "e eu vou te mostrar como você pode resolver isso agora."
+    },
+    {
+      "start": 37.8,
+      "end": 41.1,
+      "text": "Olha o tanto de referências usadas, isso já merece o like."
+    },
+    {
+      "start": 41.5,
+      "end": 43.3,
+      "text": "A primeira coisa é checar o hardware."
+    },
+    {
+      "start": 43.6,
+      "end": 47.3,
+      "text": "Muitos usuários descobriram que a vibração da impressora em alta velocidade"
+    },
+    {
+      "start": 47.3,
+      "end": 51.1,
+      "text": "faz com que os parafusos do conjunto do hotend se soltem."
+    },
+    {
+      "start": 51.5,
+      "end": 55.8,
+      "text": "Você precisa apertar os três parafusos maiores e os quatro menores na parte de trás."
+    },
+    {
+      "start": 56.2,
+      "end": 60.6,
+      "text": "Isso garante que o hotend não tenha folga, que é uma causa comum para uma altura de zen correta."
+    },
+    {
+      "start": 60.7,
+      "end": 64.4,
+      "text": "A segunda categoria de problemas está nas configurações do seu pateador."
+    },
+    {
+      "start": 64.4,
+      "end": 70.8,
+      "text": "Se você usa o preenchimento grid, que é o padrão, o bico é forçado a cruzar sobre as linhas já impressas na mesma camada."
+    },
+    {
+      "start": 70.9,
+      "end": 74.5,
+      "text": "Isso cria colisões inevitáveis, especialmente em camadas muito finas."
+    },
+    {
+      "start": 74.5,
+      "end": 79.1,
+      "text": "A solução simples é, mude para um preenchimento que não se cruze, como gireoide ou line."
+    },
+    {
+      "start": 79.4,
+      "end": 83.8,
+      "text": "Outra configuração padrão que causa esse problema é reduzir retrações de preenchimento."
+    },
+    {
+      "start": 83.9,
+      "end": 89.6,
+      "text": "Quando ativado, ela impede que o bico se levante durante os movimentos de deslocamento sobre o preenchimento."
+    },
+    {
+      "start": 89.7,
+      "end": 92.2,
+      "text": "Para evitar a raspagem, basta desativar essa opção."
+    },
+    {
+      "start": 92.2,
+      "end": 95.0,
+      "text": "Por fim, uma correção muito eficaz é aumentar o Z-Rope."
+    },
+    {
+      "start": 95.2,
+      "end": 98.7,
+      "text": "Ele é a elevação do bico durante a movimentação para evitar colisões."
+    },
+    {
+      "start": 98.8,
+      "end": 101.3,
+      "text": "Esse aumento vai dar uma margem de segurança extra."
+    },
+    {
+      "start": 101.5,
+      "end": 104.7,
+      "text": "Um Z-Rope muito alto pode causar string em alguns casos."
+    },
+    {
+      "start": 104.8,
+      "end": 107.0,
+      "text": "E para minimizar isso, escolha o tipo espiral."
+    },
+    {
+      "start": 107.2,
+      "end": 111.0,
+      "text": "A comunidade sugeriu várias outras soluções que podem funcionar."
+    },
+    {
+      "start": 111.1,
+      "end": 115.6,
+      "text": "O ideal é ir testando essas alternativas uma a uma para ver qual resolve seu problema."
+    },
+    {
+      "start": 115.9,
+      "end": 120.4,
+      "text": "Lembre-se de sempre lavar a placa de impressão com água e detergente para garantir a aderência."
+    },
+    {
+      "start": 120.4,
+      "end": 125.0,
+      "text": "Secar o filamento para evitar o empenamento e se nada funcionar uma calibração completa."
+    },
+    {
+      "start": 125.1,
+      "end": 128.8,
+      "text": "Verifique também se o bico não está empenado, principalmente após o entupimento."
+    },
+    {
+      "start": 128.9,
+      "end": 133.2,
+      "text": "Mas cuidado, ajustes profundos no fatiador podem mascarar problemas mecânicos."
+    },
+    {
+      "start": 133.4,
+      "end": 137.1,
+      "text": "Naquele problema inicial eu só mudei o preenchimento para a girioide e já resolveu."
+    },
+    {
+      "start": 137.2,
+      "end": 140.0,
+      "text": "No entanto o problema pode se pronunciar em peças mais altas."
+    },
+    {
+      "start": 140.1,
+      "end": 142.9,
+      "text": "Se eu encontrar problemas vou seguir as outras dicas desse vídeo."
+    },
+    {
+      "start": 143.4,
+      "end": 147.1,
+      "text": "Se você quiser o link para esse checklist é só digitar eu quero nos comentários."
+    },
+    {
+      "start": 147.3,
+      "end": 149.1,
+      "text": "E me conta aí se você já teve esse problema."
+    }
+  ],
+  "duration": 149.4,
+  "model": "large-v3-turbo"
+}

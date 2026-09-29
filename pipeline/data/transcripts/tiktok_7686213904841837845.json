@@ -1,0 +1,197 @@
+{
+  "text": "Como eu fiz e imprimi essa logo pra parede e o seu gabarito? Tudo no fatiador. Bem-vindo ao dia 256. Primeiro vamos utilizar o Convertium para converter a logo que está em PDF em SVG. O SVG é o formato vetor que o fatiador consegue ler. E depois do fatiador vamos inserir o SVG que salvamos. O objeto já está grande e eu preciso aumentar ainda mais ele. Com a ferramenta escala, vamos aumentar para 1,2 metros em X, ou 1.200 milímetros. Agora desmarcamos escala uniforme e eu quero apenas 5 milímetros de espessura. Botão direito na tela e adicionar primitivo e cubo. Vamos fazer aquela régua para encaixar o logo e deixar ele o mais reto possível. Deixar ele um pouco maior que o logo e um pouco mais espesso. A ideia do gabarito é posicionar logo abaixo do logo e fazer uns encaixes para encaixar cada letra. Os objetos são maiores que a placa, então a gente vai mesclar o logo e a régua Com a ferramenta boleana vamos utilizar a diferença Aqui queremos fazer os encaixes, então é a régua, que aqui chama-se cubo, menos todas as letras Vamos manter os modelos originais e executamos O gabarito está pronto e os encaixes foram feitos Com tudo selecionado vamos utilizar a ferramenta rotação para girar 180 graus em Y Eu quero imprimir com a face virada para a mesa para utilizar o acabamento da placa P As letras e a régua são objetos separados, mas eles estão mesclados, então botão direito e dividir para objetos. Pronto, agora é só organizar para caber nas placas. Sobrou agora só a régua ou o gabarito e nós precisamos dividi-la. Com a régua selecionada e a ferramenta corte, vamos dividir para caber as peças na mesa. Botacionamos o plano de corte em 90 graus em Y e com o quadradinho amarelo vamos ajustar a posição. Vamos adicionar uns conectores para ajudar no encaixe. Eu normalmente uso cavilha, a forma hexágono, ajustei a relação de profundidade e o tamanho e posicionei dois conectores. Confirmamos os conectores, agora mantemos a orientação dos dois objetos e vamos realizar o corte. O resultado disso são dois conectores, uma peça com os encaixes e a outra também. Agora seguir o mesmo procedimento para ir cortando a peça e caber numa mesa de impressão. Esse é o resultado final, agora podemos utilizar a ferramenta texto e nomear cada pecinha para facilitar o encaixe. Agora quase no final vamos selecionar todas as peças do gabarito Em objeto na aba qualidade vamos diminuir para menos 0,20 a compensação de contorno Para criar uma tolerância e facilitar o encaixe das outras letras Depois é só imprimir e colar dupla face em cada letra E depois utilizar o gabarito para aplicação na parede Esse vídeo deu trabalho pessoal e merece o like Eu utilizei 250 gramas de PETG para todo projeto Se você gostou desse vídeo me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Como eu fiz e imprimi essa logo pra parede e o seu gabarito? Tudo no fatiador."
+    },
+    {
+      "start": 5.7,
+      "end": 7.4,
+      "text": "Bem-vindo ao dia 256."
+    },
+    {
+      "start": 8.1,
+      "end": 13.4,
+      "text": "Primeiro vamos utilizar o Convertium para converter a logo que está em PDF em SVG."
+    },
+    {
+      "start": 13.4,
+      "end": 16.6,
+      "text": "O SVG é o formato vetor que o fatiador consegue ler."
+    },
+    {
+      "start": 16.7,
+      "end": 20.4,
+      "text": "E depois do fatiador vamos inserir o SVG que salvamos."
+    },
+    {
+      "start": 20.4,
+      "end": 24.1,
+      "text": "O objeto já está grande e eu preciso aumentar ainda mais ele."
+    },
+    {
+      "start": 24.1,
+      "end": 30.2,
+      "text": "Com a ferramenta escala, vamos aumentar para 1,2 metros em X, ou 1.200 milímetros."
+    },
+    {
+      "start": 30.3,
+      "end": 34.3,
+      "text": "Agora desmarcamos escala uniforme e eu quero apenas 5 milímetros de espessura."
+    },
+    {
+      "start": 34.3,
+      "end": 37.2,
+      "text": "Botão direito na tela e adicionar primitivo e cubo."
+    },
+    {
+      "start": 37.3,
+      "end": 41.7,
+      "text": "Vamos fazer aquela régua para encaixar o logo e deixar ele o mais reto possível."
+    },
+    {
+      "start": 41.8,
+      "end": 44.5,
+      "text": "Deixar ele um pouco maior que o logo e um pouco mais espesso."
+    },
+    {
+      "start": 44.9,
+      "end": 50.9,
+      "text": "A ideia do gabarito é posicionar logo abaixo do logo e fazer uns encaixes para encaixar cada letra."
+    },
+    {
+      "start": 50.9,
+      "end": 54.9,
+      "text": "Os objetos são maiores que a placa, então a gente vai mesclar o logo e a régua"
+    },
+    {
+      "start": 54.9,
+      "end": 58.0,
+      "text": "Com a ferramenta boleana vamos utilizar a diferença"
+    },
+    {
+      "start": 58.0,
+      "end": 63.4,
+      "text": "Aqui queremos fazer os encaixes, então é a régua, que aqui chama-se cubo, menos todas as letras"
+    },
+    {
+      "start": 63.4,
+      "end": 66.3,
+      "text": "Vamos manter os modelos originais e executamos"
+    },
+    {
+      "start": 66.3,
+      "end": 69.0,
+      "text": "O gabarito está pronto e os encaixes foram feitos"
+    },
+    {
+      "start": 69.0,
+      "end": 74.1,
+      "text": "Com tudo selecionado vamos utilizar a ferramenta rotação para girar 180 graus em Y"
+    },
+    {
+      "start": 74.1,
+      "end": 78.1,
+      "text": "Eu quero imprimir com a face virada para a mesa para utilizar o acabamento da placa P"
+    },
+    {
+      "start": 78.1,
+      "end": 84.4,
+      "text": "As letras e a régua são objetos separados, mas eles estão mesclados, então botão direito e dividir para objetos."
+    },
+    {
+      "start": 84.5,
+      "end": 87.0,
+      "text": "Pronto, agora é só organizar para caber nas placas."
+    },
+    {
+      "start": 87.2,
+      "end": 91.5,
+      "text": "Sobrou agora só a régua ou o gabarito e nós precisamos dividi-la."
+    },
+    {
+      "start": 91.6,
+      "end": 96.0,
+      "text": "Com a régua selecionada e a ferramenta corte, vamos dividir para caber as peças na mesa."
+    },
+    {
+      "start": 96.2,
+      "end": 101.4,
+      "text": "Botacionamos o plano de corte em 90 graus em Y e com o quadradinho amarelo vamos ajustar a posição."
+    },
+    {
+      "start": 101.6,
+      "end": 104.2,
+      "text": "Vamos adicionar uns conectores para ajudar no encaixe."
+    },
+    {
+      "start": 104.2,
+      "end": 111.5,
+      "text": "Eu normalmente uso cavilha, a forma hexágono, ajustei a relação de profundidade e o tamanho e posicionei dois conectores."
+    },
+    {
+      "start": 111.6,
+      "end": 117.3,
+      "text": "Confirmamos os conectores, agora mantemos a orientação dos dois objetos e vamos realizar o corte."
+    },
+    {
+      "start": 117.4,
+      "end": 122.1,
+      "text": "O resultado disso são dois conectores, uma peça com os encaixes e a outra também."
+    },
+    {
+      "start": 122.2,
+      "end": 126.6,
+      "text": "Agora seguir o mesmo procedimento para ir cortando a peça e caber numa mesa de impressão."
+    },
+    {
+      "start": 126.8,
+      "end": 133.1,
+      "text": "Esse é o resultado final, agora podemos utilizar a ferramenta texto e nomear cada pecinha para facilitar o encaixe."
+    },
+    {
+      "start": 133.1,
+      "end": 136.9,
+      "text": "Agora quase no final vamos selecionar todas as peças do gabarito"
+    },
+    {
+      "start": 136.9,
+      "end": 142.4,
+      "text": "Em objeto na aba qualidade vamos diminuir para menos 0,20 a compensação de contorno"
+    },
+    {
+      "start": 142.4,
+      "end": 145.6,
+      "text": "Para criar uma tolerância e facilitar o encaixe das outras letras"
+    },
+    {
+      "start": 145.6,
+      "end": 148.9,
+      "text": "Depois é só imprimir e colar dupla face em cada letra"
+    },
+    {
+      "start": 148.9,
+      "end": 151.9,
+      "text": "E depois utilizar o gabarito para aplicação na parede"
+    },
+    {
+      "start": 151.9,
+      "end": 154.3,
+      "text": "Esse vídeo deu trabalho pessoal e merece o like"
+    },
+    {
+      "start": 154.3,
+      "end": 157.9,
+      "text": "Eu utilizei 250 gramas de PETG para todo projeto"
+    },
+    {
+      "start": 157.9,
+      "end": 161.7,
+      "text": "Se você gostou desse vídeo me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 161.9,
+  "model": "large-v3-turbo"
+}

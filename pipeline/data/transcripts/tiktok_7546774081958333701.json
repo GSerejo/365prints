@@ -1,0 +1,257 @@
+{
+  "text": "Esse vídeo é um alerta. Eu tô vendo bastante gente entrar na impressão 3D tentando aprender conteúdos avançados sem antes dominar o básico. Isso gera frustração e perda de tempo. O gancho ali foi sério, né? Bem-vindo ao dia 82. Esses dias um seguidor me perguntou como ele colocaria a purga dentro do objeto, mas ele não sabia nem colocar o objeto dentro do fatiador. E eu não tô aqui pra criticar ninguém, acho super importante a busca de conhecimento Mas também é importante não pular etapas do aprendizado O que eu vou compartilhar aqui não é uma verdade absoluta É apenas a minha opinião E se você tiver uma opinião diferente, é só deixar aqui nos comentários Então vamos lá Dica número 1 Veja quais filamentos a sua impressora aceita Aquela que você quer comprar Eu já vi gente comprando ABS junto com a 1 E a 1 não foi feita para imprimir em AVL Utilize sempre o PNA no começo, é mais fácil 2. Use o slicer ou fatiador da sua marca Se você tem uma bambu, comece pelo Bamboo Studio, é a escolha óbvia Não inventa de ir para o Orca Slicer porque alguém falou que é melhor Vá primeiro sempre no oficial 3. Comece simples, tem vários projetos prontos com perfis de impressão prontos lá no Maker World Ou no site da sua impressora 3D Não escolha projetos difíceis logo de cara Dica número 4 Comece com o filamento da marca da sua impressora Porque tem perfis prontos e já otimizados pela fabricante dentro do software Se você usa Bambu Lab, comece com os filamentos da Bambu É mais caro, sim, é mais caro Mas evita uma grande dor de cabeça no início Não saia calibrando tudo Utilize os perfis genéricos de impressão Você não toma remédio para dor de cabeça sem ter dor de cabeça Os perfis genéricos normalmente funcionam muito bem com os filamentos Utilize eles primeiro e imprima um pente, um barquinho, pra você ver como é que tá Sua impressora já vem pronta de fábrica Invista em filamento e prática Não em acessórios que no começo são desnecessários Não use álcool etílico pra limpar a placa Utilize água e sabão ou detergente O álcool só espalha gordura Que faça isso regularmente, isso evita 80% dos problemas da sua impressão A central de ajuda da sua impressora é a fonte mais confiável de informação O wiki da Bambu, por exemplo, é completo e pode te transformar em um expert E à medida que você vai se aprimorando, aprenda os termos Warping, Stringing, Bridge, Overhands Isso vai te ajudar muito a procurar soluções dos seus problemas E vamos lá, não seja muito exigente no começo Cada falha que você tiver é uma oportunidade de aprender ainda mais E deixa eu te falar, eu aprendo todos os dias resolvendo os problemas que eu tenho Pesquisando pra criar conteúdos pra vocês Se você curtiu esse conteúdo, salva e manda pra aquele seu amigo que tá começando",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.2,
+      "text": "Esse vídeo é um alerta. Eu tô vendo bastante gente entrar na impressão 3D tentando aprender conteúdos avançados sem antes dominar o básico."
+    },
+    {
+      "start": 9.3,
+      "end": 13.8,
+      "text": "Isso gera frustração e perda de tempo. O gancho ali foi sério, né?"
+    },
+    {
+      "start": 14.0,
+      "end": 25.3,
+      "text": "Bem-vindo ao dia 82. Esses dias um seguidor me perguntou como ele colocaria a purga dentro do objeto, mas ele não sabia nem colocar o objeto dentro do fatiador."
+    },
+    {
+      "start": 25.3,
+      "end": 30.6,
+      "text": "E eu não tô aqui pra criticar ninguém, acho super importante a busca de conhecimento"
+    },
+    {
+      "start": 30.6,
+      "end": 34.3,
+      "text": "Mas também é importante não pular etapas do aprendizado"
+    },
+    {
+      "start": 34.3,
+      "end": 37.6,
+      "text": "O que eu vou compartilhar aqui não é uma verdade absoluta"
+    },
+    {
+      "start": 37.6,
+      "end": 39.8,
+      "text": "É apenas a minha opinião"
+    },
+    {
+      "start": 39.8,
+      "end": 43.8,
+      "text": "E se você tiver uma opinião diferente, é só deixar aqui nos comentários"
+    },
+    {
+      "start": 43.8,
+      "end": 45.0,
+      "text": "Então vamos lá"
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": "Dica número 1"
+    },
+    {
+      "start": 46.0,
+      "end": 49.1,
+      "text": "Veja quais filamentos a sua impressora aceita"
+    },
+    {
+      "start": 49.1,
+      "end": 50.5,
+      "text": "Aquela que você quer comprar"
+    },
+    {
+      "start": 50.5,
+      "end": 53.3,
+      "text": "Eu já vi gente comprando ABS junto com a 1"
+    },
+    {
+      "start": 53.3,
+      "end": 56.5,
+      "text": "E a 1 não foi feita para imprimir em AVL"
+    },
+    {
+      "start": 56.5,
+      "end": 59.8,
+      "text": "Utilize sempre o PNA no começo, é mais fácil"
+    },
+    {
+      "start": 59.8,
+      "end": 63.5,
+      "text": "2. Use o slicer ou fatiador da sua marca"
+    },
+    {
+      "start": 63.5,
+      "end": 67.3,
+      "text": "Se você tem uma bambu, comece pelo Bamboo Studio, é a escolha óbvia"
+    },
+    {
+      "start": 67.3,
+      "end": 71.0,
+      "text": "Não inventa de ir para o Orca Slicer porque alguém falou que é melhor"
+    },
+    {
+      "start": 71.0,
+      "end": 73.1,
+      "text": "Vá primeiro sempre no oficial"
+    },
+    {
+      "start": 73.1,
+      "end": 80.4,
+      "text": "3. Comece simples, tem vários projetos prontos com perfis de impressão prontos lá no Maker World"
+    },
+    {
+      "start": 80.4,
+      "end": 83.1,
+      "text": "Ou no site da sua impressora 3D"
+    },
+    {
+      "start": 83.1,
+      "end": 86.5,
+      "text": "Não escolha projetos difíceis logo de cara"
+    },
+    {
+      "start": 86.5,
+      "end": 88.0,
+      "text": "Dica número 4"
+    },
+    {
+      "start": 88.0,
+      "end": 90.9,
+      "text": "Comece com o filamento da marca da sua impressora"
+    },
+    {
+      "start": 90.9,
+      "end": 95.6,
+      "text": "Porque tem perfis prontos e já otimizados pela fabricante dentro do software"
+    },
+    {
+      "start": 95.6,
+      "end": 98.8,
+      "text": "Se você usa Bambu Lab, comece com os filamentos da Bambu"
+    },
+    {
+      "start": 98.8,
+      "end": 100.8,
+      "text": "É mais caro, sim, é mais caro"
+    },
+    {
+      "start": 100.8,
+      "end": 103.7,
+      "text": "Mas evita uma grande dor de cabeça no início"
+    },
+    {
+      "start": 103.7,
+      "end": 106.5,
+      "text": "Não saia calibrando tudo"
+    },
+    {
+      "start": 106.5,
+      "end": 109.2,
+      "text": "Utilize os perfis genéricos de impressão"
+    },
+    {
+      "start": 109.2,
+      "end": 112.7,
+      "text": "Você não toma remédio para dor de cabeça sem ter dor de cabeça"
+    },
+    {
+      "start": 112.7,
+      "end": 117.0,
+      "text": "Os perfis genéricos normalmente funcionam muito bem com os filamentos"
+    },
+    {
+      "start": 117.0,
+      "end": 121.0,
+      "text": "Utilize eles primeiro e imprima um pente, um barquinho, pra você ver como é que tá"
+    },
+    {
+      "start": 121.0,
+      "end": 123.6,
+      "text": "Sua impressora já vem pronta de fábrica"
+    },
+    {
+      "start": 123.6,
+      "end": 125.7,
+      "text": "Invista em filamento e prática"
+    },
+    {
+      "start": 125.7,
+      "end": 128.9,
+      "text": "Não em acessórios que no começo são desnecessários"
+    },
+    {
+      "start": 128.9,
+      "end": 131.5,
+      "text": "Não use álcool etílico pra limpar a placa"
+    },
+    {
+      "start": 131.5,
+      "end": 134.4,
+      "text": "Utilize água e sabão ou detergente"
+    },
+    {
+      "start": 134.4,
+      "end": 136.2,
+      "text": "O álcool só espalha gordura"
+    },
+    {
+      "start": 136.2,
+      "end": 141.1,
+      "text": "Que faça isso regularmente, isso evita 80% dos problemas da sua impressão"
+    },
+    {
+      "start": 141.1,
+      "end": 146.2,
+      "text": "A central de ajuda da sua impressora é a fonte mais confiável de informação"
+    },
+    {
+      "start": 146.2,
+      "end": 151.5,
+      "text": "O wiki da Bambu, por exemplo, é completo e pode te transformar em um expert"
+    },
+    {
+      "start": 151.5,
+      "end": 154.8,
+      "text": "E à medida que você vai se aprimorando, aprenda os termos"
+    },
+    {
+      "start": 154.8,
+      "end": 158.6,
+      "text": "Warping, Stringing, Bridge, Overhands"
+    },
+    {
+      "start": 158.6,
+      "end": 162.0,
+      "text": "Isso vai te ajudar muito a procurar soluções dos seus problemas"
+    },
+    {
+      "start": 162.0,
+      "end": 164.8,
+      "text": "E vamos lá, não seja muito exigente no começo"
+    },
+    {
+      "start": 164.8,
+      "end": 168.3,
+      "text": "Cada falha que você tiver é uma oportunidade de aprender ainda mais"
+    },
+    {
+      "start": 168.3,
+      "end": 172.4,
+      "text": "E deixa eu te falar, eu aprendo todos os dias resolvendo os problemas que eu tenho"
+    },
+    {
+      "start": 172.4,
+      "end": 174.6,
+      "text": "Pesquisando pra criar conteúdos pra vocês"
+    },
+    {
+      "start": 174.6,
+      "end": 179.6,
+      "text": "Se você curtiu esse conteúdo, salva e manda pra aquele seu amigo que tá começando"
+    }
+  ],
+  "duration": 179.8,
+  "model": "large-v3-turbo"
+}

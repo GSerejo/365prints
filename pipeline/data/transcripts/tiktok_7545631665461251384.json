@@ -1,0 +1,222 @@
+{
+  "text": "Como fazer chaveiros coloridos sem uma impressora colorida e direto no seu pateador, ou seja, sem nenhum conhecimento em modelagem. Bem-vindo ao dia 80 e hoje eu vou mostrar pra vocês como transformar seus chaveiros em projetos multipartes. Tá, mas e aí, quais as vantagens disso? O primeiro é economizar e acabar com a purga. Isso faz com que a gente não precise de uma impressora colorida porque a gente pode imprimir as partes de forma separada. E pra quem tem dificuldades no acabamento da superfície de topo, você pode virar todas as partes na placa. E ainda assim, fazer um chaveiro ou uma plaquinha em alto relevo. Então bora começar! Essa é a ferramenta do Maker Lab pra fazer o seu chaveiro personalizado, que eu ensinei lá no dia 77. E quando abrimos o arquivo 3MF, já verificamos que o projeto está dividido em partes. O fundo da peça, a parte preta, está dividida em duas partes, o furo e a plaquinha. E a primeira coisa que a gente vai fazer é unir as partes com cores iguais Utilizando o recurso Mesh na barra de ferramentas E é sempre mais fácil utilizar a barra da esquerda Que é a parte de baixo ali do vídeo pra selecionar os objetos Com as duas partes unidas a gente ficou com os três objetos separados Agora a gente precisa fazer a região de encaixe da plaquinha Antes disso vamos duplicar os objetos em branco e em vermelho É só selecionar os objetos na barra da esquerda, essa parte de baixo do vídeo E dar um Ctrl C e Ctrl V e arrastar Agora a gente cria um subgrupo dos dois objetos que copiamos Então a gente separou a plaquinha do logo em alto relevo Agora vamos fazer a região de encaixe Selecionamos o logo branco e transformamos ele em parte negativa E o mesmo vamos fazer com vermelho Botão direito no objeto, mudar tipo e depois só selecionar parte negativa Com essas duas partes selecionadas a gente vai movimentar o objeto para criar a cavidade E aqui eu gosto de criar uma cavidade de pelo menos 1,5 milímetros E antes que alguém me pergunte, a plaquinha e o logo estão 3mm de espessura cada um. Com o objeto fatiado, a gente já verifica a cavidade. Agora eu só separei os objetos com cores e deixei um em cada prato. E antes de imprimir, a gente precisa ajustar a compensação XY para criar uma folga para o encaixe. Eu gosto de utilizar 0,1mm. E só para vocês entenderem o que essa função faz, eu aumentei para 1 aqui e vamos fatiar. Veja que ela aumentou a folga do baixo relevo. Só o encaixe do meio do ar ali que não foi modificado e a gente precisa alterar outra coisa. Mas antes disso, não se esqueça de voltar a tolerância para 0,1. E a gente mantém a compensação nessa peça de 0,1 para criar uma tolerância no centro do ar e conseguir encaixar. Nessa peça, o centro do ar é o buraco. Agora você pode tombar todas as peças na mesa se você tem dificuldade ou não gosta do acabamento da superfície de topo. E galera, antes de mostrar o resultado final, não se esqueça de dar like, curtir e salvar, que deu um trabalhão pra fazer esse vídeo. E agora dá pra fazer chaveiros diferentes com o mesmo arquivo. A propósito, eu utilizei um bico de 0.4. E até o próximo vídeo.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.1,
+      "text": "Como fazer chaveiros coloridos sem uma impressora colorida e direto no seu pateador, ou seja, sem nenhum conhecimento em modelagem."
+    },
+    {
+      "start": 9.5,
+      "end": 16.3,
+      "text": "Bem-vindo ao dia 80 e hoje eu vou mostrar pra vocês como transformar seus chaveiros em projetos multipartes."
+    },
+    {
+      "start": 16.5,
+      "end": 22.5,
+      "text": "Tá, mas e aí, quais as vantagens disso? O primeiro é economizar e acabar com a purga."
+    },
+    {
+      "start": 22.9,
+      "end": 29.0,
+      "text": "Isso faz com que a gente não precise de uma impressora colorida porque a gente pode imprimir as partes de forma separada."
+    },
+    {
+      "start": 29.0,
+      "end": 35.4,
+      "text": "E pra quem tem dificuldades no acabamento da superfície de topo, você pode virar todas as partes na placa."
+    },
+    {
+      "start": 35.6,
+      "end": 39.2,
+      "text": "E ainda assim, fazer um chaveiro ou uma plaquinha em alto relevo."
+    },
+    {
+      "start": 39.3,
+      "end": 40.3,
+      "text": "Então bora começar!"
+    },
+    {
+      "start": 40.6,
+      "end": 46.0,
+      "text": "Essa é a ferramenta do Maker Lab pra fazer o seu chaveiro personalizado, que eu ensinei lá no dia 77."
+    },
+    {
+      "start": 46.3,
+      "end": 51.6,
+      "text": "E quando abrimos o arquivo 3MF, já verificamos que o projeto está dividido em partes."
+    },
+    {
+      "start": 51.8,
+      "end": 56.2,
+      "text": "O fundo da peça, a parte preta, está dividida em duas partes, o furo e a plaquinha."
+    },
+    {
+      "start": 56.2,
+      "end": 59.9,
+      "text": "E a primeira coisa que a gente vai fazer é unir as partes com cores iguais"
+    },
+    {
+      "start": 59.9,
+      "end": 62.9,
+      "text": "Utilizando o recurso Mesh na barra de ferramentas"
+    },
+    {
+      "start": 62.9,
+      "end": 65.4,
+      "text": "E é sempre mais fácil utilizar a barra da esquerda"
+    },
+    {
+      "start": 65.4,
+      "end": 68.2,
+      "text": "Que é a parte de baixo ali do vídeo pra selecionar os objetos"
+    },
+    {
+      "start": 68.2,
+      "end": 71.6,
+      "text": "Com as duas partes unidas a gente ficou com os três objetos separados"
+    },
+    {
+      "start": 71.6,
+      "end": 74.7,
+      "text": "Agora a gente precisa fazer a região de encaixe da plaquinha"
+    },
+    {
+      "start": 74.7,
+      "end": 78.1,
+      "text": "Antes disso vamos duplicar os objetos em branco e em vermelho"
+    },
+    {
+      "start": 78.1,
+      "end": 82.0,
+      "text": "É só selecionar os objetos na barra da esquerda, essa parte de baixo do vídeo"
+    },
+    {
+      "start": 82.0,
+      "end": 84.1,
+      "text": "E dar um Ctrl C e Ctrl V e arrastar"
+    },
+    {
+      "start": 84.1,
+      "end": 87.5,
+      "text": "Agora a gente cria um subgrupo dos dois objetos que copiamos"
+    },
+    {
+      "start": 87.5,
+      "end": 90.6,
+      "text": "Então a gente separou a plaquinha do logo em alto relevo"
+    },
+    {
+      "start": 90.6,
+      "end": 92.6,
+      "text": "Agora vamos fazer a região de encaixe"
+    },
+    {
+      "start": 92.6,
+      "end": 96.6,
+      "text": "Selecionamos o logo branco e transformamos ele em parte negativa"
+    },
+    {
+      "start": 96.6,
+      "end": 98.3,
+      "text": "E o mesmo vamos fazer com vermelho"
+    },
+    {
+      "start": 98.3,
+      "end": 103.1,
+      "text": "Botão direito no objeto, mudar tipo e depois só selecionar parte negativa"
+    },
+    {
+      "start": 103.1,
+      "end": 108.0,
+      "text": "Com essas duas partes selecionadas a gente vai movimentar o objeto para criar a cavidade"
+    },
+    {
+      "start": 108.0,
+      "end": 112.3,
+      "text": "E aqui eu gosto de criar uma cavidade de pelo menos 1,5 milímetros"
+    },
+    {
+      "start": 112.3,
+      "end": 116.8,
+      "text": "E antes que alguém me pergunte, a plaquinha e o logo estão 3mm de espessura cada um."
+    },
+    {
+      "start": 117.0,
+      "end": 120.0,
+      "text": "Com o objeto fatiado, a gente já verifica a cavidade."
+    },
+    {
+      "start": 120.8,
+      "end": 124.3,
+      "text": "Agora eu só separei os objetos com cores e deixei um em cada prato."
+    },
+    {
+      "start": 124.5,
+      "end": 129.4,
+      "text": "E antes de imprimir, a gente precisa ajustar a compensação XY para criar uma folga para o encaixe."
+    },
+    {
+      "start": 129.7,
+      "end": 132.0,
+      "text": "Eu gosto de utilizar 0,1mm."
+    },
+    {
+      "start": 132.4,
+      "end": 136.3,
+      "text": "E só para vocês entenderem o que essa função faz, eu aumentei para 1 aqui e vamos fatiar."
+    },
+    {
+      "start": 136.5,
+      "end": 139.0,
+      "text": "Veja que ela aumentou a folga do baixo relevo."
+    },
+    {
+      "start": 139.0,
+      "end": 143.4,
+      "text": "Só o encaixe do meio do ar ali que não foi modificado e a gente precisa alterar outra coisa."
+    },
+    {
+      "start": 143.5,
+      "end": 146.8,
+      "text": "Mas antes disso, não se esqueça de voltar a tolerância para 0,1."
+    },
+    {
+      "start": 147.0,
+      "end": 153.2,
+      "text": "E a gente mantém a compensação nessa peça de 0,1 para criar uma tolerância no centro do ar e conseguir encaixar."
+    },
+    {
+      "start": 153.5,
+      "end": 155.9,
+      "text": "Nessa peça, o centro do ar é o buraco."
+    },
+    {
+      "start": 156.2,
+      "end": 162.6,
+      "text": "Agora você pode tombar todas as peças na mesa se você tem dificuldade ou não gosta do acabamento da superfície de topo."
+    },
+    {
+      "start": 162.6,
+      "end": 170.1,
+      "text": "E galera, antes de mostrar o resultado final, não se esqueça de dar like, curtir e salvar, que deu um trabalhão pra fazer esse vídeo."
+    },
+    {
+      "start": 170.1,
+      "end": 174.4,
+      "text": "E agora dá pra fazer chaveiros diferentes com o mesmo arquivo."
+    },
+    {
+      "start": 174.5,
+      "end": 177.4,
+      "text": "A propósito, eu utilizei um bico de 0.4."
+    },
+    {
+      "start": 177.7,
+      "end": 179.3,
+      "text": "E até o próximo vídeo."
+    }
+  ],
+  "duration": 179.8,
+  "model": "large-v3-turbo"
+}

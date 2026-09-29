@@ -1,0 +1,147 @@
+{
+  "text": "Qual é a importância da calibração da dinâmica de fluxo nas suas peças 3D? Esse é o dia 136 e para explicar isso eu vou dar um exemplo ilustrativo. Esse tubo de pasta de dente vai representar o cabeçote de impressão. A ponta é o bico por onde sai o filamento, que é a pasta de dente. A pressão dos meus dedos representa a extrusora, que é responsável por empurrar o filamento até o bico. Agora vamos supor que estamos imprimindo uma linha com velocidade constante. Em um certo momento a impressora acelera. Isso faz com que parte da linha fique sem material E por isso nós precisamos calibrar a dinâmica de fluxo Com a calibração nós definimos o fator K Que é um assistente responsável por aumentar a pressão da extrusora no momento dessa aceleração E evitar essa falta de material Agora vamos para um exemplo real Sem utilizar assistente, ou seja, com o valor K igual a zero A impressora vem numa velocidade quando acelera a falta de material O mesmo exemplo da pasta de dente E da mesma maneira numa desaceleração é um acúmulo de material Veja que quando passamos a utilizar o assistente inteligente, ou seja, o valor K maior que zero, há uma melhora significativa na linha. Nessa região marcada, veja que a linha está bem mais homogênea. Em contrapartida, se o fator K for muito alto, o assistente empurra muito material numa aceleração e há um acúmulo. E na desaceleração, ele reduz muito a quantidade de material enviado e a falta de material. Por isso a importância da calibração da dinâmica de fluxo para encontrar o valor de K ideal. Mas calma, na maioria das impressoras novas há uma calibração automática do fator K antes de iniciar uma impressão. E normalmente essa calibração automática tem resultados satisfatórios. Mas se por algum motivo você está identificando a falta ou a sobra de material, como nesse cubo por exemplo, eu recomendo fazer uma calibração manual lá na aba calibração do seu fatiador. Esse aí é o resultado da calibração do fator K de forma manual. E se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Qual é a importância da calibração da dinâmica de fluxo nas suas peças 3D?"
+    },
+    {
+      "start": 5.9,
+      "end": 10.2,
+      "text": "Esse é o dia 136 e para explicar isso eu vou dar um exemplo ilustrativo."
+    },
+    {
+      "start": 10.4,
+      "end": 13.4,
+      "text": "Esse tubo de pasta de dente vai representar o cabeçote de impressão."
+    },
+    {
+      "start": 13.5,
+      "end": 16.7,
+      "text": "A ponta é o bico por onde sai o filamento, que é a pasta de dente."
+    },
+    {
+      "start": 16.8,
+      "end": 22.4,
+      "text": "A pressão dos meus dedos representa a extrusora, que é responsável por empurrar o filamento até o bico."
+    },
+    {
+      "start": 22.4,
+      "end": 26.2,
+      "text": "Agora vamos supor que estamos imprimindo uma linha com velocidade constante."
+    },
+    {
+      "start": 26.7,
+      "end": 29.3,
+      "text": "Em um certo momento a impressora acelera."
+    },
+    {
+      "start": 29.3,
+      "end": 32.1,
+      "text": "Isso faz com que parte da linha fique sem material"
+    },
+    {
+      "start": 32.1,
+      "end": 35.5,
+      "text": "E por isso nós precisamos calibrar a dinâmica de fluxo"
+    },
+    {
+      "start": 35.5,
+      "end": 37.5,
+      "text": "Com a calibração nós definimos o fator K"
+    },
+    {
+      "start": 37.5,
+      "end": 43.4,
+      "text": "Que é um assistente responsável por aumentar a pressão da extrusora no momento dessa aceleração"
+    },
+    {
+      "start": 43.4,
+      "end": 45.2,
+      "text": "E evitar essa falta de material"
+    },
+    {
+      "start": 45.2,
+      "end": 46.9,
+      "text": "Agora vamos para um exemplo real"
+    },
+    {
+      "start": 46.9,
+      "end": 49.9,
+      "text": "Sem utilizar assistente, ou seja, com o valor K igual a zero"
+    },
+    {
+      "start": 49.9,
+      "end": 53.4,
+      "text": "A impressora vem numa velocidade quando acelera a falta de material"
+    },
+    {
+      "start": 53.4,
+      "end": 55.2,
+      "text": "O mesmo exemplo da pasta de dente"
+    },
+    {
+      "start": 55.2,
+      "end": 59.1,
+      "text": "E da mesma maneira numa desaceleração é um acúmulo de material"
+    },
+    {
+      "start": 59.1,
+      "end": 66.1,
+      "text": "Veja que quando passamos a utilizar o assistente inteligente, ou seja, o valor K maior que zero, há uma melhora significativa na linha."
+    },
+    {
+      "start": 66.4,
+      "end": 69.9,
+      "text": "Nessa região marcada, veja que a linha está bem mais homogênea."
+    },
+    {
+      "start": 70.1,
+      "end": 76.2,
+      "text": "Em contrapartida, se o fator K for muito alto, o assistente empurra muito material numa aceleração e há um acúmulo."
+    },
+    {
+      "start": 76.2,
+      "end": 81.1,
+      "text": "E na desaceleração, ele reduz muito a quantidade de material enviado e a falta de material."
+    },
+    {
+      "start": 81.3,
+      "end": 86.1,
+      "text": "Por isso a importância da calibração da dinâmica de fluxo para encontrar o valor de K ideal."
+    },
+    {
+      "start": 86.1,
+      "end": 92.5,
+      "text": "Mas calma, na maioria das impressoras novas há uma calibração automática do fator K antes de iniciar uma impressão."
+    },
+    {
+      "start": 92.7,
+      "end": 96.1,
+      "text": "E normalmente essa calibração automática tem resultados satisfatórios."
+    },
+    {
+      "start": 96.2,
+      "end": 101.7,
+      "text": "Mas se por algum motivo você está identificando a falta ou a sobra de material, como nesse cubo por exemplo,"
+    },
+    {
+      "start": 101.9,
+      "end": 106.3,
+      "text": "eu recomendo fazer uma calibração manual lá na aba calibração do seu fatiador."
+    },
+    {
+      "start": 106.6,
+      "end": 109.6,
+      "text": "Esse aí é o resultado da calibração do fator K de forma manual."
+    },
+    {
+      "start": 110.1,
+      "end": 113.6,
+      "text": "E se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 114.5,
+  "model": "large-v3-turbo"
+}

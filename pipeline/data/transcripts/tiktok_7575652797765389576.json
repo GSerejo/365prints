@@ -1,0 +1,27 @@
+{
+  "text": "A aplicação de texturas com SVGs é limitada a uma certa profundidade. E se fosse possível aplicar texturas ainda mais personalizadas. Bem-vindo ao dia 130! E sim, é possível utilizando apenas o seu fatiador. Então fique ligado que eu estou preparando o material completo para ensinar a fazer esses letreiros.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.9,
+      "text": "A aplicação de texturas com SVGs é limitada a uma certa profundidade."
+    },
+    {
+      "start": 5.0,
+      "end": 9.1,
+      "text": "E se fosse possível aplicar texturas ainda mais personalizadas."
+    },
+    {
+      "start": 9.5,
+      "end": 15.2,
+      "text": "Bem-vindo ao dia 130! E sim, é possível utilizando apenas o seu fatiador."
+    },
+    {
+      "start": 15.2,
+      "end": 20.4,
+      "text": "Então fique ligado que eu estou preparando o material completo para ensinar a fazer esses letreiros."
+    }
+  ],
+  "duration": 20.7,
+  "model": "large-v3-turbo"
+}

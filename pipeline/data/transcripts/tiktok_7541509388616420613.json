@@ -1,0 +1,117 @@
+{
+  "text": "Vale a pena utilizar a função passar ferro? Hoje é o dia 71 e eu fiz um montão de teste para ver mesmo se essa função deixa a superfície de topo lisinha. Para quem não sabe, a função passar ferro está lá na aba qualidade e ao terminar a última camada o bico vai raspando na superfície de topo despejando um pouco de filamento. Basicamente passando o ferro mesmo a fim de tentar minimizar as linhas de impressão. E tem várias variáveis para configurar O padrão, a velocidade em que o bico passa, a vazão, o espaçamento do bico A distância em relação à borda e a direção em relação à última camada Na maioria dos casos, os testes avaliam qual a melhor vazão que deixa a superfície mais lisa Outros mudam duas variáveis, a velocidade e a vazão Só que o problema dos testes é que as superfícies de estado são muito pequenas E eu tentei validar o melhor resultado dos testes numa superfície maior E foi aí que eu comecei a encontrar algumas inconsistências. Veja que nesse caso a função passar ferro deixou as bordas marcadas. Então eu troquei de filamento e mesmo com os fluxos calibrados a função não conseguiu entregar consistências em geometrias maiores. E o tempo de impressão sobe muito. E foram bastante testes até eu chegar nesse resultado. Que na verdade é não utilizando essa função. As inconsistências nos testes, o tempo demorado de impressão e os bons resultados de superfície de topo que eu tenho. faz com que eu não recomende essa função. E você aí, já testou essa função? Teve resultados melhores? Comenta aí nos comentários.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Vale a pena utilizar a função passar ferro?"
+    },
+    {
+      "start": 3.5,
+      "end": 11.0,
+      "text": "Hoje é o dia 71 e eu fiz um montão de teste para ver mesmo se essa função deixa a superfície de topo lisinha."
+    },
+    {
+      "start": 11.0,
+      "end": 19.6,
+      "text": "Para quem não sabe, a função passar ferro está lá na aba qualidade e ao terminar a última camada o bico vai raspando na superfície de topo despejando um pouco de filamento."
+    },
+    {
+      "start": 19.9,
+      "end": 24.4,
+      "text": "Basicamente passando o ferro mesmo a fim de tentar minimizar as linhas de impressão."
+    },
+    {
+      "start": 24.4,
+      "end": 26.9,
+      "text": "E tem várias variáveis para configurar"
+    },
+    {
+      "start": 26.9,
+      "end": 32.5,
+      "text": "O padrão, a velocidade em que o bico passa, a vazão, o espaçamento do bico"
+    },
+    {
+      "start": 32.5,
+      "end": 37.1,
+      "text": "A distância em relação à borda e a direção em relação à última camada"
+    },
+    {
+      "start": 37.1,
+      "end": 41.4,
+      "text": "Na maioria dos casos, os testes avaliam qual a melhor vazão que deixa a superfície mais lisa"
+    },
+    {
+      "start": 41.4,
+      "end": 44.7,
+      "text": "Outros mudam duas variáveis, a velocidade e a vazão"
+    },
+    {
+      "start": 44.7,
+      "end": 48.3,
+      "text": "Só que o problema dos testes é que as superfícies de estado são muito pequenas"
+    },
+    {
+      "start": 48.3,
+      "end": 51.7,
+      "text": "E eu tentei validar o melhor resultado dos testes numa superfície maior"
+    },
+    {
+      "start": 51.7,
+      "end": 54.5,
+      "text": "E foi aí que eu comecei a encontrar algumas inconsistências."
+    },
+    {
+      "start": 54.6,
+      "end": 57.9,
+      "text": "Veja que nesse caso a função passar ferro deixou as bordas marcadas."
+    },
+    {
+      "start": 58.0,
+      "end": 64.3,
+      "text": "Então eu troquei de filamento e mesmo com os fluxos calibrados a função não conseguiu entregar consistências em geometrias maiores."
+    },
+    {
+      "start": 64.6,
+      "end": 66.6,
+      "text": "E o tempo de impressão sobe muito."
+    },
+    {
+      "start": 66.7,
+      "end": 69.9,
+      "text": "E foram bastante testes até eu chegar nesse resultado."
+    },
+    {
+      "start": 70.3,
+      "end": 73.1,
+      "text": "Que na verdade é não utilizando essa função."
+    },
+    {
+      "start": 73.3,
+      "end": 80.0,
+      "text": "As inconsistências nos testes, o tempo demorado de impressão e os bons resultados de superfície de topo que eu tenho."
+    },
+    {
+      "start": 80.0,
+      "end": 82.2,
+      "text": "faz com que eu não recomende essa função."
+    },
+    {
+      "start": 82.3,
+      "end": 84.2,
+      "text": "E você aí, já testou essa função?"
+    },
+    {
+      "start": 84.6,
+      "end": 85.7,
+      "text": "Teve resultados melhores?"
+    },
+    {
+      "start": 85.9,
+      "end": 86.9,
+      "text": "Comenta aí nos comentários."
+    }
+  ],
+  "duration": 87.5,
+  "model": "large-v3-turbo"
+}

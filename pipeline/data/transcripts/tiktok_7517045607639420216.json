@@ -1,0 +1,52 @@
+{
+  "text": "Hoje eu vou mostrar 5 impressões que facilitaram minha vida em casa. Esse é o dia 24 de 365 impressões 3D aqui em casa. Em quinto lugar é um porta-baralho. Agora vai ficar fácil encontrar o meu baralho de truco. Em quarto lugar é um suporte para carregar o celular. Em terceiro lugar um suporte ergonômico para teclado. Em segundo lugar, um porta-latas para economizar espaço no meu frigobar E em primeiro lugar é esse espremedor de pasta de dente E aí, qual seria a sua sequência? Escreve aí nos comentários",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Hoje eu vou mostrar 5 impressões que facilitaram minha vida em casa."
+    },
+    {
+      "start": 4.8,
+      "end": 11.4,
+      "text": "Esse é o dia 24 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.2,
+      "end": 15.8,
+      "text": "Em quinto lugar é um porta-baralho."
+    },
+    {
+      "start": 16.2,
+      "end": 19.3,
+      "text": "Agora vai ficar fácil encontrar o meu baralho de truco."
+    },
+    {
+      "start": 19.7,
+      "end": 23.6,
+      "text": "Em quarto lugar é um suporte para carregar o celular."
+    },
+    {
+      "start": 24.1,
+      "end": 28.2,
+      "text": "Em terceiro lugar um suporte ergonômico para teclado."
+    },
+    {
+      "start": 28.2,
+      "end": 33.9,
+      "text": "Em segundo lugar, um porta-latas para economizar espaço no meu frigobar"
+    },
+    {
+      "start": 33.9,
+      "end": 39.8,
+      "text": "E em primeiro lugar é esse espremedor de pasta de dente"
+    },
+    {
+      "start": 39.8,
+      "end": 43.5,
+      "text": "E aí, qual seria a sua sequência? Escreve aí nos comentários"
+    }
+  ],
+  "duration": 44.7,
+  "model": "large-v3-turbo"
+}

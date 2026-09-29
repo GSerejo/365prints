@@ -1,0 +1,22 @@
+{
+  "text": "Dia 10 de 365 impressões 3D aqui em casa. Bora imprimir um suporte para escovas e pasta de dente? Esse projeto demorou cerca de 7 horas de impressão e eu utilizei um PLA da Bambu Lab que imita o mármore. E aí, o que acharam?",
+  "segments": [
+    {
+      "start": 3.4,
+      "end": 11.9,
+      "text": "Dia 10 de 365 impressões 3D aqui em casa. Bora imprimir um suporte para escovas e pasta de dente?"
+    },
+    {
+      "start": 11.9,
+      "end": 18.8,
+      "text": "Esse projeto demorou cerca de 7 horas de impressão e eu utilizei um PLA da Bambu Lab que imita o mármore."
+    },
+    {
+      "start": 20.6,
+      "end": 21.8,
+      "text": "E aí, o que acharam?"
+    }
+  ],
+  "duration": 22.8,
+  "model": "large-v3-turbo"
+}

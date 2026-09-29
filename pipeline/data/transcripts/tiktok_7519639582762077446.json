@@ -1,0 +1,52 @@
+{
+  "text": "Eu quero dar uma dica rápida para você melhorar a qualidade e o detalhamento das suas impressões 3D. Hoje é o dia 29 e eu quero falar da diferença do gerador de parede clássico e aracne. No clássico as larguras das linhas de impressão são constantes, enquanto que no aracne as larguras são variáveis. Bom, vamos ver na prática o fatiamento dessa peça aí. O clássico pode apresentar falhas nas paredes finas, enquanto que o aracne entrega mais detalhamento. Por isso, o aracne é a minha escolha para miniaturas, textos pequenos, logotipos e modelos orgânicos, como bústulos. Minha dica final é, sempre confira o fatiamento da sua peça antes de imprimir. Não saia logo imprimindo tudo por aí. Agora é sua vez. Testa aí!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.7,
+      "text": "Eu quero dar uma dica rápida para você melhorar a qualidade e o detalhamento das suas impressões 3D."
+    },
+    {
+      "start": 6.8,
+      "end": 12.7,
+      "text": "Hoje é o dia 29 e eu quero falar da diferença do gerador de parede clássico e aracne."
+    },
+    {
+      "start": 12.7,
+      "end": 20.6,
+      "text": "No clássico as larguras das linhas de impressão são constantes, enquanto que no aracne as larguras são variáveis."
+    },
+    {
+      "start": 20.7,
+      "end": 23.6,
+      "text": "Bom, vamos ver na prática o fatiamento dessa peça aí."
+    },
+    {
+      "start": 23.6,
+      "end": 30.9,
+      "text": "O clássico pode apresentar falhas nas paredes finas, enquanto que o aracne entrega mais detalhamento."
+    },
+    {
+      "start": 30.9,
+      "end": 39.3,
+      "text": "Por isso, o aracne é a minha escolha para miniaturas, textos pequenos, logotipos e modelos orgânicos, como bústulos."
+    },
+    {
+      "start": 39.9,
+      "end": 45.8,
+      "text": "Minha dica final é, sempre confira o fatiamento da sua peça antes de imprimir."
+    },
+    {
+      "start": 46.2,
+      "end": 48.0,
+      "text": "Não saia logo imprimindo tudo por aí."
+    },
+    {
+      "start": 48.7,
+      "end": 51.4,
+      "text": "Agora é sua vez. Testa aí!"
+    }
+  ],
+  "duration": 54.9,
+  "model": "large-v3-turbo"
+}

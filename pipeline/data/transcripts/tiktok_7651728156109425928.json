@@ -1,0 +1,127 @@
+{
+  "text": "Essa caixinha da copa teve esses blobs na parede externa. Vamos identificar e resolver esse problema. Bem-vindo ao dia 221. Analisando o fatiamento, vemos que não é um problema de costura. Vamos alterar a visualização para tipo de linha e habilitar algumas coisas ocultas. A primeira conclusão é referente à linha azul, que é o travel. Essa linha é o deslocamento do bico quando ele não está imprimindo. E perceba que ele está atravessando a parede externa naqueles locais de baixo relevo onde vimos os problemas Para evitar que a impressora atravesse as paredes e arraste material, vamos ativar essa função na aba qualidade Em português é evitar cruzar paredes e tem no Bambu Estúdio Problema parcialmente resolvido, agora em sua maioria o travel é feito no interior da peça Melhorou, mas ainda verificamos algumas protuberâncias que parecem vir da parte interna Em todos os meus testes, eu já estava sendo conservador e utilizando velocidades e acelerações mais baixas. Vamos analisar a construção das paredes. Na ordem de paredes, eu coloquei primeiro a externa. Neste ponto em azul é a desretração, ou seja, o início do movimento depois de um travel. Após chegar no destino, a extrusora empurra filamento, faz esse loop e finaliza com o movimento de retração, que é simbolizado pelo ponto rosa. A impressora retrai material para evitar o escorrimento durante um deslocamento. Depois disso, a impressora desloca novamente, faz a desretração, faz outro loop e uma retração novamente. E essa construção interna é cheia de loops. Portanto, nosso problema provavelmente é o using, ou seja, o escorrimento. Devido aos diversos loops, a extrusora não retrai o suficiente e o material escorre no interior da peça, o que causa protuberância externa. E para resolver isso, a gente vai editar o filamento e na terceira aba vamos aumentar o comprimento de retração. Problema resolvido e a impressão da parede agora ficou perfeita E se você gostou desse vídeo, me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Essa caixinha da copa teve esses blobs na parede externa. Vamos identificar e resolver esse problema."
+    },
+    {
+      "start": 6.7,
+      "end": 12.2,
+      "text": "Bem-vindo ao dia 221. Analisando o fatiamento, vemos que não é um problema de costura."
+    },
+    {
+      "start": 12.2,
+      "end": 17.0,
+      "text": "Vamos alterar a visualização para tipo de linha e habilitar algumas coisas ocultas."
+    },
+    {
+      "start": 17.1,
+      "end": 20.5,
+      "text": "A primeira conclusão é referente à linha azul, que é o travel."
+    },
+    {
+      "start": 20.6,
+      "end": 24.1,
+      "text": "Essa linha é o deslocamento do bico quando ele não está imprimindo."
+    },
+    {
+      "start": 24.1,
+      "end": 30.2,
+      "text": "E perceba que ele está atravessando a parede externa naqueles locais de baixo relevo onde vimos os problemas"
+    },
+    {
+      "start": 30.2,
+      "end": 37.0,
+      "text": "Para evitar que a impressora atravesse as paredes e arraste material, vamos ativar essa função na aba qualidade"
+    },
+    {
+      "start": 37.0,
+      "end": 40.4,
+      "text": "Em português é evitar cruzar paredes e tem no Bambu Estúdio"
+    },
+    {
+      "start": 40.4,
+      "end": 45.4,
+      "text": "Problema parcialmente resolvido, agora em sua maioria o travel é feito no interior da peça"
+    },
+    {
+      "start": 45.4,
+      "end": 50.5,
+      "text": "Melhorou, mas ainda verificamos algumas protuberâncias que parecem vir da parte interna"
+    },
+    {
+      "start": 50.5,
+      "end": 56.5,
+      "text": "Em todos os meus testes, eu já estava sendo conservador e utilizando velocidades e acelerações mais baixas."
+    },
+    {
+      "start": 56.6,
+      "end": 59.0,
+      "text": "Vamos analisar a construção das paredes."
+    },
+    {
+      "start": 59.0,
+      "end": 61.3,
+      "text": "Na ordem de paredes, eu coloquei primeiro a externa."
+    },
+    {
+      "start": 61.3,
+      "end": 66.3,
+      "text": "Neste ponto em azul é a desretração, ou seja, o início do movimento depois de um travel."
+    },
+    {
+      "start": 66.4,
+      "end": 73.1,
+      "text": "Após chegar no destino, a extrusora empurra filamento, faz esse loop e finaliza com o movimento de retração,"
+    },
+    {
+      "start": 73.2,
+      "end": 74.9,
+      "text": "que é simbolizado pelo ponto rosa."
+    },
+    {
+      "start": 75.0,
+      "end": 80.0,
+      "text": "A impressora retrai material para evitar o escorrimento durante um deslocamento."
+    },
+    {
+      "start": 80.0,
+      "end": 87.2,
+      "text": "Depois disso, a impressora desloca novamente, faz a desretração, faz outro loop e uma retração novamente."
+    },
+    {
+      "start": 87.3,
+      "end": 90.0,
+      "text": "E essa construção interna é cheia de loops."
+    },
+    {
+      "start": 90.1,
+      "end": 94.8,
+      "text": "Portanto, nosso problema provavelmente é o using, ou seja, o escorrimento."
+    },
+    {
+      "start": 94.9,
+      "end": 102.5,
+      "text": "Devido aos diversos loops, a extrusora não retrai o suficiente e o material escorre no interior da peça, o que causa protuberância externa."
+    },
+    {
+      "start": 102.5,
+      "end": 109.2,
+      "text": "E para resolver isso, a gente vai editar o filamento e na terceira aba vamos aumentar o comprimento de retração."
+    },
+    {
+      "start": 109.2,
+      "end": 113.1,
+      "text": "Problema resolvido e a impressão da parede agora ficou perfeita"
+    },
+    {
+      "start": 113.1,
+      "end": 116.9,
+      "text": "E se você gostou desse vídeo, me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 117.2,
+  "model": "large-v3-turbo"
+}

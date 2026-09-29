@@ -1,0 +1,182 @@
+{
+  "text": "Eu imprimi uma bolsa na minha impressora 3D. Bem-vindo ao dia 53. Na impressão dessa bolsa eu tive duas dificuldades que eu vou mostrar como eu resolvi nesse vídeo. Primeiro eu tenho que contextualizar como eu cheguei nessa bolsa. A minha esposa sempre fica me mandando artigos pra imprimir na 3D. E ela me mandou essa bolsa aqui que está sendo vendida a 434 euros. Foi então que eu entrei no Cult 3D e encontrei esse modelo orgânico aqui. Se você ficar até o final desse vídeo vai saber quanto eu gastei. Mas vamos falar dos problemas antes. E o primeiro deles foram esses fiapinhos aqui. E a causa mais provável é uma má calibração de retração. Veja essa imagem no fatiador. Em azul, está o tanto de viagem que o bico está fazendo. E durante essas viagens, pode estar escorrendo um pouco de filamento no bico. Até porque eu estou usando um PLA Silk, que é mais fluido do que o PLA convencional. Essa imagem mostra o tanto de viagens que o bico fez em apenas uma camada. E se a retração estiver mal calibrada, pode ser que quando o bico esteja movimentando, o filamento esteja escorrendo por ele. E quando ele vai começar a imprimir, deposite um pouco de filamento, o que causa aqueles fiapinhos. A primeira coisa que se faz é ativar esse recurso de evitar cruzar a parede, para diminuir o número de viagens do bico. Bom, como a gente pode ver, não adiantou muito não. Agora vamos mexer na retração do filamento. Aqui nós precisamos alterar o comprimento e velocidade de retração, ou seja, o filamento precisa retrair mais numa velocidade mais rápida para evitar o escorrimento. Eu aumentei o comprimento de 0,8 para 1 milímetro e a velocidade de 30 para 40. Mas vale ressaltar que eu já tenho uma experiência com teste de retração. E se você não tem a menor ideia do que eu estou falando, eu sugiro que você pesquise por teste de retração. Talvez eu faça um vídeo sobre isso. Uma outra opção que vai te ajudar é esse retrair ao mudar de camada. E o nome já diz tudo. Veja que todas essas alterações resolveram o meu problema dos fiapinhos. Missão cumprida e agora vamos para o segundo problema. Eu tive que parar a impressão porque os suportes internos não estavam aderindo corretamente e caíram. E para aumentar essa aderência, eu só diminuí a velocidade de impressão dos suportes. E para fazer essa bolsa, eu gastei R$ 79,00, considerando já os R$ 26,90 que eu paguei no modelo. Bem mais barato que aquela outra bolsa lá, né? Gostaram desse conteúdo? Me sigam para ter vídeos de impressão 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Eu imprimi uma bolsa na minha impressora 3D. Bem-vindo ao dia 53."
+    },
+    {
+      "start": 5.2,
+      "end": 9.5,
+      "text": "Na impressão dessa bolsa eu tive duas dificuldades que eu vou mostrar como eu resolvi nesse vídeo."
+    },
+    {
+      "start": 9.6,
+      "end": 12.4,
+      "text": "Primeiro eu tenho que contextualizar como eu cheguei nessa bolsa."
+    },
+    {
+      "start": 12.5,
+      "end": 16.1,
+      "text": "A minha esposa sempre fica me mandando artigos pra imprimir na 3D."
+    },
+    {
+      "start": 16.1,
+      "end": 21.0,
+      "text": "E ela me mandou essa bolsa aqui que está sendo vendida a 434 euros."
+    },
+    {
+      "start": 21.3,
+      "end": 25.6,
+      "text": "Foi então que eu entrei no Cult 3D e encontrei esse modelo orgânico aqui."
+    },
+    {
+      "start": 25.8,
+      "end": 28.6,
+      "text": "Se você ficar até o final desse vídeo vai saber quanto eu gastei."
+    },
+    {
+      "start": 28.6,
+      "end": 30.6,
+      "text": "Mas vamos falar dos problemas antes."
+    },
+    {
+      "start": 30.7,
+      "end": 32.9,
+      "text": "E o primeiro deles foram esses fiapinhos aqui."
+    },
+    {
+      "start": 33.1,
+      "end": 36.9,
+      "text": "E a causa mais provável é uma má calibração de retração."
+    },
+    {
+      "start": 37.2,
+      "end": 38.7,
+      "text": "Veja essa imagem no fatiador."
+    },
+    {
+      "start": 38.9,
+      "end": 42.0,
+      "text": "Em azul, está o tanto de viagem que o bico está fazendo."
+    },
+    {
+      "start": 42.1,
+      "end": 45.9,
+      "text": "E durante essas viagens, pode estar escorrendo um pouco de filamento no bico."
+    },
+    {
+      "start": 46.0,
+      "end": 50.6,
+      "text": "Até porque eu estou usando um PLA Silk, que é mais fluido do que o PLA convencional."
+    },
+    {
+      "start": 50.8,
+      "end": 55.1,
+      "text": "Essa imagem mostra o tanto de viagens que o bico fez em apenas uma camada."
+    },
+    {
+      "start": 55.1,
+      "end": 61.6,
+      "text": "E se a retração estiver mal calibrada, pode ser que quando o bico esteja movimentando, o filamento esteja escorrendo por ele."
+    },
+    {
+      "start": 61.9,
+      "end": 66.8,
+      "text": "E quando ele vai começar a imprimir, deposite um pouco de filamento, o que causa aqueles fiapinhos."
+    },
+    {
+      "start": 66.9,
+      "end": 72.1,
+      "text": "A primeira coisa que se faz é ativar esse recurso de evitar cruzar a parede, para diminuir o número de viagens do bico."
+    },
+    {
+      "start": 72.2,
+      "end": 74.2,
+      "text": "Bom, como a gente pode ver, não adiantou muito não."
+    },
+    {
+      "start": 74.5,
+      "end": 76.9,
+      "text": "Agora vamos mexer na retração do filamento."
+    },
+    {
+      "start": 77.0,
+      "end": 80.7,
+      "text": "Aqui nós precisamos alterar o comprimento e velocidade de retração, ou seja,"
+    },
+    {
+      "start": 80.7,
+      "end": 84.9,
+      "text": "o filamento precisa retrair mais numa velocidade mais rápida para evitar o escorrimento."
+    },
+    {
+      "start": 85.1,
+      "end": 90.3,
+      "text": "Eu aumentei o comprimento de 0,8 para 1 milímetro e a velocidade de 30 para 40."
+    },
+    {
+      "start": 90.4,
+      "end": 93.6,
+      "text": "Mas vale ressaltar que eu já tenho uma experiência com teste de retração."
+    },
+    {
+      "start": 93.8,
+      "end": 98.3,
+      "text": "E se você não tem a menor ideia do que eu estou falando, eu sugiro que você pesquise por teste de retração."
+    },
+    {
+      "start": 98.8,
+      "end": 100.1,
+      "text": "Talvez eu faça um vídeo sobre isso."
+    },
+    {
+      "start": 100.2,
+      "end": 103.3,
+      "text": "Uma outra opção que vai te ajudar é esse retrair ao mudar de camada."
+    },
+    {
+      "start": 103.5,
+      "end": 104.6,
+      "text": "E o nome já diz tudo."
+    },
+    {
+      "start": 105.0,
+      "end": 109.4,
+      "text": "Veja que todas essas alterações resolveram o meu problema dos fiapinhos."
+    },
+    {
+      "start": 109.6,
+      "end": 112.1,
+      "text": "Missão cumprida e agora vamos para o segundo problema."
+    },
+    {
+      "start": 112.1,
+      "end": 117.4,
+      "text": "Eu tive que parar a impressão porque os suportes internos não estavam aderindo corretamente e caíram."
+    },
+    {
+      "start": 117.6,
+      "end": 121.1,
+      "text": "E para aumentar essa aderência, eu só diminuí a velocidade de impressão dos suportes."
+    },
+    {
+      "start": 132.3,
+      "end": 138.8,
+      "text": "E para fazer essa bolsa, eu gastei R$ 79,00, considerando já os R$ 26,90 que eu paguei no modelo."
+    },
+    {
+      "start": 139.2,
+      "end": 141.2,
+      "text": "Bem mais barato que aquela outra bolsa lá, né?"
+    },
+    {
+      "start": 141.5,
+      "end": 145.5,
+      "text": "Gostaram desse conteúdo? Me sigam para ter vídeos de impressão 3D todos os dias."
+    }
+  ],
+  "duration": 146.2,
+  "model": "large-v3-turbo"
+}

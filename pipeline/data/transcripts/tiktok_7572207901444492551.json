@@ -1,0 +1,172 @@
+{
+  "text": "Como tornar suas impressões multipartes mais práticas e econômicas? Bem-vindo ao dia 125! Essa impressão do Jerry é multiparte, ou seja, você pode imprimir as peças coloridas de formas separadas em cada prato e depois juntá-las no final. Mas como eu tenho peças pequenas, eu quero praticidade e imprimir tudo de uma vez só. E pra isso eu juntei 4 partes com cores diferentes e vou utilizar meu AMS. E se eu for imprimir por camadas, a impressão vai demorar mais de 16 horas. Isso porque terá mais de 380 trocas de cores. Então lá na aba Outros a gente muda por impressão por objeto, para imprimir cada objeto de forma separada na mesma placa. Agora aparecem esses perímetros de segurança, para que a impressora consiga imprimir as partes sem colidir umas com as outras. Veja por exemplo o queijo, ele precisa desse perímetro aqui de distância das outras peças. Os olhos estão sendo tratados como duas peças separadas. Então vamos uni-los, selecionando ambos e clicando com o botão direito em Mesclar. Assim eles serão tratados com uma peça só que é da mesma cor E o mesmo fazemos para essas quatro peças aqui Agora movemos as peças para os cantos para deixar o perímetro de segurança Então aparece esse outro erro com esse perímetro mais alto Isso porque a ordem de impressão está errada O corpo do Jerry é impresso antes E quando vai imprimir as partes mais baixas O cabeçote de impressão pode bater nessa peça Devemos alterar a ordem de impressão na placa 5 Colocando os itens menores para imprimir primeiro E deixando o corpo do Jerry por último E pra isso é só ir arrastando os itens para cima Agora o corpo do Jerry em marrom será impresso por último O perímetro maior desapareceu e todos os erros foram solucionados Agora é só patear Veja que a impressão agora tá demorando apenas 5 horas Cada peça tá sendo impresso na mesa de forma separada O que torna o processo muito mais prático Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.5,
+      "text": "Como tornar suas impressões multipartes mais práticas e econômicas?"
+    },
+    {
+      "start": 5.0,
+      "end": 7.0,
+      "text": "Bem-vindo ao dia 125!"
+    },
+    {
+      "start": 7.3,
+      "end": 15.3,
+      "text": "Essa impressão do Jerry é multiparte, ou seja, você pode imprimir as peças coloridas de formas separadas em cada prato e depois juntá-las no final."
+    },
+    {
+      "start": 15.4,
+      "end": 19.3,
+      "text": "Mas como eu tenho peças pequenas, eu quero praticidade e imprimir tudo de uma vez só."
+    },
+    {
+      "start": 19.5,
+      "end": 23.7,
+      "text": "E pra isso eu juntei 4 partes com cores diferentes e vou utilizar meu AMS."
+    },
+    {
+      "start": 23.8,
+      "end": 27.4,
+      "text": "E se eu for imprimir por camadas, a impressão vai demorar mais de 16 horas."
+    },
+    {
+      "start": 27.4,
+      "end": 30.6,
+      "text": "Isso porque terá mais de 380 trocas de cores."
+    },
+    {
+      "start": 30.9,
+      "end": 33.7,
+      "text": "Então lá na aba Outros a gente muda por impressão por objeto,"
+    },
+    {
+      "start": 33.7,
+      "end": 37.2,
+      "text": "para imprimir cada objeto de forma separada na mesma placa."
+    },
+    {
+      "start": 37.4,
+      "end": 39.5,
+      "text": "Agora aparecem esses perímetros de segurança,"
+    },
+    {
+      "start": 39.6,
+      "end": 43.2,
+      "text": "para que a impressora consiga imprimir as partes sem colidir umas com as outras."
+    },
+    {
+      "start": 43.5,
+      "end": 48.2,
+      "text": "Veja por exemplo o queijo, ele precisa desse perímetro aqui de distância das outras peças."
+    },
+    {
+      "start": 48.5,
+      "end": 51.1,
+      "text": "Os olhos estão sendo tratados como duas peças separadas."
+    },
+    {
+      "start": 51.2,
+      "end": 54.8,
+      "text": "Então vamos uni-los, selecionando ambos e clicando com o botão direito em Mesclar."
+    },
+    {
+      "start": 54.8,
+      "end": 57.9,
+      "text": "Assim eles serão tratados com uma peça só que é da mesma cor"
+    },
+    {
+      "start": 57.9,
+      "end": 60.6,
+      "text": "E o mesmo fazemos para essas quatro peças aqui"
+    },
+    {
+      "start": 60.6,
+      "end": 64.3,
+      "text": "Agora movemos as peças para os cantos para deixar o perímetro de segurança"
+    },
+    {
+      "start": 64.3,
+      "end": 67.3,
+      "text": "Então aparece esse outro erro com esse perímetro mais alto"
+    },
+    {
+      "start": 67.3,
+      "end": 69.7,
+      "text": "Isso porque a ordem de impressão está errada"
+    },
+    {
+      "start": 69.7,
+      "end": 71.3,
+      "text": "O corpo do Jerry é impresso antes"
+    },
+    {
+      "start": 71.3,
+      "end": 73.1,
+      "text": "E quando vai imprimir as partes mais baixas"
+    },
+    {
+      "start": 73.1,
+      "end": 75.4,
+      "text": "O cabeçote de impressão pode bater nessa peça"
+    },
+    {
+      "start": 75.4,
+      "end": 78.1,
+      "text": "Devemos alterar a ordem de impressão na placa 5"
+    },
+    {
+      "start": 78.1,
+      "end": 80.6,
+      "text": "Colocando os itens menores para imprimir primeiro"
+    },
+    {
+      "start": 80.6,
+      "end": 82.4,
+      "text": "E deixando o corpo do Jerry por último"
+    },
+    {
+      "start": 82.4,
+      "end": 85.2,
+      "text": "E pra isso é só ir arrastando os itens para cima"
+    },
+    {
+      "start": 85.2,
+      "end": 88.5,
+      "text": "Agora o corpo do Jerry em marrom será impresso por último"
+    },
+    {
+      "start": 88.5,
+      "end": 92.2,
+      "text": "O perímetro maior desapareceu e todos os erros foram solucionados"
+    },
+    {
+      "start": 92.2,
+      "end": 93.3,
+      "text": "Agora é só patear"
+    },
+    {
+      "start": 93.3,
+      "end": 96.3,
+      "text": "Veja que a impressão agora tá demorando apenas 5 horas"
+    },
+    {
+      "start": 96.3,
+      "end": 99.1,
+      "text": "Cada peça tá sendo impresso na mesa de forma separada"
+    },
+    {
+      "start": 99.1,
+      "end": 101.3,
+      "text": "O que torna o processo muito mais prático"
+    },
+    {
+      "start": 101.3,
+      "end": 105.2,
+      "text": "Gostaram dessa dica? Então me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 105.7,
+  "model": "large-v3-turbo"
+}

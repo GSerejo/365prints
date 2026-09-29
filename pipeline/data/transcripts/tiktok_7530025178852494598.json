@@ -1,0 +1,122 @@
+{
+  "text": "Qual o PLA a usar na sua peça decorativa? Normal ou fosco? Bem-vindo ao dia 49 de 365 impressões 3D aqui em casa. Esse é o PLA da Volt 3D. E antes de calibrar com o perfil genérico de impressão, eu consegui esse resultado. Já esse é o PLA fosco da ESSAN. E utilizando um perfil genérico fosco, eu consegui esse resultado, que é visivelmente inferior ao anterior. Você pode notar linhas de impressão mais pronunciadas no casco e na parte interna a gente vê sinais de substrução. Depois de calibrada a vazão, esse é o resultado da superfície de topo. Com a câmera bem próxima, você nota as linhas de impressão numa superfície de topo, normais para uma impressão 3D. A 15 centímetros da câmera, o fosco reduz o brilho e consegue camuflar as linhas de impressão. Já isso não ocorre com o PLA normal. O brilho faz com que as evidências da impressão 3D se pronunciem ainda mais. E a gente vê mais disso aproximando o objeto na câmera. Ah, e para deixar bem claro, isso não é um problema de marca. É uma característica normal do PLA. Veja que nas paredes externas a qualidade é excelente. O problema mesmo está na superfície de topo. Quando comparamos os dois lado a lado, vemos a qualidade superior do acabamento fosco na superfície de topo E mesmo com a opção passar ferro, as linhas ainda estão lá E é claro que sempre existe a opção de virar a peça para a mesa para melhorar o acabamento Conclusão, a qualidade da superfície de topo fica melhor com o PLA fosco Se você quiser utilizar o PLA normal e gosta do brilho, é só virá-lo em direção à mesa. Gostaram dessa dica? Salva aí e compartilhe com seu amigo!",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.1,
+      "text": "Qual o PLA a usar na sua peça decorativa? Normal ou fosco?"
+    },
+    {
+      "start": 5.4,
+      "end": 11.6,
+      "text": "Bem-vindo ao dia 49 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 12.1,
+      "end": 14.3,
+      "text": "Esse é o PLA da Volt 3D."
+    },
+    {
+      "start": 14.4,
+      "end": 19.6,
+      "text": "E antes de calibrar com o perfil genérico de impressão, eu consegui esse resultado."
+    },
+    {
+      "start": 22.8,
+      "end": 25.6,
+      "text": "Já esse é o PLA fosco da ESSAN."
+    },
+    {
+      "start": 25.6,
+      "end": 32.3,
+      "text": "E utilizando um perfil genérico fosco, eu consegui esse resultado, que é visivelmente inferior ao anterior."
+    },
+    {
+      "start": 32.3,
+      "end": 39.6,
+      "text": "Você pode notar linhas de impressão mais pronunciadas no casco e na parte interna a gente vê sinais de substrução."
+    },
+    {
+      "start": 40.5,
+      "end": 44.8,
+      "text": "Depois de calibrada a vazão, esse é o resultado da superfície de topo."
+    },
+    {
+      "start": 45.3,
+      "end": 52.2,
+      "text": "Com a câmera bem próxima, você nota as linhas de impressão numa superfície de topo, normais para uma impressão 3D."
+    },
+    {
+      "start": 52.7,
+      "end": 58.3,
+      "text": "A 15 centímetros da câmera, o fosco reduz o brilho e consegue camuflar as linhas de impressão."
+    },
+    {
+      "start": 58.3,
+      "end": 61.1,
+      "text": "Já isso não ocorre com o PLA normal."
+    },
+    {
+      "start": 61.5,
+      "end": 67.3,
+      "text": "O brilho faz com que as evidências da impressão 3D se pronunciem ainda mais."
+    },
+    {
+      "start": 67.9,
+      "end": 71.1,
+      "text": "E a gente vê mais disso aproximando o objeto na câmera."
+    },
+    {
+      "start": 72.0,
+      "end": 75.6,
+      "text": "Ah, e para deixar bem claro, isso não é um problema de marca."
+    },
+    {
+      "start": 76.1,
+      "end": 78.5,
+      "text": "É uma característica normal do PLA."
+    },
+    {
+      "start": 79.0,
+      "end": 82.3,
+      "text": "Veja que nas paredes externas a qualidade é excelente."
+    },
+    {
+      "start": 82.3,
+      "end": 84.5,
+      "text": "O problema mesmo está na superfície de topo."
+    },
+    {
+      "start": 84.5,
+      "end": 93.1,
+      "text": "Quando comparamos os dois lado a lado, vemos a qualidade superior do acabamento fosco na superfície de topo"
+    },
+    {
+      "start": 93.1,
+      "end": 100.2,
+      "text": "E mesmo com a opção passar ferro, as linhas ainda estão lá"
+    },
+    {
+      "start": 100.2,
+      "end": 106.0,
+      "text": "E é claro que sempre existe a opção de virar a peça para a mesa para melhorar o acabamento"
+    },
+    {
+      "start": 106.0,
+      "end": 112.7,
+      "text": "Conclusão, a qualidade da superfície de topo fica melhor com o PLA fosco"
+    },
+    {
+      "start": 112.7,
+      "end": 118.7,
+      "text": "Se você quiser utilizar o PLA normal e gosta do brilho, é só virá-lo em direção à mesa."
+    },
+    {
+      "start": 119.3,
+      "end": 123.5,
+      "text": "Gostaram dessa dica? Salva aí e compartilhe com seu amigo!"
+    }
+  ],
+  "duration": 125.0,
+  "model": "large-v3-turbo"
+}

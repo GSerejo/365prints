@@ -1,0 +1,82 @@
+{
+  "text": "Esse topo feio e cheio de degraus na sua impressão 3D te incomoda? Veja como resolver agora! Bem-vindo ao dia 212! Aqui no fatiador repare na orientação desse projeto. E mesmo com uma altura de camada muito pequena, as linhas de impressão no topo são visíveis. Então por que não fazer o topo virar parede inclinando o objeto? O resultado é o acabamento impecável nas regiões visíveis desse modelo. Nós transferimos o problema das regiões de topo lá para a parte de trás. E sim, vai aumentar o gasto de material com a adição de suportes e o tempo também. Mas eu estou preocupado com a qualidade. Neste caso, as marcas e suportes vão ficar em regiões não visíveis. Olha aí a diferença com a versão original. Outra possível solução é dividir o modelo. E agora com a atualização 2.7 do Bambu Studio, a gente não perde a pintura. Neste caso, os degraus de topo foram transferidos para a parte da frente e a parte de trás do objeto. Saindo do teto e do capô, que são as regiões mais visíveis. E se vocês gostaram dessa dica, me siga pra ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "Esse topo feio e cheio de degraus na sua impressão 3D te incomoda? Veja como resolver agora!"
+    },
+    {
+      "start": 6.4,
+      "end": 11.8,
+      "text": "Bem-vindo ao dia 212! Aqui no fatiador repare na orientação desse projeto."
+    },
+    {
+      "start": 11.9,
+      "end": 16.9,
+      "text": "E mesmo com uma altura de camada muito pequena, as linhas de impressão no topo são visíveis."
+    },
+    {
+      "start": 17.0,
+      "end": 20.9,
+      "text": "Então por que não fazer o topo virar parede inclinando o objeto?"
+    },
+    {
+      "start": 21.0,
+      "end": 25.3,
+      "text": "O resultado é o acabamento impecável nas regiões visíveis desse modelo."
+    },
+    {
+      "start": 25.3,
+      "end": 29.0,
+      "text": "Nós transferimos o problema das regiões de topo lá para a parte de trás."
+    },
+    {
+      "start": 29.0,
+      "end": 32.8,
+      "text": "E sim, vai aumentar o gasto de material com a adição de suportes e o tempo também."
+    },
+    {
+      "start": 32.9,
+      "end": 34.3,
+      "text": "Mas eu estou preocupado com a qualidade."
+    },
+    {
+      "start": 34.5,
+      "end": 37.9,
+      "text": "Neste caso, as marcas e suportes vão ficar em regiões não visíveis."
+    },
+    {
+      "start": 38.1,
+      "end": 40.1,
+      "text": "Olha aí a diferença com a versão original."
+    },
+    {
+      "start": 40.3,
+      "end": 42.8,
+      "text": "Outra possível solução é dividir o modelo."
+    },
+    {
+      "start": 42.9,
+      "end": 47.1,
+      "text": "E agora com a atualização 2.7 do Bambu Studio, a gente não perde a pintura."
+    },
+    {
+      "start": 47.3,
+      "end": 52.1,
+      "text": "Neste caso, os degraus de topo foram transferidos para a parte da frente e a parte de trás do objeto."
+    },
+    {
+      "start": 52.2,
+      "end": 55.3,
+      "text": "Saindo do teto e do capô, que são as regiões mais visíveis."
+    },
+    {
+      "start": 55.3,
+      "end": 59.2,
+      "text": "E se vocês gostaram dessa dica, me siga pra ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 59.4,
+  "model": "large-v3-turbo"
+}

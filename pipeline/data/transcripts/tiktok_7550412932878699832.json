@@ -1,0 +1,52 @@
+{
+  "text": "A impressão está quase no fim, mas uma ou mais peças se solta. Você não precisa cancelar tudo. Bem-vindo ao dia 89 e hoje a gente vai aprender a pular esses objetos e continuar a sua impressão. É só utilizar o aplicativo do Bambu Hand e apertar na opção pular. Aqui você seleciona os dois objetos que você quer ignorar. Você pode utilizar o touchscreen na parte superior ou selecionar os objetos ali embaixo. Clique na opção pular e depois é só confirmar. Problema resolvido e a sua impressora vai ignorar aqueles objetos que se desprenderam. Gostou desse conteúdo? Se você quiser dicas de impressão 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "A impressão está quase no fim, mas uma ou mais peças se solta. Você não precisa cancelar tudo."
+    },
+    {
+      "start": 6.2,
+      "end": 12.0,
+      "text": "Bem-vindo ao dia 89 e hoje a gente vai aprender a pular esses objetos e continuar a sua impressão."
+    },
+    {
+      "start": 12.4,
+      "end": 16.4,
+      "text": "É só utilizar o aplicativo do Bambu Hand e apertar na opção pular."
+    },
+    {
+      "start": 17.4,
+      "end": 20.7,
+      "text": "Aqui você seleciona os dois objetos que você quer ignorar."
+    },
+    {
+      "start": 20.7,
+      "end": 25.3,
+      "text": "Você pode utilizar o touchscreen na parte superior ou selecionar os objetos ali embaixo."
+    },
+    {
+      "start": 25.7,
+      "end": 28.2,
+      "text": "Clique na opção pular e depois é só confirmar."
+    },
+    {
+      "start": 28.2,
+      "end": 33.0,
+      "text": "Problema resolvido e a sua impressora vai ignorar aqueles objetos que se desprenderam."
+    },
+    {
+      "start": 33.1,
+      "end": 34.1,
+      "text": "Gostou desse conteúdo?"
+    },
+    {
+      "start": 34.5,
+      "end": 38.0,
+      "text": "Se você quiser dicas de impressão 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 38.4,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,172 @@
+{
+  "text": "Dicas para uma primeira camada perfeita. Bem-vindo ao dia 100! É, chegamos! A primeira camada é o Alicerce da impressão 3D e por isso ela é crucial. Primeiro começamos com a checagem do hardware. Devido a vibrações, com o tempo, esses três parafusos da frente podem se soltar e os quatro da parte de trás também. Por isso é importante apertá-los para garantir que o bico esteja bem firme e encaixado para um nivelamento bem feito. Agora verifique se o assistente HMS não tem nenhum erro Já aconteceu comigo de passar despercebido Lave sua placa com água e detergente para tirar toda a contaminação de gordura E faça a calibração de alto nivelamento pelo menu da impressora Ela vai fazer a calibração completa de toda a área de impressão Se você estiver utilizando outra placa, faça a calibração com ela Porque a espessura das placas são diferentes Eu já ia me esquecendo, mas antes de calibrar Verifique se a parte externa do bico não tem filamento preso Confesso que meus resultados melhoram só fazendo isso. Essa primeira camada aí é um filamento nacional com perfil genérico e o perfil padrão de impressão. Mas algumas configurações do fatiador que podem te ajudar. E a primeira delas é reduzir a velocidade da primeira camada. E essa diminuição de velocidade eu uso bastante quando eu tô imprimindo coisas com detalhes bem pequenos, como chaveiros. Outra coisa que não dá pra esquecer é selecionar a placa correta que você vai imprimir, principalmente pra texturizada. Isso porque por padrão no G-Code da impressora ela diminui 0.02mm Z-Offset para espremer mais o filamento na placa. De certa forma é para considerar a textura. Outras configurações que eu já vi na comunidade mas nunca precisei são aumentar a temperatura da placa em 5 graus e a temperatura do bico também em 5 graus. Isso para a primeira camada. Outra configuração seria aumentar a altura da primeira camada. Isso faz com que a impressora deposite mais filamento para a primeira passagem. Repito, eu nunca precisei aumentar a temperatura nem a altura da primeira camada. O que eu faço em algumas situações é reduzir a velocidade. Se você quiser testar sua primeira camada, é só procurar o teste de primeira camada lá no site da Vambulab. Gostaram dessas dicas? E já sabem né, pra ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.2,
+      "end": 3.2,
+      "text": "Dicas para uma primeira camada perfeita."
+    },
+    {
+      "start": 3.8,
+      "end": 7.4,
+      "text": "Bem-vindo ao dia 100! É, chegamos!"
+    },
+    {
+      "start": 7.6,
+      "end": 12.2,
+      "text": "A primeira camada é o Alicerce da impressão 3D e por isso ela é crucial."
+    },
+    {
+      "start": 12.5,
+      "end": 14.8,
+      "text": "Primeiro começamos com a checagem do hardware."
+    },
+    {
+      "start": 15.1,
+      "end": 21.1,
+      "text": "Devido a vibrações, com o tempo, esses três parafusos da frente podem se soltar e os quatro da parte de trás também."
+    },
+    {
+      "start": 21.2,
+      "end": 27.0,
+      "text": "Por isso é importante apertá-los para garantir que o bico esteja bem firme e encaixado para um nivelamento bem feito."
+    },
+    {
+      "start": 27.0,
+      "end": 30.0,
+      "text": "Agora verifique se o assistente HMS não tem nenhum erro"
+    },
+    {
+      "start": 30.0,
+      "end": 32.5,
+      "text": "Já aconteceu comigo de passar despercebido"
+    },
+    {
+      "start": 32.5,
+      "end": 37.4,
+      "text": "Lave sua placa com água e detergente para tirar toda a contaminação de gordura"
+    },
+    {
+      "start": 37.4,
+      "end": 40.9,
+      "text": "E faça a calibração de alto nivelamento pelo menu da impressora"
+    },
+    {
+      "start": 40.9,
+      "end": 44.1,
+      "text": "Ela vai fazer a calibração completa de toda a área de impressão"
+    },
+    {
+      "start": 44.1,
+      "end": 47.5,
+      "text": "Se você estiver utilizando outra placa, faça a calibração com ela"
+    },
+    {
+      "start": 47.5,
+      "end": 49.8,
+      "text": "Porque a espessura das placas são diferentes"
+    },
+    {
+      "start": 49.8,
+      "end": 51.8,
+      "text": "Eu já ia me esquecendo, mas antes de calibrar"
+    },
+    {
+      "start": 51.8,
+      "end": 54.8,
+      "text": "Verifique se a parte externa do bico não tem filamento preso"
+    },
+    {
+      "start": 54.8,
+      "end": 57.9,
+      "text": "Confesso que meus resultados melhoram só fazendo isso."
+    },
+    {
+      "start": 58.0,
+      "end": 63.3,
+      "text": "Essa primeira camada aí é um filamento nacional com perfil genérico e o perfil padrão de impressão."
+    },
+    {
+      "start": 63.6,
+      "end": 66.7,
+      "text": "Mas algumas configurações do fatiador que podem te ajudar."
+    },
+    {
+      "start": 66.8,
+      "end": 70.0,
+      "text": "E a primeira delas é reduzir a velocidade da primeira camada."
+    },
+    {
+      "start": 70.2,
+      "end": 76.1,
+      "text": "E essa diminuição de velocidade eu uso bastante quando eu tô imprimindo coisas com detalhes bem pequenos, como chaveiros."
+    },
+    {
+      "start": 76.4,
+      "end": 81.9,
+      "text": "Outra coisa que não dá pra esquecer é selecionar a placa correta que você vai imprimir, principalmente pra texturizada."
+    },
+    {
+      "start": 81.9,
+      "end": 89.8,
+      "text": "Isso porque por padrão no G-Code da impressora ela diminui 0.02mm Z-Offset para espremer mais o filamento na placa."
+    },
+    {
+      "start": 89.9,
+      "end": 91.9,
+      "text": "De certa forma é para considerar a textura."
+    },
+    {
+      "start": 92.2,
+      "end": 95.7,
+      "text": "Outras configurações que eu já vi na comunidade mas nunca precisei são"
+    },
+    {
+      "start": 95.7,
+      "end": 100.8,
+      "text": "aumentar a temperatura da placa em 5 graus e a temperatura do bico também em 5 graus."
+    },
+    {
+      "start": 101.0,
+      "end": 102.2,
+      "text": "Isso para a primeira camada."
+    },
+    {
+      "start": 102.6,
+      "end": 105.6,
+      "text": "Outra configuração seria aumentar a altura da primeira camada."
+    },
+    {
+      "start": 105.7,
+      "end": 109.1,
+      "text": "Isso faz com que a impressora deposite mais filamento para a primeira passagem."
+    },
+    {
+      "start": 109.1,
+      "end": 113.4,
+      "text": "Repito, eu nunca precisei aumentar a temperatura nem a altura da primeira camada."
+    },
+    {
+      "start": 113.5,
+      "end": 116.3,
+      "text": "O que eu faço em algumas situações é reduzir a velocidade."
+    },
+    {
+      "start": 116.3,
+      "end": 121.6,
+      "text": "Se você quiser testar sua primeira camada, é só procurar o teste de primeira camada lá no site da Vambulab."
+    },
+    {
+      "start": 122.1,
+      "end": 123.3,
+      "text": "Gostaram dessas dicas?"
+    },
+    {
+      "start": 123.5,
+      "end": 126.8,
+      "text": "E já sabem né, pra ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 127.5,
+  "model": "large-v3-turbo"
+}

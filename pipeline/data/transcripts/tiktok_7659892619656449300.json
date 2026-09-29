@@ -1,0 +1,32 @@
+{
+  "text": "Para realmente evitar isso, não use álcool isopropílico para limpar a placa PEI. Bem-vindo ao dia 229, falando para vocês que a melhor maneira de garantir adesão é lavar a placa com detergente neutro e água. O álcool espalha a gordura e pode até ajudar entre uma impressão e outra, mas se você tiver problemas com adesão, a minha indicação é lavar sempre a placa. Detergente realmente remove a gordura E isso é crucial para ter aquela primeira camada bem feita",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.4,
+      "text": "Para realmente evitar isso, não use álcool isopropílico para limpar a placa PEI."
+    },
+    {
+      "start": 5.5,
+      "end": 15.0,
+      "text": "Bem-vindo ao dia 229, falando para vocês que a melhor maneira de garantir adesão é lavar a placa com detergente neutro e água."
+    },
+    {
+      "start": 15.9,
+      "end": 25.0,
+      "text": "O álcool espalha a gordura e pode até ajudar entre uma impressão e outra, mas se você tiver problemas com adesão, a minha indicação é lavar sempre a placa."
+    },
+    {
+      "start": 25.0,
+      "end": 27.5,
+      "text": "Detergente realmente remove a gordura"
+    },
+    {
+      "start": 27.5,
+      "end": 31.8,
+      "text": "E isso é crucial para ter aquela primeira camada bem feita"
+    }
+  ],
+  "duration": 33.6,
+  "model": "large-v3-turbo"
+}

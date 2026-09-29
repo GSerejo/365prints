@@ -1,0 +1,102 @@
+{
+  "text": "O que é melhor para a resistência? Aumentar o enfio ou aumentar o número de paredes? Bem-vindo ao dia 121 e eu testei dois cilindros de 2,5 cm de diâmetro. No primeiro cilindro eu dobrei o enfio para 30% e mantive as duas paredes do perfil padrão. E basicamente com o mesmo tempo de impressão, no segundo cilindro eu dobrei o número de paredes e mantive 15% de enfio. E no primeiro teste de impacto, com o martelo mesmo, a peça com quatro paredes falhou rapidamente. No entanto, a peça com 30% de enfio e apenas duas paredes resistiu. Isso acontece porque a força do martelo gera compressão e o enfio atua como um núcleo estrutural. E a densidade maior de 30% absorve e distribui melhor a energia do impacto. Dá uma olhada nessa diferença. Mas quando mudamos o diâmetro para 1 cm e o tipo de força, a história mudou. Nesse caso foi a vareta de quatro paredes que resistiu Em diâmetros menores, aumentar as paredes aloca muito mais material na borda O que aumenta a resistência à flexão Portanto, para impacto ou compressão, priorize o enfio E para resistência à flexão ou dobramento em peças mais finas Aumentar o número de paredes é uma boa alternativa E aí, você já tinha visto esse teste? Gostou desse vídeo? Então me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.4,
+      "end": 5.7,
+      "text": "O que é melhor para a resistência? Aumentar o enfio ou aumentar o número de paredes?"
+    },
+    {
+      "start": 6.1,
+      "end": 11.8,
+      "text": "Bem-vindo ao dia 121 e eu testei dois cilindros de 2,5 cm de diâmetro."
+    },
+    {
+      "start": 11.9,
+      "end": 17.4,
+      "text": "No primeiro cilindro eu dobrei o enfio para 30% e mantive as duas paredes do perfil padrão."
+    },
+    {
+      "start": 17.5,
+      "end": 24.2,
+      "text": "E basicamente com o mesmo tempo de impressão, no segundo cilindro eu dobrei o número de paredes e mantive 15% de enfio."
+    },
+    {
+      "start": 24.2,
+      "end": 29.7,
+      "text": "E no primeiro teste de impacto, com o martelo mesmo, a peça com quatro paredes falhou rapidamente."
+    },
+    {
+      "start": 31.1,
+      "end": 36.9,
+      "text": "No entanto, a peça com 30% de enfio e apenas duas paredes resistiu."
+    },
+    {
+      "start": 38.8,
+      "end": 44.4,
+      "text": "Isso acontece porque a força do martelo gera compressão e o enfio atua como um núcleo estrutural."
+    },
+    {
+      "start": 44.5,
+      "end": 49.9,
+      "text": "E a densidade maior de 30% absorve e distribui melhor a energia do impacto."
+    },
+    {
+      "start": 55.9,
+      "end": 57.8,
+      "text": "Dá uma olhada nessa diferença."
+    },
+    {
+      "start": 59.1,
+      "end": 63.9,
+      "text": "Mas quando mudamos o diâmetro para 1 cm e o tipo de força, a história mudou."
+    },
+    {
+      "start": 63.9,
+      "end": 67.5,
+      "text": "Nesse caso foi a vareta de quatro paredes que resistiu"
+    },
+    {
+      "start": 67.5,
+      "end": 72.6,
+      "text": "Em diâmetros menores, aumentar as paredes aloca muito mais material na borda"
+    },
+    {
+      "start": 72.6,
+      "end": 74.8,
+      "text": "O que aumenta a resistência à flexão"
+    },
+    {
+      "start": 74.8,
+      "end": 78.7,
+      "text": "Portanto, para impacto ou compressão, priorize o enfio"
+    },
+    {
+      "start": 78.7,
+      "end": 82.6,
+      "text": "E para resistência à flexão ou dobramento em peças mais finas"
+    },
+    {
+      "start": 82.6,
+      "end": 85.6,
+      "text": "Aumentar o número de paredes é uma boa alternativa"
+    },
+    {
+      "start": 85.6,
+      "end": 87.5,
+      "text": "E aí, você já tinha visto esse teste?"
+    },
+    {
+      "start": 87.7,
+      "end": 88.6,
+      "text": "Gostou desse vídeo?"
+    },
+    {
+      "start": 88.7,
+      "end": 91.1,
+      "text": "Então me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 91.5,
+  "model": "large-v3-turbo"
+}

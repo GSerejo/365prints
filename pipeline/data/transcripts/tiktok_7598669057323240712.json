@@ -1,0 +1,112 @@
+{
+  "text": "O segredo desses suportes estão no equilíbrio desses três parâmetros. Bem-vindo ao dia 160. Primeiro a distância entre o suporte e a peça em 0,24 milímetros. Esse gap é um pouco maior que a altura de camada de 0,20. Isso faz com que o suporte não funda na peça, mas sustente as saliências. Para melhorar a qualidade dessa região, você pode diminuir esse valor. Mas quanto menor o valor, mais difícil a remoção. E neste caso, como estava numa região não visível, eu gosto da facilidade da retirada. Eu também utilizei 5 camadas na interface Essas camadas são esse verde mais escuro no seu patiador Isso deixa a interface mais denso que facilita bastante a remoção E por último o espaçamento de 0,2 milímetros na interface E esse é o distanciamento das linhas de suporte na interface Por padrão esse espaçamento é 0,5 Eu gosto de diminuir um pouco para ter um equilíbrio entre facilidade de retirada e qualidade da superfície E aqui vai outro detalhe, redução da velocidade de interface para 40 milímetros por segundo Isso dá mais tempo de resfriamento para formar uma interface sólida É importante ressaltar que os parâmetros ideais também dependem do seu filamento e da geometria do modelo Então é importante testar E esse filamento com efeito amadeirado é o Dual Color Matte Preto e Vermelho da Multifila E para ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 7.8,
+      "end": 11.9,
+      "text": "O segredo desses suportes estão no equilíbrio desses três parâmetros."
+    },
+    {
+      "start": 12.2,
+      "end": 14.3,
+      "text": "Bem-vindo ao dia 160."
+    },
+    {
+      "start": 14.7,
+      "end": 18.8,
+      "text": "Primeiro a distância entre o suporte e a peça em 0,24 milímetros."
+    },
+    {
+      "start": 18.9,
+      "end": 22.1,
+      "text": "Esse gap é um pouco maior que a altura de camada de 0,20."
+    },
+    {
+      "start": 22.1,
+      "end": 25.6,
+      "text": "Isso faz com que o suporte não funda na peça, mas sustente as saliências."
+    },
+    {
+      "start": 25.6,
+      "end": 29.0,
+      "text": "Para melhorar a qualidade dessa região, você pode diminuir esse valor."
+    },
+    {
+      "start": 29.1,
+      "end": 31.5,
+      "text": "Mas quanto menor o valor, mais difícil a remoção."
+    },
+    {
+      "start": 31.5,
+      "end": 36.1,
+      "text": "E neste caso, como estava numa região não visível, eu gosto da facilidade da retirada."
+    },
+    {
+      "start": 36.1,
+      "end": 38.6,
+      "text": "Eu também utilizei 5 camadas na interface"
+    },
+    {
+      "start": 38.6,
+      "end": 41.5,
+      "text": "Essas camadas são esse verde mais escuro no seu patiador"
+    },
+    {
+      "start": 41.5,
+      "end": 45.3,
+      "text": "Isso deixa a interface mais denso que facilita bastante a remoção"
+    },
+    {
+      "start": 45.3,
+      "end": 49.0,
+      "text": "E por último o espaçamento de 0,2 milímetros na interface"
+    },
+    {
+      "start": 49.0,
+      "end": 52.2,
+      "text": "E esse é o distanciamento das linhas de suporte na interface"
+    },
+    {
+      "start": 52.2,
+      "end": 54.3,
+      "text": "Por padrão esse espaçamento é 0,5"
+    },
+    {
+      "start": 54.3,
+      "end": 59.5,
+      "text": "Eu gosto de diminuir um pouco para ter um equilíbrio entre facilidade de retirada e qualidade da superfície"
+    },
+    {
+      "start": 59.5,
+      "end": 63.7,
+      "text": "E aqui vai outro detalhe, redução da velocidade de interface para 40 milímetros por segundo"
+    },
+    {
+      "start": 63.7,
+      "end": 67.0,
+      "text": "Isso dá mais tempo de resfriamento para formar uma interface sólida"
+    },
+    {
+      "start": 67.0,
+      "end": 71.8,
+      "text": "É importante ressaltar que os parâmetros ideais também dependem do seu filamento e da geometria do modelo"
+    },
+    {
+      "start": 71.8,
+      "end": 72.9,
+      "text": "Então é importante testar"
+    },
+    {
+      "start": 72.9,
+      "end": 77.7,
+      "text": "E esse filamento com efeito amadeirado é o Dual Color Matte Preto e Vermelho da Multifila"
+    },
+    {
+      "start": 77.7,
+      "end": 80.5,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 81.0,
+  "model": "large-v3-turbo"
+}

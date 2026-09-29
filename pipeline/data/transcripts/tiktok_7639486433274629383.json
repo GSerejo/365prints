@@ -1,0 +1,187 @@
+{
+  "text": "Dicas para personalização de texto nas suas peças 3D. E eu aposto que a última você nunca ouviu falar. Bem-vindo ao dia 207. Aqui no Bambu Studio selecionamos o objeto e clicamos na ferramenta texto. Vamos personalizar e no quadradinho amarelo vamos posicioná-lo. Agora mudamos o tamanho e deixamos em negrito. Eu gosto de alterar de superfície envolvente para envolva mais horizontal, para alinhar a parte de baixo. A primeira dica é sobre o posicionamento. Veja que o Gabriel está no centro da peça. E a parte inferior das letras estão aéreas e é uma região que provavelmente precisará de suporte. Portanto, procure uma superfície inclinada. Isso faz com que a base das letras tenha apoio com a inclinação e diminui a necessidade de suporte. E para melhorar ainda mais, ou se você não tiver uma superfície inclinada, diminui a espessura das suas letras. Essa combinação de espessura pequena e superfície inclinada diminui muito a necessidade de suporte e melhora o acabamento. Agora vamos para a segunda dica e eu vou fatiar para vocês entenderem melhor. Veja as marcações brancas das letras, essas são as costuras e tem muitas E como todo mundo sabe, as costuras sempre deixam uma marca na peça Se analisarmos de perto, verificamos que as letras são tratadas como objetos separados E tem seu próprio perímetro Essa parte do B, por exemplo, é uma pequena ilha que se encosta na parede da peça maior Ela tem começo e fim e por isso existe a costura Dessa forma, nós precisamos aumentar a profundidade das letras E eu gosto de utilizar 2mm Agora sim nós incorporamos a letra na base da peça E depois do fatiamento o resultado é visível Agora a base e as letras são tratados como uma peça só A parede da base vem e contorna a letra E isso reduz muito a quantidade de costuras Mas ainda temos perímetros pequenos com costuras na parte de cima das letras Então vamos para a terceira dica Que é escolher não imprimir esses perímetros pequenininhos Para isso a gente vai mudar o gerador de parede para aracne E aumentar o tamanho mínimo do recurso para tirar aqueles perímetros menores Missão cumprida e agora o fatiador ignorou aqueles perímetros menores em cima das letras Mas cuidado, sempre observa o fatiamento Porque se você aumentar demais vai retirar perímetros que não lhe interessam E você pode deformar a sua personalização Agora salva aí pra quando precisar E não se esqueça de me seguir pra ter conteúdo 3D todos os dias Ah, e no próximo vídeo eu vou mostrar como aplicar essa fuzz skin na parte de trás",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Dicas para personalização de texto nas suas peças 3D. E eu aposto que a última você nunca ouviu falar."
+    },
+    {
+      "start": 6.8,
+      "end": 12.5,
+      "text": "Bem-vindo ao dia 207. Aqui no Bambu Studio selecionamos o objeto e clicamos na ferramenta texto."
+    },
+    {
+      "start": 12.6,
+      "end": 17.6,
+      "text": "Vamos personalizar e no quadradinho amarelo vamos posicioná-lo. Agora mudamos o tamanho e deixamos em negrito."
+    },
+    {
+      "start": 17.7,
+      "end": 22.5,
+      "text": "Eu gosto de alterar de superfície envolvente para envolva mais horizontal, para alinhar a parte de baixo."
+    },
+    {
+      "start": 22.6,
+      "end": 27.2,
+      "text": "A primeira dica é sobre o posicionamento. Veja que o Gabriel está no centro da peça."
+    },
+    {
+      "start": 27.2,
+      "end": 32.1,
+      "text": "E a parte inferior das letras estão aéreas e é uma região que provavelmente precisará de suporte."
+    },
+    {
+      "start": 32.2,
+      "end": 34.6,
+      "text": "Portanto, procure uma superfície inclinada."
+    },
+    {
+      "start": 34.7,
+      "end": 39.3,
+      "text": "Isso faz com que a base das letras tenha apoio com a inclinação e diminui a necessidade de suporte."
+    },
+    {
+      "start": 39.4,
+      "end": 45.0,
+      "text": "E para melhorar ainda mais, ou se você não tiver uma superfície inclinada, diminui a espessura das suas letras."
+    },
+    {
+      "start": 45.0,
+      "end": 51.1,
+      "text": "Essa combinação de espessura pequena e superfície inclinada diminui muito a necessidade de suporte e melhora o acabamento."
+    },
+    {
+      "start": 51.2,
+      "end": 54.7,
+      "text": "Agora vamos para a segunda dica e eu vou fatiar para vocês entenderem melhor."
+    },
+    {
+      "start": 54.7,
+      "end": 58.8,
+      "text": "Veja as marcações brancas das letras, essas são as costuras e tem muitas"
+    },
+    {
+      "start": 58.8,
+      "end": 62.4,
+      "text": "E como todo mundo sabe, as costuras sempre deixam uma marca na peça"
+    },
+    {
+      "start": 62.4,
+      "end": 66.7,
+      "text": "Se analisarmos de perto, verificamos que as letras são tratadas como objetos separados"
+    },
+    {
+      "start": 66.7,
+      "end": 68.2,
+      "text": "E tem seu próprio perímetro"
+    },
+    {
+      "start": 68.2,
+      "end": 72.9,
+      "text": "Essa parte do B, por exemplo, é uma pequena ilha que se encosta na parede da peça maior"
+    },
+    {
+      "start": 72.9,
+      "end": 75.6,
+      "text": "Ela tem começo e fim e por isso existe a costura"
+    },
+    {
+      "start": 75.6,
+      "end": 79.9,
+      "text": "Dessa forma, nós precisamos aumentar a profundidade das letras"
+    },
+    {
+      "start": 79.9,
+      "end": 81.7,
+      "text": "E eu gosto de utilizar 2mm"
+    },
+    {
+      "start": 81.7,
+      "end": 84.8,
+      "text": "Agora sim nós incorporamos a letra na base da peça"
+    },
+    {
+      "start": 84.8,
+      "end": 87.0,
+      "text": "E depois do fatiamento o resultado é visível"
+    },
+    {
+      "start": 87.0,
+      "end": 90.2,
+      "text": "Agora a base e as letras são tratados como uma peça só"
+    },
+    {
+      "start": 90.2,
+      "end": 92.8,
+      "text": "A parede da base vem e contorna a letra"
+    },
+    {
+      "start": 92.8,
+      "end": 95.3,
+      "text": "E isso reduz muito a quantidade de costuras"
+    },
+    {
+      "start": 95.3,
+      "end": 99.7,
+      "text": "Mas ainda temos perímetros pequenos com costuras na parte de cima das letras"
+    },
+    {
+      "start": 99.7,
+      "end": 101.3,
+      "text": "Então vamos para a terceira dica"
+    },
+    {
+      "start": 101.3,
+      "end": 104.3,
+      "text": "Que é escolher não imprimir esses perímetros pequenininhos"
+    },
+    {
+      "start": 104.3,
+      "end": 107.2,
+      "text": "Para isso a gente vai mudar o gerador de parede para aracne"
+    },
+    {
+      "start": 107.2,
+      "end": 111.4,
+      "text": "E aumentar o tamanho mínimo do recurso para tirar aqueles perímetros menores"
+    },
+    {
+      "start": 111.4,
+      "end": 115.9,
+      "text": "Missão cumprida e agora o fatiador ignorou aqueles perímetros menores em cima das letras"
+    },
+    {
+      "start": 115.9,
+      "end": 117.9,
+      "text": "Mas cuidado, sempre observa o fatiamento"
+    },
+    {
+      "start": 117.9,
+      "end": 121.4,
+      "text": "Porque se você aumentar demais vai retirar perímetros que não lhe interessam"
+    },
+    {
+      "start": 121.4,
+      "end": 123.8,
+      "text": "E você pode deformar a sua personalização"
+    },
+    {
+      "start": 123.8,
+      "end": 125.9,
+      "text": "Agora salva aí pra quando precisar"
+    },
+    {
+      "start": 125.9,
+      "end": 128.8,
+      "text": "E não se esqueça de me seguir pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 128.8,
+      "end": 132.6,
+      "text": "Ah, e no próximo vídeo eu vou mostrar como aplicar essa fuzz skin na parte de trás"
+    }
+  ],
+  "duration": 132.7,
+  "model": "large-v3-turbo"
+}

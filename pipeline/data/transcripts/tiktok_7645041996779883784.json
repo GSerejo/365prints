@@ -1,0 +1,42 @@
+{
+  "text": "Será que chegou o fim da era dos suportes? Bem-vindo ao dia 213. Eu testei o fork do Orc Slicer, o Wave Overhangs, na Bambu Lab A1. Essa técnica experimental permite imprimir peças com ângulos de 90 graus completamente sem suportes. O fatiador otimiza a geometria das camadas para que o material se auto-suporte, criando um efeito em onda, onde cada linha se apoia na anterior. Diferentemente do fatiamento tradicional em que as camadas seriam impressas no ar. Isso abre um universo de possibilidades para designs complexos e prints mais limpos. E se você gostar desse vídeo, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "text": "Será que chegou o fim da era dos suportes?"
+    },
+    {
+      "start": 3.1,
+      "end": 9.4,
+      "text": "Bem-vindo ao dia 213. Eu testei o fork do Orc Slicer, o Wave Overhangs, na Bambu Lab A1."
+    },
+    {
+      "start": 9.5,
+      "end": 16.1,
+      "text": "Essa técnica experimental permite imprimir peças com ângulos de 90 graus completamente sem suportes."
+    },
+    {
+      "start": 16.1,
+      "end": 24.3,
+      "text": "O fatiador otimiza a geometria das camadas para que o material se auto-suporte, criando um efeito em onda, onde cada linha se apoia na anterior."
+    },
+    {
+      "start": 24.9,
+      "end": 28.9,
+      "text": "Diferentemente do fatiamento tradicional em que as camadas seriam impressas no ar."
+    },
+    {
+      "start": 28.9,
+      "end": 34.2,
+      "text": "Isso abre um universo de possibilidades para designs complexos e prints mais limpos."
+    },
+    {
+      "start": 34.2,
+      "end": 37.9,
+      "text": "E se você gostar desse vídeo, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 38.6,
+  "model": "large-v3-turbo"
+}

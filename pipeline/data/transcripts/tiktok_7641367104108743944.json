@@ -1,0 +1,37 @@
+{
+  "text": "What do you think about this? I love it! What about this? I love it more! How about this? I love it! Bem-vindo ao dia 209. Essa é a versão 2.0 do nosso letreiro iluminado. Esse é um projeto multipartes que eu fiz sem nenhum software de modelagem. Agora letra e nome estão iluminados. E pra aprender como fazer, eu acabei de disponibilizar a aula 7 do meu curso de letreiro. Se tiver interesse de fazer esse e muito mais, é só digitar eu quero nos comentários.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.2,
+      "text": "What do you think about this? I love it! What about this? I love it more! How about this? I love it!"
+    },
+    {
+      "start": 7.3,
+      "end": 12.8,
+      "text": "Bem-vindo ao dia 209. Essa é a versão 2.0 do nosso letreiro iluminado."
+    },
+    {
+      "start": 12.8,
+      "end": 16.1,
+      "text": "Esse é um projeto multipartes que eu fiz sem nenhum software de modelagem."
+    },
+    {
+      "start": 16.3,
+      "end": 18.3,
+      "text": "Agora letra e nome estão iluminados."
+    },
+    {
+      "start": 18.4,
+      "end": 22.9,
+      "text": "E pra aprender como fazer, eu acabei de disponibilizar a aula 7 do meu curso de letreiro."
+    },
+    {
+      "start": 23.0,
+      "end": 27.0,
+      "text": "Se tiver interesse de fazer esse e muito mais, é só digitar eu quero nos comentários."
+    }
+  ],
+  "duration": 27.5,
+  "model": "large-v3-turbo"
+}

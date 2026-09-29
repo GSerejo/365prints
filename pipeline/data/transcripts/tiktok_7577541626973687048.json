@@ -1,0 +1,172 @@
+{
+  "text": "Como fazer essas plaquinhas multipartes com encaixes dentro do seu fatiador? Bem-vindo ao dia 133! Então vamos para o Bambu Studio. A primeira coisa que a gente tem que fazer é adicionar o logo em SVG. Não vamos mexer no espaçamento, apenas deletar o símbolo de marca registrada. Com todas as letras selecionadas, vamos alinhar tudo na base em \"-y\". Selecionamos tudo novamente e vamos utilizar a função de malha booleana para unir todas as letras em um objeto só. Agora vamos adicionar os conectores, botão direito adicionar primitivo e cubo Agora com a função escala a gente redimensiona esse cubo para essas dimensões Então é só copiar e colar e posicionar os conectores nas letras Veja que o logo está posicionado de face para baixo para usar o acabamento da mesa E eu ainda não estou preocupado com a profundidade desses conectores Agora na aba objetos vamos selecionar todos os conectores que criamos E com a ferramenta mover a gente consegue alinhar todos os conectores em Y Com eles ainda selecionados vamos utilizar a ferramenta malha boleana novamente para unir todos em um só objeto Por fim temos dois objetos na mesa, o logo e os conectores E com o botão direito centro vamos centralizar ambos na mesa Selecionando ambos a gente consegue novamente utilizando a função mover e alinhá-los no menos Y E é só mover os conectores 2mm para baixo Agora na aba objeto selecionamos ambos e mesclamos Até que enfim a parte do logo está pronta agora vamos mexer na base Agora bem rapidamente com 3 primitivos a gente consegue formar uma base de 3mm de espessura E no final não esqueçam de utilizar a ferramenta malha boleana para unir toda essa base em um objeto só E com Ctrl C e Ctrl V vamos duplicar o logo para fazer os buracos na base E depois é só rotacionar e centralizar ambos os objetos Tanto o logo como a base estão posicionados na mesa, então precisamos puxar o logo para cima Mas antes disso vamos mesclar ambos Agora com a ferramenta mover, movemos o logo 1mm para cima Podemos excluir o logo e manter apenas os conectores Na meu objeto, clicamos com o botão direito nos conectores e mudamos o tipo para a parte negativa. Agora é só imprimir a base e depois imprimir o logo com os conectores. Lembre-se de utilizar uma compensação de furo de 0,10 na base para promover o encaixe perfeito. E esse vídeo merece o seu like. E agora me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Como fazer essas plaquinhas multipartes com encaixes dentro do seu fatiador?"
+    },
+    {
+      "start": 6.4,
+      "end": 9.1,
+      "text": "Bem-vindo ao dia 133!"
+    },
+    {
+      "start": 9.5,
+      "end": 14.2,
+      "text": "Então vamos para o Bambu Studio. A primeira coisa que a gente tem que fazer é adicionar o logo em SVG."
+    },
+    {
+      "start": 14.4,
+      "end": 18.4,
+      "text": "Não vamos mexer no espaçamento, apenas deletar o símbolo de marca registrada."
+    },
+    {
+      "start": 18.5,
+      "end": 22.7,
+      "text": "Com todas as letras selecionadas, vamos alinhar tudo na base em \"-y\"."
+    },
+    {
+      "start": 22.7,
+      "end": 28.5,
+      "text": "Selecionamos tudo novamente e vamos utilizar a função de malha booleana para unir todas as letras em um objeto só."
+    },
+    {
+      "start": 28.5,
+      "end": 33.1,
+      "text": "Agora vamos adicionar os conectores, botão direito adicionar primitivo e cubo"
+    },
+    {
+      "start": 33.1,
+      "end": 37.1,
+      "text": "Agora com a função escala a gente redimensiona esse cubo para essas dimensões"
+    },
+    {
+      "start": 37.1,
+      "end": 40.7,
+      "text": "Então é só copiar e colar e posicionar os conectores nas letras"
+    },
+    {
+      "start": 40.7,
+      "end": 45.1,
+      "text": "Veja que o logo está posicionado de face para baixo para usar o acabamento da mesa"
+    },
+    {
+      "start": 45.1,
+      "end": 49.0,
+      "text": "E eu ainda não estou preocupado com a profundidade desses conectores"
+    },
+    {
+      "start": 49.0,
+      "end": 52.6,
+      "text": "Agora na aba objetos vamos selecionar todos os conectores que criamos"
+    },
+    {
+      "start": 52.6,
+      "end": 56.2,
+      "text": "E com a ferramenta mover a gente consegue alinhar todos os conectores em Y"
+    },
+    {
+      "start": 56.2,
+      "end": 62.9,
+      "text": "Com eles ainda selecionados vamos utilizar a ferramenta malha boleana novamente para unir todos em um só objeto"
+    },
+    {
+      "start": 62.9,
+      "end": 66.5,
+      "text": "Por fim temos dois objetos na mesa, o logo e os conectores"
+    },
+    {
+      "start": 66.5,
+      "end": 70.1,
+      "text": "E com o botão direito centro vamos centralizar ambos na mesa"
+    },
+    {
+      "start": 70.1,
+      "end": 76.1,
+      "text": "Selecionando ambos a gente consegue novamente utilizando a função mover e alinhá-los no menos Y"
+    },
+    {
+      "start": 76.1,
+      "end": 79.5,
+      "text": "E é só mover os conectores 2mm para baixo"
+    },
+    {
+      "start": 79.5,
+      "end": 82.2,
+      "text": "Agora na aba objeto selecionamos ambos e mesclamos"
+    },
+    {
+      "start": 82.2,
+      "end": 85.6,
+      "text": "Até que enfim a parte do logo está pronta agora vamos mexer na base"
+    },
+    {
+      "start": 85.6,
+      "end": 90.7,
+      "text": "Agora bem rapidamente com 3 primitivos a gente consegue formar uma base de 3mm de espessura"
+    },
+    {
+      "start": 90.7,
+      "end": 95.3,
+      "text": "E no final não esqueçam de utilizar a ferramenta malha boleana para unir toda essa base em um objeto só"
+    },
+    {
+      "start": 95.3,
+      "end": 99.4,
+      "text": "E com Ctrl C e Ctrl V vamos duplicar o logo para fazer os buracos na base"
+    },
+    {
+      "start": 99.4,
+      "end": 102.4,
+      "text": "E depois é só rotacionar e centralizar ambos os objetos"
+    },
+    {
+      "start": 102.4,
+      "end": 106.5,
+      "text": "Tanto o logo como a base estão posicionados na mesa, então precisamos puxar o logo para cima"
+    },
+    {
+      "start": 106.5,
+      "end": 108.4,
+      "text": "Mas antes disso vamos mesclar ambos"
+    },
+    {
+      "start": 108.4,
+      "end": 112.4,
+      "text": "Agora com a ferramenta mover, movemos o logo 1mm para cima"
+    },
+    {
+      "start": 112.4,
+      "end": 115.5,
+      "text": "Podemos excluir o logo e manter apenas os conectores"
+    },
+    {
+      "start": 115.5,
+      "end": 120.3,
+      "text": "Na meu objeto, clicamos com o botão direito nos conectores e mudamos o tipo para a parte negativa."
+    },
+    {
+      "start": 120.6,
+      "end": 124.7,
+      "text": "Agora é só imprimir a base e depois imprimir o logo com os conectores."
+    },
+    {
+      "start": 124.8,
+      "end": 130.0,
+      "text": "Lembre-se de utilizar uma compensação de furo de 0,10 na base para promover o encaixe perfeito."
+    },
+    {
+      "start": 131.3,
+      "end": 133.5,
+      "text": "E esse vídeo merece o seu like."
+    },
+    {
+      "start": 133.8,
+      "end": 136.7,
+      "text": "E agora me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 137.2,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,112 @@
+{
+  "text": "Como fazer a manutenção preventiva da sua Bambu Lab A1? Bem-vindo ao dia 58, e esse vídeo será dividido em duas partes. Hoje eu vou falar de limpeza de cooler e amanhã sobre lubrificação. Então bora tirar três parafusos para começar. O primeiro é esse aí, depois o do outro lado, e o último na parte de trás da impressora. Agora é só remover o cooler com cuidado e bora iniciar a limpeza. Primeiro eu passo um aspirador de pó, pode usar uma escova velha para limpar, Mas eu gosto mesmo de utilizar um palio de dente ou uma pinça Lembre-se de fazer isso com muito cuidado para você não arrebentar aqueles fios ali E o meu estava um pouquinho sujo porque fazia uns dois meses que eu não limpava E meus gatos vivem em volta da impressora Por fim, certifique-se de passar o aspirador de pó novamente Até para garantir que não ficou nenhum pedacinho de palito ali dentro Esse cooler é super importante porque ele faz o resfriamento do seu filamento Então se você tiver problema com overhang, pode ser um indicativo Depois limpamos o cooler lateral e por fim reencaixamos o cooler principal. Lembre-se de não apertar muitos parafusos para não correr o risco de espanar. Você pode sempre checar o estado do seu cooler olhando na parte de trás da impressora e verificando se é preciso limpar. Já vi alguns fazendo a limpeza por ali, mas eu acho mais eficiente retirar tudo. Limpezas concluídas com sucesso. Agora não se esqueçam de me seguir que amanhã a gente vai falar sobre lubrificação do eixo Y, X e Z.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "Como fazer a manutenção preventiva da sua Bambu Lab A1?"
+    },
+    {
+      "start": 4.8,
+      "end": 9.4,
+      "text": "Bem-vindo ao dia 58, e esse vídeo será dividido em duas partes."
+    },
+    {
+      "start": 9.8,
+      "end": 13.3,
+      "text": "Hoje eu vou falar de limpeza de cooler e amanhã sobre lubrificação."
+    },
+    {
+      "start": 13.4,
+      "end": 16.0,
+      "text": "Então bora tirar três parafusos para começar."
+    },
+    {
+      "start": 16.2,
+      "end": 21.5,
+      "text": "O primeiro é esse aí, depois o do outro lado, e o último na parte de trás da impressora."
+    },
+    {
+      "start": 21.9,
+      "end": 25.7,
+      "text": "Agora é só remover o cooler com cuidado e bora iniciar a limpeza."
+    },
+    {
+      "start": 25.7,
+      "end": 29.4,
+      "text": "Primeiro eu passo um aspirador de pó, pode usar uma escova velha para limpar,"
+    },
+    {
+      "start": 29.4,
+      "end": 33.3,
+      "text": "Mas eu gosto mesmo de utilizar um palio de dente ou uma pinça"
+    },
+    {
+      "start": 33.3,
+      "end": 37.5,
+      "text": "Lembre-se de fazer isso com muito cuidado para você não arrebentar aqueles fios ali"
+    },
+    {
+      "start": 37.5,
+      "end": 41.1,
+      "text": "E o meu estava um pouquinho sujo porque fazia uns dois meses que eu não limpava"
+    },
+    {
+      "start": 41.1,
+      "end": 43.3,
+      "text": "E meus gatos vivem em volta da impressora"
+    },
+    {
+      "start": 43.3,
+      "end": 46.6,
+      "text": "Por fim, certifique-se de passar o aspirador de pó novamente"
+    },
+    {
+      "start": 46.6,
+      "end": 49.7,
+      "text": "Até para garantir que não ficou nenhum pedacinho de palito ali dentro"
+    },
+    {
+      "start": 49.7,
+      "end": 53.8,
+      "text": "Esse cooler é super importante porque ele faz o resfriamento do seu filamento"
+    },
+    {
+      "start": 53.8,
+      "end": 57.5,
+      "text": "Então se você tiver problema com overhang, pode ser um indicativo"
+    },
+    {
+      "start": 57.5,
+      "end": 65.1,
+      "text": "Depois limpamos o cooler lateral e por fim reencaixamos o cooler principal."
+    },
+    {
+      "start": 65.2,
+      "end": 69.6,
+      "text": "Lembre-se de não apertar muitos parafusos para não correr o risco de espanar."
+    },
+    {
+      "start": 69.9,
+      "end": 75.2,
+      "text": "Você pode sempre checar o estado do seu cooler olhando na parte de trás da impressora e verificando se é preciso limpar."
+    },
+    {
+      "start": 75.4,
+      "end": 79.4,
+      "text": "Já vi alguns fazendo a limpeza por ali, mas eu acho mais eficiente retirar tudo."
+    },
+    {
+      "start": 79.8,
+      "end": 82.0,
+      "text": "Limpezas concluídas com sucesso."
+    },
+    {
+      "start": 82.3,
+      "end": 88.5,
+      "text": "Agora não se esqueçam de me seguir que amanhã a gente vai falar sobre lubrificação do eixo Y, X e Z."
+    }
+  ],
+  "duration": 88.8,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,92 @@
+{
+  "text": "Seu filamento está estalando ou todo esbranquiçado, provavelmente é umidade. Hoje é o dia 36 de 365 impressões 3D aqui em casa. E eu vou mostrar de forma prática e econômica como eu armazeno meus filamentos para deixar eles sequinhos. Você vai precisar de sílica, um potinho cheio de furinhos e um saquinho hermético. O potinho eu imprimi em PETG e achei ele lá no site da Bambu Lab. O pote com sílica cabe exatamente no centro do spool. Depois é só colocar tudo no ziplock. Eu sempre tento tirar o máximo de ar possível do Ziploc e depois é só fechar. Veja que no higrômetro a umidade externa está em 47%. Quando colocamos ele dentro do saco hermético, a gente verifica que a umidade ali dentro já começa a diminuir. E então o meu pilamento fica num ambiente controlado. Apenas 20 minutos depois a umidade já está em 20%. Quando a sílica ficar saturada nesse tom roxo ou rosa, você pode levar ela no forno. A 120 graus por 60 minutos a 90 minutos E pronto, sílica restaurada Curtiu aí? Salva e manda pra aquele amigo que tá com a impressão zoada",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.0,
+      "text": "Seu filamento está estalando ou todo esbranquiçado, provavelmente é umidade."
+    },
+    {
+      "start": 4.1,
+      "end": 8.4,
+      "text": "Hoje é o dia 36 de 365 impressões 3D aqui em casa."
+    },
+    {
+      "start": 8.5,
+      "end": 13.1,
+      "text": "E eu vou mostrar de forma prática e econômica como eu armazeno meus filamentos para deixar eles sequinhos."
+    },
+    {
+      "start": 13.4,
+      "end": 18.3,
+      "text": "Você vai precisar de sílica, um potinho cheio de furinhos e um saquinho hermético."
+    },
+    {
+      "start": 18.5,
+      "end": 22.3,
+      "text": "O potinho eu imprimi em PETG e achei ele lá no site da Bambu Lab."
+    },
+    {
+      "start": 22.4,
+      "end": 25.7,
+      "text": "O pote com sílica cabe exatamente no centro do spool."
+    },
+    {
+      "start": 25.7,
+      "end": 27.9,
+      "text": "Depois é só colocar tudo no ziplock."
+    },
+    {
+      "start": 27.9,
+      "end": 31.9,
+      "text": "Eu sempre tento tirar o máximo de ar possível do Ziploc e depois é só fechar."
+    },
+    {
+      "start": 32.0,
+      "end": 35.5,
+      "text": "Veja que no higrômetro a umidade externa está em 47%."
+    },
+    {
+      "start": 35.5,
+      "end": 41.3,
+      "text": "Quando colocamos ele dentro do saco hermético, a gente verifica que a umidade ali dentro já começa a diminuir."
+    },
+    {
+      "start": 42.2,
+      "end": 45.0,
+      "text": "E então o meu pilamento fica num ambiente controlado."
+    },
+    {
+      "start": 45.2,
+      "end": 48.8,
+      "text": "Apenas 20 minutos depois a umidade já está em 20%."
+    },
+    {
+      "start": 48.8,
+      "end": 54.2,
+      "text": "Quando a sílica ficar saturada nesse tom roxo ou rosa, você pode levar ela no forno."
+    },
+    {
+      "start": 54.2,
+      "end": 58.1,
+      "text": "A 120 graus por 60 minutos a 90 minutos"
+    },
+    {
+      "start": 58.1,
+      "end": 60.5,
+      "text": "E pronto, sílica restaurada"
+    },
+    {
+      "start": 60.5,
+      "end": 61.2,
+      "text": "Curtiu aí?"
+    },
+    {
+      "start": 61.6,
+      "end": 64.3,
+      "text": "Salva e manda pra aquele amigo que tá com a impressão zoada"
+    }
+  ],
+  "duration": 65.4,
+  "model": "large-v3-turbo"
+}

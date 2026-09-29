@@ -1,0 +1,57 @@
+{
+  "text": "Quanto a mais consome de energia uma impressão em ABS em comparação com a mesma impressão em PLA? Bem-vindo ao dia 200! Eu instalei um wattímetro digital na minha H2S e fiz essa comparação. Então vamos aos resultados! O ícone inicial de potência na impressão com ABS é maior. A impressora precisa aquecer a mesa numa temperatura maior que o PLA e ainda aquecer a câmera. A impressão do barquinho no PLA é mais rápida e termina com 40 minutos com total gasto de 109 watts hora. A impressão com a ABS é mais demorada porque a vazão volumétrica dele é menor e termina com 63 minutos. Por fim, utilizando as mesmas configurações de impressão, a ABS gastou 504 watts hora. E isso significa que a impressão desse barquinho em ABS consumiu 4,5 vezes a mais que a impressão em PLA. E é claro que esses dados são válidos para essa impressora, que tem aquecimento da câmera. Se você quiser vender esse teste para outras impressoras, escreve aí nos comentários. E não se esqueça de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.8,
+      "text": "Quanto a mais consome de energia uma impressão em ABS em comparação com a mesma impressão em PLA?"
+    },
+    {
+      "start": 6.3,
+      "end": 13.3,
+      "text": "Bem-vindo ao dia 200! Eu instalei um wattímetro digital na minha H2S e fiz essa comparação. Então vamos aos resultados!"
+    },
+    {
+      "start": 13.3,
+      "end": 21.7,
+      "text": "O ícone inicial de potência na impressão com ABS é maior. A impressora precisa aquecer a mesa numa temperatura maior que o PLA e ainda aquecer a câmera."
+    },
+    {
+      "start": 21.8,
+      "end": 28.2,
+      "text": "A impressão do barquinho no PLA é mais rápida e termina com 40 minutos com total gasto de 109 watts hora."
+    },
+    {
+      "start": 28.2,
+      "end": 34.3,
+      "text": "A impressão com a ABS é mais demorada porque a vazão volumétrica dele é menor e termina com 63 minutos."
+    },
+    {
+      "start": 34.3,
+      "end": 40.1,
+      "text": "Por fim, utilizando as mesmas configurações de impressão, a ABS gastou 504 watts hora."
+    },
+    {
+      "start": 40.4,
+      "end": 46.6,
+      "text": "E isso significa que a impressão desse barquinho em ABS consumiu 4,5 vezes a mais que a impressão em PLA."
+    },
+    {
+      "start": 46.7,
+      "end": 50.5,
+      "text": "E é claro que esses dados são válidos para essa impressora, que tem aquecimento da câmera."
+    },
+    {
+      "start": 50.6,
+      "end": 54.4,
+      "text": "Se você quiser vender esse teste para outras impressoras, escreve aí nos comentários."
+    },
+    {
+      "start": 54.6,
+      "end": 57.7,
+      "text": "E não se esqueça de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 57.8,
+  "model": "large-v3-turbo"
+}

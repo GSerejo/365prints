@@ -1,0 +1,172 @@
+{
+  "text": "Como minimizar essas linhas de impressão? Bem-vindo ao dia 54 e hoje é dia de dica rápida. E se eu fosse você, assistiria até o final porque tem uma dica extra. Primeiro vamos utilizar o perfil padrão de 0,2 de altura de camada para a gente ter uma referência. E como você pode notar, já no fatiador a gente enxerga os degrauzinhos. E para ficar registrado, essa impressão demorou mais ou menos uma hora e meia. Para reduzir aquelas linhas ou degraus, a gente precisa aumentar a resolução da peça, que normalmente é feito diminuindo a altura de camada para que os degraus fiquem menores. E com uma altura de 0,08mm, a gente já percebe uma melhora significativa no acabamento. Mas isso tem o custo e a impressão ficou uma hora e meia mais demorada. Agora vamos falar de um recurso que às vezes é pouco utilizado ou esquecido, que é a altura de camada variável. Aqui você pode escolher entre qualidade e velocidade. E para fazer isso é só utilizar o cursor Eu normalmente uso 0,5 E quando você clica em adaptativo A peça muda de cor Agora tem um gráfico na lateral que a gente vai entender melhor Veja que a altura de camada se tornou variável Dessa forma o fatiador economiza tempo quando é preciso E aumenta a qualidade quando é necessário Para suavizar essa mudança é só clicar em suave E como o próprio nome já diz Nós suavizamos a mudança da altura de camada E aquelas 3 horas de impressão com 0,08 Foram diminuídas em 40 minutos E a dica extra é alterar o gerador de parede para aracno Se você quiser entender um pouco melhor sobre isso, assista meu vídeo do dia 29 E esse foi o resultado final utilizando a altura de camada variável Lembrando que eu estou utilizando o bico de 0,4 milímetros Esse é o antes E esse é o depois, utilizando um recurso fácil e disponível no seu pateador E aí, gostaram desse conteúdo? Querem mais vídeos assim? Escreva aí nos comentários",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.3,
+      "text": "Como minimizar essas linhas de impressão? Bem-vindo ao dia 54 e hoje é dia de dica rápida."
+    },
+    {
+      "start": 7.4,
+      "end": 10.5,
+      "text": "E se eu fosse você, assistiria até o final porque tem uma dica extra."
+    },
+    {
+      "start": 11.0,
+      "end": 16.9,
+      "text": "Primeiro vamos utilizar o perfil padrão de 0,2 de altura de camada para a gente ter uma referência."
+    },
+    {
+      "start": 17.2,
+      "end": 21.0,
+      "text": "E como você pode notar, já no fatiador a gente enxerga os degrauzinhos."
+    },
+    {
+      "start": 21.2,
+      "end": 24.7,
+      "text": "E para ficar registrado, essa impressão demorou mais ou menos uma hora e meia."
+    },
+    {
+      "start": 24.7,
+      "end": 28.9,
+      "text": "Para reduzir aquelas linhas ou degraus, a gente precisa aumentar a resolução da peça,"
+    },
+    {
+      "start": 29.0,
+      "end": 33.2,
+      "text": "que normalmente é feito diminuindo a altura de camada para que os degraus fiquem menores."
+    },
+    {
+      "start": 33.5,
+      "end": 39.7,
+      "text": "E com uma altura de 0,08mm, a gente já percebe uma melhora significativa no acabamento."
+    },
+    {
+      "start": 40.7,
+      "end": 44.7,
+      "text": "Mas isso tem o custo e a impressão ficou uma hora e meia mais demorada."
+    },
+    {
+      "start": 44.8,
+      "end": 48.8,
+      "text": "Agora vamos falar de um recurso que às vezes é pouco utilizado ou esquecido,"
+    },
+    {
+      "start": 49.0,
+      "end": 50.8,
+      "text": "que é a altura de camada variável."
+    },
+    {
+      "start": 51.0,
+      "end": 53.9,
+      "text": "Aqui você pode escolher entre qualidade e velocidade."
+    },
+    {
+      "start": 53.9,
+      "end": 56.1,
+      "text": "E para fazer isso é só utilizar o cursor"
+    },
+    {
+      "start": 56.1,
+      "end": 58.5,
+      "text": "Eu normalmente uso 0,5"
+    },
+    {
+      "start": 58.5,
+      "end": 60.5,
+      "text": "E quando você clica em adaptativo"
+    },
+    {
+      "start": 60.5,
+      "end": 61.7,
+      "text": "A peça muda de cor"
+    },
+    {
+      "start": 61.7,
+      "end": 64.2,
+      "text": "Agora tem um gráfico na lateral que a gente vai entender melhor"
+    },
+    {
+      "start": 64.2,
+      "end": 66.7,
+      "text": "Veja que a altura de camada se tornou variável"
+    },
+    {
+      "start": 66.7,
+      "end": 69.6,
+      "text": "Dessa forma o fatiador economiza tempo quando é preciso"
+    },
+    {
+      "start": 69.6,
+      "end": 71.7,
+      "text": "E aumenta a qualidade quando é necessário"
+    },
+    {
+      "start": 71.7,
+      "end": 74.7,
+      "text": "Para suavizar essa mudança é só clicar em suave"
+    },
+    {
+      "start": 74.7,
+      "end": 76.0,
+      "text": "E como o próprio nome já diz"
+    },
+    {
+      "start": 76.0,
+      "end": 78.3,
+      "text": "Nós suavizamos a mudança da altura de camada"
+    },
+    {
+      "start": 78.3,
+      "end": 81.3,
+      "text": "E aquelas 3 horas de impressão com 0,08"
+    },
+    {
+      "start": 81.3,
+      "end": 83.5,
+      "text": "Foram diminuídas em 40 minutos"
+    },
+    {
+      "start": 83.5,
+      "end": 87.2,
+      "text": "E a dica extra é alterar o gerador de parede para aracno"
+    },
+    {
+      "start": 87.2,
+      "end": 91.3,
+      "text": "Se você quiser entender um pouco melhor sobre isso, assista meu vídeo do dia 29"
+    },
+    {
+      "start": 91.3,
+      "end": 94.8,
+      "text": "E esse foi o resultado final utilizando a altura de camada variável"
+    },
+    {
+      "start": 94.8,
+      "end": 98.1,
+      "text": "Lembrando que eu estou utilizando o bico de 0,4 milímetros"
+    },
+    {
+      "start": 98.1,
+      "end": 99.4,
+      "text": "Esse é o antes"
+    },
+    {
+      "start": 99.4,
+      "end": 104.1,
+      "text": "E esse é o depois, utilizando um recurso fácil e disponível no seu pateador"
+    },
+    {
+      "start": 104.1,
+      "end": 106.9,
+      "text": "E aí, gostaram desse conteúdo? Querem mais vídeos assim?"
+    },
+    {
+      "start": 107.4,
+      "end": 108.7,
+      "text": "Escreva aí nos comentários"
+    }
+  ],
+  "duration": 109.4,
+  "model": "large-v3-turbo"
+}
