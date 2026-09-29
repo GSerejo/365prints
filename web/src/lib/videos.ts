@@ -17,13 +17,25 @@ export type Video = {
   views: number | null;
   thumbnail: string | null;
   links: { tiktok?: string; instagram?: string };
+  /** Posição no quadro: o dia, ou (para vídeos extras sem dia) logo depois do dia anterior a ele. */
+  order: number;
 };
 
 /** O que a busca precisa no navegador (sem os trechos com tempo). */
 export type SearchableVideo = Omit<Video, "segments">;
 
-export const videos = (data as Video[]).toSorted(
-  (a, b) => b.publishedAt.localeCompare(a.publishedAt),
+function withOrder(list: Omit<Video, "order">[]): Video[] {
+  const numbered = list.filter((video) => video.day).toSorted((a, b) => a.publishedAt.localeCompare(b.publishedAt));
+  return list.map((video) => {
+    if (video.day) return { ...video, order: video.day };
+    const previous = numbered.filter((other) => other.publishedAt <= video.publishedAt).at(-1);
+    return { ...video, order: (previous?.day ?? 0) + 0.5 };
+  });
+}
+
+/** Do dia mais alto para o mais baixo. */
+export const videos = withOrder(data as Omit<Video, "order">[]).toSorted(
+  (a, b) => b.order - a.order || b.publishedAt.localeCompare(a.publishedAt),
 );
 
 export function getVideo(slug: string) {

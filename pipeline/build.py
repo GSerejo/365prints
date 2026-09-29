@@ -88,6 +88,8 @@ def load_sources(enriched: dict[str, dict]) -> list[dict]:
         if candidates:
             twin = min(candidates, key=lambda e: abs(e["timestamp"] - reel["timestamp"]))
             twin["links"]["instagram"] = reel["webpage_url"]
+            # Data de publicação = a primeira das duas redes (o TikTok costuma vir semanas depois).
+            twin["published"] = min(twin.get("published", twin["timestamp"]), reel["timestamp"])
             if len(clean_caption(reel["caption"])) > len(clean_caption(twin["caption"])):
                 # Guarda a legenda curta também: às vezes só ela traz o "Dia X de 365".
                 twin["alt_caption"], twin["caption"] = twin["caption"], reel["caption"]
@@ -170,7 +172,7 @@ def build_video(entry: dict, enriched: dict, used_slugs: set[str]) -> dict:
         "caption": caption,
         "transcript": transcript["text"],
         "segments": [{"start": s["start"], "text": s["text"]} for s in transcript["segments"]],
-        "publishedAt": datetime.fromtimestamp(entry["timestamp"], timezone.utc).isoformat(),
+        "publishedAt": datetime.fromtimestamp(entry.get("published", entry["timestamp"]), timezone.utc).isoformat(),
         "durationSec": round(float(entry["duration"] or 0)),
         "views": entry["views"],
         "thumbnail": build_thumbnail(key),

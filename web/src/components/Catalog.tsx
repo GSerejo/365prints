@@ -10,7 +10,7 @@ import { VideoCard, type Snippet } from "./VideoCard";
 const PAGE_SIZE = 30;
 const TRACK_DELAY_MS = 1200;
 
-type Sort = "recent" | "day";
+type Sort = "desc" | "asc";
 
 export function Catalog({
   videos,
@@ -24,7 +24,7 @@ export function Catalog({
   const index = useMemo(() => createIndex(videos), [videos]);
   const [query, setQuery] = useState(initialQuery);
   const [category, setCategory] = useState<string | null>(initialCategory);
-  const [sort, setSort] = useState<Sort>("recent");
+  const [sort, setSort] = useState<Sort>("desc");
   const [limit, setLimit] = useState(PAGE_SIZE);
 
   const categories = useMemo(() => {
@@ -46,10 +46,8 @@ export function Catalog({
 
     if (!trimmed) {
       const list = videos.filter(inCategory);
-      return (sort === "day"
-        ? list.toSorted((a, b) => (a.day ?? 9999) - (b.day ?? 9999))
-        : list
-      ).map((video) => ({ video, snippet: null as Snippet }));
+      // `videos` já vem do dia maior para o menor.
+      return (sort === "asc" ? list.toReversed() : list).map((video) => ({ video, snippet: null as Snippet }));
     }
 
     const day = parseDayQuery(trimmed);
@@ -167,8 +165,8 @@ export function Catalog({
               className="rounded-lg border border-line bg-surface px-2 py-1 text-ink"
               aria-label="Ordenar"
             >
-              <option value="recent">Mais recentes</option>
-              <option value="day">Dia do quadro</option>
+              <option value="desc">Dia: maior → menor</option>
+              <option value="asc">Dia: menor → maior</option>
             </select>
           )}
         </div>
