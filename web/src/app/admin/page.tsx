@@ -4,7 +4,7 @@ import Link from "next/link";
 import { ActivityChart } from "@/components/admin/ActivityChart";
 import { BarList, Card, EmptyState, SplitBar, StatTile } from "@/components/admin/parts";
 import { requireAdmin } from "@/lib/admin/session";
-import { getDashboard, RANGES, type Range } from "@/lib/admin/stats";
+import { getDashboard, RANGES, type DashboardData, type Range } from "@/lib/admin/stats";
 import { videos } from "@/lib/videos";
 import { logout } from "./actions";
 
@@ -25,7 +25,27 @@ export default async function AdminPage({ searchParams }: PageProps<"/admin">) {
 
   const requested = Number((await searchParams).periodo);
   const range: Range = RANGES.find((r) => r === requested) ?? 30;
-  const data = await getDashboard(range);
+  let data: DashboardData;
+  try {
+    data = await getDashboard(range);
+  } catch (error) {
+    // Mostra o motivo em vez de derrubar a página (ex.: chave ou ID do PostHog errados).
+    console.error("Falha ao consultar o PostHog", error);
+    return (
+      <div className="mx-auto max-w-2xl px-4 py-16">
+        <h1 className="text-2xl font-bold tracking-tight">Painel de uso</h1>
+        <div role="alert" className="mt-5 rounded-xl border border-danger/40 px-4 py-3 text-sm">
+          <p>
+            <strong>Não consegui ler os dados do PostHog.</strong> Confira POSTHOG_PERSONAL_API_KEY, POSTHOG_PROJECT_ID
+            e NEXT_PUBLIC_POSTHOG_REGION nas variáveis da Vercel.
+          </p>
+          <p className="mt-2 break-words font-mono text-xs text-muted">
+            {error instanceof Error ? error.message : String(error)}
+          </p>
+        </div>
+      </div>
+    );
+  }
   const { totals, previous } = data;
   const periodLabel = `${range} dias`;
   const videoById = new Map(videos.map((video) => [video.id, video]));
