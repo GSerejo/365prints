@@ -31,6 +31,8 @@ export type DashboardData = {
   devices: Ranked[];
   categories: Ranked[];
   requests: { at: string; text: string; query: string | null }[];
+  /** Blocos que não carregaram (o resto do painel continua funcionando). */
+  errors: { section: string; message: string }[];
 };
 
 const CACHE_MS = 2 * 60 * 1000;
@@ -41,7 +43,8 @@ export async function getDashboard(range: Range): Promise<DashboardData> {
   const hit = cache.get(range);
   if (hit && Date.now() - hit.at < CACHE_MS) return hit.data;
   const data = await queryPosthog(range);
-  cache.set(range, { at: Date.now(), data });
+  // Só guarda em cache se veio tudo certo, para um erro passageiro não ficar preso por 2 minutos.
+  if (!data.errors.length) cache.set(range, { at: Date.now(), data });
   return data;
 }
 
@@ -50,9 +53,20 @@ async function queryPosthog(range: Range): Promise<DashboardData> {
   const inRange = `timestamp > now() - INTERVAL ${range} DAY`;
   const prevRange = `timestamp <= now() - INTERVAL ${range} DAY`;
 
+  const errors: DashboardData["errors"] = [];
+  async function section<T>(name: string, fallback: T, run: () => Promise<T>): Promise<T> {
+    try {
+      return await run();
+    } catch (error) {
+      console.error(`Painel: falha em "${name}"`, error);
+      errors.push({ section: name, message: error instanceof Error ? error.message : String(error) });
+      return fallback;
+    }
+  }
+
   const [totalsRows, dailyRows, searchRows, noResultRows, videoRows, sourceRows, deviceRows, categoryRows, requestRows] =
     await Promise.all([
-      hogql<number[]>(`
+      section("Números principais", [new Array(12).fill(0)], () => hogql<number[]>(`
         SELECT
           uniqIf(distinct_id, event = '$pageview' AND ${inRange}),
           countIf(event = 'search' AND ${inRange}),
@@ -68,46 +82,47 @@ async function queryPosthog(range: Range): Promise<DashboardData> {
           countIf(event = 'watch_click' AND ${prevRange})
         FROM events
         WHERE timestamp > now() - INTERVAL ${range * 2} DAY
-          AND event IN ('$pageview', 'search', 'search_no_results', 'watch_click', 'video_opened', 'content_request')`),
-      hogql<[string, number, number]>(`
+          AND event IN ('$pageview', 'search', 'search_no_results', 'watch_click', 'video_opened', 'content_request')`)),
+      section("Atividade por dia", [], () => hogql<[string, number, number]>(`
         SELECT toString(toDate(timestamp)) AS day,
           uniqIf(distinct_id, event = '$pageview'),
           countIf(event = 'watch_click')
         FROM events
         WHERE ${inRange} AND event IN ('$pageview', 'watch_click')
-        GROUP BY day ORDER BY day`),
-      rankedQuery(`lower(trim(toString(properties.query)))`, `event = 'search' AND ${inRange}`, 15),
-      rankedQuery(`lower(trim(toString(properties.query)))`, `event = 'search_no_results' AND ${inRange}`, 20),
-      hogql<[string, number, number, number]>(`
+        GROUP BY day ORDER BY day`)),
+      section("Mais buscados", [], () => rankedQuery(`lower(trim(toString(properties.query)))`, `event = 'search' AND ${inRange}`, 15)),
+      section("Buscas sem resultado", [], () => rankedQuery(`lower(trim(toString(properties.query)))`, `event = 'search_no_results' AND ${inRange}`, 20)),
+      section("Vídeos mais procurados", [], () => hogql<[string, number, number, number]>(`
         SELECT toString(properties.video_id) AS id,
           countIf(event = 'video_opened') AS opens,
           countIf(event = 'watch_click' AND properties.platform = 'tiktok') AS tiktok,
           countIf(event = 'watch_click' AND properties.platform = 'instagram') AS instagram
         FROM events
         WHERE ${inRange} AND event IN ('video_opened', 'watch_click')
-        GROUP BY id ORDER BY opens + tiktok + instagram DESC LIMIT 15`),
-      hogql<[string, number]>(`
+        GROUP BY id ORDER BY opens + tiktok + instagram DESC LIMIT 15`)),
+      section("Origem das visitas", [], () => hogql<[string, number]>(`
         SELECT coalesce(nullIf(toString(properties.utm_source), ''), nullIf(toString(properties.$referring_domain), ''), '$direct') AS source,
           uniq(distinct_id) AS visitors
         FROM events
         WHERE event = '$pageview' AND ${inRange}
-        GROUP BY source ORDER BY visitors DESC LIMIT 20`),
-      hogql<[string, number]>(`
+        GROUP BY source ORDER BY visitors DESC LIMIT 20`)),
+      section("Aparelho", [], () => hogql<[string, number]>(`
         SELECT toString(properties.$device_type) AS device, uniq(distinct_id) AS visitors
         FROM events
         WHERE event = '$pageview' AND ${inRange}
-        GROUP BY device ORDER BY visitors DESC`),
-      rankedQuery(`toString(properties.category)`, `event = 'category_selected' AND properties.category IS NOT NULL AND ${inRange}`, 10),
-      hogql<[number, string, string | null]>(`
+        GROUP BY device ORDER BY visitors DESC`)),
+      section("Categorias mais filtradas", [], () => rankedQuery(`toString(properties.category)`, `event = 'category_selected' AND properties.category IS NOT NULL AND ${inRange}`, 10)),
+      section("Sugestões enviadas", [], () => hogql<[number, string, string | null]>(`
         SELECT toUnixTimestamp(timestamp), toString(properties.text), toString(properties.query)
         FROM events
         WHERE event = 'content_request' AND ${inRange}
-        ORDER BY timestamp DESC LIMIT 50`),
+        ORDER BY timestamp DESC LIMIT 50`)),
     ]);
 
-  const [t] = totalsRows;
+  const t = totalsRows[0] ?? new Array(12).fill(0);
   return {
     demo: false,
+    errors,
     range,
     totals: {
       visitors: t[0], searches: t[1], noResults: t[2], clicks: t[3],
@@ -193,6 +208,7 @@ function demoData(range: Range): DashboardData {
 
   return {
     demo: true,
+    errors: [],
     range,
     totals: {
       visitors, clicks, searches: Math.round(visitors * 1.4), noResults: Math.round(visitors * 0.12),

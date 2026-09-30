@@ -70,6 +70,21 @@ export default async function AdminPage({ searchParams }: PageProps<"/admin">) {
         </p>
       )}
 
+      {data.errors.length > 0 && (
+        <div role="alert" className="mt-5 rounded-xl border border-danger/40 px-4 py-3 text-sm">
+          <p>
+            <strong>Alguns blocos não carregaram</strong> (o resto do painel está certo):
+          </p>
+          <ul className="mt-2 space-y-1">
+            {data.errors.map((error) => (
+              <li key={error.section}>
+                {error.section}: <span className="break-words font-mono text-xs text-muted">{error.message}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       <nav aria-label="Período" className="mt-6 flex gap-2">
         {RANGES.map((r) => (
           <Link
