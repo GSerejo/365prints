@@ -48,10 +48,14 @@ export async function getDashboard(range: Range): Promise<DashboardData> {
   return data;
 }
 
-// `range` vem sempre de RANGES (número validado), nunca de texto livre.
+// O período é filtrado pelo dia (no fuso de São Paulo), não por data e hora: comparar o
+// `timestamp` com `now() - INTERVAL` dá "Decimal overflow" no PostHog (precisões diferentes).
+// As datas são geradas aqui a partir de `range` (número validado), nunca de texto livre.
 async function queryPosthog(range: Range): Promise<DashboardData> {
-  const inRange = `timestamp > now() - INTERVAL ${range} DAY`;
-  const prevRange = `timestamp <= now() - INTERVAL ${range} DAY`;
+  const day = (daysAgo: number) => toLocalDate(new Date(Date.now() - daysAgo * 86400000));
+  const since = day(range - 1); // primeiro dia do período (hoje conta como um dos dias)
+  const inRange = `toDate(timestamp) >= toDate('${since}')`;
+  const prevRange = `toDate(timestamp) < toDate('${since}')`;
 
   const errors: DashboardData["errors"] = [];
   async function section<T>(name: string, fallback: T, run: () => Promise<T>): Promise<T> {
@@ -81,7 +85,7 @@ async function queryPosthog(range: Range): Promise<DashboardData> {
           countIf(event = 'search_no_results' AND ${prevRange}),
           countIf(event = 'watch_click' AND ${prevRange})
         FROM events
-        WHERE timestamp > now() - INTERVAL ${range * 2} DAY
+        WHERE toDate(timestamp) >= toDate('${day(range * 2 - 1)}')
           AND event IN ('$pageview', 'search', 'search_no_results', 'watch_click', 'video_opened', 'content_request')`)),
       section("Atividade por dia", [], () => hogql<[string, number, number]>(`
         SELECT toString(toDate(timestamp)) AS day,
