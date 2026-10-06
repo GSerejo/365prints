@@ -1,0 +1,162 @@
+{
+  "text": "Imprimindo 5 cores na Snapmaker. Bem-vindo ao dia 269. Aqui no fatiador, a torre de purga já nos informa as 5 cores. As primeiras 4 cores do Dragonite é o laranja, o azul, o bege e o branco. Nos olhos nós temos também a utilização do preto. O bege vai até a região do pescoço, depois para e volta só nos chifres. Portanto, nessa região da cabeça não temos a utilização do bege, e sim o preto no lugar dele. O preto então vai utilizar o slot do bege na impressão Para entender melhor vamos fatiar Precisamos adicionar uma pausa depois do pescoço para trocar o carretel bege para o preto Descemos o fatiamento até essa região, botão direito e adicionar pausa Durante essa pausa trocamos o carretel bege para o preto Depois que finalizarmos os olhos precisamos voltar com o carretel bege no lugar do preto Então aqui adicionamos uma nova pausa para fazer essa troca manual Agora fatiamos de novo e essa linha preta indica os locais da pausa Veja que na região da cabeça vamos utilizar 4 cores e o preto no lugar do bege Quando for mandar imprimir não se esqueça de compartilhar o mesmo slot do preto e o bege Nesse caso é o slot número 1 Pra fazer as trocas é muito simples Depois da pausa você volta em Home Pica ali nos filamentos Clicamos em Unloading pra descarregar o bege E ele tá lá no slot 1 Mesmo pausado a impressora começa o descarregamento Depois de aquecer o bico e permitir a emoção é só a gente trocar o filamento bege pelo preto Agora vamos voltar e fazer o processo de carregamento do novo filamento preto. Lembrando que estamos fazendo todo esse processo com a impressora em pausa. Depois de finalizar o carregamento a gente volta e vai lá na impressão e dá um play novamente para resumir e pronto. Tudo isso foi feito na primeira pausa. Depois é o mesmo procedimento para voltar com o carretel badge na segunda pausa. E se você gostar desse vídeo me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.7,
+      "text": "Imprimindo 5 cores na Snapmaker."
+    },
+    {
+      "start": 3.2,
+      "end": 5.2,
+      "text": "Bem-vindo ao dia 269."
+    },
+    {
+      "start": 5.4,
+      "end": 9.1,
+      "text": "Aqui no fatiador, a torre de purga já nos informa as 5 cores."
+    },
+    {
+      "start": 9.3,
+      "end": 15.0,
+      "text": "As primeiras 4 cores do Dragonite é o laranja, o azul, o bege e o branco."
+    },
+    {
+      "start": 15.1,
+      "end": 17.6,
+      "text": "Nos olhos nós temos também a utilização do preto."
+    },
+    {
+      "start": 17.7,
+      "end": 22.2,
+      "text": "O bege vai até a região do pescoço, depois para e volta só nos chifres."
+    },
+    {
+      "start": 22.4,
+      "end": 27.4,
+      "text": "Portanto, nessa região da cabeça não temos a utilização do bege, e sim o preto no lugar dele."
+    },
+    {
+      "start": 27.4,
+      "end": 30.4,
+      "text": "O preto então vai utilizar o slot do bege na impressão"
+    },
+    {
+      "start": 30.4,
+      "end": 32.1,
+      "text": "Para entender melhor vamos fatiar"
+    },
+    {
+      "start": 32.1,
+      "end": 37.1,
+      "text": "Precisamos adicionar uma pausa depois do pescoço para trocar o carretel bege para o preto"
+    },
+    {
+      "start": 37.1,
+      "end": 40.8,
+      "text": "Descemos o fatiamento até essa região, botão direito e adicionar pausa"
+    },
+    {
+      "start": 40.8,
+      "end": 43.6,
+      "text": "Durante essa pausa trocamos o carretel bege para o preto"
+    },
+    {
+      "start": 43.6,
+      "end": 47.9,
+      "text": "Depois que finalizarmos os olhos precisamos voltar com o carretel bege no lugar do preto"
+    },
+    {
+      "start": 47.9,
+      "end": 51.5,
+      "text": "Então aqui adicionamos uma nova pausa para fazer essa troca manual"
+    },
+    {
+      "start": 51.5,
+      "end": 55.2,
+      "text": "Agora fatiamos de novo e essa linha preta indica os locais da pausa"
+    },
+    {
+      "start": 55.2,
+      "end": 59.8,
+      "text": "Veja que na região da cabeça vamos utilizar 4 cores e o preto no lugar do bege"
+    },
+    {
+      "start": 59.8,
+      "end": 65.1,
+      "text": "Quando for mandar imprimir não se esqueça de compartilhar o mesmo slot do preto e o bege"
+    },
+    {
+      "start": 65.1,
+      "end": 66.8,
+      "text": "Nesse caso é o slot número 1"
+    },
+    {
+      "start": 66.8,
+      "end": 68.7,
+      "text": "Pra fazer as trocas é muito simples"
+    },
+    {
+      "start": 68.7,
+      "end": 70.6,
+      "text": "Depois da pausa você volta em Home"
+    },
+    {
+      "start": 70.6,
+      "end": 71.8,
+      "text": "Pica ali nos filamentos"
+    },
+    {
+      "start": 71.8,
+      "end": 74.1,
+      "text": "Clicamos em Unloading pra descarregar o bege"
+    },
+    {
+      "start": 74.1,
+      "end": 75.5,
+      "text": "E ele tá lá no slot 1"
+    },
+    {
+      "start": 75.5,
+      "end": 78.3,
+      "text": "Mesmo pausado a impressora começa o descarregamento"
+    },
+    {
+      "start": 78.3,
+      "end": 83.3,
+      "text": "Depois de aquecer o bico e permitir a emoção é só a gente trocar o filamento bege pelo preto"
+    },
+    {
+      "start": 83.3,
+      "end": 87.9,
+      "text": "Agora vamos voltar e fazer o processo de carregamento do novo filamento preto."
+    },
+    {
+      "start": 88.0,
+      "end": 91.4,
+      "text": "Lembrando que estamos fazendo todo esse processo com a impressora em pausa."
+    },
+    {
+      "start": 91.6,
+      "end": 98.2,
+      "text": "Depois de finalizar o carregamento a gente volta e vai lá na impressão e dá um play novamente para resumir e pronto."
+    },
+    {
+      "start": 98.2,
+      "end": 100.2,
+      "text": "Tudo isso foi feito na primeira pausa."
+    },
+    {
+      "start": 100.3,
+      "end": 104.7,
+      "text": "Depois é o mesmo procedimento para voltar com o carretel badge na segunda pausa."
+    },
+    {
+      "start": 104.8,
+      "end": 108.7,
+      "text": "E se você gostar desse vídeo me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 109.1,
+  "model": "large-v3-turbo"
+}

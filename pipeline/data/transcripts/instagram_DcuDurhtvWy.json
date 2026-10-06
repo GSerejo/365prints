@@ -1,0 +1,152 @@
+{
+  "text": "Como resolver esse problema de mistura de cor com um teste de menos de 10 minutos? Bem-vindo ao dia 264. Em uma impressora de um único bico, esses cocôzinhos aqui, ou seja, a purga é responsável pela troca de material. Se purgar de menos, contamina, como neste caso. Esse teste no Maker resolve isso. Abre ele no seu fatiador e coloque as cores que você vai utilizar. Eu tô testando do amarelo pro preto e do preto pro amarelo. Agora você vai em volume de purga e zera todas as descargas. Para fazer o teste, eu desabilito a torre de purga, para depois do projeto ela funcionar com uma margem de segurança. Depois de impresso, cada linha é um valor em milímetro cúbico. O começo está falhado, pois a impressão foi feita sem torre de purga. Quando a troca é de uma cor escura para uma cor clara, eu gosto de ser conservador. E por isso, eu escolhi 300 milímetros cúbicos, que é onde o amarelo sai limpo. Do amarelo para o preto, o volume de purga é menor e eu determinei 175 milímetros. Agora é só abrir seu projeto em volumes de purga. Vamos alterar do preto para o amarelo para 300 milímetros cúbicos. Estava em 196 e por isso estava manchando. Do amarelo para o preto também estava em 196. Eu mantive esse para ser mais conservador. E para preencher toda a tabela é só imprimir mais testes. Essa é a lógica. E outra dica é não imprimir um só objeto. Veja que o tempo de purga para 1 é 2 horas e 38 minutos. E para a mesa cheia é o mesmo tempo com o mesmo gasto de purga. Uma cartela 1,15 gramas e 5 minutos. 2 em 10 minutos. Um gasto pequeno para não perder uma impressão grande. Agora salva aí para a próxima impressão colorida. E para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.2,
+      "text": "Como resolver esse problema de mistura de cor com um teste de menos de 10 minutos?"
+    },
+    {
+      "start": 5.5,
+      "end": 7.8,
+      "text": "Bem-vindo ao dia 264."
+    },
+    {
+      "start": 7.9,
+      "end": 13.8,
+      "text": "Em uma impressora de um único bico, esses cocôzinhos aqui, ou seja, a purga é responsável pela troca de material."
+    },
+    {
+      "start": 13.9,
+      "end": 16.9,
+      "text": "Se purgar de menos, contamina, como neste caso."
+    },
+    {
+      "start": 17.0,
+      "end": 19.1,
+      "text": "Esse teste no Maker resolve isso."
+    },
+    {
+      "start": 19.2,
+      "end": 22.5,
+      "text": "Abre ele no seu fatiador e coloque as cores que você vai utilizar."
+    },
+    {
+      "start": 22.7,
+      "end": 25.6,
+      "text": "Eu tô testando do amarelo pro preto e do preto pro amarelo."
+    },
+    {
+      "start": 25.6,
+      "end": 28.6,
+      "text": "Agora você vai em volume de purga e zera todas as descargas."
+    },
+    {
+      "start": 28.6,
+      "end": 34.1,
+      "text": "Para fazer o teste, eu desabilito a torre de purga, para depois do projeto ela funcionar com uma margem de segurança."
+    },
+    {
+      "start": 34.2,
+      "end": 37.6,
+      "text": "Depois de impresso, cada linha é um valor em milímetro cúbico."
+    },
+    {
+      "start": 37.7,
+      "end": 40.8,
+      "text": "O começo está falhado, pois a impressão foi feita sem torre de purga."
+    },
+    {
+      "start": 40.8,
+      "end": 44.6,
+      "text": "Quando a troca é de uma cor escura para uma cor clara, eu gosto de ser conservador."
+    },
+    {
+      "start": 44.7,
+      "end": 48.6,
+      "text": "E por isso, eu escolhi 300 milímetros cúbicos, que é onde o amarelo sai limpo."
+    },
+    {
+      "start": 48.7,
+      "end": 52.8,
+      "text": "Do amarelo para o preto, o volume de purga é menor e eu determinei 175 milímetros."
+    },
+    {
+      "start": 52.8,
+      "end": 55.5,
+      "text": "Agora é só abrir seu projeto em volumes de purga."
+    },
+    {
+      "start": 55.5,
+      "end": 58.8,
+      "text": "Vamos alterar do preto para o amarelo para 300 milímetros cúbicos."
+    },
+    {
+      "start": 58.9,
+      "end": 61.7,
+      "text": "Estava em 196 e por isso estava manchando."
+    },
+    {
+      "start": 61.9,
+      "end": 64.4,
+      "text": "Do amarelo para o preto também estava em 196."
+    },
+    {
+      "start": 64.7,
+      "end": 66.8,
+      "text": "Eu mantive esse para ser mais conservador."
+    },
+    {
+      "start": 66.9,
+      "end": 69.6,
+      "text": "E para preencher toda a tabela é só imprimir mais testes."
+    },
+    {
+      "start": 69.7,
+      "end": 70.4,
+      "text": "Essa é a lógica."
+    },
+    {
+      "start": 70.4,
+      "end": 72.5,
+      "text": "E outra dica é não imprimir um só objeto."
+    },
+    {
+      "start": 72.7,
+      "end": 75.9,
+      "text": "Veja que o tempo de purga para 1 é 2 horas e 38 minutos."
+    },
+    {
+      "start": 76.0,
+      "end": 79.3,
+      "text": "E para a mesa cheia é o mesmo tempo com o mesmo gasto de purga."
+    },
+    {
+      "start": 79.5,
+      "end": 82.7,
+      "text": "Uma cartela 1,15 gramas e 5 minutos."
+    },
+    {
+      "start": 82.8,
+      "end": 84.3,
+      "text": "2 em 10 minutos."
+    },
+    {
+      "start": 84.3,
+      "end": 87.1,
+      "text": "Um gasto pequeno para não perder uma impressão grande."
+    },
+    {
+      "start": 87.2,
+      "end": 89.9,
+      "text": "Agora salva aí para a próxima impressão colorida."
+    },
+    {
+      "start": 89.9,
+      "end": 92.6,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 92.9,
+  "model": "large-v3-turbo"
+}

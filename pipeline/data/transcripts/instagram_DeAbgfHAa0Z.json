@@ -1,0 +1,32 @@
+{
+  "text": "Esse sombreado da pele deixou esse modelo mais realista, e isso não é pintura, saiu assim da impressora. Bem-vindo ao dia 281, pela primeira vez eu utilizei esse dual color para fazer a pele, e isso caiu perfeito para o Master Splinter, que é um rato. Como as duas cores vêm bem divididas no fio, a pele ganha esse sombreado. Esse é o PLA mate vermelho e preto da Multifilo, mas na prática o vermelho puxa para o marrom. Qual personagem você imprimiria assim? E para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.4,
+      "text": "Esse sombreado da pele deixou esse modelo mais realista, e isso não é pintura, saiu assim da impressora."
+    },
+    {
+      "start": 6.8,
+      "end": 15.5,
+      "text": "Bem-vindo ao dia 281, pela primeira vez eu utilizei esse dual color para fazer a pele, e isso caiu perfeito para o Master Splinter, que é um rato."
+    },
+    {
+      "start": 15.6,
+      "end": 19.5,
+      "text": "Como as duas cores vêm bem divididas no fio, a pele ganha esse sombreado."
+    },
+    {
+      "start": 19.6,
+      "end": 24.5,
+      "text": "Esse é o PLA mate vermelho e preto da Multifilo, mas na prática o vermelho puxa para o marrom."
+    },
+    {
+      "start": 24.5,
+      "end": 29.7,
+      "text": "Qual personagem você imprimiria assim? E para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 30.0,
+  "model": "large-v3-turbo"
+}

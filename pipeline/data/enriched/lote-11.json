@@ -1,0 +1,156 @@
+{
+  "tiktok_7691017212013972756": {
+    "instagram": "DcemHfgtKaS",
+    "day": 261,
+    "title": "Primeiras impressões da Anycubic Kobra X (4 cores)",
+    "summary": "A primeira Anycubic na bancada dele: 4 cores por R$ 3.269, com troca automática de fábrica, módulos que somam até 19 cores, mesa do tamanho da A1 e bico de aço endurecido já incluso. São só as primeiras impressões; os testes vêm depois.",
+    "category": "Impressoras",
+    "tags": ["Anycubic Kobra X", "multicolor", "custo-benefício"],
+    "keywords": ["anycubic", "kobra x", "kobra", "impressora barata", "4 cores", "multicolor barato", "aco endurecido", "unboxing"]
+  },
+  "tiktok_7691017369161895188": {
+    "instagram": "DchIKq0u5e3",
+    "day": 262,
+    "title": "Outro filamento só no preenchimento para poupar a cor principal",
+    "summary": "O busto gastaria 638 g, mais do que sobrava no rolo amarelo. Mudando o preenchimento para preto (Objetos → Multimaterial), ele economizou cerca de 300 g do amarelo, com um pouco mais de tempo e purga. Vale para impressoras com mais de um bico.",
+    "category": "Multicor e purga",
+    "tags": ["preenchimento", "economia de filamento", "multimaterial"],
+    "keywords": ["infill outra cor", "preenchimento preto", "rolo acabando", "economizar filamento caro", "busto", "snapmaker u1", "h2c", "multi bico"]
+  },
+  "tiktok_7691017615191411989": {
+    "instagram": "Dcjv2nlsWqR",
+    "title": "Barriga na base da peça: chanfro interno feito no fatiador",
+    "summary": "A parede deformava onde um anel interno fechava a camada: mais massa, mais calor e mais contração puxando a parede. O preview de tempo de camada mostra o problema. A solução é um chanfro de 45° feito no fatiador (cilindro menos cone, operação booleana) para o material entrar aos poucos.",
+    "category": "Problemas e soluções",
+    "tags": ["deformação", "chanfro", "operação booleana", "tempo de camada"],
+    "keywords": ["barriga na parede", "parede torta", "contracao", "chamfer", "cone", "elephant foot", "base deformada", "layer time"]
+  },
+  "instagram_DVwivqVDlKh": {
+    "title": "4 meses no sol e na chuva: PLA, PETG, ABS, ASA e PC",
+    "summary": "Barquinhos brancos dos cinco materiais ficaram 4 meses no tempo. O PLA amarelou de leve, o PETG quase não mudou, o ABS foi o que mais amarelou (o butadieno reage com UV), o ASA ficou até mais branco e o policarbonato não mudou. O teste continua.",
+    "category": "Filamentos",
+    "tags": ["resistência UV", "área externa", "ASA", "PETG"],
+    "keywords": ["uv", "sol", "chuva", "amarelou", "exposicao ao tempo", "abs amarelando", "filamento para area externa", "intemperie", "benchy", "policarbonato"]
+  },
+  "instagram_DcuDurhtvWy": {
+    "title": "Pikachu manchado: calibrando o volume de purga em 10 minutos",
+    "summary": "Purga de menos contamina a cor. Com o teste de purga do MakerWorld (descarga zerada, sem torre), cada linha mostra um volume: ele usou 300 mm³ do preto para o amarelo e manteve 196 do amarelo para o preto. A cartela gasta 1,15 g e 5 minutos.",
+    "category": "Multicor e purga",
+    "tags": ["purga", "volume de descarga", "contaminação de cor", "calibração"],
+    "keywords": ["cor misturada", "contaminacao", "flushing volume", "purge calibration", "pikachu", "cor suja", "mancha", "teste de purga"]
+  },
+  "instagram_DcwjYmEtExm": {
+    "title": "9 criadores do MakerWorld para baixar modelos grátis",
+    "summary": "Os perfis que ele mais usa: Mix&Bits (action figures, coleção Dragon Ball), Dano98 (mais de 450 multipartes de séries e filmes), 3D Girl (mais de 180 Pokémon), PB94 (aviões), Mr. Big Shot (animais multicoloridos), Budwin (máscaras e capacetes), Smoggy3D (crochê) e outros.",
+    "category": "Coisas úteis para imprimir",
+    "tags": ["MakerWorld", "modelos grátis", "criadores", "multipartes"],
+    "keywords": ["onde baixar stl", "makerworld", "mix n bits", "dano98", "pokemon", "breaking bad", "dragon ball", "modelos gratis", "perfis para seguir"]
+  },
+  "instagram_DczbWgcutWK": {
+    "title": "Letreiro de quarto de criança aceso com 3 pilhas",
+    "summary": "O letreiro mais pedido, para quarto de criança, agora sem fio nem tomada: aceso com três pilhas, feito no fatiador. É a aula 11 do curso de letreiros.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "LED", "pilha", "quarto infantil"],
+    "keywords": ["letreiro a pilha", "sem tomada", "sem fio", "led a pilha", "nome de crianca", "quarto de bebe", "curso"]
+  },
+  "instagram_Dc4OtE9ORDN": {
+    "title": "Marcas no topo da transição de cor: conchas de interface",
+    "summary": "As marcas vêm do bico mudando de direção na camada de transição. Desative \"apenas uma parede nas superfícies superiores\" (aba qualidade) e ative as conchas de interface (aba força, modo desenvolvedor) para a camada ficar lisa.",
+    "category": "Acabamento e qualidade",
+    "tags": ["interface shells", "camada de topo", "troca de cor", "Bambu Studio"],
+    "keywords": ["interface shells", "conchas de interface", "marcas no topo", "only one wall on top surfaces", "transicao de cor", "modo desenvolvedor"]
+  },
+  "instagram_Dc_sLcDMLVH": {
+    "title": "Resina UV para esconder marcas do topo",
+    "summary": "Algumas gotas de resina UV espalhadas com pincel de ponta de silicone disfarçam as marcas da superfície e valorizam a peça. Com luz UV, ela endurece em uns 5 minutos.",
+    "category": "Acabamento e qualidade",
+    "tags": ["resina UV", "pós-processamento", "camada de topo"],
+    "keywords": ["resina uv", "resina", "acabamento", "brilho", "esconder marcas", "pos processamento", "pincel de silicone"]
+  },
+  "instagram_DdChsGBBA26": {
+    "title": "5 cores na Snapmaker U1 (4 extrusoras)",
+    "summary": "No Dragonite, o bege some depois do pescoço, então o preto usa o mesmo slot: duas pausas no fatiador para trocar bege por preto e depois voltar. Na impressora, basta descarregar e carregar o filamento durante a pausa.",
+    "category": "Multicor e purga",
+    "tags": ["Snapmaker U1", "5 cores", "pausa", "multicolor"],
+    "keywords": ["mais de 4 cores", "5 cores", "trocar filamento", "pausa", "dragonite", "pokemon", "mesmo slot"]
+  },
+  "instagram_DdFFE42zPax": {
+    "title": "Bambu Studio: padrão da camada abaixo do topo (baixo relevo)",
+    "summary": "Uma atualização permite escolher o padrão da camada logo abaixo da superfície superior (aba força, avançado). O monotônico já melhora as marcas de peças com baixo relevo, e no teste dele a linha monotônica ficou um pouco melhor. Reduzir a velocidade do topo ajuda.",
+    "category": "Acabamento e qualidade",
+    "tags": ["camada de topo", "baixo relevo", "Bambu Studio", "atualização"],
+    "keywords": ["sub surface", "subsuperficie", "monotonic", "monotonic line", "marcas no topo", "baixo relevo", "pla silk", "update"]
+  },
+  "instagram_DdHtNSEB5DZ": {
+    "title": "Trava de carretel para o AMS Lite",
+    "summary": "Uma trava impressa (no MakerWorld) que impede o carretel de cair do AMS Lite durante a impressão, útil para carretéis mais largos e suportes verticais que balançam.",
+    "category": "Manutenção e upgrades",
+    "tags": ["AMS Lite", "acessório", "carretel"],
+    "keywords": ["ams lite", "trava", "spool lock", "carretel caindo", "acessorio a1"]
+  },
+  "instagram_DdSFgfVBIxr": {
+    "title": "Encaixes perfeitos com compensação de furo e de contorno",
+    "summary": "Com um cubo e um anel, ele mostra a lógica: na peça que encaixa, aumente o furo (perímetro interno) e diminua o contorno (perímetro externo) no plano XY, normalmente entre 0,1 e 0,2 mm. O passo a passo do letreiro está no canal dele no YouTube.",
+    "category": "Calibração e configurações",
+    "tags": ["tolerância", "encaixe", "compensação XY", "letreiro"],
+    "keywords": ["xy hole compensation", "xy contour compensation", "folga", "encaixe", "tolerancia", "ore e confie", "youtube"]
+  },
+  "instagram_DdXOuUoPozc": {
+    "title": "As configurações de suporte preferidas dele",
+    "summary": "Distância Z superior de 0,04 mm acima da altura de camada, 4 camadas de interface, espaçamento de 0,1 a 0,2 mm e interface mais lenta para esfriar melhor. Testado na Kobra X. Mesmo assim, o melhor é escolher modelos bem orientados.",
+    "category": "Suportes",
+    "tags": ["distância Z", "interface de suporte", "configurações"],
+    "keywords": ["support settings", "top z distance", "interface layers", "interface spacing", "suporte facil de remover", "kobra x"]
+  },
+  "instagram_DdcXn9st894": {
+    "day": 274,
+    "title": "Bico raspando no preenchimento",
+    "summary": "Em preenchimentos que se cruzam na mesma camada (como o cúbico), o bico raspa, principalmente em peças altas com camada fina. Troque para giroide e desative \"reduzir retração no preenchimento\" (aba Outros) para o bico levantar nos deslocamentos.",
+    "category": "Problemas e soluções",
+    "tags": ["bico raspando", "preenchimento", "giroide", "retração"],
+    "keywords": ["nozzle scraping", "barulho do bico", "infill cruzado", "cubico", "gyroid", "reduce infill retraction", "colisao"]
+  },
+  "instagram_DdkB9V1pl_R": {
+    "title": "PETG na interface do suporte: zere a distância Z",
+    "summary": "Com PETG na interface, ele esqueceu de zerar a distância Z e uma ilha se soltou no meio da impressão. Zere a distância Z e o espaçamento da interface superior: o Bambu Studio faz isso sozinho, o Snapmaker Orca não.",
+    "category": "Suportes",
+    "tags": ["interface de suporte", "PETG", "distância Z", "Snapmaker Orca"],
+    "keywords": ["support interface petg", "petg no pla", "distancia z zero", "ilha soltou", "snapmaker orca", "multimaterial"]
+  },
+  "instagram_Ddmzd82O5nx": {
+    "title": "Troféu feito com IA e o fatiador (200 mil seguidores)",
+    "summary": "Imagem do topo gerada no ChatGPT, transformada em peça colorida pelo gerador de chaveiros do MakerLab, cada cor numa placa com compensação XY para encaixar, e a base feita no próprio fatiador. O passo a passo está no YouTube dele.",
+    "category": "Personalização no fatiador",
+    "tags": ["troféu", "inteligência artificial", "MakerLab", "sem modelagem"],
+    "keywords": ["trofeu", "ia", "chatgpt", "image to 3d", "makerlab", "200 mil seguidores", "compensacao xy", "youtube"]
+  },
+  "instagram_DdpQgb_Bl4L": {
+    "day": 277,
+    "title": "Peças arrancadas da mesa? Aumente o Z-hop",
+    "summary": "Os mini Jesus impressos de ponta-cabeça quebravam no pescoço: o bico batia nas peças durante os deslocamentos. Ele desativou \"reduzir retração no preenchimento\" e aumentou o Z-hop no perfil do filamento (de 0,4 para 0,8 mm), e o problema sumiu na Kobra X.",
+    "category": "Problemas e soluções",
+    "tags": ["Z-hop", "peça soltou", "Anycubic Kobra X"],
+    "keywords": ["z hop", "peca arrancada", "bico batendo na peca", "descolou", "kobra x", "anycubic", "varias pecas na mesa", "pescoco quebrou"]
+  },
+  "instagram_DduUbxVhdiG": {
+    "title": "Letreiro de Natal criado em menos de 10 minutos",
+    "summary": "Um letreiro de Natal criado no fatiador em menos de 10 minutos, boa ideia para vender na época. Criar o próprio modelo evita disputar cliente com quem baixou o mesmo arquivo. O tutorial está no YouTube dele.",
+    "category": "Personalização no fatiador",
+    "tags": ["letreiro", "Natal", "vender", "sem modelagem"],
+    "keywords": ["natal", "letreiro natalino", "decoracao de natal", "vender no natal", "youtube", "tutorial"]
+  },
+  "instagram_Dd7RS6Osu6d": {
+    "title": "Por que ele quase nunca calibra filamento",
+    "summary": "Nas impressoras atuais, calibrar não é ritual obrigatório: ele usa filamento seco, perfil genérico (ou o da marca da impressora), velocidades e acelerações conservadoras e o perfil 0,16 High Quality. Calibra quando há problema, em peças de superfícies planas ou em produção na mesma máquina.",
+    "category": "Calibração e configurações",
+    "tags": ["calibração", "perfil genérico", "filamento seco", "0.16 High Quality"],
+    "keywords": ["calibrar filamento", "precisa calibrar", "perfil generico", "configuracao conservadora", "filament calibration", "multfila", "panchroma"]
+  },
+  "instagram_DeAbgfHAa0Z": {
+    "title": "Mestre Splinter com sombreado de dual color (sem pintura)",
+    "summary": "Pela primeira vez ele usou filamento dual color na pele de um personagem: o PLA fosco vermelho e preto, com as cores divididas no fio, criou um sombreado parecido com dry brush de miniatura. O vermelho puxa para o marrom.",
+    "category": "Filamentos",
+    "tags": ["dual color", "action figure", "PLA fosco", "sem pintura"],
+    "keywords": ["mestre splinter", "splinter", "tartarugas ninja", "tmnt", "bicolor", "dual color", "sombreado", "dry brush", "multfila"]
+  }
+}

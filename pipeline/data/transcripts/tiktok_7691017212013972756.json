@@ -1,0 +1,67 @@
+{
+  "text": "Uma impressora de 4 cores por R$3.269,00. Bem-vindo ao dia 261. Muita gente me pede conteúdo da N-Cubic e eu não tinha nenhuma máquina dele. Essa Cobra X aqui é a primeira e o que mais me interessou nela foi o preço. Máquina barata compensa se ela entregar, agora vamos testar ela. A montagem dela é extremamente simples, agora vamos para algumas características. De fábrica e sem nenhum acessório adicional, ela já vem com suporte para 4 cores e ela faz a troca automaticamente. E se você quiser mais cores, cada módulo esse soma mais 4 até 19. O tamanho da mesa é bem semelhante da 1. E já vem com bico de aço endurecido de fábrica, que nessa faixa de preço não é tão comum. Agora eu vou começar os meus testes e não vou recomendar nada ainda. Mas se você já pesquisou essa máquina e tá de olho nela Eu tenho um link com desconto mais um cupom de 100 reais Comenta a cobra aqui embaixo que eu te mando E pra ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 11.4,
+      "text": "Uma impressora de 4 cores por R$3.269,00. Bem-vindo ao dia 261. Muita gente me pede conteúdo da N-Cubic e eu não tinha nenhuma máquina dele."
+    },
+    {
+      "start": 11.5,
+      "end": 20.2,
+      "text": "Essa Cobra X aqui é a primeira e o que mais me interessou nela foi o preço. Máquina barata compensa se ela entregar, agora vamos testar ela."
+    },
+    {
+      "start": 20.2,
+      "end": 32.7,
+      "text": "A montagem dela é extremamente simples, agora vamos para algumas características."
+    },
+    {
+      "start": 32.7,
+      "end": 39.7,
+      "text": "De fábrica e sem nenhum acessório adicional, ela já vem com suporte para 4 cores e ela faz a troca automaticamente."
+    },
+    {
+      "start": 40.4,
+      "end": 45.1,
+      "text": "E se você quiser mais cores, cada módulo esse soma mais 4 até 19."
+    },
+    {
+      "start": 45.2,
+      "end": 47.4,
+      "text": "O tamanho da mesa é bem semelhante da 1."
+    },
+    {
+      "start": 47.5,
+      "end": 52.5,
+      "text": "E já vem com bico de aço endurecido de fábrica, que nessa faixa de preço não é tão comum."
+    },
+    {
+      "start": 52.8,
+      "end": 56.7,
+      "text": "Agora eu vou começar os meus testes e não vou recomendar nada ainda."
+    },
+    {
+      "start": 56.7,
+      "end": 60.7,
+      "text": "Mas se você já pesquisou essa máquina e tá de olho nela"
+    },
+    {
+      "start": 60.7,
+      "end": 64.3,
+      "text": "Eu tenho um link com desconto mais um cupom de 100 reais"
+    },
+    {
+      "start": 64.3,
+      "end": 66.6,
+      "text": "Comenta a cobra aqui embaixo que eu te mando"
+    },
+    {
+      "start": 66.6,
+      "end": 69.5,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 69.6,
+  "model": "large-v3-turbo"
+}

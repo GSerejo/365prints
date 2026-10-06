@@ -1,0 +1,92 @@
+{
+  "text": "Como melhorar essas marcas do topo ajustando duas configurações? Bem-vindo ao dia 267. Essas marcas ocorrem devido a mudança na direção do bico na interface de transição. No fatiador a gente nota que as camadas anteriores e a interface se preparam para receber a parte branca. E esses buracos de preenchimento fazem com que o bico mude de direção diversas vezes na última camada em rosa. Para resolver isso vamos na aba qualidade. Lá embaixo vamos alterar para não aplicado apenas uma parede nas superfícies superiores. E na aba força vamos ativar o Conscious Interface O interface Shells em inglês Agora não temos mais aqueles buracos E a camada da interface está lisinha Se o Conscious Interface não aparecer aí Vai lá em Preferências e em Outros E habilite o modo desenvolvimento O problema é resolvido E se você gostar dessa dica Me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.9,
+      "text": "Como melhorar essas marcas do topo ajustando duas configurações?"
+    },
+    {
+      "start": 4.1,
+      "end": 6.3,
+      "text": "Bem-vindo ao dia 267."
+    },
+    {
+      "start": 6.3,
+      "end": 11.0,
+      "text": "Essas marcas ocorrem devido a mudança na direção do bico na interface de transição."
+    },
+    {
+      "start": 11.1,
+      "end": 16.6,
+      "text": "No fatiador a gente nota que as camadas anteriores e a interface se preparam para receber a parte branca."
+    },
+    {
+      "start": 16.6,
+      "end": 22.6,
+      "text": "E esses buracos de preenchimento fazem com que o bico mude de direção diversas vezes na última camada em rosa."
+    },
+    {
+      "start": 22.6,
+      "end": 24.5,
+      "text": "Para resolver isso vamos na aba qualidade."
+    },
+    {
+      "start": 24.5,
+      "end": 29.6,
+      "text": "Lá embaixo vamos alterar para não aplicado apenas uma parede nas superfícies superiores."
+    },
+    {
+      "start": 29.6,
+      "end": 32.6,
+      "text": "E na aba força vamos ativar o Conscious Interface"
+    },
+    {
+      "start": 32.6,
+      "end": 34.3,
+      "text": "O interface Shells em inglês"
+    },
+    {
+      "start": 34.3,
+      "end": 36.5,
+      "text": "Agora não temos mais aqueles buracos"
+    },
+    {
+      "start": 36.5,
+      "end": 38.8,
+      "text": "E a camada da interface está lisinha"
+    },
+    {
+      "start": 38.8,
+      "end": 40.8,
+      "text": "Se o Conscious Interface não aparecer aí"
+    },
+    {
+      "start": 40.8,
+      "end": 42.9,
+      "text": "Vai lá em Preferências e em Outros"
+    },
+    {
+      "start": 42.9,
+      "end": 45.0,
+      "text": "E habilite o modo desenvolvimento"
+    },
+    {
+      "start": 45.0,
+      "end": 46.0,
+      "text": "O problema é resolvido"
+    },
+    {
+      "start": 46.0,
+      "end": 47.5,
+      "text": "E se você gostar dessa dica"
+    },
+    {
+      "start": 47.5,
+      "end": 49.9,
+      "text": "Me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 50.2,
+  "model": "large-v3-turbo"
+}

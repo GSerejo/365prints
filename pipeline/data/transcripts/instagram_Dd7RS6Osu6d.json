@@ -1,0 +1,142 @@
+{
+  "text": "A calibração de filamentos é sempre necessária? Na maioria dos meus projetos eu não calibro. E olha só meus resultados. Bem-vindo ao dia 280. Na minha opinião, calibração de filamento nas impressoras atuais não é um ritual obrigatório. Eu faço só quando eu tenho algum problema. E eu falo isso com a experiência de que todos os personagens que eu já imprimi nesse perfil E vocês conhecem a qualidade, eu não calibrei nenhum filamento Utilizando apenas o perfil genérico Filamento seco e acelerações e velocidades mais conservadoras é o meu setup principal Normalmente eu gosto muito de utilizar o perfil 0.16 High Quality A utilização de bons filamentos também é fundamental Como vocês já sabem, eu utilizo muito aqui o Multifila A linha Pan Croma da Polymaker Bambu Lab e também tem outros, como Sanlu, Esan e Flashforge. E tem outra coisa, essas peças são multipartes e eu imprimo em várias impressoras. Imagina eu calibrar o filamento para toda impressora. Normalmente eu utilizo o perfil genérico ou o perfil da própria impressora para imprimir qualquer filamento. E isso é um fato. No N-Cube Slicer eu utilizo, por exemplo, o perfil da própria N-Cube para imprimir qualquer outro filamento. Que eu acho que ele está bem otimizado. Mas calma, eu não tô falando pra não calibrar. Em algumas peças com superfície plana, geometrias bem definidas, paredes retas, a calibração talvez seja necessária. Ou em outros casos, se eu tô fazendo uma peça em grande quantidade na mesma impressora, aí sim eu acho que compensa. Mas pra personagens ou peças mais orgânicas, eu prefiro ser mais rápido e prático e utilizar o perfil genérico que eu tenho resultados bem satisfatórios. E você, calibra o filamento todo antes de qualquer impressão ou só quando tem um problema? Me conta aí. E para ter conteúdo 3D todos os dias, é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.3,
+      "text": "A calibração de filamentos é sempre necessária? Na maioria dos meus projetos eu não calibro. E olha só meus resultados."
+    },
+    {
+      "start": 9.6,
+      "end": 17.8,
+      "text": "Bem-vindo ao dia 280. Na minha opinião, calibração de filamento nas impressoras atuais não é um ritual obrigatório."
+    },
+    {
+      "start": 17.9,
+      "end": 25.9,
+      "text": "Eu faço só quando eu tenho algum problema. E eu falo isso com a experiência de que todos os personagens que eu já imprimi nesse perfil"
+    },
+    {
+      "start": 25.9,
+      "end": 30.8,
+      "text": "E vocês conhecem a qualidade, eu não calibrei nenhum filamento"
+    },
+    {
+      "start": 30.8,
+      "end": 33.4,
+      "text": "Utilizando apenas o perfil genérico"
+    },
+    {
+      "start": 33.4,
+      "end": 41.9,
+      "text": "Filamento seco e acelerações e velocidades mais conservadoras é o meu setup principal"
+    },
+    {
+      "start": 41.9,
+      "end": 46.9,
+      "text": "Normalmente eu gosto muito de utilizar o perfil 0.16 High Quality"
+    },
+    {
+      "start": 46.9,
+      "end": 50.4,
+      "text": "A utilização de bons filamentos também é fundamental"
+    },
+    {
+      "start": 50.4,
+      "end": 54.2,
+      "text": "Como vocês já sabem, eu utilizo muito aqui o Multifila"
+    },
+    {
+      "start": 54.2,
+      "end": 56.6,
+      "text": "A linha Pan Croma da Polymaker"
+    },
+    {
+      "start": 56.6,
+      "end": 61.6,
+      "text": "Bambu Lab e também tem outros, como Sanlu, Esan e Flashforge."
+    },
+    {
+      "start": 61.7,
+      "end": 66.3,
+      "text": "E tem outra coisa, essas peças são multipartes e eu imprimo em várias impressoras."
+    },
+    {
+      "start": 66.4,
+      "end": 69.4,
+      "text": "Imagina eu calibrar o filamento para toda impressora."
+    },
+    {
+      "start": 69.6,
+      "end": 75.6,
+      "text": "Normalmente eu utilizo o perfil genérico ou o perfil da própria impressora para imprimir qualquer filamento."
+    },
+    {
+      "start": 75.8,
+      "end": 76.7,
+      "text": "E isso é um fato."
+    },
+    {
+      "start": 76.8,
+      "end": 83.3,
+      "text": "No N-Cube Slicer eu utilizo, por exemplo, o perfil da própria N-Cube para imprimir qualquer outro filamento."
+    },
+    {
+      "start": 83.4,
+      "end": 84.8,
+      "text": "Que eu acho que ele está bem otimizado."
+    },
+    {
+      "start": 84.8,
+      "end": 87.8,
+      "text": "Mas calma, eu não tô falando pra não calibrar."
+    },
+    {
+      "start": 87.9,
+      "end": 93.7,
+      "text": "Em algumas peças com superfície plana, geometrias bem definidas, paredes retas,"
+    },
+    {
+      "start": 94.0,
+      "end": 96.8,
+      "text": "a calibração talvez seja necessária."
+    },
+    {
+      "start": 96.9,
+      "end": 102.5,
+      "text": "Ou em outros casos, se eu tô fazendo uma peça em grande quantidade na mesma impressora,"
+    },
+    {
+      "start": 102.5,
+      "end": 104.4,
+      "text": "aí sim eu acho que compensa."
+    },
+    {
+      "start": 104.4,
+      "end": 109.9,
+      "text": "Mas pra personagens ou peças mais orgânicas, eu prefiro ser mais rápido e prático"
+    },
+    {
+      "start": 109.9,
+      "end": 114.3,
+      "text": "e utilizar o perfil genérico que eu tenho resultados bem satisfatórios."
+    },
+    {
+      "start": 114.3,
+      "end": 119.8,
+      "text": "E você, calibra o filamento todo antes de qualquer impressão ou só quando tem um problema?"
+    },
+    {
+      "start": 119.9,
+      "end": 120.9,
+      "text": "Me conta aí."
+    },
+    {
+      "start": 121.0,
+      "end": 124.2,
+      "text": "E para ter conteúdo 3D todos os dias, é só me seguir."
+    }
+  ],
+  "duration": 124.5,
+  "model": "large-v3-turbo"
+}

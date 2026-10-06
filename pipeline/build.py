@@ -16,7 +16,7 @@ from pathlib import Path
 
 from PIL import Image
 
-from match import SERIES_INTRO_RE, same_video, series_day
+from match import SERIES_INTRO_RE, same_video, series_day, spoken_day
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -88,6 +88,7 @@ def load_sources(enriched: dict[str, dict]) -> list[dict]:
         if candidates:
             twin = min(candidates, key=lambda e: abs(e["timestamp"] - reel["timestamp"]))
             twin["links"]["instagram"] = reel["webpage_url"]
+            twin["ig_caption"] = reel["caption"]
             # Data de publicação = a primeira das duas redes (o TikTok costuma vir semanas depois).
             twin["published"] = min(twin.get("published", twin["timestamp"]), reel["timestamp"])
             if len(clean_caption(reel["caption"])) > len(clean_caption(twin["caption"])):
@@ -180,10 +181,40 @@ def build_video(entry: dict, enriched: dict, used_slugs: set[str]) -> dict:
     }
 
 
+def check_pairs(entries: list[dict], enriched: dict[str, dict]) -> list[str]:
+    """Avisa quando o dia falado no vídeo do TikTok não bate com o dia da legenda do Instagram.
+
+    A legenda às vezes traz o número errado; quando isso acontece o par automático pode juntar
+    vídeos diferentes. Pares definidos à mão ("instagram" na descrição) não são checados.
+    """
+    def spoken(entry):
+        transcript = read_json(DATA / "transcripts" / f"{entry['key']}.json", {"text": ""})
+        return spoken_day(transcript["text"])
+
+    warnings = []
+    only_instagram = {series_day(e["caption"]): e for e in entries if e["key"].startswith("instagram_")}
+    for entry in entries:
+        info = enriched.get(entry["key"], {})
+        if info.get("hidden") or info.get("instagram") or not entry["key"].startswith("tiktok_"):
+            continue
+        day = spoken(entry)
+        if day is None:
+            continue
+        if "instagram" in entry["links"]:
+            ig_day = series_day(entry.get("ig_caption"))
+            if ig_day is not None and ig_day != day:
+                warnings.append(f"{entry['key']}: fala 'dia {day}', mas o par do Instagram é o dia {ig_day} ({entry['links']['instagram']})")
+        elif day in only_instagram:
+            warnings.append(f"{entry['key']}: fala 'dia {day}' e não tem par; o Instagram tem o dia {day} sozinho ({only_instagram[day]['key']})")
+    return warnings
+
+
 def main() -> None:
     used_slugs: set[str] = set()
     enriched = load_enriched()
     entries = sorted(load_sources(enriched), key=lambda e: e["timestamp"])
+    for warning in check_pairs(entries, enriched):
+        print("ATENÇÃO, possível par errado:", warning)
     videos = [
         build_video(e, enriched.get(e["key"], {}), used_slugs)
         for e in entries

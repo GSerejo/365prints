@@ -1,0 +1,72 @@
+{
+  "text": "PETG na interface do suporte pode ser um problema se não configurado direito. Bem-vindo ao dia 235. Todo mundo sabe que PLA não adere ao PETG e utilizá-lo na interface do suporte ajuda muito na remoção dele. Olha como a interface sai facinho. Eu acabei esquecendo de zerar a distância Z e essa ilha se desprendeu durante a impressão. Portanto, quando utilizarem PETG na interface do suporte, não se esqueçam de zerar a distância Z. E também o espaçamento da interface superior Dessa forma criamos uma cama de patch G na interface E o PLA é impresso em cima dela Essas mudanças no Bombu Studio são feitas de forma automática Quando você escolhe patch G na interface Mas infelizmente no Snapmaker Orca não Se vocês gostaram desse vídeo, me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.6,
+      "text": "PETG na interface do suporte pode ser um problema se não configurado direito."
+    },
+    {
+      "start": 4.8,
+      "end": 7.0,
+      "text": "Bem-vindo ao dia 235."
+    },
+    {
+      "start": 7.2,
+      "end": 14.8,
+      "text": "Todo mundo sabe que PLA não adere ao PETG e utilizá-lo na interface do suporte ajuda muito na remoção dele."
+    },
+    {
+      "start": 14.8,
+      "end": 17.0,
+      "text": "Olha como a interface sai facinho."
+    },
+    {
+      "start": 17.2,
+      "end": 22.6,
+      "text": "Eu acabei esquecendo de zerar a distância Z e essa ilha se desprendeu durante a impressão."
+    },
+    {
+      "start": 22.7,
+      "end": 28.6,
+      "text": "Portanto, quando utilizarem PETG na interface do suporte, não se esqueçam de zerar a distância Z."
+    },
+    {
+      "start": 28.6,
+      "end": 31.5,
+      "text": "E também o espaçamento da interface superior"
+    },
+    {
+      "start": 31.5,
+      "end": 34.7,
+      "text": "Dessa forma criamos uma cama de patch G na interface"
+    },
+    {
+      "start": 34.7,
+      "end": 37.3,
+      "text": "E o PLA é impresso em cima dela"
+    },
+    {
+      "start": 37.3,
+      "end": 40.9,
+      "text": "Essas mudanças no Bombu Studio são feitas de forma automática"
+    },
+    {
+      "start": 40.9,
+      "end": 42.9,
+      "text": "Quando você escolhe patch G na interface"
+    },
+    {
+      "start": 42.9,
+      "end": 45.6,
+      "text": "Mas infelizmente no Snapmaker Orca não"
+    },
+    {
+      "start": 45.6,
+      "end": 49.7,
+      "text": "Se vocês gostaram desse vídeo, me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 50.0,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,67 @@
+{
+  "text": "Como utilizar outro filamento no preenchimento? Bem-vindo ao dia 262! Primeiro eu fatiei com o mesmo filamento, no perfil de 0.16 high quality, 3 voltas de parede e 8% de preenchimento. E isso resultou num gasto de 638 gramas, mas eu tinha menos da metade do rolo. Pra economizar o amarelo, eu fui lá na aba Objetos e com o busto selecionado eu vou em Multimaterial e mudo o preenchimento pra utilizar o preto. Isso me economizou cerca de 300 gramas do amarelo. E sim, aumentou o gasto total de filamento, principalmente por causa da toa de purga. E tivemos um acréscimo no tempo em 17%, mas o objetivo foi concluído. Dá pra economizar um pouquinho mais alterando o filamento do suporte. Mas lembrando que isso só é útil para impressoras de múltiplos bicos, como a Snapmaker U1, a Creator 5 ou até a H2C. No RoboStudio esse recurso fica na aba Outros. E pra ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.3,
+      "text": "Como utilizar outro filamento no preenchimento? Bem-vindo ao dia 262!"
+    },
+    {
+      "start": 5.5,
+      "end": 13.5,
+      "text": "Primeiro eu fatiei com o mesmo filamento, no perfil de 0.16 high quality, 3 voltas de parede e 8% de preenchimento."
+    },
+    {
+      "start": 13.6,
+      "end": 18.9,
+      "text": "E isso resultou num gasto de 638 gramas, mas eu tinha menos da metade do rolo."
+    },
+    {
+      "start": 19.2,
+      "end": 27.9,
+      "text": "Pra economizar o amarelo, eu fui lá na aba Objetos e com o busto selecionado eu vou em Multimaterial e mudo o preenchimento pra utilizar o preto."
+    },
+    {
+      "start": 27.9,
+      "end": 31.2,
+      "text": "Isso me economizou cerca de 300 gramas do amarelo."
+    },
+    {
+      "start": 31.2,
+      "end": 35.4,
+      "text": "E sim, aumentou o gasto total de filamento, principalmente por causa da toa de purga."
+    },
+    {
+      "start": 35.4,
+      "end": 40.2,
+      "text": "E tivemos um acréscimo no tempo em 17%, mas o objetivo foi concluído."
+    },
+    {
+      "start": 40.2,
+      "end": 43.5,
+      "text": "Dá pra economizar um pouquinho mais alterando o filamento do suporte."
+    },
+    {
+      "start": 43.6,
+      "end": 47.5,
+      "text": "Mas lembrando que isso só é útil para impressoras de múltiplos bicos,"
+    },
+    {
+      "start": 47.7,
+      "end": 51.3,
+      "text": "como a Snapmaker U1, a Creator 5 ou até a H2C."
+    },
+    {
+      "start": 51.3,
+      "end": 53.8,
+      "text": "No RoboStudio esse recurso fica na aba Outros."
+    },
+    {
+      "start": 53.9,
+      "end": 56.7,
+      "text": "E pra ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 57.0,
+  "model": "large-v3-turbo"
+}

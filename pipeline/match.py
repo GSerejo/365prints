@@ -7,6 +7,11 @@ from difflib import SequenceMatcher
 
 # "Dia 12 de 365", "dia 12/365" e erros de digitação como "de 364".
 DAY_RE = re.compile(r"\bdia\s*(\d{1,3})\s*(?:de|/)\s*36\d", re.IGNORECASE)
+# Como o criador anuncia o dia na fala ("Bem-vindo ao dia 261", "Hoje é o dia 67", "Dia 1 de 365").
+SPOKEN_DAY_RE = re.compile(
+    r"(?:bem[- ]vindos? ao|hoje (?:é|e) o|ess?e (?:é|e) o|este (?:é|e) o)\s+dia\s*(\d{1,3})\b|\bdia\s*(\d{1,3})\s*,?\s*de\s*36\d",
+    re.IGNORECASE,
+)
 # Qualquer "dia 12" solto (usado só como confirmação quando a outra rede tem o número).
 LOOSE_DAY_RE = re.compile(r"\bdia\s*(\d{1,3})\b", re.IGNORECASE)
 # A frase padrão do quadro, inclusive com erros ("Dia 249 de 35 i…").
@@ -19,6 +24,12 @@ MAX_DAYS_APART = 60
 def series_day(caption: str | None) -> int | None:
     match = DAY_RE.search(caption or "")
     return int(match.group(1)) if match else None
+
+
+def spoken_day(transcript: str | None) -> int | None:
+    """Dia anunciado na fala do vídeo (mais confiável que a legenda, que às vezes vem errada)."""
+    match = SPOKEN_DAY_RE.search((transcript or "")[:400])
+    return int(match.group(1) or match.group(2)) if match else None
 
 
 def loose_day(caption: str | None) -> int | None:

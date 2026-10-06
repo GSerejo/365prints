@@ -1,0 +1,287 @@
+{
+  "text": "Como fazer encaixes perfeitos direto no fatiador. Bem-vindo ao dia 272. Para vocês entenderem de uma vez por todas o problema dos encaixes, eu vou dar um exemplo aqui bem básico de um cubo com encaixe para esse anel aqui. As dimensões desse encaixe tem as mesmas dimensões do anel. E o plástico sofre alguma deformação, principalmente ele encolhe. Então a gente tem que criar uma tolerância para que a gente consiga encaixar as peças E isso é o mesmo nesta situação ou mesmo nesta situação aqui Então a gente vai deixar isso aqui como está Isso aqui representa o nosso ore E a gente vai mexer nesta peça aqui Então para encaixar essa peça aqui A gente tem que empurrar esse perímetro nessa direção E esse perímetro externo a gente tem que diminuir para essa direção Tem que deixar esse anel um pouco mais fino Então o perímetro interno a gente vai aumentar um pouco E o perímetro externo a gente vai diminuir Então a gente vai selecionar este anel Se você estiver na aba global, a gente vem em objetos Seleciona ele aqui, vai lá na aba qualidade e vem na compensação O furo é o perímetro interno e o contorno é o nosso perímetro externo Então aqui normalmente vocês utilizam de 0,1 até 0,2, eu vou utilizar 1 a 2 para vocês entenderem. E o perímetro externo, o contorno, a gente vai utilizar menos 2, porque a gente quer diminuir ele. Lembrando que essas compensações são no plano XY. vendo de cima a gente vai diminuir o perímetro externo e a gente vai aumentar o perímetro interno para a gente encaixar isso aqui aqui depois da impressão então eu vou fatiar e se vocês olharem no fatiador verifique o original é aqui aumentei a compensação de furo então aumentei o perímetro interno, diminuir o perímetro externo, por isso negativo aqui, e com certeza eu conseguiria encaixar isso aqui, só que isso aqui é muito, por isso a gente utiliza de 0,1 até 0,2, lembrando que eu estou falando da peça que a gente vai encaixar na outra, então aqui eu colocaria menos 0,2 e aqui mais, Ou sem nada, 0,2 E a gente vai verificar que a compensação é bem menor E aqui na letra a gente tem o contorno E também nós temos os furos O furo do F, o furo do O, o furo do E Que serão encaixados Eu vou utilizar como exemplo essa aqui que é melhor Nessas partes aqui de encaixe Então eu preciso nesta letra aqui Diminuir o contorno E aumentar os furos para a gente conseguir encaixar aqui Então basicamente eu seleciono isso aqui E faço o mesmo processo que eu fiz no anel Seleciono aqui na aba objetos O Econfie Desço aqui na compensação E aqui eu vou aumentar o furo positivamente De 0.1 até 0.2 E aqui na compensação eu vou de Menos 0.1 até menos 0.2 Só no Econfie Esse ajuste de encaixe é só uma parte do processo. E o passo a passo de como fazer esse letreiro do zero é meu primeiro vídeo no YouTube. É meu novo canal que tá começando agora e lá eu vou conseguir gravar tutoriais mais completos. Se você chegou até aqui, o link tá lá na bio e eu gostaria de ver você por lá também. E você já sabe, pra ter conteúdo 3D todos os dias, é só me seguir aqui e agora no YouTube.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.4,
+      "text": "Como fazer encaixes perfeitos direto no fatiador."
+    },
+    {
+      "start": 3.7,
+      "end": 5.9,
+      "text": "Bem-vindo ao dia 272."
+    },
+    {
+      "start": 6.2,
+      "end": 10.0,
+      "text": "Para vocês entenderem de uma vez por todas o problema dos encaixes,"
+    },
+    {
+      "start": 10.3,
+      "end": 15.4,
+      "text": "eu vou dar um exemplo aqui bem básico de um cubo com encaixe para esse anel aqui."
+    },
+    {
+      "start": 15.5,
+      "end": 20.2,
+      "text": "As dimensões desse encaixe tem as mesmas dimensões do anel."
+    },
+    {
+      "start": 20.3,
+      "end": 24.8,
+      "text": "E o plástico sofre alguma deformação, principalmente ele encolhe."
+    },
+    {
+      "start": 24.8,
+      "end": 30.1,
+      "text": "Então a gente tem que criar uma tolerância para que a gente consiga encaixar as peças"
+    },
+    {
+      "start": 30.1,
+      "end": 35.6,
+      "text": "E isso é o mesmo nesta situação ou mesmo nesta situação aqui"
+    },
+    {
+      "start": 35.6,
+      "end": 38.1,
+      "text": "Então a gente vai deixar isso aqui como está"
+    },
+    {
+      "start": 38.1,
+      "end": 41.0,
+      "text": "Isso aqui representa o nosso ore"
+    },
+    {
+      "start": 41.0,
+      "end": 44.0,
+      "text": "E a gente vai mexer nesta peça aqui"
+    },
+    {
+      "start": 44.0,
+      "end": 46.6,
+      "text": "Então para encaixar essa peça aqui"
+    },
+    {
+      "start": 46.6,
+      "end": 50.0,
+      "text": "A gente tem que empurrar esse perímetro nessa direção"
+    },
+    {
+      "start": 50.0,
+      "end": 54.6,
+      "text": "E esse perímetro externo a gente tem que diminuir para essa direção"
+    },
+    {
+      "start": 54.6,
+      "end": 56.7,
+      "text": "Tem que deixar esse anel um pouco mais fino"
+    },
+    {
+      "start": 56.7,
+      "end": 61.1,
+      "text": "Então o perímetro interno a gente vai aumentar um pouco"
+    },
+    {
+      "start": 61.1,
+      "end": 64.6,
+      "text": "E o perímetro externo a gente vai diminuir"
+    },
+    {
+      "start": 64.6,
+      "end": 67.5,
+      "text": "Então a gente vai selecionar este anel"
+    },
+    {
+      "start": 67.5,
+      "end": 70.0,
+      "text": "Se você estiver na aba global, a gente vem em objetos"
+    },
+    {
+      "start": 70.0,
+      "end": 74.9,
+      "text": "Seleciona ele aqui, vai lá na aba qualidade e vem na compensação"
+    },
+    {
+      "start": 74.9,
+      "end": 81.2,
+      "text": "O furo é o perímetro interno e o contorno é o nosso perímetro externo"
+    },
+    {
+      "start": 81.2,
+      "end": 90.3,
+      "text": "Então aqui normalmente vocês utilizam de 0,1 até 0,2, eu vou utilizar 1 a 2 para vocês entenderem."
+    },
+    {
+      "start": 90.4,
+      "end": 98.2,
+      "text": "E o perímetro externo, o contorno, a gente vai utilizar menos 2, porque a gente quer diminuir ele."
+    },
+    {
+      "start": 98.5,
+      "end": 102.6,
+      "text": "Lembrando que essas compensações são no plano XY."
+    },
+    {
+      "start": 102.6,
+      "end": 109.4,
+      "text": "vendo de cima a gente vai diminuir o perímetro externo e a gente vai aumentar o perímetro interno"
+    },
+    {
+      "start": 109.4,
+      "end": 117.8,
+      "text": "para a gente encaixar isso aqui aqui depois da impressão então eu vou fatiar e se vocês olharem"
+    },
+    {
+      "start": 117.8,
+      "end": 126.2,
+      "text": "no fatiador verifique o original é aqui aumentei a compensação de furo então aumentei o perímetro"
+    },
+    {
+      "start": 126.2,
+      "end": 133.7,
+      "text": "interno, diminuir o perímetro externo, por isso negativo aqui, e com certeza eu conseguiria encaixar"
+    },
+    {
+      "start": 133.7,
+      "end": 142.5,
+      "text": "isso aqui, só que isso aqui é muito, por isso a gente utiliza de 0,1 até 0,2, lembrando que eu estou"
+    },
+    {
+      "start": 142.5,
+      "end": 151.2,
+      "text": "falando da peça que a gente vai encaixar na outra, então aqui eu colocaria menos 0,2 e aqui mais,"
+    },
+    {
+      "start": 151.2,
+      "end": 153.9,
+      "text": "Ou sem nada, 0,2"
+    },
+    {
+      "start": 153.9,
+      "end": 159.9,
+      "text": "E a gente vai verificar que a compensação é bem menor"
+    },
+    {
+      "start": 159.9,
+      "end": 164.2,
+      "text": "E aqui na letra a gente tem o contorno"
+    },
+    {
+      "start": 164.2,
+      "end": 166.6,
+      "text": "E também nós temos os furos"
+    },
+    {
+      "start": 166.6,
+      "end": 170.0,
+      "text": "O furo do F, o furo do O, o furo do E"
+    },
+    {
+      "start": 170.0,
+      "end": 171.7,
+      "text": "Que serão encaixados"
+    },
+    {
+      "start": 171.7,
+      "end": 173.6,
+      "text": "Eu vou utilizar como exemplo essa aqui que é melhor"
+    },
+    {
+      "start": 173.6,
+      "end": 175.6,
+      "text": "Nessas partes aqui de encaixe"
+    },
+    {
+      "start": 175.6,
+      "end": 178.6,
+      "text": "Então eu preciso nesta letra aqui"
+    },
+    {
+      "start": 178.6,
+      "end": 180.6,
+      "text": "Diminuir o contorno"
+    },
+    {
+      "start": 180.6,
+      "end": 186.4,
+      "text": "E aumentar os furos para a gente conseguir encaixar aqui"
+    },
+    {
+      "start": 186.4,
+      "end": 188.8,
+      "text": "Então basicamente eu seleciono isso aqui"
+    },
+    {
+      "start": 188.8,
+      "end": 191.5,
+      "text": "E faço o mesmo processo que eu fiz no anel"
+    },
+    {
+      "start": 191.5,
+      "end": 193.2,
+      "text": "Seleciono aqui na aba objetos"
+    },
+    {
+      "start": 193.2,
+      "end": 194.1,
+      "text": "O Econfie"
+    },
+    {
+      "start": 194.1,
+      "end": 195.8,
+      "text": "Desço aqui na compensação"
+    },
+    {
+      "start": 195.8,
+      "end": 199.9,
+      "text": "E aqui eu vou aumentar o furo positivamente"
+    },
+    {
+      "start": 199.9,
+      "end": 203.2,
+      "text": "De 0.1 até 0.2"
+    },
+    {
+      "start": 203.2,
+      "end": 205.8,
+      "text": "E aqui na compensação eu vou de"
+    },
+    {
+      "start": 205.8,
+      "end": 208.9,
+      "text": "Menos 0.1 até menos 0.2"
+    },
+    {
+      "start": 208.9,
+      "end": 210.6,
+      "text": "Só no Econfie"
+    },
+    {
+      "start": 210.6,
+      "end": 213.8,
+      "text": "Esse ajuste de encaixe é só uma parte do processo."
+    },
+    {
+      "start": 213.9,
+      "end": 218.9,
+      "text": "E o passo a passo de como fazer esse letreiro do zero é meu primeiro vídeo no YouTube."
+    },
+    {
+      "start": 219.1,
+      "end": 224.1,
+      "text": "É meu novo canal que tá começando agora e lá eu vou conseguir gravar tutoriais mais completos."
+    },
+    {
+      "start": 224.2,
+      "end": 229.0,
+      "text": "Se você chegou até aqui, o link tá lá na bio e eu gostaria de ver você por lá também."
+    },
+    {
+      "start": 229.2,
+      "end": 235.1,
+      "text": "E você já sabe, pra ter conteúdo 3D todos os dias, é só me seguir aqui e agora no YouTube."
+    }
+  ],
+  "duration": 235.6,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,97 @@
+{
+  "text": "Esse troféu aqui eu fiz com IA e utilizando apenas o fatiador. Bem-vindo ao dia 276. Daqui a pouquinho eu vou te mostrar o passo a passo de como fazer esse troféu. Mas antes, meu muito obrigado, essa marca só é possível graças a você. Primeiro você precisa gerar essa imagem do topo e eu utilizei o chat EPT. O prompt eu já te passo, aguarde um pouquinho. Depois a gente vai utilizar a imagem para chaveiro do Maker Lab para transformar essa imagem num STL ou num 3MF colorido. Agora aqui dentro do fatiador esse troféu está dividido em vários objetos, ou seja, várias partes. Cada parte é uma cor e a gente vai dividir essas cores em cada placa. Agora é só aplicar as compensações de X e Y nas peças que vão encaixar na base do troféu, naquela parte de cima preta. E só faltou agora fazer a base E eu fiz toda ela aqui dentro do fatiador mesmo Passou tudo muito rápido, né? Calma! Tudo isso tem no meu segundo vídeo lá na outra rede E o link tá na bio E pra ter conteúdo 3D todos os dias Não esquece de me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.8,
+      "text": "Esse troféu aqui eu fiz com IA e utilizando apenas o fatiador."
+    },
+    {
+      "start": 5.0,
+      "end": 7.1,
+      "text": "Bem-vindo ao dia 276."
+    },
+    {
+      "start": 7.3,
+      "end": 11.6,
+      "text": "Daqui a pouquinho eu vou te mostrar o passo a passo de como fazer esse troféu."
+    },
+    {
+      "start": 11.9,
+      "end": 16.9,
+      "text": "Mas antes, meu muito obrigado, essa marca só é possível graças a você."
+    },
+    {
+      "start": 16.9,
+      "end": 21.9,
+      "text": "Primeiro você precisa gerar essa imagem do topo e eu utilizei o chat EPT."
+    },
+    {
+      "start": 22.2,
+      "end": 24.4,
+      "text": "O prompt eu já te passo, aguarde um pouquinho."
+    },
+    {
+      "start": 24.4,
+      "end": 32.4,
+      "text": "Depois a gente vai utilizar a imagem para chaveiro do Maker Lab para transformar essa imagem num STL ou num 3MF colorido."
+    },
+    {
+      "start": 32.4,
+      "end": 38.7,
+      "text": "Agora aqui dentro do fatiador esse troféu está dividido em vários objetos, ou seja, várias partes."
+    },
+    {
+      "start": 38.9,
+      "end": 43.4,
+      "text": "Cada parte é uma cor e a gente vai dividir essas cores em cada placa."
+    },
+    {
+      "start": 43.5,
+      "end": 51.3,
+      "text": "Agora é só aplicar as compensações de X e Y nas peças que vão encaixar na base do troféu, naquela parte de cima preta."
+    },
+    {
+      "start": 51.3,
+      "end": 53.3,
+      "text": "E só faltou agora fazer a base"
+    },
+    {
+      "start": 53.3,
+      "end": 55.8,
+      "text": "E eu fiz toda ela aqui dentro do fatiador mesmo"
+    },
+    {
+      "start": 55.8,
+      "end": 57.4,
+      "text": "Passou tudo muito rápido, né?"
+    },
+    {
+      "start": 57.7,
+      "end": 58.2,
+      "text": "Calma!"
+    },
+    {
+      "start": 58.6,
+      "end": 61.6,
+      "text": "Tudo isso tem no meu segundo vídeo lá na outra rede"
+    },
+    {
+      "start": 61.6,
+      "end": 63.0,
+      "text": "E o link tá na bio"
+    },
+    {
+      "start": 63.0,
+      "end": 64.9,
+      "text": "E pra ter conteúdo 3D todos os dias"
+    },
+    {
+      "start": 64.9,
+      "end": 66.7,
+      "text": "Não esquece de me seguir"
+    }
+  ],
+  "duration": 66.9,
+  "model": "large-v3-turbo"
+}

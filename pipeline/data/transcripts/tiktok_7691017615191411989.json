@@ -1,0 +1,197 @@
+{
+  "text": "Como resolver essa linha de deformação na base mudando a geometria direto no fatiador? Bem-vindo ao dia 263. Olha a barriga que ficou aqui embaixo. Essa parede deveria ser reta. A marca está na altura onde esse anel de dentro termina. Ali a camada quase fecha inteira e tem muito mais plástico. Demora muito mais para ficar pronta e quando esfria, contrai e puxa a parede de fora junto. Isso aparece no preview de tempo de camada. Repare essa faixa na base, com o tempo completamente diferente do resto da peça. É ali que o problema acontece. Mais material na base significa mais massa e mais calor depositado ali. Quando esfria, a contração é maior e a base puxa a parede externa. E para amenizar, a melhor forma é mudar a geometria colocando um chanfro interno. Com o chanfro, o mesmo material entra aos poucos. A contração continua, mas agora é mais homogênea. E o mais divertido é que vamos pôr o chanfro direto no fatiador. Primeiro, botão direito, adicionar primitivo e cilindro Agora com a ferramenta escala, redimensionamos o cilindro para 50 em X, 50 em Y e 6 em Z Agora botão direito no cilindro, adicionar uma peça e cone Botão direito apenas no cone e centro Com o cone ainda selecionado, ferramenta escala, 50 em X, 50 em Y e 25 de altura Com a altura na metade do diâmetro, a inclinação fica em 45 graus Agora eu seleciono as duas peças que estão mescladas e vou aplicar uma operação boleana de diferença É o cilindro menos o cone e executar. Agora vamos rotacionar essa peça em 180 graus em Y. E como vocês podem observar, o nosso chanfro está pronto. Agora precisamos posicioná-lo em cima da base. Com a ferramenta medida, clicamos em cima da base e depois na parte inferior. E são 6 milímetros. Com o Ctrl, selecionamos a peça e depois o chanfro, botão direito e mesclar. Agora com o botão direito, vamos centralizar cada uma das peças. Apenas com o chanfro selecionado, vamos movê-lo em Z mais 6mm, que é a altura da base. Eu poderia ter medido, mas com a ferramenta escala eu redimensionei o chanfro agora no olho mesmo. Reparem que a peça não é um cilindro reto, então eu preciso afundar um pouco o chanfro na parede. Vou selecionar novamente só o chanfro, ferramenta escala e vou aumentá-lo um pouquinho mais. Perfeito, agora é só mudar a cor e fatiar para vocês verem. E olha aí o preview de tempo de camada, a transição é muito mais homogênea. Esse é o antes e o depois e não se esquece de me seguir para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.6,
+      "text": "Como resolver essa linha de deformação na base mudando a geometria direto no fatiador?"
+    },
+    {
+      "start": 5.9,
+      "end": 8.1,
+      "text": "Bem-vindo ao dia 263."
+    },
+    {
+      "start": 8.3,
+      "end": 10.1,
+      "text": "Olha a barriga que ficou aqui embaixo."
+    },
+    {
+      "start": 10.2,
+      "end": 11.7,
+      "text": "Essa parede deveria ser reta."
+    },
+    {
+      "start": 11.7,
+      "end": 15.0,
+      "text": "A marca está na altura onde esse anel de dentro termina."
+    },
+    {
+      "start": 15.4,
+      "end": 18.5,
+      "text": "Ali a camada quase fecha inteira e tem muito mais plástico."
+    },
+    {
+      "start": 18.6,
+      "end": 24.0,
+      "text": "Demora muito mais para ficar pronta e quando esfria, contrai e puxa a parede de fora junto."
+    },
+    {
+      "start": 24.1,
+      "end": 26.4,
+      "text": "Isso aparece no preview de tempo de camada."
+    },
+    {
+      "start": 26.4,
+      "end": 31.3,
+      "text": "Repare essa faixa na base, com o tempo completamente diferente do resto da peça."
+    },
+    {
+      "start": 31.4,
+      "end": 33.0,
+      "text": "É ali que o problema acontece."
+    },
+    {
+      "start": 33.2,
+      "end": 37.5,
+      "text": "Mais material na base significa mais massa e mais calor depositado ali."
+    },
+    {
+      "start": 37.5,
+      "end": 41.3,
+      "text": "Quando esfria, a contração é maior e a base puxa a parede externa."
+    },
+    {
+      "start": 41.3,
+      "end": 45.4,
+      "text": "E para amenizar, a melhor forma é mudar a geometria colocando um chanfro interno."
+    },
+    {
+      "start": 45.5,
+      "end": 48.0,
+      "text": "Com o chanfro, o mesmo material entra aos poucos."
+    },
+    {
+      "start": 48.1,
+      "end": 51.1,
+      "text": "A contração continua, mas agora é mais homogênea."
+    },
+    {
+      "start": 51.3,
+      "end": 54.9,
+      "text": "E o mais divertido é que vamos pôr o chanfro direto no fatiador."
+    },
+    {
+      "start": 54.9,
+      "end": 58.2,
+      "text": "Primeiro, botão direito, adicionar primitivo e cilindro"
+    },
+    {
+      "start": 58.2,
+      "end": 63.9,
+      "text": "Agora com a ferramenta escala, redimensionamos o cilindro para 50 em X, 50 em Y e 6 em Z"
+    },
+    {
+      "start": 63.9,
+      "end": 67.6,
+      "text": "Agora botão direito no cilindro, adicionar uma peça e cone"
+    },
+    {
+      "start": 67.6,
+      "end": 69.6,
+      "text": "Botão direito apenas no cone e centro"
+    },
+    {
+      "start": 69.6,
+      "end": 76.0,
+      "text": "Com o cone ainda selecionado, ferramenta escala, 50 em X, 50 em Y e 25 de altura"
+    },
+    {
+      "start": 76.0,
+      "end": 79.5,
+      "text": "Com a altura na metade do diâmetro, a inclinação fica em 45 graus"
+    },
+    {
+      "start": 79.5,
+      "end": 84.6,
+      "text": "Agora eu seleciono as duas peças que estão mescladas e vou aplicar uma operação boleana de diferença"
+    },
+    {
+      "start": 84.6,
+      "end": 86.8,
+      "text": "É o cilindro menos o cone e executar."
+    },
+    {
+      "start": 86.8,
+      "end": 90.0,
+      "text": "Agora vamos rotacionar essa peça em 180 graus em Y."
+    },
+    {
+      "start": 90.2,
+      "end": 93.3,
+      "text": "E como vocês podem observar, o nosso chanfro está pronto."
+    },
+    {
+      "start": 93.4,
+      "end": 96.7,
+      "text": "Agora precisamos posicioná-lo em cima da base."
+    },
+    {
+      "start": 96.8,
+      "end": 100.2,
+      "text": "Com a ferramenta medida, clicamos em cima da base e depois na parte inferior."
+    },
+    {
+      "start": 100.4,
+      "end": 101.6,
+      "text": "E são 6 milímetros."
+    },
+    {
+      "start": 101.8,
+      "end": 106.2,
+      "text": "Com o Ctrl, selecionamos a peça e depois o chanfro, botão direito e mesclar."
+    },
+    {
+      "start": 106.3,
+      "end": 109.7,
+      "text": "Agora com o botão direito, vamos centralizar cada uma das peças."
+    },
+    {
+      "start": 109.7,
+      "end": 115.2,
+      "text": "Apenas com o chanfro selecionado, vamos movê-lo em Z mais 6mm, que é a altura da base."
+    },
+    {
+      "start": 115.3,
+      "end": 120.0,
+      "text": "Eu poderia ter medido, mas com a ferramenta escala eu redimensionei o chanfro agora no olho mesmo."
+    },
+    {
+      "start": 120.1,
+      "end": 124.9,
+      "text": "Reparem que a peça não é um cilindro reto, então eu preciso afundar um pouco o chanfro na parede."
+    },
+    {
+      "start": 124.9,
+      "end": 130.1,
+      "text": "Vou selecionar novamente só o chanfro, ferramenta escala e vou aumentá-lo um pouquinho mais."
+    },
+    {
+      "start": 130.4,
+      "end": 133.7,
+      "text": "Perfeito, agora é só mudar a cor e fatiar para vocês verem."
+    },
+    {
+      "start": 133.8,
+      "end": 138.8,
+      "text": "E olha aí o preview de tempo de camada, a transição é muito mais homogênea."
+    },
+    {
+      "start": 138.8,
+      "end": 143.4,
+      "text": "Esse é o antes e o depois e não se esquece de me seguir para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 143.6,
+  "model": "large-v3-turbo"
+}

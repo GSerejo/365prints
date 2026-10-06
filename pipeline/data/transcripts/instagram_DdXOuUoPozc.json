@@ -1,0 +1,52 @@
+{
+  "text": "Minhas configurações preferidas de suportes. Bem-vindo ao dia 273. Não tem jeito, suportes deixam marcas. Por isso, eu gosto de utilizar um equilíbrio para facilitar a retirada, principalmente nessas regiões de encaixe. Eu testei as configurações na Cobra X e saiu fácil. Distância Z superior 0,04 milímetros maior que a altura de camada, que é 0,20 nesse caso. 4 camadas na interface do suporte. E o espaçamento da interface eu utilizo 0,1 ou 0,2. E por último eu diminuo a velocidade da impressão da interface para ter mais esfriamento e essa camada solidificar mais fácil. Os detalhes dessa configuração estão no dia 160. Mas lembre-se, a melhor maneira de evitar as marcas é escolher modelos com boas orientações para impressão ou até mesmo suportes nas regiões de encaixe. Se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 14.2,
+      "text": "Minhas configurações preferidas de suportes. Bem-vindo ao dia 273. Não tem jeito, suportes deixam marcas. Por isso, eu gosto de utilizar um equilíbrio para facilitar a retirada, principalmente nessas regiões de encaixe."
+    },
+    {
+      "start": 14.2,
+      "end": 17.4,
+      "text": "Eu testei as configurações na Cobra X e saiu fácil."
+    },
+    {
+      "start": 17.5,
+      "end": 24.3,
+      "text": "Distância Z superior 0,04 milímetros maior que a altura de camada, que é 0,20 nesse caso."
+    },
+    {
+      "start": 24.4,
+      "end": 26.6,
+      "text": "4 camadas na interface do suporte."
+    },
+    {
+      "start": 26.7,
+      "end": 30.8,
+      "text": "E o espaçamento da interface eu utilizo 0,1 ou 0,2."
+    },
+    {
+      "start": 31.0,
+      "end": 37.6,
+      "text": "E por último eu diminuo a velocidade da impressão da interface para ter mais esfriamento e essa camada solidificar mais fácil."
+    },
+    {
+      "start": 37.6,
+      "end": 40.4,
+      "text": "Os detalhes dessa configuração estão no dia 160."
+    },
+    {
+      "start": 40.4,
+      "end": 48.0,
+      "text": "Mas lembre-se, a melhor maneira de evitar as marcas é escolher modelos com boas orientações para impressão ou até mesmo suportes nas regiões de encaixe."
+    },
+    {
+      "start": 48.1,
+      "end": 52.0,
+      "text": "Se você gostou desse vídeo, me siga para ter conteúdo 3D todos os dias."
+    }
+  ],
+  "duration": 52.4,
+  "model": "large-v3-turbo"
+}

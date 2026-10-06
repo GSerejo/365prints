@@ -1,0 +1,37 @@
+{
+  "text": "Esse letreiro levou menos de 10 minutos para ser criado e pode ser uma ótima ideia para quem quer vender no Natal. Bem-vindo ao dia 279. Criando seu próprio modelo você não disputa cliente com quem baixou o mesmo arquivo. E eu te ensino a fazer esse modelo de graça no meu primeiro tutorial no YouTube. E no meu curso de letreiros eu te ensino outros modelos para ter um catálogo completo de personalizados. É só digitar eu quero nos comentários que eu te mando o link.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Esse letreiro levou menos de 10 minutos para ser criado e pode ser uma ótima ideia para quem quer vender no Natal."
+    },
+    {
+      "start": 5.9,
+      "end": 7.9,
+      "text": "Bem-vindo ao dia 279."
+    },
+    {
+      "start": 8.0,
+      "end": 12.9,
+      "text": "Criando seu próprio modelo você não disputa cliente com quem baixou o mesmo arquivo."
+    },
+    {
+      "start": 13.0,
+      "end": 17.0,
+      "text": "E eu te ensino a fazer esse modelo de graça no meu primeiro tutorial no YouTube."
+    },
+    {
+      "start": 17.2,
+      "end": 23.0,
+      "text": "E no meu curso de letreiros eu te ensino outros modelos para ter um catálogo completo de personalizados."
+    },
+    {
+      "start": 23.1,
+      "end": 25.6,
+      "text": "É só digitar eu quero nos comentários que eu te mando o link."
+    }
+  ],
+  "duration": 25.8,
+  "model": "large-v3-turbo"
+}

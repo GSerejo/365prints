@@ -1,0 +1,77 @@
+{
+  "text": "5 materiais diferentes por 4 meses no tempo. Bem-vindo ao dia 181 e eu deixei esses 5 barquinhos todos brancos pegando sol e chuva por 4 meses. O objetivo era ver qual deles sobrevive ao tempo. Primeiro o resultado do PLA e esse surpreendeu, ele ficou levemente amarelo e não amoleceu. Agora vamos para o PETG que originalmente é o material mais branco. E pra mim ele foi o herói, as mudanças são quase imperceptíveis. Em contrapartida, o ABS foi o que mais amarelou. E o motivo é químico, o butadieno na sua fórmula frita com os aios UVs. O AS é uma atualização do ABS e ele nasceu pra isso. No sol por quatro meses ele até limpou aquele tom amarelado original e ficou brancão. É o rei do outdoor. E o mais caro, o policarbonato, não sofreu mudança significativa nesses quatro meses. E é claro que o branco absorve menos calor, mas eu escolhi por ser a única cor que eu tinha em todos os materiais da mesma marca. Agora todos voltaram para o sol e o teste vai continuar.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.6,
+      "text": "5 materiais diferentes por 4 meses no tempo."
+    },
+    {
+      "start": 3.8,
+      "end": 10.9,
+      "text": "Bem-vindo ao dia 181 e eu deixei esses 5 barquinhos todos brancos pegando sol e chuva por 4 meses."
+    },
+    {
+      "start": 11.1,
+      "end": 13.8,
+      "text": "O objetivo era ver qual deles sobrevive ao tempo."
+    },
+    {
+      "start": 13.9,
+      "end": 20.0,
+      "text": "Primeiro o resultado do PLA e esse surpreendeu, ele ficou levemente amarelo e não amoleceu."
+    },
+    {
+      "start": 20.1,
+      "end": 23.8,
+      "text": "Agora vamos para o PETG que originalmente é o material mais branco."
+    },
+    {
+      "start": 23.8,
+      "end": 27.6,
+      "text": "E pra mim ele foi o herói, as mudanças são quase imperceptíveis."
+    },
+    {
+      "start": 27.6,
+      "end": 30.6,
+      "text": "Em contrapartida, o ABS foi o que mais amarelou."
+    },
+    {
+      "start": 30.9,
+      "end": 35.3,
+      "text": "E o motivo é químico, o butadieno na sua fórmula frita com os aios UVs."
+    },
+    {
+      "start": 35.4,
+      "end": 38.7,
+      "text": "O AS é uma atualização do ABS e ele nasceu pra isso."
+    },
+    {
+      "start": 38.8,
+      "end": 44.1,
+      "text": "No sol por quatro meses ele até limpou aquele tom amarelado original e ficou brancão."
+    },
+    {
+      "start": 44.3,
+      "end": 45.3,
+      "text": "É o rei do outdoor."
+    },
+    {
+      "start": 45.6,
+      "end": 50.5,
+      "text": "E o mais caro, o policarbonato, não sofreu mudança significativa nesses quatro meses."
+    },
+    {
+      "start": 50.6,
+      "end": 57.3,
+      "text": "E é claro que o branco absorve menos calor, mas eu escolhi por ser a única cor que eu tinha em todos os materiais da mesma marca."
+    },
+    {
+      "start": 57.3,
+      "end": 60.5,
+      "text": "Agora todos voltaram para o sol e o teste vai continuar."
+    }
+  ],
+  "duration": 61.1,
+  "model": "large-v3-turbo"
+}

@@ -1,0 +1,77 @@
+{
+  "text": "Nova atualização minimiza essas marcas no topo quando sua peça tem baixo relevo. Bem-vindo ao dia 270. A nova atualização do Bambu Studio traz um parâmetro novo, que é a possibilidade de trocar o padrão de preenchimento uma camada anterior da superfície de topo. E segundo a própria Wiki, esse padrão como monotônico melhora o acabamento do topo. Para visualizar melhor, eu imprimi em PLA Silk antes da atualização e realmente está com bastante marcas. Depois de atualizado, o parâmetro aparece lá na aba força, lá embaixo no avançado. E por padrão já está em monotônico a subsuperfície Além do monotônico eu testei a linha monotônica e vamos aos resultados Essa aqui é impressão padrão antes da atualização Essa é após a atualização com padrão monotônico no subtopo E por último meu teste com a linha monotônica no subtopo E na minha opinião esse último teve um resultado ligeiramente melhor Esse é o antes e depois e lembre-se para o melhor resultado diminui a velocidade no topo também E para ter conteúdo 3D todos os dias é só me seguir",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.7,
+      "text": "Nova atualização minimiza essas marcas no topo quando sua peça tem baixo relevo."
+    },
+    {
+      "start": 4.8,
+      "end": 6.4,
+      "text": "Bem-vindo ao dia 270."
+    },
+    {
+      "start": 6.6,
+      "end": 15.2,
+      "text": "A nova atualização do Bambu Studio traz um parâmetro novo, que é a possibilidade de trocar o padrão de preenchimento uma camada anterior da superfície de topo."
+    },
+    {
+      "start": 15.3,
+      "end": 19.7,
+      "text": "E segundo a própria Wiki, esse padrão como monotônico melhora o acabamento do topo."
+    },
+    {
+      "start": 19.8,
+      "end": 25.5,
+      "text": "Para visualizar melhor, eu imprimi em PLA Silk antes da atualização e realmente está com bastante marcas."
+    },
+    {
+      "start": 25.5,
+      "end": 29.8,
+      "text": "Depois de atualizado, o parâmetro aparece lá na aba força, lá embaixo no avançado."
+    },
+    {
+      "start": 29.8,
+      "end": 33.2,
+      "text": "E por padrão já está em monotônico a subsuperfície"
+    },
+    {
+      "start": 33.2,
+      "end": 36.9,
+      "text": "Além do monotônico eu testei a linha monotônica e vamos aos resultados"
+    },
+    {
+      "start": 36.9,
+      "end": 39.6,
+      "text": "Essa aqui é impressão padrão antes da atualização"
+    },
+    {
+      "start": 39.6,
+      "end": 43.3,
+      "text": "Essa é após a atualização com padrão monotônico no subtopo"
+    },
+    {
+      "start": 43.3,
+      "end": 46.8,
+      "text": "E por último meu teste com a linha monotônica no subtopo"
+    },
+    {
+      "start": 46.8,
+      "end": 50.6,
+      "text": "E na minha opinião esse último teve um resultado ligeiramente melhor"
+    },
+    {
+      "start": 50.6,
+      "end": 55.5,
+      "text": "Esse é o antes e depois e lembre-se para o melhor resultado diminui a velocidade no topo também"
+    },
+    {
+      "start": 55.5,
+      "end": 58.4,
+      "text": "E para ter conteúdo 3D todos os dias é só me seguir"
+    }
+  ],
+  "duration": 58.5,
+  "model": "large-v3-turbo"
+}

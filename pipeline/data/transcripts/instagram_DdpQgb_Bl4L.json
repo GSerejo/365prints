@@ -1,0 +1,57 @@
+{
+  "text": "Lavei a placa, passei até cola e mesmo assim a impressora tá arrancando meus mini Jesus. Veja o que resolveu. Bem-vindo ao dia 277. Se você olhar nessa imagem, provavelmente em algum deslocamento, o bico tá raspando na peça e ela tá quebrando na região mais frágil, que é o pescoço. As linhas em azul é o deslocamento do bico durante a impressão e tem muitas. Então a primeira coisa para resolver é ir lá na aba Outros e certificar-se que o reduzir retração durante o preenchimento está desabilitado. Agora vamos editar o filamento e na terceira aba vamos aumentar os erros. Ou seja, quando o bico retrair e se deslocar para outro ponto, ele levanta mais e não esbarra na peça. Isso resolveu o meu problema na Cobra X e tem link dela com desconto na bio. Os filamentos utilizados nesse projeto são da Multifila e para ter conteúdo 3D todos os dias é só me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.2,
+      "text": "Lavei a placa, passei até cola e mesmo assim a impressora tá arrancando meus mini Jesus."
+    },
+    {
+      "start": 6.5,
+      "end": 7.6,
+      "text": "Veja o que resolveu."
+    },
+    {
+      "start": 7.8,
+      "end": 10.0,
+      "text": "Bem-vindo ao dia 277."
+    },
+    {
+      "start": 10.1,
+      "end": 20.0,
+      "text": "Se você olhar nessa imagem, provavelmente em algum deslocamento, o bico tá raspando na peça e ela tá quebrando na região mais frágil, que é o pescoço."
+    },
+    {
+      "start": 20.1,
+      "end": 24.0,
+      "text": "As linhas em azul é o deslocamento do bico durante a impressão e tem muitas."
+    },
+    {
+      "start": 24.0,
+      "end": 31.0,
+      "text": "Então a primeira coisa para resolver é ir lá na aba Outros e certificar-se que o reduzir retração durante o preenchimento está desabilitado."
+    },
+    {
+      "start": 31.6,
+      "end": 36.2,
+      "text": "Agora vamos editar o filamento e na terceira aba vamos aumentar os erros."
+    },
+    {
+      "start": 36.2,
+      "end": 42.5,
+      "text": "Ou seja, quando o bico retrair e se deslocar para outro ponto, ele levanta mais e não esbarra na peça."
+    },
+    {
+      "start": 42.6,
+      "end": 46.3,
+      "text": "Isso resolveu o meu problema na Cobra X e tem link dela com desconto na bio."
+    },
+    {
+      "start": 46.4,
+      "end": 52.2,
+      "text": "Os filamentos utilizados nesse projeto são da Multifila e para ter conteúdo 3D todos os dias é só me seguir."
+    }
+  ],
+  "duration": 52.8,
+  "model": "large-v3-turbo"
+}
