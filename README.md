@@ -1,13 +1,26 @@
 # 365prints
 
+![365prints e unipedia3D](web/src/app/opengraph-image.png)
+
 Índice pesquisável dos vídeos do quadro "365 dias de impressão 3D" do [@unipedia3d](https://www.instagram.com/unipedia3d/). Projeto de fã, sem fins lucrativos: o site mostra título, resumo, transcrição e links; os vídeos continuam no TikTok e no Instagram.
+
+**Site:** https://365prints.vercel.app
+
+## Como funciona
+
+- **Busca pelo que é falado:** cada vídeo é transcrito localmente com Whisper, e a busca (no navegador, com MiniSearch) procura no título, nas tags, na legenda e na fala, aceitando erros de digitação. O resultado mostra o trecho em que o assunto aparece.
+- **TikTok + Instagram juntos:** o pipeline coleta as duas redes e junta o mesmo vídeo pelo número do dia e pela legenda. Uma checagem compara o dia falado no vídeo com a legenda para pegar números errados.
+- **Descrições:** título, resumo, categoria e palavras-chave escritos a partir da transcrição, em lotes revisáveis (`pipeline/data/enriched/`).
+- **Métricas:** eventos anônimos no PostHog (buscas, buscas sem resultado, vídeos abertos, cliques por rede) e um painel `/admin` protegido por senha.
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 · Python · yt-dlp · instaloader · faster-whisper · PostHog · Vercel
 
 - `web/`: o site (Next.js). É a única parte que vai para a Vercel.
 - `pipeline/`: scripts que rodam no seu computador para coletar, transcrever e gerar os dados do site.
 
 ## Publicar (primeira vez)
 
-1. **GitHub:** crie um repositório **privado** e envie este projeto (`git push`).
+1. **GitHub:** envie este projeto para um repositório (`git push`).
 2. **PostHog** (grátis, posthog.com): crie a conta e o projeto e anote:
    - a chave do projeto (`phc_…`), em *Settings → Project → Project API key*;
    - o ID do projeto (o número na URL, `/project/12345`);
