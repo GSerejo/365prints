@@ -19,6 +19,15 @@ const nextConfig: NextConfig = {
       },
     ];
   },
+  // A busca morava na página inicial: links antigos (/?q=…) continuam funcionando.
+  async redirects() {
+    return ["q", "categoria"].map((key) => ({
+      source: "/",
+      has: [{ type: "query" as const, key }],
+      destination: "/videos",
+      permanent: false,
+    }));
+  },
   skipTrailingSlashRedirect: true,
 };
 

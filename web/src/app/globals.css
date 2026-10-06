@@ -11,6 +11,7 @@
   --accent-soft: #fff0e6;
   --highlight: #fde68a;
   --danger: #c0362c;
+  --brand: #ff751f;
 
   /* Gráficos do painel (paleta validada contra --surface nos dois temas) */
   --series-1: #2a78d6;
@@ -56,6 +57,7 @@
   --color-accent-soft: var(--accent-soft);
   --color-highlight: var(--highlight);
   --color-danger: var(--danger);
+  --color-brand: var(--brand);
   --color-series-1: var(--series-1);
   --color-series-2: var(--series-2);
   --color-series-3: var(--series-3);
@@ -65,6 +67,7 @@
   --color-delta-bad: var(--delta-bad);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-display: var(--font-montserrat);
 }
 
 body {
@@ -72,9 +75,122 @@ body {
   color: var(--ink);
 }
 
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border-radius: 999px;
+  padding: 0.45rem 0.75rem;
+  color: var(--muted);
+  transition: color 150ms, background-color 150ms;
+}
+.nav-link:hover {
+  color: var(--ink);
+  background: var(--accent-soft);
+}
+
 mark {
   background: var(--highlight);
   color: inherit;
   border-radius: 2px;
   padding: 0 1px;
+}
+
+/* Calendário dos 365 dias */
+.day-cell {
+  display: grid;
+  place-items: center;
+  aspect-ratio: 1;
+  border-radius: 4px;
+}
+.day-printed {
+  background-color: var(--brand);
+  /* Linhas de camada, como numa peça impressa */
+  background-image: repeating-linear-gradient(to bottom, transparent 0 3px, rgb(0 0 0 / 0.14) 3px 4px);
+}
+.day-number {
+  display: none;
+  font-family: var(--font-geist-mono);
+  font-size: 9px;
+  line-height: 1;
+}
+.day-printed .day-number {
+  color: rgb(48 18 0 / 0.75);
+}
+@media (min-width: 640px) {
+  .day-cell {
+    border-radius: 6px;
+  }
+}
+@media (min-width: 1024px) {
+  .day-number {
+    display: block;
+  }
+}
+
+/* Linha do tempo da impressora (input range) */
+.print-scrubber {
+  appearance: none;
+  width: 100%;
+  height: 28px;
+  background: transparent;
+  cursor: pointer;
+}
+.print-scrubber::-webkit-slider-runnable-track {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--track);
+}
+.print-scrubber::-moz-range-track {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--track);
+}
+.print-scrubber::-webkit-slider-thumb {
+  appearance: none;
+  width: 22px;
+  height: 22px;
+  margin-top: -7px;
+  border-radius: 999px;
+  background: #fff;
+  border: 5px solid var(--brand);
+  box-shadow: 0 0 0 6px rgb(255 117 31 / 0.25);
+}
+.print-scrubber::-moz-range-thumb {
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+  background: #fff;
+  border: 5px solid var(--brand);
+  box-shadow: 0 0 0 6px rgb(255 117 31 / 0.25);
+}
+.print-scrubber:focus-visible {
+  outline: 2px solid #ff9a5a;
+  outline-offset: 4px;
+  border-radius: 10px;
+}
+
+/* Fundo de "mesa de impressão": pontinhos */
+.plate-dots {
+  background-image: radial-gradient(var(--line) 1px, transparent 1.2px);
+  background-size: 18px 18px;
+}
+
+/* Desenho do espaguete na página 404 */
+@keyframes draw-line {
+  from {
+    stroke-dashoffset: 1;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.draw-line {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .draw-line {
+    animation: draw-line 3.2s cubic-bezier(0.45, 0, 0.25, 1) both;
+  }
 }

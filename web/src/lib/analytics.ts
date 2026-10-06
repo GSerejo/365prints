@@ -14,6 +14,7 @@ type Events = {
     source: "card" | "detail";
   };
   content_request: { text: string; query: string | null };
+  share: { video_id: string; method: "native" | "copy" };
 };
 
 export function track<E extends keyof Events>(event: E, properties: Events[E]) {

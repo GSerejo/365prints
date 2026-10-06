@@ -20,7 +20,7 @@ export function LoginForm() {
         autoComplete="current-password"
         required
         autoFocus
-        className="rounded-xl border border-line bg-surface px-3 py-2.5 outline-none focus:border-accent focus:ring-4 focus:ring-accent/15"
+        className="rounded-xl border border-line bg-bg px-3 py-2.5 outline-none focus:border-brand focus:ring-4 focus:ring-brand/20"
       />
       {state.error && (
         <p role="alert" className="text-sm text-danger">
@@ -30,7 +30,7 @@ export function LoginForm() {
       <button
         type="submit"
         disabled={pending}
-        className="mt-2 rounded-lg bg-accent px-4 py-2.5 text-sm font-semibold text-accent-ink hover:opacity-90 disabled:opacity-60"
+        className="mt-2 rounded-xl bg-ink px-4 py-2.5 text-sm font-semibold text-bg transition hover:bg-brand hover:text-white disabled:opacity-60"
       >
         {pending ? "Entrando…" : "Entrar"}
       </button>

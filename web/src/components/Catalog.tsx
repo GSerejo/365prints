@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { track } from "@/lib/analytics";
 import { createIndex, normalize, parseDayQuery, search, snippet } from "@/lib/search";
 import type { SearchableVideo } from "@/lib/videos";
+import { CategoryIcon } from "./CategoryIcon";
 import { ContentRequest } from "./ContentRequest";
 import { VideoCard, type Snippet } from "./VideoCard";
 
@@ -99,11 +100,15 @@ export function Catalog({
   return (
     <div className="mx-auto max-w-6xl px-4">
       <section className="py-8 sm:py-12">
-        <h1 className="text-balance text-3xl font-bold tracking-tight sm:text-4xl">
-          Ache o vídeo certo de <span className="text-accent">impressão 3D</span>
+        <p className="font-mono text-xs font-semibold uppercase tracking-[0.2em] text-accent">
+          {videos.length} vídeos · busca pela fala
+        </p>
+        <h1 className="mt-2 text-balance font-display text-3xl font-extrabold tracking-tight sm:text-5xl">
+          Todos os vídeos
         </h1>
-        <p className="mt-2 max-w-2xl text-pretty text-muted">
-          Todos os vídeos do quadro “365 dias de impressão 3D”, pesquisáveis pelo que é falado em cada um.
+        <p className="mt-3 max-w-2xl text-pretty text-muted">
+          Busque pelo que o Uni fala em cada vídeo do quadro “365 dias de impressão 3D”. Vale errar a digitação, e
+          também dá para buscar pelo número do dia (“dia 42”).
         </p>
 
         <label className="relative mt-6 block max-w-2xl">
@@ -121,7 +126,7 @@ export function Catalog({
             }}
             placeholder="Ex.: warping, placa PEI, multicor…"
             autoFocus
-            className="w-full rounded-2xl border border-line bg-surface py-4 pl-12 pr-4 text-base shadow-sm outline-none transition placeholder:text-muted focus:border-accent focus:ring-4 focus:ring-accent/15"
+            className="w-full rounded-2xl border border-line bg-surface py-4 pl-12 pr-4 text-base shadow-sm outline-none transition placeholder:text-muted focus:border-brand focus:ring-4 focus:ring-brand/20"
           />
         </label>
 
@@ -149,6 +154,7 @@ export function Catalog({
             </CategoryChip>
             {categories.map(([name, count]) => (
               <CategoryChip key={name} active={category === name} onClick={() => selectCategory(name)}>
+                <CategoryIcon category={name} className="size-4" />
                 {name} <span className="opacity-60">{count}</span>
               </CategoryChip>
             ))}
@@ -216,7 +222,7 @@ function CategoryChip({
     <button
       onClick={onClick}
       aria-pressed={active}
-      className={`shrink-0 rounded-full border px-3 py-1 text-sm transition ${
+      className={`inline-flex shrink-0 items-center gap-1.5 rounded-full border px-3 py-1 text-sm transition ${
         active ? "border-accent bg-accent text-accent-ink" : "border-line bg-surface hover:border-accent"
       }`}
     >

@@ -3,7 +3,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { track } from "@/lib/analytics";
-import { formatDuration, type SearchableVideo } from "@/lib/videos";
+import { formatDuration } from "@/lib/site";
+import type { SearchableVideo } from "@/lib/videos";
 import { WatchLinks } from "./WatchLinks";
 
 export type Snippet = { before: string; match: string; after: string } | null;
@@ -24,7 +25,7 @@ export function VideoCard({
         onClick={() => track("video_opened", { video_id: video.id, day: video.day, query: query || null })}
         className="flex flex-col"
       >
-        <div className="relative aspect-[9/16] overflow-hidden rounded-xl bg-line">
+        <div className="relative aspect-[9/16] overflow-hidden rounded-2xl bg-line ring-1 ring-black/5 transition duration-300 group-hover:-translate-y-1 group-hover:shadow-xl group-hover:shadow-brand/20 group-hover:ring-2 group-hover:ring-brand dark:ring-white/10">
           {video.thumbnail ? (
             <Image
               src={video.thumbnail}
@@ -34,12 +35,13 @@ export function VideoCard({
               className="object-cover transition duration-300 group-hover:scale-[1.03]"
             />
           ) : (
-            <span aria-hidden className="absolute inset-0 grid place-items-center bg-accent-soft text-4xl font-bold text-accent">
+            <span aria-hidden className="day-printed absolute inset-0 grid place-items-center font-display text-4xl font-extrabold text-white">
               {video.day ?? "365"}
             </span>
           )}
           {video.day && (
-            <span className="absolute left-2 top-2 rounded-full bg-black/70 px-2 py-0.5 text-xs font-semibold text-white backdrop-blur">
+            <span className="absolute left-2 top-2 inline-flex items-center gap-1.5 rounded-full bg-black/70 px-2 py-0.5 text-xs font-semibold text-white backdrop-blur">
+              <span aria-hidden className="size-1.5 rounded-full bg-brand" />
               Dia {video.day}
             </span>
           )}

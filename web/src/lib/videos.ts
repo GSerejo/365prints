@@ -42,6 +42,12 @@ export function getVideo(slug: string) {
   return videos.find((video) => video.slug === slug);
 }
 
+/** Dia anterior e próximo dia do quadro (ordem da série). */
+export function neighbors(video: Video) {
+  const index = videos.findIndex((other) => other.id === video.id);
+  return { older: videos[index + 1] ?? null, newer: index > 0 ? videos[index - 1] : null };
+}
+
 export function toSearchable(video: Video): SearchableVideo {
   const { segments, ...searchable } = video;
   return searchable;
@@ -61,15 +67,5 @@ export function relatedVideos(video: Video, limit = 4) {
     .map(({ other }) => other);
 }
 
-export function formatDuration(seconds: number) {
-  const m = Math.floor(seconds / 60);
-  const s = Math.round(seconds % 60);
-  return `${m}:${String(s).padStart(2, "0")}`;
-}
-
-export const SITE_NAME = "365prints";
-export const CREATOR = "@unipedia3d";
-export const CREATOR_LINKS = {
-  tiktok: "https://www.tiktok.com/@unipedia3d",
-  instagram: "https://www.instagram.com/unipedia3d/",
-};
+// Componentes do navegador importam estes de "@/lib/site", nunca daqui (aqui vem o videos.json inteiro).
+export { CREATOR, CREATOR_LINKS, formatDuration, SITE_NAME } from "./site";
