@@ -1,0 +1,62 @@
+{
+  "text": "Se as torres de purga estão caindo no meio da impressão, agora eu vou te dar duas dicas para deixar elas mais estáveis. E a última delas é se você mistura PLA com PETG. Bem-vindo ao dia 283. Em peças mais altas, com mais trocas de couro, uma torre fina pode ser bastante instável. E ela pode cair durante a impressão, principalmente nas impressoras multi-ferramentas. Então, para deixar a torre mais estável, a gente aumenta o volume de preparação, a largura de borda e também o chanfro que ela faz na borda. É claro que isso aumenta o consumo de filamento da torre, mas deixa ela mais estável para impressões longas e altas. E se você estiver utilizando PETG na interface, a torre pode misturar camadas de PLA e PETG e isso torna ela mais frágil ainda, já que ambos não se aderem. Nesses casos, na aba multimaterial, em torre de limpeza, escolha o filamento PLA. Dessa forma a parede da toy só vai ter um tipo de filamento E ela vai ficar mais estável E se vocês gostaram dessa dica me siga pra ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 7.5,
+      "text": "Se as torres de purga estão caindo no meio da impressão, agora eu vou te dar duas dicas para deixar elas mais estáveis."
+    },
+    {
+      "start": 7.6,
+      "end": 11.4,
+      "text": "E a última delas é se você mistura PLA com PETG."
+    },
+    {
+      "start": 11.4,
+      "end": 18.8,
+      "text": "Bem-vindo ao dia 283. Em peças mais altas, com mais trocas de couro, uma torre fina pode ser bastante instável."
+    },
+    {
+      "start": 18.8,
+      "end": 23.6,
+      "text": "E ela pode cair durante a impressão, principalmente nas impressoras multi-ferramentas."
+    },
+    {
+      "start": 23.6,
+      "end": 30.7,
+      "text": "Então, para deixar a torre mais estável, a gente aumenta o volume de preparação, a largura de borda e também o chanfro que ela faz na borda."
+    },
+    {
+      "start": 30.8,
+      "end": 36.5,
+      "text": "É claro que isso aumenta o consumo de filamento da torre, mas deixa ela mais estável para impressões longas e altas."
+    },
+    {
+      "start": 36.6,
+      "end": 46.1,
+      "text": "E se você estiver utilizando PETG na interface, a torre pode misturar camadas de PLA e PETG e isso torna ela mais frágil ainda, já que ambos não se aderem."
+    },
+    {
+      "start": 46.2,
+      "end": 50.9,
+      "text": "Nesses casos, na aba multimaterial, em torre de limpeza, escolha o filamento PLA."
+    },
+    {
+      "start": 50.9,
+      "end": 54.4,
+      "text": "Dessa forma a parede da toy só vai ter um tipo de filamento"
+    },
+    {
+      "start": 54.4,
+      "end": 55.7,
+      "text": "E ela vai ficar mais estável"
+    },
+    {
+      "start": 55.7,
+      "end": 59.6,
+      "text": "E se vocês gostaram dessa dica me siga pra ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 59.9,
+  "model": "large-v3-turbo"
+}

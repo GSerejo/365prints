@@ -2358,5 +2358,37 @@
     "timestamp": 1790975896,
     "duration": null,
     "view_count": null
+  },
+  {
+    "shortcode": "DeNSzSzBAMf",
+    "webpage_url": "https://www.instagram.com/reel/DeNSzSzBAMf/",
+    "caption": "Quais as configurações que eu utilizo pra melhorar a qualidade dos meus personagens.\n\nDia 282 de 365 impressões 3D aqui em casa.\n\n#3dprinting #bambulab",
+    "timestamp": 1791407554,
+    "duration": null,
+    "view_count": null
+  },
+  {
+    "shortcode": "DeP5oLGtqF6",
+    "webpage_url": "https://www.instagram.com/reel/DeP5oLGtqF6/",
+    "caption": "Dia 283 de 365 impressões 3D aqui em casa.\n\nSua torre de purga cai no meio da impressão? Aqui vão 2 dicas pra deixar ela mais estável:\n\n1. Aumente o volume de preparação, a largura da borda e o chanfro da borda (no vídeo: 80 mm³, 15 mm e 10 mm). Gasta um pouco mais de filamento, mas a torre aguenta impressões longas e altas.\n\n2. Se você usa PETG na interface do suporte, vá em Multimaterial > Torre de limpeza e escolha PLA. Assim a parede da torre fica com um filamento só (PLA e PETG não grudam entre si).\n\nAjustes feitos no Snapmaker Orca, com a Snapmaker U1.\n\nSe gostou da dica, me siga para ter conteúdo 3D todos os dias!\n\n#impressao3d #impressora3d",
+    "timestamp": 1791494963,
+    "duration": null,
+    "view_count": null
+  },
+  {
+    "shortcode": "DeSlOfqRV22",
+    "webpage_url": "https://www.instagram.com/reel/DeSlOfqRV22/",
+    "caption": "Dia 284 de 365 de impressões 3D aqui em casa\n\nNunca deixe suportes na franja! Nessa posição, o fatiador coloca os suportes bem na frente do modelo. Se a franja for fina, ela sai junto com o suporte e ainda fica marcada.\n\nA solução é girar a peça: o suporte fica só atrás da cabeça, onde ninguém vê, e a franja imprime livre. As marquinhas ficam atrás e, de frente, franja perfeita.\n\nEsse foi meu primeiro personagem na Flashforge Creator 5.\n\nSe gostou da dica, me siga para ter conteúdo 3D todos os dias!\n\n#impressao3d #impressora3d #actionfigure",
+    "timestamp": 1791584928,
+    "duration": null,
+    "view_count": null
+  },
+  {
+    "shortcode": "DecsY5HB2fC",
+    "webpage_url": "https://www.instagram.com/reel/DecsY5HB2fC/",
+    "caption": "Dia 285 de 365 de impressões 3D aqui em casa.\n\nImprimiu algo fino e a ponta saiu derretida? É um problema de resfriamento:\n\n1. Mesmo com o ventilador em 100%, a pontinha tinha um tempo de camada muito curto (0,2 s). É pouco tempo para o filamento esfriar.\n\n2. A solução é aumentar o tempo de camada adicionando outro objeto na mesa. Coloquei um cilindro como torre de sacrifício e a pontinha passou para 8,6 s por camada. Problema resolvido!\n\n3. Outra opção é duplicar os objetos na mesa, para manter o mínimo de 8 s por camada.\n\nFatiado no Bambu Studio e impresso na Bambu Lab.\n\nSe gostou da dica, me siga para ter conteúdo 3D todos os dias!\n\n#impressao3d #3dprinting",
+    "timestamp": 1791924248,
+    "duration": null,
+    "view_count": null
   }
 ]

@@ -38,7 +38,7 @@ O painel fica em `/admin` (senha em `ADMIN_PASSWORD`). O site é indexado pelo G
 ```bash
 cd pipeline
 uv run collect_tiktok.py
-uv run collect_instagram.py CONTA_SECUNDARIA
+uv run collect_instagram.py   # sem login: lê a página pública do perfil
 uv run transcribe.py
 uv run enrich_queue.py   # mostra o que falta descrever (o Claude escreve os lotes)
 uv run build.py

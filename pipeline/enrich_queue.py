@@ -32,7 +32,7 @@ def main() -> None:
     for entry, transcript in pending[: args.limit]:
         date = datetime.fromtimestamp(entry["timestamp"], timezone.utc).date()
         day = series_day(entry["caption"]) or series_day(transcript["text"][:200])
-        print(f"## {entry['key']} | dia {day} | {date} | {entry['duration']}s")
+        print(f"## {entry['key']} | dia {day} | {date} | {entry['duration'] or '?'}s")
         print(f"LEGENDA: {clean_caption(entry['caption'])}")
         print(f"FALA: {transcript['text'] or '(sem transcrição)'}\n")
 

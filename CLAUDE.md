@@ -10,7 +10,7 @@
 ```
 cd pipeline
 uv run collect_tiktok.py                  # lista + baixa vídeos novos do TikTok
-uv run collect_instagram.py CONTA         # lista o Instagram; baixa só os reels que ainda não estão no TikTok
+uv run collect_instagram.py               # Instagram sem login (12 posts mais recentes); baixa só os reels que ainda não estão no TikTok
 uv run transcribe.py                      # Whisper local + quadros em .cache/frames
 uv run enrich_queue.py                    # mostra o que falta descrever
 # Claude escreve data/enriched/lote-NN.json
@@ -18,6 +18,7 @@ uv run build.py                           # gera web/src/data/videos.json e web/
 ```
 
 - O Instagram recebe os vídeos antes; o TikTok chega dias depois, às vezes com o número do dia **errado na legenda**. O `build.py` compara o dia falado no vídeo ("Bem-vindo ao dia N") com a legenda do par e imprime `ATENÇÃO, possível par errado`. Confira e corrija com `instagram` + `day` na descrição.
+- `collect_instagram.py` sem conta lê só os 12 posts mais recentes (página pública). Se passar mais de 12 posts sem atualizar, ele avisa: aí use `uv run collect_instagram.py CONTA` (sessão do instaloader, pagina o perfil), que o Instagram às vezes bloqueia (`feedback_required`).
 - O Whisper às vezes ouve o número errado ("254" em vez de 274): na dúvida, a ordem das datas de publicação decide.
 - Para publicar: commit + push na `main` (a Vercel faz o deploy sozinha).
 

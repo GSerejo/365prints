@@ -1,0 +1,132 @@
+{
+  "text": "Quais as configurações que eu utilizo para melhorar a qualidade dos meus personagens? Bem-vindo ao dia 282. A primeira coisa é utilizar o perfil 016 High Quality. Na aba Qualidade eu altero a ordem de paredes para interno, externo e interno. E coloco não aplicado apenas uma parede nas superfícies superiores. Na aba Força eu coloco 3 loops de parede. E o padrão da superfície superior é o concentro. A densidade de preenchimento podemos utilizar de 5 a 8 Esse é um objeto decorativo O padrão de preenchimento nesse perfil já é o Geroide As velocidades e acelerações nesse perfil High Quality já são mais conservadoras E você pode deixar como está Na aba suportes vamos habilitar os suportes Alteramos a distância Z superior para 0,04 a mais que a altura de camada Que nesse caso é 0,16 4 camadas na interface e o espaçamento dela em 0,1 Podemos desativar a altura independente dos suportes Na aba Outros, desativamos o reduzir a retração do preenchimento. Em peças pequenas, como o rosto, a gente pode diminuir a altura de camada. E quando fizemos isso, não esqueça de mudar a distância Z superior para 0,04 a mais que a altura. E o mais importante, sempre analise o seu modelo. Uma reorientação simples pode evitar os degraus. Veja como exemplo os braços. Este objeto reorientado está sem os degraus. Olha a diferença da posição inicial. Eu acabei de postar um vídeo completo no meu canal do YouTube mostrando o passo a passo de como fazer e o porquê dessas configurações. E pra ter conteúdo 3D todos os dias, não esquece de me seguir.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.7,
+      "text": "Quais as configurações que eu utilizo para melhorar a qualidade dos meus personagens?"
+    },
+    {
+      "start": 6.4,
+      "end": 12.7,
+      "text": "Bem-vindo ao dia 282. A primeira coisa é utilizar o perfil 016 High Quality."
+    },
+    {
+      "start": 12.8,
+      "end": 17.9,
+      "text": "Na aba Qualidade eu altero a ordem de paredes para interno, externo e interno."
+    },
+    {
+      "start": 17.9,
+      "end": 21.7,
+      "text": "E coloco não aplicado apenas uma parede nas superfícies superiores."
+    },
+    {
+      "start": 21.9,
+      "end": 27.0,
+      "text": "Na aba Força eu coloco 3 loops de parede. E o padrão da superfície superior é o concentro."
+    },
+    {
+      "start": 27.0,
+      "end": 30.2,
+      "text": "A densidade de preenchimento podemos utilizar de 5 a 8"
+    },
+    {
+      "start": 30.2,
+      "end": 31.9,
+      "text": "Esse é um objeto decorativo"
+    },
+    {
+      "start": 31.9,
+      "end": 34.9,
+      "text": "O padrão de preenchimento nesse perfil já é o Geroide"
+    },
+    {
+      "start": 34.9,
+      "end": 39.3,
+      "text": "As velocidades e acelerações nesse perfil High Quality já são mais conservadoras"
+    },
+    {
+      "start": 39.3,
+      "end": 40.6,
+      "text": "E você pode deixar como está"
+    },
+    {
+      "start": 40.6,
+      "end": 43.1,
+      "text": "Na aba suportes vamos habilitar os suportes"
+    },
+    {
+      "start": 43.1,
+      "end": 48.0,
+      "text": "Alteramos a distância Z superior para 0,04 a mais que a altura de camada"
+    },
+    {
+      "start": 48.0,
+      "end": 49.5,
+      "text": "Que nesse caso é 0,16"
+    },
+    {
+      "start": 49.5,
+      "end": 53.1,
+      "text": "4 camadas na interface e o espaçamento dela em 0,1"
+    },
+    {
+      "start": 53.1,
+      "end": 55.9,
+      "text": "Podemos desativar a altura independente dos suportes"
+    },
+    {
+      "start": 55.9,
+      "end": 59.9,
+      "text": "Na aba Outros, desativamos o reduzir a retração do preenchimento."
+    },
+    {
+      "start": 59.9,
+      "end": 63.7,
+      "text": "Em peças pequenas, como o rosto, a gente pode diminuir a altura de camada."
+    },
+    {
+      "start": 63.8,
+      "end": 70.1,
+      "text": "E quando fizemos isso, não esqueça de mudar a distância Z superior para 0,04 a mais que a altura."
+    },
+    {
+      "start": 70.3,
+      "end": 72.9,
+      "text": "E o mais importante, sempre analise o seu modelo."
+    },
+    {
+      "start": 73.0,
+      "end": 76.4,
+      "text": "Uma reorientação simples pode evitar os degraus."
+    },
+    {
+      "start": 76.7,
+      "end": 78.1,
+      "text": "Veja como exemplo os braços."
+    },
+    {
+      "start": 78.2,
+      "end": 80.9,
+      "text": "Este objeto reorientado está sem os degraus."
+    },
+    {
+      "start": 81.2,
+      "end": 83.3,
+      "text": "Olha a diferença da posição inicial."
+    },
+    {
+      "start": 83.3,
+      "end": 91.7,
+      "text": "Eu acabei de postar um vídeo completo no meu canal do YouTube mostrando o passo a passo de como fazer e o porquê dessas configurações."
+    },
+    {
+      "start": 91.9,
+      "end": 95.2,
+      "text": "E pra ter conteúdo 3D todos os dias, não esquece de me seguir."
+    }
+  ],
+  "duration": 95.7,
+  "model": "large-v3-turbo"
+}

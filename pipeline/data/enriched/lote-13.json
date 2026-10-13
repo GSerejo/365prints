@@ -1,0 +1,30 @@
+{
+  "instagram_DeNSzSzBAMf": {
+    "title": "Configurações para personagens com mais qualidade",
+    "summary": "O passo a passo dele no perfil 0,16 High Quality: paredes interna/externa/interna, 3 voltas de parede, topo concêntrico e 5 a 8% de giroide. Nos suportes, distância Z superior 0,04 acima da altura de camada e 4 camadas de interface; e reorientar a peça para tirar os degraus.",
+    "category": "Acabamento e qualidade",
+    "tags": ["action figure", "Bambu Studio", "suportes", "ordem das paredes", "orientação da peça"],
+    "keywords": ["boneco", "personagem", "miniatura", "high quality", "0.16", "inner outer inner", "concentrico", "gyroid", "giroide", "distancia z", "interface de suporte", "degraus", "reorientar", "youtube"]
+  },
+  "instagram_DeP5oLGtqF6": {
+    "title": "Torre de purga caindo: 2 ajustes para deixar firme",
+    "summary": "Em peças altas com muitas trocas, a torre fina tomba. Ele aumenta o volume de preparação, a largura e o chanfro da borda da torre (80 mm³, 15 mm e 10 mm) e, se usa PETG na interface do suporte, escolhe PLA para a torre de limpeza, porque PLA e PETG não grudam.",
+    "category": "Multicor e purga",
+    "tags": ["torre de purga", "PETG", "Snapmaker U1", "Orca Slicer"],
+    "keywords": ["prime tower", "wipe tower", "torre de limpeza", "torre caindo", "torre tombando", "borda da torre", "chanfro", "volume de preparacao", "interface de suporte", "pla e petg", "snapmaker orca", "multiferramenta", "toolchanger"]
+  },
+  "instagram_DeSlOfqRV22": {
+    "title": "Suporte na franja do personagem: gire a peça",
+    "summary": "Na posição original, o fatiador põe suporte bem na frente da franja, que é fina e pode sair junto ou ficar marcada. Girando a peça, o suporte vai para trás da cabeça e a franja imprime livre. Foi o primeiro personagem dele na Flashforge Creator 5.",
+    "category": "Suportes",
+    "tags": ["suportes", "orientação da peça", "action figure", "Flashforge Creator 5"],
+    "keywords": ["franja", "cabelo", "marca de suporte", "girar a peca", "rotacionar", "orientacao", "support marks", "personagem", "boneco", "flashforge"]
+  },
+  "instagram_DecsY5HB2fC": {
+    "title": "Ponta fina derretida: ganhe tempo de camada",
+    "summary": "Mesmo com o ventilador em 100%, a ponta tinha só 0,2 s por camada, pouco para esfriar. Com um cilindro na mesa como torre de sacrifício, a ponta passou a 8,6 s por camada e o problema sumiu; outra saída é duplicar os objetos para manter uns 8 s.",
+    "category": "Problemas e soluções",
+    "tags": ["resfriamento", "tempo mínimo de camada", "Bambu Studio"],
+    "keywords": ["ponta derretida", "ponta derretendo", "pontas finas", "minimum layer time", "cooling", "ventilador", "torre de sacrificio", "objeto extra", "duplicar objetos", "antes e depois"]
+  }
+}

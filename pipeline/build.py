@@ -174,7 +174,8 @@ def build_video(entry: dict, enriched: dict, used_slugs: set[str]) -> dict:
         "transcript": transcript["text"],
         "segments": [{"start": s["start"], "text": s["text"]} for s in transcript["segments"]],
         "publishedAt": datetime.fromtimestamp(entry.get("published", entry["timestamp"]), timezone.utc).isoformat(),
-        "durationSec": round(float(entry["duration"] or 0)),
+        # A página pública do Instagram não informa a duração: vale a do áudio transcrito.
+        "durationSec": round(float(entry["duration"] or transcript.get("duration") or 0)),
         "views": entry["views"],
         "thumbnail": build_thumbnail(key),
         "links": entry["links"],

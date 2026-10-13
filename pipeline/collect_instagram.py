@@ -3,16 +3,19 @@
 Os vídeos costumam ser os mesmos do TikTok, mas o Instagram recebe antes. Dos reels
 que ainda não estão no TikTok, baixa a miniatura e o vídeo (só para transcrever).
 
-Usa a sessão salva pelo instaloader (instaloader --login=CONTA ou import_session.py)
-e a mesma consulta GraphQL do Profile.get_posts() do instaloader, mas sem passar
-pelo endpoint de "informações do perfil" (web_profile_info), que é o que o
-Instagram bloqueia primeiro. Se receber 429 ou "feedback_required" (bloqueio por
-atividade automatizada), para na hora: insistir só prolonga o bloqueio.
+Sem conta (o normal): lê as páginas públicas, como um visitante sem login. A página
+do perfil traz os 12 posts mais recentes e a de cada reel traz legenda, data, vídeo e
+miniatura: 1 acesso ao perfil + 1 por reel novo, sem usar conta nenhuma. Se ficar
+mais de 12 posts sem rodar, os mais antigos não aparecem: aí use o modo com conta.
 
-Por padrão só lê o começo do perfil, até reencontrar reels já salvos (1 ou 2
-páginas). Com --completo, relê o perfil inteiro (umas 25 páginas: use raramente).
+Com CONTA_SECUNDARIA: usa a sessão salva pelo instaloader (instaloader --login=CONTA ou
+import_session.py) e a consulta GraphQL do Profile.get_posts(), paginando até
+reencontrar reels já salvos; com --completo, relê o perfil inteiro (umas 25 páginas).
+Se receber 429 ou "feedback_required" (bloqueio por atividade automatizada), para na
+hora: insistir só prolonga o bloqueio.
 
 Uso:
+    uv run collect_instagram.py
     uv run collect_instagram.py CONTA_SECUNDARIA [--completo]
 
 Código de saída 2 = bloqueado temporariamente pelo Instagram (tente horas depois).
@@ -21,8 +24,11 @@ Código de saída 2 = bloqueado temporariamente pelo Instagram (tente horas depo
 import argparse
 import json
 import random
+import re
 import sys
 import time
+import urllib.request
+from collections.abc import Callable
 from pathlib import Path
 
 import instaloader
@@ -83,7 +89,7 @@ def video_url(media: dict) -> str | None:
     return min(versions, key=lambda v: v.get("width") or 0)["url"] if versions else None
 
 
-def download_instagram_only(context: instaloader.InstaloaderContext, thumbs: dict[str, str], videos: dict[str, str]) -> None:
+def download_instagram_only(save: Callable[[str, Path], None], thumbs: dict[str, str], videos: dict[str, str]) -> None:
     """Baixa miniatura e vídeo só dos reels que ainda não estão no TikTok (os outros já têm).
 
     O vídeo serve só para a transcrição (como no TikTok): nunca é republicado.
@@ -103,21 +109,117 @@ def download_instagram_only(context: instaloader.InstaloaderContext, thumbs: dic
             ("vídeos", videos, VIDEO_DIR / f"{code}.mp4"),
         ):
             if code in urls and not any(target.parent.glob(f"{code}.*")):
-                context.get_and_write_raw(urls[code], str(target))
+                save(urls[code], target)
                 counts[kind] += 1
                 time.sleep(random.uniform(1, 3))
     print(f"{counts['miniaturas']} miniaturas e {counts['vídeos']} vídeos baixados (reels só do Instagram)")
 
 
+def save_from_cdn(url: str, target: Path) -> None:
+    """Baixa do CDN do Instagram sem usar a conta (os links já vêm assinados)."""
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(request, timeout=60) as response:
+        target.write_bytes(response.read())
+
+
+def save_reels(known: dict[str, dict], reels: list[dict]) -> None:
+    new = [reel for reel in reels if reel["shortcode"] not in known]
+    merged = {**known, **{reel["shortcode"]: reel for reel in reels}}
+    RAW_FILE.parent.mkdir(parents=True, exist_ok=True)
+    RAW_FILE.write_text(json.dumps(sorted(merged.values(), key=lambda r: r["timestamp"]), ensure_ascii=False, indent=2))
+    print(f"{len(new)} reels novos, {len(merged)} no total -> {RAW_FILE.relative_to(ROOT)}")
+
+
+# Cabeçalhos de uma visita normal pelo Chrome: sem eles, o Instagram devolve a página sem os dados.
+PUBLIC_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9",
+    "Sec-Ch-Ua": '"Chromium";v="141", "Google Chrome";v="141", "Not?A_Brand";v="8"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "none",
+    "Sec-Fetch-User": "?1",
+    "Upgrade-Insecure-Requests": "1",
+}
+CODE_RE = re.compile(r'"code":"([A-Za-z0-9_-]{11})"')
+JSON_SCRIPT_RE = re.compile(r'<script type="application/json"[^>]*>(.*?)</script>', re.S)
+
+
+def public_page(path: str) -> str:
+    request = urllib.request.Request(f"https://www.instagram.com/{path}", headers=PUBLIC_HEADERS)
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return response.read().decode("utf-8")
+
+
+def find_media(page: str, code: str) -> dict | None:
+    """Procura, nos JSONs embutidos na página do post, o objeto do próprio post."""
+    def walk(value):
+        if isinstance(value, dict):
+            if value.get("code") == code and "taken_at" in value and "media_type" in value:
+                return value
+            values = value.values()
+        elif isinstance(value, list):
+            values = value
+        else:
+            return None
+        return next((found for item in values if (found := walk(item))), None)
+
+    for match in JSON_SCRIPT_RE.finditer(page):
+        try:
+            data = json.loads(match.group(1))
+        except json.JSONDecodeError:
+            continue
+        if media := walk(data):
+            return media
+    return None
+
+
+def collect_public(known: dict[str, dict]) -> None:
+    codes = list(dict.fromkeys(CODE_RE.findall(public_page(f"{PROFILE}/"))))
+    if not codes:
+        sys.exit("A página pública do perfil veio sem posts. Tente: uv run collect_instagram.py CONTA_SECUNDARIA")
+    fresh = [code for code in codes if code not in known]
+    if known and len(fresh) == len(codes):
+        print(f"Atenção: os {len(codes)} posts mais recentes são todos novos; pode haver reels mais antigos faltando "
+              "(rode com a CONTA_SECUNDARIA para paginar).")
+
+    reels: list[dict] = []
+    thumbnails: dict[str, str] = {}
+    video_urls: dict[str, str] = {}
+    for code in fresh:
+        time.sleep(random.uniform(3, 7))
+        media = find_media(public_page(f"p/{code}/"), code)
+        if media is None:
+            print(f"  {code}: a página veio sem os dados do post; pulando")
+            continue
+        if reel := to_reel(media):
+            reels.append(reel)
+            if url := thumbnail_url(media):
+                thumbnails[code] = url
+            if url := video_url(media):
+                video_urls[code] = url
+            print(f"  {code}: {reel['caption'][:60]!r}")
+    save_reels(known, reels)
+    download_instagram_only(save_from_cdn, thumbnails, video_urls)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("login", help="conta secundária com sessão salva pelo instaloader")
-    parser.add_argument("--completo", action="store_true", help="relê o perfil inteiro, não só os reels novos")
+    parser.add_argument("login", nargs="?", help="conta secundária com sessão do instaloader (opcional)")
+    parser.add_argument("--completo", action="store_true", help="relê o perfil inteiro (precisa da conta)")
     args = parser.parse_args()
+    if args.completo and not args.login:
+        parser.error("--completo precisa da CONTA_SECUNDARIA")
 
     known = {} if args.completo or not RAW_FILE.exists() else {
         reel["shortcode"]: reel for reel in json.loads(RAW_FILE.read_text())
     }
+    if not args.login:
+        collect_public(known)
+        return
 
     loader = instaloader.Instaloader(quiet=True, max_connection_attempts=1)
     loader.load_session_from_file(args.login)
@@ -151,13 +253,10 @@ def main() -> None:
             sys.exit(2)
         raise
 
-    new = [reel for reel in reels if reel["shortcode"] not in known]
-    merged = {**known, **{reel["shortcode"]: reel for reel in reels}}
-    reels = sorted(merged.values(), key=lambda r: r["timestamp"])
-    RAW_FILE.parent.mkdir(parents=True, exist_ok=True)
-    RAW_FILE.write_text(json.dumps(reels, ensure_ascii=False, indent=2))
-    print(f"{len(new)} reels novos, {len(reels)} no total -> {RAW_FILE.relative_to(ROOT)}")
-    download_instagram_only(loader.context, thumbnails, video_urls)
+    save_reels(known, reels)
+    download_instagram_only(
+        lambda url, target: loader.context.get_and_write_raw(url, str(target)), thumbnails, video_urls
+    )
 
 
 if __name__ == "__main__":

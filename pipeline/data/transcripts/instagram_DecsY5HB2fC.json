@@ -1,0 +1,57 @@
+{
+  "text": "Quando você imprime algo fino, a sua ponta fica derretida. Bem-vindo ao dia 285, e esse é um problema de resfriamento. No entanto, se a gente olhar o fatiamento, o ventilador já está em 100%, mas o tempo de camada daquela pontinha é aproximadamente 0,2 segundos, o que é muito pouco para o filamento resfriar. Precisamos aumentar o tempo de camada nessa ponta, e isso nós fazemos adicionando outros objetos. Nesse caso eu adicionei um cilindro como torre de sacrifício Assim eu aumentei o tempo de camada da pontinha para 8,6 segundos E isso foi suficiente para resolver o problema Outra opção é duplicar os objetos na mesa para tentar manter o tempo mínimo de 8 segundos Esse é o antes e o depois Se você gostar desse vídeo me siga para ter conteúdo 3D todos os dias",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "Quando você imprime algo fino, a sua ponta fica derretida."
+    },
+    {
+      "start": 4.6,
+      "end": 8.8,
+      "text": "Bem-vindo ao dia 285, e esse é um problema de resfriamento."
+    },
+    {
+      "start": 9.0,
+      "end": 21.1,
+      "text": "No entanto, se a gente olhar o fatiamento, o ventilador já está em 100%, mas o tempo de camada daquela pontinha é aproximadamente 0,2 segundos, o que é muito pouco para o filamento resfriar."
+    },
+    {
+      "start": 21.1,
+      "end": 26.3,
+      "text": "Precisamos aumentar o tempo de camada nessa ponta, e isso nós fazemos adicionando outros objetos."
+    },
+    {
+      "start": 26.3,
+      "end": 30.0,
+      "text": "Nesse caso eu adicionei um cilindro como torre de sacrifício"
+    },
+    {
+      "start": 30.0,
+      "end": 33.9,
+      "text": "Assim eu aumentei o tempo de camada da pontinha para 8,6 segundos"
+    },
+    {
+      "start": 33.9,
+      "end": 37.0,
+      "text": "E isso foi suficiente para resolver o problema"
+    },
+    {
+      "start": 37.0,
+      "end": 41.8,
+      "text": "Outra opção é duplicar os objetos na mesa para tentar manter o tempo mínimo de 8 segundos"
+    },
+    {
+      "start": 41.8,
+      "end": 43.1,
+      "text": "Esse é o antes e o depois"
+    },
+    {
+      "start": 43.1,
+      "end": 47.5,
+      "text": "Se você gostar desse vídeo me siga para ter conteúdo 3D todos os dias"
+    }
+  ],
+  "duration": 48.1,
+  "model": "large-v3-turbo"
+}
